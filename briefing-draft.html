@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Entwurf: Tagesbriefing & Nischenwissen">
+  <title>Tagesbriefing – Entwurf</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/briefing.css">
+</head>
+<body>
+  <div class="page">
+
+    <div class="draft-banner">
+      ENTWURF — Platzhalterdaten, keine echten Nachrichten. Layout &amp; Interaktion zur Abstimmung.
+    </div>
+
+    <header class="term-header">
+      <div class="term-header-left">
+        <span class="live-dot"></span>
+        <span class="term-brand">TAGES<span class="term-brand-accent">BRIEFING</span></span>
+        <span class="term-sep">/</span>
+        <span class="term-sub">FINANZEN · WIRTSCHAFT · POLITIK</span>
+      </div>
+      <div class="term-header-right">
+        <div class="term-meta">
+          <span class="term-meta-label">Berichtszeitraum</span>
+          <span class="term-meta-value">03.07.2026 <span class="weekend-flag">Letzter Handelstag</span></span>
+        </div>
+        <div class="term-meta-divider"></div>
+        <div class="term-meta">
+          <span class="term-meta-label">Stand</span>
+          <span class="term-meta-value">05.07 · 06:00</span>
+        </div>
+      </div>
+    </header>
+
+    <div class="weekend-note">
+      <span class="weekend-note-dot"></span>
+      <span class="weekend-note-tag">Wochenendmodus</span>
+      <span class="weekend-note-text">Märkte seit Freitag geschlossen — Datenstand bleibt Freitag, 03.07.2026 · Sonntags: <b>+ Wochenrückblick</b> · <b>+ mehr Nischenwissen</b></span>
+    </div>
+
+    <!-- Ticker-Leiste -->
+    <div class="ticker-bar">
+      <div class="ticker-fade ticker-fade--left"></div>
+      <div class="ticker-fade ticker-fade--right"></div>
+      <div class="ticker-track">
+        <span class="ticker-item">DAX <b>25.612,97</b> <span class="up">▲ 2,29%</span></span>
+        <span class="ticker-item">S&amp;P 500 <b>7.522,55</b> <span class="up">▲ 0,53%</span></span>
+        <span class="ticker-item">EUR/USD <b>1,1450</b> <span class="up">▲ 0,32%</span></span>
+        <span class="ticker-item">NASDAQ <b>26.125,16</b> <span class="up">▲ 0,33%</span></span>
+        <span class="ticker-item">10Y UST <b>4,481%</b> <span class="up">▲ 2,49%</span></span>
+        <span class="ticker-item">NIKKEI <b>68.733,15</b> <span class="down">▼ 2,47%</span></span>
+        <span class="ticker-item">BTC <b>61.647</b> <span class="up">▲ 2,67%</span></span>
+        <span class="ticker-item" aria-hidden="true">DAX <b>25.612,97</b> <span class="up">▲ 2,29%</span></span>
+        <span class="ticker-item" aria-hidden="true">S&amp;P 500 <b>7.522,55</b> <span class="up">▲ 0,53%</span></span>
+        <span class="ticker-item" aria-hidden="true">EUR/USD <b>1,1450</b> <span class="up">▲ 0,32%</span></span>
+        <span class="ticker-item" aria-hidden="true">NASDAQ <b>26.125,16</b> <span class="up">▲ 0,33%</span></span>
+        <span class="ticker-item" aria-hidden="true">10Y UST <b>4,481%</b> <span class="up">▲ 2,49%</span></span>
+        <span class="ticker-item" aria-hidden="true">NIKKEI <b>68.733,15</b> <span class="down">▼ 2,47%</span></span>
+        <span class="ticker-item" aria-hidden="true">BTC <b>61.647</b> <span class="up">▲ 2,67%</span></span>
+      </div>
+    </div>
+
+    <main>
+
+      <!-- ================= SEKTION 1: TAGESBRIEFING ================= -->
+      <section class="section" aria-labelledby="briefing-heading">
+        <div class="section-head">
+          <h2 id="briefing-heading"><span class="idx">01</span> Was gestern wichtig war</h2>
+          <span class="section-flag">Tier-1 verifiziert</span>
+        </div>
+
+        <!-- Top Story: übergreifende Verbindung -->
+        <article class="top-story">
+          <div class="top-story-head">
+            <span class="top-story-tag">TOP-ZUSAMMENHANG</span>
+            <span class="badge badge--verified">✓ VERIFIZIERT · 3 QUELLEN</span>
+          </div>
+          <h3>Fed-Zinssignal löst Kettenreaktion an Anleihe- und Devisenmärkten aus</h3>
+          <p>
+            Die überraschend restriktive Wortwahl der US-Notenbank am Vortag drückte den DAX zum Handelsende
+            und trieb den Dollar gegenüber dem Euro nach oben. Gleichzeitig verschärfte sich die politische
+            Debatte in Berlin über die Zinsabhängigkeit deutscher Exportfirmen.
+          </p>
+          <div class="chain">
+            <a href="#" class="chain-node">US · Fed-Statement</a>
+            <span class="chain-arrow">→</span>
+            <a href="#" class="chain-node">EU · EZB-Reaktion</a>
+            <span class="chain-arrow">→</span>
+            <a href="#" class="chain-node">DE · Politische Debatte</a>
+          </div>
+        </article>
+
+        <!-- Regionen-Akkordeon -->
+        <div class="region-accordion">
+
+          <!-- DEUTSCHLAND — offen als Beispiel -->
+          <div class="region-block is-open" data-region="de">
+            <button class="region-toggle" aria-expanded="true">
+              <span class="region-toggle-left">
+                <span class="region-code">DE</span>
+                <span class="region-name">Deutschland</span>
+              </span>
+              <span class="region-toggle-right">
+                <span class="region-count">3 Events</span>
+                <span class="chevron">▾</span>
+              </span>
+            </button>
+            <div class="region-panel">
+              <ol class="event-list">
+
+                <li class="event-row">
+                  <a class="event-row-link" href="#" target="_blank" rel="noopener">
+                    <span class="event-rank">01</span>
+                    <span class="event-main">
+                      <span class="event-meta-row">
+                        <span class="chip chip--politik">POLITIK</span>
+                        <span class="badge badge--verified">✓ VERIFIZIERT</span>
+                        <span class="importance">RELEVANZ <b>9</b>/10</span>
+                      </span>
+                      <span class="event-title">Koalitionsausschuss einigt sich auf Reform der Unternehmenssteuer</span>
+                      <span class="event-summary">Reform soll ab 2027 greifen, betrifft v. a. mittelständische Exportunternehmen. Wirtschaftsverbände reagieren verhalten positiv.</span>
+                      <span class="event-footer">
+                        <span class="source-tag">TAGESSCHAU</span>
+                        <span class="dot">·</span>
+                        <span class="source-tag">BESTÄTIGT: HANDELSBLATT</span>
+                        <span class="dot">·</span>
+                        <span class="related-link">↳ Fed-Zinssignal</span>
+                      </span>
+                    </span>
+                    <span class="event-arrow">↗</span>
+                  </a>
+                </li>
+
+                <li class="event-row">
+                  <a class="event-row-link" href="#" target="_blank" rel="noopener">
+                    <span class="event-rank">02</span>
+                    <span class="event-main">
+                      <span class="event-meta-row">
+                        <span class="chip chip--wirtschaft">WIRTSCHAFT</span>
+                        <span class="badge badge--verified">✓ VERIFIZIERT</span>
+                        <span class="importance">RELEVANZ <b>7</b>/10</span>
+                      </span>
+                      <span class="event-title">Ifo-Geschäftsklimaindex steigt stärker als erwartet</span>
+                      <span class="event-summary">Erholung vor allem im verarbeitenden Gewerbe; Dienstleistungssektor bleibt verhalten.</span>
+                      <span class="event-footer">
+                        <span class="source-tag">HANDELSBLATT</span>
+                      </span>
+                    </span>
+                    <span class="event-arrow">↗</span>
+                  </a>
+                </li>
+
+                <li class="event-row">
+                  <a class="event-row-link" href="#" target="_blank" rel="noopener">
+                    <span class="event-rank">03</span>
+                    <span class="event-main">
+                      <span class="event-meta-row">
+                        <span class="chip chip--finanzen">FINANZEN</span>
+                        <span class="badge badge--disputed">⚠ WIDERSPRÜCHLICH</span>
+                        <span class="importance">RELEVANZ <b>5</b>/10</span>
+                      </span>
+                      <span class="event-title">Gerücht über Übernahmegespräche bei DAX-Konzern dementiert</span>
+                      <span class="event-summary">Handelsblatt berichtete zuerst, Unternehmen dementierte offiziell. Reuters stuft die Meldung als „unbestätigt“ ein.</span>
+                      <span class="event-footer">
+                        <span class="source-tag">HANDELSBLATT</span>
+                        <span class="dot">·</span>
+                        <span class="source-tag">DEMENTI: REUTERS</span>
+                      </span>
+                    </span>
+                    <span class="event-arrow">↗</span>
+                  </a>
+                </li>
+
+              </ol>
+            </div>
+          </div>
+
+          <!-- EUROPA — geschlossen -->
+          <div class="region-block" data-region="eu">
+            <button class="region-toggle" aria-expanded="false">
+              <span class="region-toggle-left">
+                <span class="region-code">EU</span>
+                <span class="region-name">Europa</span>
+              </span>
+              <span class="region-toggle-right">
+                <span class="region-count">4 Events</span>
+                <span class="chevron">▾</span>
+              </span>
+            </button>
+            <div class="region-panel" hidden></div>
+          </div>
+
+          <!-- USA — geschlossen -->
+          <div class="region-block" data-region="us">
+            <button class="region-toggle" aria-expanded="false">
+              <span class="region-toggle-left">
+                <span class="region-code">US</span>
+                <span class="region-name">USA</span>
+              </span>
+              <span class="region-toggle-right">
+                <span class="region-count">5 Events</span>
+                <span class="chevron">▾</span>
+              </span>
+            </button>
+            <div class="region-panel" hidden></div>
+          </div>
+
+          <!-- WELT — geschlossen -->
+          <div class="region-block" data-region="world">
+            <button class="region-toggle" aria-expanded="false">
+              <span class="region-toggle-left">
+                <span class="region-code">WW</span>
+                <span class="region-name">Welt</span>
+              </span>
+              <span class="region-toggle-right">
+                <span class="region-count">3 Events</span>
+                <span class="chevron">▾</span>
+              </span>
+            </button>
+            <div class="region-panel" hidden></div>
+          </div>
+
+        </div>
+        <p class="panel-note">(Nur „Deutschland“ ist im Entwurf befüllt — Europa/USA/Welt nutzen dieselbe Struktur, per Klick auf die Kachel geöffnet.)</p>
+      </section>
+
+      <!-- ================= SEKTION 1B: WOCHENRÜCKBLICK (nur sonntags) ================= -->
+      <section class="section" aria-labelledby="recap-heading">
+        <div class="section-head">
+          <h2 id="recap-heading"><span class="idx sun">SO</span> Wochenrückblick</h2>
+          <span class="section-flag">Nur sonntags · KW 27</span>
+        </div>
+
+        <div class="recap-grid">
+
+          <article class="recap-card">
+            <span class="recap-theme">Geldpolitik</span>
+            <h3>Fed schwenkt auf restriktiveren Kurs — EZB unter Zugzwang</h3>
+            <p>Die Woche stand im Zeichen der Fed-Kommunikation vom Donnerstag. DAX und Euro reagierten bis Freitag empfindlich; für kommende Woche stehen EZB-Wortmeldungen und die US-Inflationsdaten (Mi.) im Fokus.</p>
+            <span class="recap-footer">3 Ereignisse diese Woche verknüpft</span>
+          </article>
+
+          <article class="recap-card">
+            <span class="recap-theme">Fiskalpolitik DE</span>
+            <h3>Koalition einigt sich auf Unternehmenssteuer-Reform</h3>
+            <p>Nach wochenlangen Verhandlungen kam am Freitag der Durchbruch. Verbände reagieren verhalten positiv; Details zur Gegenfinanzierung folgen laut Regierungssprecher "im Spätsommer".</p>
+            <span class="recap-footer">Ausblick: Kabinettsbeschluss erwartet KW 29</span>
+          </article>
+
+          <article class="recap-card">
+            <span class="recap-theme">Ausblick KW 28</span>
+            <h3>Was kommende Woche wichtig wird</h3>
+            <p>Mo: EU-Industrieproduktion · Mi: US-Verbraucherpreise · Do: EZB-Ratsmitglied Lagarde spricht in Sintra · Fr: Verfallstag an US-Terminbörsen (erhöhte Volatilität erwartet).</p>
+            <span class="recap-footer">Termine, keine Prognose</span>
+          </article>
+
+        </div>
+      </section>
+
+      <!-- ================= SEKTION 2: NISCHENWISSEN ================= -->
+      <section class="section" aria-labelledby="niche-heading">
+        <div class="section-head">
+          <h2 id="niche-heading"><span class="idx">03</span> Nischenwissen</h2>
+          <span class="section-flag">Schon bekannt? Weiterskippen · Direktlink zur Primärquelle</span>
+        </div>
+
+        <div class="niche-carousel" data-carousel>
+          <div class="niche-track" data-carousel-track>
+
+            <div class="niche-grid" data-carousel-page>
+
+              <a class="niche-card" href="#" target="_blank" rel="noopener">
+                <span class="niche-card-top">
+                  <span class="chip chip--niche">BIOLOGIE</span>
+                  <span class="niche-arrow">↗</span>
+                </span>
+                <h3>Der unsterbliche Tintenfisch</h3>
+                <p>Die Qualle <em>Turritopsis dohrnii</em> kann bei Verletzung oder Alterung ihren gesamten Körper in ein früheres Entwicklungsstadium zurückverwandeln.</p>
+                <span class="niche-source">PRIMÄRQUELLE · NATURE</span>
+              </a>
+
+              <a class="niche-card" href="#" target="_blank" rel="noopener">
+                <span class="niche-card-top">
+                  <span class="chip chip--niche">GESCHICHTE</span>
+                  <span class="niche-arrow">↗</span>
+                </span>
+                <h3>Der Krieg, der 38 Minuten dauerte</h3>
+                <p>Der Anglo-Sansibar-Krieg von 1896 gilt als kürzester Krieg der Geschichte — dokumentiert in britischen Admiralitätsakten.</p>
+                <span class="niche-source">PRIMÄRQUELLE · UK NATIONAL ARCHIVES</span>
+              </a>
+
+              <a class="niche-card" href="#" target="_blank" rel="noopener">
+                <span class="niche-card-top">
+                  <span class="chip chip--niche">MATHEMATIK</span>
+                  <span class="niche-arrow">↗</span>
+                </span>
+                <h3>Benfords Gesetz</h3>
+                <p>In vielen natürlich gewachsenen Datensätzen beginnt die Ziffer „1“ fast sechsmal häufiger als „9“ — genutzt in der Betrugserkennung bei Steuerprüfungen.</p>
+                <span class="niche-source">PRIMÄRQUELLE · JOURNAL OF ACCOUNTANCY</span>
+              </a>
+
+            </div>
+
+            <div class="niche-grid" data-carousel-page>
+
+              <a class="niche-card" href="#" target="_blank" rel="noopener">
+                <span class="niche-card-top">
+                  <span class="chip chip--niche">LINGUISTIK</span>
+                  <span class="niche-arrow">↗</span>
+                </span>
+                <h3>Die Sprache ohne Zahlwörter</h3>
+                <p>Die Pirahã im Amazonas besitzen keine Wörter für exakte Mengen — nur "wenig" und "viel". Das stellt Chomskys Universalgrammatik-These infrage.</p>
+                <span class="niche-source">PRIMÄRQUELLE · MIT LINGUISTICS</span>
+              </a>
+
+              <a class="niche-card" href="#" target="_blank" rel="noopener">
+                <span class="niche-card-top">
+                  <span class="chip chip--niche">ASTRONOMIE</span>
+                  <span class="niche-arrow">↗</span>
+                </span>
+                <h3>Ein Tag auf der Venus dauert länger als ihr Jahr</h3>
+                <p>Die Venus rotiert so langsam (243 Erdtage pro Umdrehung), dass ihre Umlaufzeit um die Sonne (225 Tage) kürzer ist als ein einzelner Venustag.</p>
+                <span class="niche-source">PRIMÄRQUELLE · NASA JPL</span>
+              </a>
+
+              <a class="niche-card" href="#" target="_blank" rel="noopener">
+                <span class="niche-card-top">
+                  <span class="chip chip--niche">PSYCHOLOGIE</span>
+                  <span class="niche-arrow">↗</span>
+                </span>
+                <h3>Der Baader-Meinhof-Effekt</h3>
+                <p>Sobald man einen neuen Begriff lernt, scheint er plötzlich überall aufzutauchen — ein Zusammenspiel aus selektiver Aufmerksamkeit und Bestätigungsfehler, kein Zufall.</p>
+                <span class="niche-source">PRIMÄRQUELLE · STANFORD NEWS</span>
+              </a>
+
+            </div>
+
+            <div class="niche-grid" data-carousel-page>
+
+              <a class="niche-card" href="#" target="_blank" rel="noopener">
+                <span class="niche-card-top">
+                  <span class="chip chip--niche">CHEMIE</span>
+                  <span class="niche-arrow">↗</span>
+                </span>
+                <h3>Glas ist keine gefrorene Flüssigkeit</h3>
+                <p>Ein Mythos hält sich hartnäckig: Fensterglas fließe über Jahrhunderte nach unten. Tatsächlich ist Glas ein amorpher Festkörper — mittelalterliche Fenster sind einfach ungleichmäßig gegossen.</p>
+                <span class="niche-source">PRIMÄRQUELLE · CORNING MUSEUM OF GLASS</span>
+              </a>
+
+              <a class="niche-card" href="#" target="_blank" rel="noopener">
+                <span class="niche-card-top">
+                  <span class="chip chip--niche">ÖKONOMIE</span>
+                  <span class="niche-arrow">↗</span>
+                </span>
+                <h3>Der Big-Mac-Index</h3>
+                <p>The Economist vergleicht seit 1986 Burgerpreise weltweit, um Kaufkraftparität greifbar zu machen — mittlerweile eine anerkannte informelle Kennzahl unter Ökonomen.</p>
+                <span class="niche-source">PRIMÄRQUELLE · THE ECONOMIST</span>
+              </a>
+
+              <a class="niche-card" href="#" target="_blank" rel="noopener">
+                <span class="niche-card-top">
+                  <span class="chip chip--niche">BIOLOGIE</span>
+                  <span class="niche-arrow">↗</span>
+                </span>
+                <h3>Oktopusse haben drei Herzen</h3>
+                <p>Zwei pumpen Blut durch die Kiemen, eines durch den Rest des Körpers — beim Schwimmen setzt das dritte Herz kurz aus, weshalb Oktopusse lieber krabbeln.</p>
+                <span class="niche-source">PRIMÄRQUELLE · SMITHSONIAN OCEAN</span>
+              </a>
+
+            </div>
+
+          </div>
+
+          <div class="niche-carousel-nav">
+            <button class="carousel-btn" type="button" data-carousel-prev aria-label="Vorherige Fakten">‹</button>
+            <div class="carousel-dots" data-carousel-dots></div>
+            <button class="carousel-btn" type="button" data-carousel-next aria-label="Weitere Fakten — schon bekannt? Skip">
+              Weiterskippen ›
+            </button>
+          </div>
+        </div>
+      </section>
+
+      <!-- ================= SEKTION 4: LUFTFAHRT (fix) ================= -->
+      <section class="section" aria-labelledby="aviation-heading">
+        <div class="section-head">
+          <h2 id="aviation-heading"><span class="idx aviation">✈</span> Luftfahrt</h2>
+          <span class="section-flag">Fixer Block · täglich</span>
+        </div>
+
+        <p class="subsection-label">News</p>
+        <div class="aviation-news-list">
+
+          <a class="aviation-news-row" href="#" target="_blank" rel="noopener">
+            <span class="chip chip--aviation">BRANCHE</span>
+            <span class="aviation-news-main">
+              <span class="aviation-news-title">IATA hebt Gewinnprognose für Luftfracht 2026 an</span>
+              <span class="aviation-news-summary">Weltweiter Frachtverband erwartet stärkste Nachfrage seit 2021, getrieben von E-Commerce aus Asien.</span>
+            </span>
+            <span class="event-footer">
+              <span class="source-tag">REUTERS</span>
+            </span>
+            <span class="event-arrow">↗</span>
+          </a>
+
+          <a class="aviation-news-row" href="#" target="_blank" rel="noopener">
+            <span class="chip chip--aviation">LUFTHANSA</span>
+            <span class="aviation-news-main">
+              <span class="aviation-news-title">Lufthansa Cargo baut Frachterflotte am Standort Frankfurt aus</span>
+              <span class="aviation-news-summary">Zwei zusätzliche 777F-Frachter sollen ab Q1 2027 primär Asien-Routen bedienen.</span>
+            </span>
+            <span class="event-footer">
+              <span class="source-tag">HANDELSBLATT</span>
+            </span>
+            <span class="event-arrow">↗</span>
+          </a>
+
+        </div>
+
+        <p class="subsection-label">Fakten</p>
+        <div class="niche-grid">
+
+          <a class="niche-card" href="#" target="_blank" rel="noopener">
+            <span class="niche-card-top">
+              <span class="chip chip--aviation">TECHNIK</span>
+              <span class="niche-arrow">↗</span>
+            </span>
+            <h3>Warum Flugzeugfenster abgerundet sind</h3>
+            <p>Nach zwei Comet-Abstürzen in den 1950ern wurde klar: Scharfe Fensterecken konzentrieren Materialspannung und begünstigen Ermüdungsrisse in der Druckkabine.</p>
+            <span class="niche-source">PRIMÄRQUELLE · UK AAIB REPORT</span>
+          </a>
+
+          <a class="niche-card" href="#" target="_blank" rel="noopener">
+            <span class="niche-card-top">
+              <span class="chip chip--aviation">FRACHT</span>
+              <span class="niche-arrow">↗</span>
+            </span>
+            <h3>Die Hälfte der Passagierflieger fliegt auch Fracht</h3>
+            <p>Rund 50% des weltweiten Luftfrachtvolumens reist im Bauchraum regulärer Passagiermaschinen mit — nicht in dedizierten Frachtern.</p>
+            <span class="niche-source">PRIMÄRQUELLE · IATA CARGO STRATEGY</span>
+          </a>
+
+        </div>
+      </section>
+
+    </main>
+
+    <footer class="site-footer">
+      <p>Entwurf · Tier-1-Quellen: Bloomberg, Reuters, Handelsblatt, Tagesschau, FAZ, FT (final abzustimmen)</p>
+    </footer>
+  </div>
+
+  <script>
+    document.querySelectorAll('.region-toggle').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const block = btn.closest('.region-block');
+        const panel = block.querySelector('.region-panel');
+        const isOpen = block.classList.contains('is-open');
+
+        document.querySelectorAll('.region-block').forEach(b => {
+          b.classList.remove('is-open');
+          b.querySelector('.region-toggle').setAttribute('aria-expanded', 'false');
+          b.querySelector('.region-panel').hidden = true;
+        });
+
+        if (!isOpen) {
+          block.classList.add('is-open');
+          btn.setAttribute('aria-expanded', 'true');
+          panel.hidden = false;
+        }
+      });
+    });
+
+    document.querySelectorAll('[data-carousel]').forEach(carousel => {
+      const track = carousel.querySelector('[data-carousel-track]');
+      const pages = Array.from(carousel.querySelectorAll('[data-carousel-page]'));
+      const prevBtn = carousel.querySelector('[data-carousel-prev]');
+      const nextBtn = carousel.querySelector('[data-carousel-next]');
+      const dotsWrap = carousel.querySelector('[data-carousel-dots]');
+      let current = 0;
+
+      pages.forEach((_, i) => {
+        const dot = document.createElement('button');
+        dot.type = 'button';
+        dot.setAttribute('aria-label', `Fakten-Seite ${i + 1}`);
+        dot.addEventListener('click', () => goTo(i));
+        dotsWrap.appendChild(dot);
+      });
+      const dots = Array.from(dotsWrap.children);
+
+      function render() {
+        track.style.transform = `translateX(-${current * 100}%)`;
+        dots.forEach((d, i) => d.classList.toggle('is-active', i === current));
+        prevBtn.disabled = current === 0;
+        nextBtn.textContent = current === pages.length - 1 ? 'Von vorn ›' : 'Weiterskippen ›';
+      }
+
+      function goTo(i) {
+        current = (i + pages.length) % pages.length;
+        render();
+      }
+
+      prevBtn.addEventListener('click', () => goTo(current - 1));
+      nextBtn.addEventListener('click', () => goTo(current + 1 >= pages.length ? 0 : current + 1));
+
+      render();
+    });
+  </script>
+</body>
+</html>

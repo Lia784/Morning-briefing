@@ -1,0 +1,41 @@
+name: Update Morning Dashboard
+
+on:
+  schedule:
+    # Täglich 5:00 UTC ≈ 6:00 Uhr MEZ / 7:00 Uhr MESZ
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Abhängigkeiten installieren
+        run: pip install -r requirements.txt
+
+      - name: Daten abrufen
+        run: python fetch_data.py
+
+      - name: Änderungen committen und pushen
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          if git diff --staged --quiet; then
+            echo "Keine Änderungen an data.json"
+          else
+            git commit -m "chore: tägliches Dashboard-Update $(date -u +%Y-%m-%d)"
+            git push
+          fi

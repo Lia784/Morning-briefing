@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Persönliches Morning Dashboard – Finanzen, Nachrichten und Nischenwissen">
+  <title>Morning Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=IBM+Plex+Mono:wght@400;500&family=Work+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="page">
+    <header class="site-header">
+      <div class="header-grid">
+        <div class="header-title">
+          <span class="accent-bar accent-red"></span>
+          <div>
+            <p class="eyebrow">Persönliches Dashboard</p>
+            <h1>Morning<br>Dashboard</h1>
+          </div>
+        </div>
+        <div class="header-meta">
+          <p class="meta-label">Datum</p>
+          <p id="date-label" class="meta-value">—</p>
+          <p class="meta-label">Zuletzt aktualisiert</p>
+          <p id="updated-at" class="meta-value mono">—</p>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <!-- Finanzkennzahlen -->
+      <section class="section" aria-labelledby="markets-heading">
+        <div class="section-head">
+          <span class="accent-bar accent-blue"></span>
+          <h2 id="markets-heading">Märkte</h2>
+        </div>
+        <div id="markets-error" class="section-error hidden" role="alert"></div>
+        <div class="market-block">
+          <p class="subsection-label">Indizes</p>
+          <div id="indices-grid" class="card-grid card-grid--compact"></div>
+        </div>
+        <div class="market-block">
+          <p class="subsection-label">Kryptowährungen</p>
+          <div id="crypto-grid" class="card-grid card-grid--compact"></div>
+        </div>
+        <div class="market-block">
+          <p class="subsection-label">Wechselkurse & Zinsen</p>
+          <div id="forex-grid" class="card-grid card-grid--compact"></div>
+        </div>
+      </section>
+
+      <!-- Finanznachrichten -->
+      <section class="section" aria-labelledby="finance-heading">
+        <div class="section-head">
+          <span class="accent-bar accent-yellow"></span>
+          <h2 id="finance-heading">Finanznachrichten</h2>
+        </div>
+        <div id="finance-error" class="section-error hidden" role="alert"></div>
+        <div id="finance-news" class="news-list"></div>
+      </section>
+
+      <!-- Nischen-News (Herzstück) -->
+      <section class="section section--highlight" aria-labelledby="niche-heading">
+        <div class="section-head">
+          <span class="accent-bar accent-red"></span>
+          <h2 id="niche-heading">Nischenwissen</h2>
+          <p class="section-subtitle">Ungewöhnliches Wissen aus Wissenschaft, Forschung & Entdeckung</p>
+        </div>
+        <div id="niche-error" class="section-error hidden" role="alert"></div>
+        <div id="niche-news" class="niche-grid"></div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>Automatisch aktualisiert via GitHub Actions · Daten aus öffentlichen APIs & RSS-Feeds</p>
+    </footer>
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

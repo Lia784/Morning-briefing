@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T14:35:53+00:00",
-  "date_label": "Thursday, 02. July 2026",
+  "generated_at": "2026-07-09T08:31:00+00:00",
+  "date_label": "Thursday, 09. July 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25612.9707,
-        "change_pct": 2.29
+        "price": 25017.2891,
+        "change_pct": 0.48
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7522.5498,
-        "change_pct": 0.53
+        "price": 7482.71,
+        "change_pct": -0.28
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26125.1641,
-        "change_pct": 0.33
+        "price": 25870.6504,
+        "change_pct": 0.2
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6379.1299,
-        "change_pct": 1.54
+        "price": 6255.2998,
+        "change_pct": 0.81
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 68733.1484,
-        "change_pct": -2.47
+        "price": 67743.8516,
+        "change_pct": 1.38
       }
     ]
   },
@@ -43,17 +43,17 @@
     "data": [
       {
         "name": "Bitcoin",
-        "symbol": "BIT",
-        "eur": 53840,
-        "usd": 61647,
-        "change_24h_pct": 2.674661911359126
+        "symbol": "BTC",
+        "eur": 55079,
+        "usd": 62988,
+        "change_24h_pct": 1.39
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1487.55,
-        "usd": 1703.25,
-        "change_24h_pct": 5.642543682341004
+        "eur": 1535.56,
+        "usd": 1756.06,
+        "change_24h_pct": 1.19
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.145,
+        "price": 1.144,
         "change_pct": 0.32
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8559,
-        "change_pct": -0.63
+        "price": 0.8523,
+        "change_pct": -0.23
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9186,
-        "change_pct": -0.48
+        "price": 0.9219,
+        "change_pct": -0.03
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 160.991,
-        "change_pct": -1.01
+        "price": 162.329,
+        "change_pct": -0.02
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 184.261,
-        "change_pct": -0.73
+        "price": 185.652,
+        "change_pct": 0.29
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.481,
-        "change_pct": 2.49,
+        "price": 4.569,
+        "change_pct": 0.88,
         "unit": "%"
       }
     ]
@@ -105,94 +105,106 @@
     "error": null,
     "data": [
       {
-        "title": "Der F.A.Z.-Reformcheck: Die große Wachstumswette der Bundesregierung",
-        "summary": "Steuern, Arbeitsrecht, Bürokratie: Union und SPD wollen mit ihren Beschlüssen einen Aufschwung auslösen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/das-reformpaket-der-regierung-im-faz-check-200990768.html",
+        "title": "KfW in „Umstellungsphase“: Heizungsförderung wird überraschend jetzt schon gekürzt",
+        "summary": "Die Förderung für den Einbau klimafreundlicher Heizungen soll deutlich sinken.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/heizungsfoerderung-kfw-kuerzt-foerderung-frueher-als-geplant-accg-201012656.html",
         "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Künstliche Intelligenz: Open AI spricht über Staatsbeteiligung",
-        "summary": "Das KI-Unternehmen ist offenbar bereit, der US-Regierung einen Anteil von fünf Prozent zu geben.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/openai-und-donald-trump-staatsbeteiligung-an-ki-200991499.html",
-        "source": "FAZ Wirtschaft",
-        "category": ""
-      },
-      {
-        "title": "Stromnetze: Europaparlament zündet den Genehmigungsturbo",
-        "summary": "Nach einem Jahr soll die Genehmigung neuer Verteilnetze stehen, fordert das EU-Parlament.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/eu-parlament-will-ausbau-von-stromtrassen-stark-beschleunigen-200991365.html",
-        "source": "FAZ Wirtschaft",
-        "category": ""
-      },
-      {
-        "title": "Business-Ticker: Rekord-Wettbewerbsstrafe: EuGH bestätigt Milliardenbuße für Google",
-        "summary": "Rüstungskonzern KNDS verschiebt Börsengang +++ OpenAI bietet US-Regierung Anteile an +++ Bayer gründet Tochtergesellschaft für US-Glyphosat-Geschäft +++ Neuigkeiten im Unternehmen-Liveblog.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-eugh-bestaetigt-milliardenbusse-fuer-google-faz-200452404.html",
-        "source": "FAZ Wirtschaft",
-        "category": ""
-      },
-      {
-        "title": "Wohnen, Mieten, Kaufen: Wie die Immobilienpreise wieder steigen",
-        "summary": "Die Angebotspreise für den Altbau und Neubau legen zu.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/mieten-vermieten/immobilienpreise-steigen-was-kaeufer-jetzt-wissen-muessen-200988786.html",
-        "source": "FAZ Wirtschaft",
-        "category": ""
-      },
-      {
-        "title": "Erfolgreiche Klage: Bundesgerichtshof bestätigt Designschutz für Möbel",
-        "summary": "Die Karlsruher Richter stärken den Urheberschutz für Designmöbel: In einem wegweisenden Urteil hebt der BGH eine frühere Entscheidung im Streit um das Büromöbelsystem USM Haller auf.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/usm-haller-siegt-vor-dem-bundesgerichtshof-im-designstreit-accg-200990219.html",
-        "source": "FAZ Wirtschaft",
-        "category": ""
-      },
-      {
-        "title": "Mercedes: Batterien und Bordnetze fehlen – Die Produktion von Mercedes’ Schicksalsmodell stockt",
-        "summary": "Mit dem GLC hat der Autohersteller sein meistverkauftes Modell elektrifiziert.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/autobauer-die-produktion-von-mercedes-schicksalsmodell-stockt/100235760.html",
+        "title": "Rüstung: Deutschland kauft Tomahawk-Marschflugkörper in den USA",
+        "summary": "Die US-Regierung hat der vereinbarten Stationierung von Tomahawk-Marschflugkörpern unter Trump eine Absage erteilt.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/ruestung-deutschland-kauft-tomahawk-marschflugkoerper-in-den-usa/100239019.html",
         "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Werkzeuge: Kettensäge mit Akku – Stihl und Kärcher schließen Allianz für professionelle Geräte",
-        "summary": "Die schwäbischen Mittelständler galten lange als Rivalen.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/werkzeuge-stihl-und-kaercher-schliessen-akku-allianz-fuer-profigeraete/100236975.html",
-        "source": "Handelsblatt",
+        "title": "Why electric cars cost more to insure - and what's being done about it",
+        "summary": "The insurance cost of electric vehicles is still putting off many would-be buyers.",
+        "link": "https://www.bbc.co.uk/news/articles/cgk6606j6zeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "+++ Ukraine-Krieg +++: Russland – Drohnenangriff auf belarussischen Bus",
-        "summary": "Kiews Bürgermeister Klitschko spricht von schwersten Angriffen seit Kriegsbeginn +++ Auswärtiges Amt verurteilt Angriffe +++ Litauen plant Aufhebung von Verfassungsverbot für Atomwaffen +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/international/ukraine-russland-drohnenangriff-auf-belarussischen-bus/27982126.html",
+        "title": "„Meine kleine Mönchsklause“: Wie ein Obdachloser zur Londoner Milliardärsvilla kam",
+        "summary": "Evergrande-Gründer Xu Jiayin war einer der reichsten Männer Chinas, Anders Fernstedt lebt ohne Geld auf der Straße.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/wie-ein-obdachloser-zur-londoner-milliardaersvilla-kam-accg-200978318.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "Landtag: Palmer soll Özdemir beim Bürokratieabbau unterstützen",
+        "summary": "Wird Boris Palmer Minister in Baden-Württemberg, bekommt er eine andere Rolle oder bleibt er einfach nur Oberbürgermeister in Tübingen?",
+        "link": "https://www.handelsblatt.com/politik/deutschland/landtag-palmer-soll-oezdemir-beim-buerokratieabbau-unterstuetzen/100239022.html",
         "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "I run the UK's biggest bank, here are five ways to manage your money",
+        "summary": "The CEO of Lloyds Bank talks about how to save, budget, avoid scams and manage money in a relationship.",
+        "link": "https://www.bbc.co.uk/news/articles/cd7wldr3prro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
+        "title": "Emissionshandel: Wie lässt sich der Klimaschutz in der EU retten?",
+        "summary": "Brüssel will die Industrie von den hohen CO₂-Preisen entlasten.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/eu-emissionshandel-wie-bruessel-die-industrie-entlasten-will-201000930.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "+++ Bundespolitik +++: Rente soll laut Merz neu austariert werden",
+        "summary": "Merz: Beschluss des Gesundheits-Sparpakets am Freitag +++ Merz: „Ergebnis des Nato-Gipfels übertraf meine Erwartungen“ +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-rente-soll-laut-merz-neu-austariert-werden/100137034.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "Jackdaw boss warns of winter fuel shortages if gas field not approved",
+        "summary": "Adura says the UK government must approve North Sea production urgently to avoid domestic supply shortages.",
+        "link": "https://www.bbc.co.uk/news/articles/cdx78n4nkvyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
         "category": ""
       }
     ]
   },
   "niche_news": {
-    "status": "error",
-    "error": "Quellen nicht erreichbar: ScienceDaily – Genetik",
+    "status": "ok",
+    "error": null,
     "data": [
-      {
-        "title": "NASA’s Webb Reveals Stars Sparking to Life in Cosmic Celebration",
-        "summary": "NASA’s James Webb Space Telescope has captured the infrared light of numerous features that previously were impossible to see beyond the thick dust of the FS Tau star system.",
-        "link": "https://science.nasa.gov/missions/webb/nasas-webb-reveals-stars-sparking-to-life-in-cosmic-celebration/",
-        "source": "NASA Breaking News",
-        "category": "Raumfahrt"
-      },
-      {
-        "title": "Speed Limits for Ships Protect Endangered Right Whales From Vessel Strikes. Could the Animals Survive Without Them?",
-        "summary": "Since 2008, rules requiring ships to slow down to avoid collisions with North Atlantic right whales have reduced fatalities of the critically endangered animals.",
-        "link": "https://www.smithsonianmag.com/science-nature/speed-limits-for-ships-protect-endangered-right-whales-from-vessel-strikes-could-the-animals-survive-without-them-180989013/",
-        "source": "Smithsonian",
-        "category": "Wissenschaft"
-      },
       {
         "title": "A massive asteroid slammed into the North Sea and triggered a 330-foot tsunami",
         "summary": "Scientists have finally confirmed the origin of the mysterious Silverpit Crater beneath the North Sea.",
         "link": "https://www.sciencedaily.com/releases/2026/06/260623011230.htm",
         "source": "ScienceDaily – Archäologie",
+        "publisher": "ScienceDaily",
         "category": "Archäologie"
+      },
+      {
+        "title": "Nukes in space? Orbital detector could sniff out warheads",
+        "summary": "Nature, Published online: 08 July 2026; doi:10.1038/d41586-026-02141-z A shoebox-sized detector satellite could identify the telltale signal of a hidden nuclear device — plus, how Indigenous plant knowledge is under thr…",
+        "link": "https://www.nature.com/articles/d41586-026-02141-z",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
+      },
+      {
+        "title": "Tomb of Dai Anga in Lahore, Pakistan",
+        "summary": "Tucked away behind the bustling Grand Trunk Road and modern railway lines in Lahore lies the Tomb of Dai Anga, a brilliant but frequently overlooked piece of Mughal heritage.",
+        "link": "https://www.atlasobscura.com/places/tomb-of-dai-anga",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
       }
     ]
   }

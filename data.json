@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T08:31:00+00:00",
-  "date_label": "Thursday, 09. July 2026",
+  "generated_at": "2026-07-10T08:25:43+00:00",
+  "date_label": "Friday, 10. July 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25017.2891,
-        "change_pct": 0.48
+        "price": 25164.0098,
+        "change_pct": 0.18
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7482.71,
-        "change_pct": -0.28
+        "price": 7543.6401,
+        "change_pct": 0.81
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25870.6504,
-        "change_pct": 0.2
+        "price": 26206.8906,
+        "change_pct": 1.3
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6255.2998,
-        "change_pct": 0.81
+        "price": 6281.02,
+        "change_pct": -0.05
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 67743.8516,
-        "change_pct": 1.38
+        "price": 68557.7266,
+        "change_pct": 1.2
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 55079,
-        "usd": 62988,
-        "change_24h_pct": 1.39
+        "eur": 56194,
+        "usd": 64263,
+        "change_24h_pct": 2.06
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1535.56,
-        "usd": 1756.06,
-        "change_24h_pct": 1.19
+        "eur": 1560.11,
+        "usd": 1784.11,
+        "change_24h_pct": 1.6
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.144,
-        "change_pct": 0.32
+        "price": 1.1436,
+        "change_pct": 0.13
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8523,
-        "change_pct": -0.23
+        "price": 0.8522,
+        "change_pct": -0.03
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9219,
-        "change_pct": -0.03
+        "price": 0.9214,
+        "change_pct": -0.17
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 162.329,
-        "change_pct": -0.02
+        "price": 161.733,
+        "change_pct": -0.5
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 185.652,
-        "change_pct": 0.29
+        "price": 184.908,
+        "change_pct": -0.39
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.569,
-        "change_pct": 0.88,
+        "price": 4.539,
+        "change_pct": -0.66,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "KfW in „Umstellungsphase“: Heizungsförderung wird überraschend jetzt schon gekürzt",
-        "summary": "Die Förderung für den Einbau klimafreundlicher Heizungen soll deutlich sinken.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/heizungsfoerderung-kfw-kuerzt-foerderung-frueher-als-geplant-accg-201012656.html",
+        "title": "Klingbeils Steuerreform: Schon mit 3000 Euro brutto werden Arbeitnehmer zu Verlierern",
+        "summary": "Finanzminister Lars Klingbeil versprach, kleine und mittlere Einkommen zu entlasten.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/steuerreform-von-lars-klingbeil-schon-mit-3000-euro-brutto-werden-arbeitnehmer-zu-verlierern-accg-201010321.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Rüstung: Deutschland kauft Tomahawk-Marschflugkörper in den USA",
-        "summary": "Die US-Regierung hat der vereinbarten Stationierung von Tomahawk-Marschflugkörpern unter Trump eine Absage erteilt.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/ruestung-deutschland-kauft-tomahawk-marschflugkoerper-in-den-usa/100239019.html",
+        "title": "Privatkunden: Wechsel zu Visa: Warum die Commerzbank die Kreditkarten von Mastercard aussortiert",
+        "summary": "Das Frankfurter Geldhaus fordert seine Kunden auf, ihre Mastercard-Kreditkarte vorzeitig einzutauschen.",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/kreditkarten-commerzbank-tauscht-mastercard-gegen-visa-aus/100239158.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Why electric cars cost more to insure - and what's being done about it",
-        "summary": "The insurance cost of electric vehicles is still putting off many would-be buyers.",
-        "link": "https://www.bbc.co.uk/news/articles/cgk6606j6zeo?at_medium=RSS&at_campaign=rss",
+        "title": "EasyJet agrees to rival £5.7bn takeover bid",
+        "summary": "The airline says a bid from US firm Apollo has trumped a previous potential takeover offer from Castlelake.",
+        "link": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "„Meine kleine Mönchsklause“: Wie ein Obdachloser zur Londoner Milliardärsvilla kam",
-        "summary": "Evergrande-Gründer Xu Jiayin war einer der reichsten Männer Chinas, Anders Fernstedt lebt ohne Geld auf der Straße.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/wie-ein-obdachloser-zur-londoner-milliardaersvilla-kam-accg-200978318.html",
+        "title": "Politik kritisiert Blume: „Es ist unverantwortlich, die Belegschaft so in den Urlaub zu schicken“",
+        "summary": "VW will noch mehr sparen, der Aufsichtsrat berät über mögliche Werksschließungen und Stellenabbau.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kritik-an-vw-unverantwortlich-die-belegschaft-so-in-den-urlaub-zu-schicken-accg-201016919.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Landtag: Palmer soll Özdemir beim Bürokratieabbau unterstützen",
-        "summary": "Wird Boris Palmer Minister in Baden-Württemberg, bekommt er eine andere Rolle oder bleibt er einfach nur Oberbürgermeister in Tübingen?",
-        "link": "https://www.handelsblatt.com/politik/deutschland/landtag-palmer-soll-oezdemir-beim-buerokratieabbau-unterstuetzen/100239022.html",
+        "title": "Volkswagen: Keine Mehrheit im Aufsichtsrat: VW-Chef Blume will Sparplan in Etappen durchbringen",
+        "summary": "Konzernchef Oliver Blume scheitert bei einer ersten Abstimmung in dem Kontrollgremium zu seinem Zukunftsplan.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/volkswagen-vw-chef-blume-will-sparplan-in-etappen-durchbringen/100239279.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "I run the UK's biggest bank, here are five ways to manage your money",
-        "summary": "The CEO of Lloyds Bank talks about how to save, budget, avoid scams and manage money in a relationship.",
-        "link": "https://www.bbc.co.uk/news/articles/cd7wldr3prro?at_medium=RSS&at_campaign=rss",
+        "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
+        "summary": "The ASA says adverts claiming small devices can rapidly cool rooms were too good to be true.",
+        "link": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Emissionshandel: Wie lässt sich der Klimaschutz in der EU retten?",
-        "summary": "Brüssel will die Industrie von den hohen CO₂-Preisen entlasten.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/eu-emissionshandel-wie-bruessel-die-industrie-entlasten-will-201000930.html",
+        "title": "Fleischkonsum: Die drei größten Irrtümer zum Thema Tierwohl",
+        "summary": "Tierwohl wird emotional debattiert, aber selten verstanden.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/mitleid-allein-reicht-nicht-das-sind-die-drei-groessten-irrtuermer-zum-thema-tierwohl-200992874.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "+++ Bundespolitik +++: Rente soll laut Merz neu austariert werden",
-        "summary": "Merz: Beschluss des Gesundheits-Sparpakets am Freitag +++ Merz: „Ergebnis des Nato-Gipfels übertraf meine Erwartungen“ +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-rente-soll-laut-merz-neu-austariert-werden/100137034.html",
+        "title": "Nikkei, Topix,: Micron und SK Hynix befeuern Asien-Börsen",
+        "summary": "Der Hype um Künstliche Intelligenz verdrängt die Sorgen über den Nahost-Konflikt.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-topix-micron-und-sk-hynix-befeuern-asien-boersen/100239254.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Jackdaw boss warns of winter fuel shortages if gas field not approved",
-        "summary": "Adura says the UK government must approve North Sea production urgently to avoid domestic supply shortages.",
-        "link": "https://www.bbc.co.uk/news/articles/cdx78n4nkvyo?at_medium=RSS&at_campaign=rss",
+        "title": "Vapes to have less enticing names to protect children, under UK plans",
+        "summary": "People are being consulted about plans to stop vape companies using of enticing flavour descriptions that \"attract\" children into experimenting.",
+        "link": "https://www.bbc.co.uk/news/articles/c9v29d7vml7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,28 +183,28 @@
     "error": null,
     "data": [
       {
-        "title": "A massive asteroid slammed into the North Sea and triggered a 330-foot tsunami",
-        "summary": "Scientists have finally confirmed the origin of the mysterious Silverpit Crater beneath the North Sea.",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260623011230.htm",
+        "title": "Curiosity Sees Martian Sulfur Up Close",
+        "summary": "This close-up view shows fragments of sulfur crystals — the first ever seen on the Red Planet.",
+        "link": "https://www.nasa.gov/image-article/curiosity-sees-martian-sulfur-up-close/",
+        "source": "NASA Breaking News",
+        "publisher": "NASA",
+        "category": "Raumfahrt"
+      },
+      {
+        "title": "Why some people are mosquito magnets",
+        "summary": "How your scent can attract bites",
+        "link": "https://www.bbc.com/future/article/20260708-why-do-mosquitoes-bite-some-people-more-than-others?ocid=global_future_rss",
+        "source": "BBC Future",
+        "publisher": "BBC",
+        "category": "Zukunft"
+      },
+      {
+        "title": "After 70 years of excavation, ancient Sardis becomes a UNESCO World Heritage site",
+        "summary": "After nearly seven decades of excavation, the legendary ancient city of Sardis has become a UNESCO World Heritage Site, celebrating years of discoveries that continue to reshape its history.",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260625014808.htm",
         "source": "ScienceDaily – Archäologie",
         "publisher": "ScienceDaily",
         "category": "Archäologie"
-      },
-      {
-        "title": "Nukes in space? Orbital detector could sniff out warheads",
-        "summary": "Nature, Published online: 08 July 2026; doi:10.1038/d41586-026-02141-z A shoebox-sized detector satellite could identify the telltale signal of a hidden nuclear device — plus, how Indigenous plant knowledge is under thr…",
-        "link": "https://www.nature.com/articles/d41586-026-02141-z",
-        "source": "Nature News",
-        "publisher": "Nature",
-        "category": "Forschung"
-      },
-      {
-        "title": "Tomb of Dai Anga in Lahore, Pakistan",
-        "summary": "Tucked away behind the bustling Grand Trunk Road and modern railway lines in Lahore lies the Tomb of Dai Anga, a brilliant but frequently overlooked piece of Mughal heritage.",
-        "link": "https://www.atlasobscura.com/places/tomb-of-dai-anga",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
       }
     ]
   }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T08:25:43+00:00",
-  "date_label": "Friday, 10. July 2026",
+  "generated_at": "2026-07-11T07:12:49+00:00",
+  "date_label": "Saturday, 11. July 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,26 +8,26 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25164.0098,
-        "change_pct": 0.18
+        "price": 25067.0898,
+        "change_pct": -0.2
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7543.6401,
-        "change_pct": 0.81
+        "price": 7575.3901,
+        "change_pct": 0.42
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26206.8906,
-        "change_pct": 1.3
+        "price": 26281.6094,
+        "change_pct": 0.29
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6281.02,
-        "change_pct": -0.05
+        "price": 6269.9702,
+        "change_pct": -0.23
       },
       {
         "name": "Nikkei 225",
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 56194,
-        "usd": 64263,
-        "change_24h_pct": 2.06
+        "eur": 56186,
+        "usd": 64158,
+        "change_24h_pct": 0.65
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1560.11,
-        "usd": 1784.11,
-        "change_24h_pct": 1.6
+        "eur": 1574.17,
+        "usd": 1797.54,
+        "change_24h_pct": 1.64
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1436,
-        "change_pct": 0.13
+        "price": 1.1419,
+        "change_pct": -0.02
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8522,
-        "change_pct": -0.03
+        "price": 0.8517,
+        "change_pct": -0.1
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9214,
-        "change_pct": -0.17
+        "price": 0.9224,
+        "change_pct": -0.06
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 161.733,
-        "change_pct": -0.5
+        "price": 161.672,
+        "change_pct": -0.53
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 184.908,
-        "change_pct": -0.39
+        "price": 184.554,
+        "change_pct": -0.58
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.539,
-        "change_pct": -0.66,
+        "price": 4.569,
+        "change_pct": 0.66,
         "unit": "%"
       }
     ]
@@ -105,41 +105,65 @@
     "error": null,
     "data": [
       {
-        "title": "Klingbeils Steuerreform: Schon mit 3000 Euro brutto werden Arbeitnehmer zu Verlierern",
-        "summary": "Finanzminister Lars Klingbeil versprach, kleine und mittlere Einkommen zu entlasten.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/steuerreform-von-lars-klingbeil-schon-mit-3000-euro-brutto-werden-arbeitnehmer-zu-verlierern-accg-201010321.html",
+        "title": "VW in der Krise: Der blockierte Volkswagen-Konzern",
+        "summary": "Das VW-Management will an seinen Sparplänen festhalten und erste Fakten schaffen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/volkswagen-konzern-wie-tief-geht-der-stellenabbau-201018529.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Privatkunden: Wechsel zu Visa: Warum die Commerzbank die Kreditkarten von Mastercard aussortiert",
-        "summary": "Das Frankfurter Geldhaus fordert seine Kunden auf, ihre Mastercard-Kreditkarte vorzeitig einzutauschen.",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/kreditkarten-commerzbank-tauscht-mastercard-gegen-visa-aus/100239158.html",
+        "title": "Sicherheit: Wolfgang Ischinger über KI-Dominanz der USA: „Hütet euch, uns auszuschließen“",
+        "summary": "Der Chef der Münchner Sicherheitskonferenz spricht im Handelsblatt-Interview über gesperrte KI-Modelle, Risiken des Drohnenkriegs – und die Starlink-Satellitenantenne auf seinem Bauernhaus.",
+        "link": "https://www.handelsblatt.com/politik/international/wolfgang-ischinger-huetet-euch-uns-auszuschliessen/100238023.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "EasyJet agrees to rival £5.7bn takeover bid",
-        "summary": "The airline says a bid from US firm Apollo has trumped a previous potential takeover offer from Castlelake.",
+        "title": "Major car firms found not to have installed emissions-cheating devices",
+        "summary": "A High Court judge said some major car manufacturers did not install a device to cheat emissions testing.",
+        "link": "https://www.bbc.co.uk/news/articles/c0mye0d1297o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
+        "title": "Sparrunde bei Volkswagen: Autos, die die Welt nicht braucht",
+        "summary": "Die Auftaktrunde bei VW hat wenig Greifbares gebracht.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/volkswagen-krise-autos-die-die-welt-nicht-braucht-201017706.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "+++ Iran-Krieg +++: Kreise – USA fordern klare Stellungnahme Irans zu Straße von Hormus",
+        "summary": "USA laut Trump auch nach Ende der Waffenruhe bereit zu Gesprächen +++ Vermittler aus Katar offenbar zu Gesprächen im Iran +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/international/iran-krieg-kreise-usa-fordern-klare-stellungnahme-irans-zu-strasse-von-hormus/100136895.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "EasyJet agrees to surprise takeover bid as rival US firm swoops in",
+        "summary": "The airline says a bid from US firm Apollo has trumped a recent takeover offer from Castlelake.",
         "link": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Politik kritisiert Blume: „Es ist unverantwortlich, die Belegschaft so in den Urlaub zu schicken“",
-        "summary": "VW will noch mehr sparen, der Aufsichtsrat berät über mögliche Werksschließungen und Stellenabbau.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kritik-an-vw-unverantwortlich-die-belegschaft-so-in-den-urlaub-zu-schicken-accg-201016919.html",
+        "title": "Poker um Easyjet: Neuer Flugstil",
+        "summary": "Im Bieterkampf um Easyjet zeigt sich ein Wandel bei der Konsolidierung der Flugbranche.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/easyjet-im-visier-von-finanzinvestoren-teurer-fuer-passagiere-201018315.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Volkswagen: Keine Mehrheit im Aufsichtsrat: VW-Chef Blume will Sparplan in Etappen durchbringen",
-        "summary": "Konzernchef Oliver Blume scheitert bei einer ersten Abstimmung in dem Kontrollgremium zu seinem Zukunftsplan.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/volkswagen-vw-chef-blume-will-sparplan-in-etappen-durchbringen/100239279.html",
+        "title": "+++ USA +++: USA mahnen geordneten Machtwechsel in Kolumbien an",
+        "summary": "Trump drängt Mitglieder aus unabhängiger Wahlkommission +++ Geplanter Anschlag an Trumps Geburtstag: Acht Männer angeklagt +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/international/usa-usa-mahnen-geordneten-machtwechsel-in-kolumbien-an/29669594.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -151,60 +175,36 @@
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
-      },
-      {
-        "title": "Fleischkonsum: Die drei größten Irrtümer zum Thema Tierwohl",
-        "summary": "Tierwohl wird emotional debattiert, aber selten verstanden.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/mitleid-allein-reicht-nicht-das-sind-die-drei-groessten-irrtuermer-zum-thema-tierwohl-200992874.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "Nikkei, Topix,: Micron und SK Hynix befeuern Asien-Börsen",
-        "summary": "Der Hype um Künstliche Intelligenz verdrängt die Sorgen über den Nahost-Konflikt.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-topix-micron-und-sk-hynix-befeuern-asien-boersen/100239254.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "Vapes to have less enticing names to protect children, under UK plans",
-        "summary": "People are being consulted about plans to stop vape companies using of enticing flavour descriptions that \"attract\" children into experimenting.",
-        "link": "https://www.bbc.co.uk/news/articles/c9v29d7vml7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
       }
     ]
   },
   "niche_news": {
     "status": "ok",
-    "error": null,
+    "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "Curiosity Sees Martian Sulfur Up Close",
-        "summary": "This close-up view shows fragments of sulfur crystals — the first ever seen on the Red Planet.",
-        "link": "https://www.nasa.gov/image-article/curiosity-sees-martian-sulfur-up-close/",
-        "source": "NASA Breaking News",
-        "publisher": "NASA",
-        "category": "Raumfahrt"
+        "title": "A Rare Comet Made History as the Third Known Interstellar Object to Fly Through Our Solar System. Studies Are Now Revealing the Mysterious Conditions in Which It Formed",
+        "summary": "In the latest research, telescope observations of 3I/ATLAS examine its chemical structure and suggest that it took shape in a peripheral region of a relatively calm planetary system",
+        "link": "https://www.smithsonianmag.com/science-nature/a-rare-comet-made-history-as-the-third-known-interstellar-object-to-fly-through-our-solar-system-studies-are-now-revealing-the-mysterious-the-mysterious-conditions-in-which-it-formed-180989037/",
+        "source": "Smithsonian",
+        "publisher": "Smithsonian",
+        "category": "Wissenschaft"
       },
       {
-        "title": "Why some people are mosquito magnets",
-        "summary": "How your scent can attract bites",
-        "link": "https://www.bbc.com/future/article/20260708-why-do-mosquitoes-bite-some-people-more-than-others?ocid=global_future_rss",
-        "source": "BBC Future",
-        "publisher": "BBC",
-        "category": "Zukunft"
-      },
-      {
-        "title": "After 70 years of excavation, ancient Sardis becomes a UNESCO World Heritage site",
-        "summary": "After nearly seven decades of excavation, the legendary ancient city of Sardis has become a UNESCO World Heritage Site, celebrating years of discoveries that continue to reshape its history.",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260625014808.htm",
+        "title": "Ancient DNA reveals the mysterious collapse of Europe's megalith builders",
+        "summary": "DNA from a 5,000-year-old French megalithic tomb reveals that the people buried before and after a population collapse were genetically unrelated, pointing to a major migration after a devastating crisis.",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260707054108.htm",
         "source": "ScienceDaily – Archäologie",
         "publisher": "ScienceDaily",
         "category": "Archäologie"
+      },
+      {
+        "title": "NSF plans cuts to core science programmes to fund White House initiative",
+        "summary": "Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02135-x A proposed clawback of already distributed research funds comes as the US agency’s budget is already squeezed and it struggling to clear a backlog o…",
+        "link": "https://www.nature.com/articles/d41586-026-02135-x",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
       }
     ]
   }

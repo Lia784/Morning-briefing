@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T07:12:49+00:00",
-  "date_label": "Saturday, 11. July 2026",
+  "generated_at": "2026-07-12T07:29:53+00:00",
+  "date_label": "Sunday, 12. July 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 56186,
-        "usd": 64158,
-        "change_24h_pct": 0.65
+        "eur": 55904,
+        "usd": 63818,
+        "change_24h_pct": -0.55
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1574.17,
-        "usd": 1797.54,
-        "change_24h_pct": 1.64
+        "eur": 1573.65,
+        "usd": 1796.4,
+        "change_24h_pct": -0.17
       }
     ]
   },
@@ -105,17 +105,65 @@
     "error": null,
     "data": [
       {
-        "title": "VW in der Krise: Der blockierte Volkswagen-Konzern",
-        "summary": "Das VW-Management will an seinen Sparplänen festhalten und erste Fakten schaffen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/volkswagen-konzern-wie-tief-geht-der-stellenabbau-201018529.html",
+        "title": "F.A.Z.-Serie Schneller schlau: Gibt es den viel beschworenen Privatschulboom?",
+        "summary": "Lange hieß es, viele Mittelschichtfamilien würden aus Unzufriedenheit mit öffentlichen Schulen in großer Zahl in private Einrichtungen flüchten.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/schneller-schlau/gibt-es-den-viel-beschworenen-privatschulboom-201015279.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Sicherheit: Wolfgang Ischinger über KI-Dominanz der USA: „Hütet euch, uns auszuschließen“",
-        "summary": "Der Chef der Münchner Sicherheitskonferenz spricht im Handelsblatt-Interview über gesperrte KI-Modelle, Risiken des Drohnenkriegs – und die Starlink-Satellitenantenne auf seinem Bauernhaus.",
-        "link": "https://www.handelsblatt.com/politik/international/wolfgang-ischinger-huetet-euch-uns-auszuschliessen/100238023.html",
+        "title": "Volkswagen: Keine Mehrheit im Aufsichtsrat: VW-Chef Blume will Sparplan in Etappen durchbringen",
+        "summary": "Konzernchef Oliver Blume scheitert bei einer ersten Abstimmung in dem Kontrollgremium zu seinem Zukunftsplan.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/volkswagen-vw-droht-ein-monatelanger-machtkampf-um-werke-und-stellen/100239279.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
+        "summary": "The German supermarket's $9bn US push targets urban hubs like Manhattan.",
+        "link": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
+        "title": "verstrichenes Ultimatum: VW-Betriebsrat sieht massiven Vertrauensverlust in Belegschaft gegenüber Konzernspitze",
+        "summary": "Der VW-Konzern plant einen Großumbau – angeblich sollen Tausende Stellen weltweit wegfallen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vw-krise-betriebsrat-wirft-konzernchef-blume-vertrauensbruch-vor-accg-201020945.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "USA: Republikanischer US-Senator Lindsey Graham tot",
+        "summary": "Der Senator Lindsey Graham war seit 2003 Mitglied im Senat für den Bundesstaat South Carolina.",
+        "link": "https://www.handelsblatt.com/politik/international/usa-republikanischer-us-senator-lindsey-graham-tot/100239601.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "Will Trump Accounts deliver for American children?",
+        "summary": "The White House has hailed the project as giving new generations a stake in the American dream, but the scheme has its critics.",
+        "link": "https://www.bbc.co.uk/news/articles/ckg55v9e2y9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
+        "title": "Techgiganten: Apple verklagt Open AI",
+        "summary": "Der Elektronikkonzern wirft dem Entwickler von ChatGPT Diebstahl von Geschäftsgeheimnissen vor.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/diebstahl-von-geschaeftsgeheimnissen-apple-verklagt-open-ai-accg-201019871.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "+++ USA +++: US-Senator Lindsey Graham tot",
+        "summary": "US-Regierung lädt Journalisten nach Berichterstattung vor +++ USA mahnen geordneten Machtwechsel in Kolumbien an +++ Brücke zwischen USA und Kanada soll Ende Juli öffnen +++ Der Newsblog",
+        "link": "https://www.handelsblatt.com/politik/international/usa-us-senator-lindsey-graham-tot/29669594.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -127,69 +175,13 @@
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
-      },
-      {
-        "title": "Sparrunde bei Volkswagen: Autos, die die Welt nicht braucht",
-        "summary": "Die Auftaktrunde bei VW hat wenig Greifbares gebracht.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/volkswagen-krise-autos-die-die-welt-nicht-braucht-201017706.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "+++ Iran-Krieg +++: Kreise – USA fordern klare Stellungnahme Irans zu Straße von Hormus",
-        "summary": "USA laut Trump auch nach Ende der Waffenruhe bereit zu Gesprächen +++ Vermittler aus Katar offenbar zu Gesprächen im Iran +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/international/iran-krieg-kreise-usa-fordern-klare-stellungnahme-irans-zu-strasse-von-hormus/100136895.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "EasyJet agrees to surprise takeover bid as rival US firm swoops in",
-        "summary": "The airline says a bid from US firm Apollo has trumped a recent takeover offer from Castlelake.",
-        "link": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
-      },
-      {
-        "title": "Poker um Easyjet: Neuer Flugstil",
-        "summary": "Im Bieterkampf um Easyjet zeigt sich ein Wandel bei der Konsolidierung der Flugbranche.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/easyjet-im-visier-von-finanzinvestoren-teurer-fuer-passagiere-201018315.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "+++ USA +++: USA mahnen geordneten Machtwechsel in Kolumbien an",
-        "summary": "Trump drängt Mitglieder aus unabhängiger Wahlkommission +++ Geplanter Anschlag an Trumps Geburtstag: Acht Männer angeklagt +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/international/usa-usa-mahnen-geordneten-machtwechsel-in-kolumbien-an/29669594.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
-        "summary": "The ASA says adverts claiming small devices can rapidly cool rooms were too good to be true.",
-        "link": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
       }
     ]
   },
   "niche_news": {
     "status": "ok",
-    "error": "Quellen nicht erreichbar: NASA Breaking News",
+    "error": null,
     "data": [
-      {
-        "title": "A Rare Comet Made History as the Third Known Interstellar Object to Fly Through Our Solar System. Studies Are Now Revealing the Mysterious Conditions in Which It Formed",
-        "summary": "In the latest research, telescope observations of 3I/ATLAS examine its chemical structure and suggest that it took shape in a peripheral region of a relatively calm planetary system",
-        "link": "https://www.smithsonianmag.com/science-nature/a-rare-comet-made-history-as-the-third-known-interstellar-object-to-fly-through-our-solar-system-studies-are-now-revealing-the-mysterious-the-mysterious-conditions-in-which-it-formed-180989037/",
-        "source": "Smithsonian",
-        "publisher": "Smithsonian",
-        "category": "Wissenschaft"
-      },
       {
         "title": "Ancient DNA reveals the mysterious collapse of Europe's megalith builders",
         "summary": "DNA from a 5,000-year-old French megalithic tomb reveals that the people buried before and after a population collapse were genetically unrelated, pointing to a major migration after a devastating crisis.",
@@ -197,6 +189,14 @@
         "source": "ScienceDaily – Archäologie",
         "publisher": "ScienceDaily",
         "category": "Archäologie"
+      },
+      {
+        "title": "A Vietnam Veteran Collected Fossils for 66 Years. One, Mislabeled 'Baby Lamprey,' Made Paleontologists Reconsider How Vertebrates Moved From Water to Land",
+        "summary": "The fossil turned out to be a hatchling of a crocodile-like creature, and it suggests, according to a new study, that early animals did not use metamorphosis to evolve to dwell on land",
+        "link": "https://www.smithsonianmag.com/science-nature/a-vietnam-veteran-collected-fossils-for-66-years-one-mislabeled-baby-lamprey-made-paleontologists-reconsider-how-vertebrates-moved-from-water-to-land-180988981/",
+        "source": "Smithsonian",
+        "publisher": "Smithsonian",
+        "category": "Wissenschaft"
       },
       {
         "title": "NSF plans cuts to core science programmes to fund White House initiative",

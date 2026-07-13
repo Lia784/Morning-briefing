@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T07:29:53+00:00",
-  "date_label": "Sunday, 12. July 2026",
+  "generated_at": "2026-07-13T08:18:57+00:00",
+  "date_label": "Monday, 13. July 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,8 +8,8 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25067.0898,
-        "change_pct": -0.2
+        "price": 25056.0391,
+        "change_pct": -0.04
       },
       {
         "name": "S&P 500",
@@ -26,14 +26,14 @@
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6269.9702,
-        "change_pct": -0.23
+        "price": 6256.46,
+        "change_pct": -0.22
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 68557.7266,
-        "change_pct": 1.2
+        "price": 67242.7266,
+        "change_pct": -1.92
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 55904,
-        "usd": 63818,
-        "change_24h_pct": -0.55
+        "eur": 55063,
+        "usd": 62991,
+        "change_24h_pct": -1.75
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1573.65,
-        "usd": 1796.4,
-        "change_24h_pct": -0.17
+        "eur": 1560.5,
+        "usd": 1785.17,
+        "change_24h_pct": -1.32
       }
     ]
   },
@@ -64,32 +64,32 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1419,
-        "change_pct": -0.02
+        "price": 1.145,
+        "change_pct": 0.14
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8517,
-        "change_pct": -0.1
+        "price": 0.8534,
+        "change_pct": 0.12
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9224,
-        "change_pct": -0.06
+        "price": 0.9241,
+        "change_pct": 0.22
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 161.672,
-        "change_pct": -0.53
+        "price": 162.034,
+        "change_pct": -0.2
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 184.554,
-        "change_pct": -0.58
+        "price": 185.429,
+        "change_pct": -0.11
       },
       {
         "name": "US 10Y Rendite",
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "F.A.Z.-Serie Schneller schlau: Gibt es den viel beschworenen Privatschulboom?",
-        "summary": "Lange hieß es, viele Mittelschichtfamilien würden aus Unzufriedenheit mit öffentlichen Schulen in großer Zahl in private Einrichtungen flüchten.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/schneller-schlau/gibt-es-den-viel-beschworenen-privatschulboom-201015279.html",
+        "title": "Foxconn, Apple und BYD in China: Zehn bis zwölf Stunden am Tag für 600 Euro im Monat",
+        "summary": "Im chinesischen Zhengzhou arbeiten die Menschen in zwei der größten Fabriken der Welt – zu niedrigen Löhnen, mit langen Schichten und politischer Kontrolle.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/12-stunden-am-tag-600-euro-im-monat-so-laeuft-die-arbeit-in-china-fuer-byd-apple-co-accg-201003031.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Volkswagen: Keine Mehrheit im Aufsichtsrat: VW-Chef Blume will Sparplan in Etappen durchbringen",
-        "summary": "Konzernchef Oliver Blume scheitert bei einer ersten Abstimmung in dem Kontrollgremium zu seinem Zukunftsplan.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/volkswagen-vw-droht-ein-monatelanger-machtkampf-um-werke-und-stellen/100239279.html",
+        "title": "Landwirtschaft: Deutsche Agrar-Erzeugerpreise mit größtem Rückgang seit Januar 2015",
+        "summary": "Agrarprodukte in Deutschland waren im Mai so günstig wie seit über elf Jahren nicht mehr.",
+        "link": "https://www.handelsblatt.com/politik/konjunktur/landwirtschaft-deutsche-agrar-erzeugerpreise-mit-groesstem-rueckgang-seit-januar-2015/100239743.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
-        "summary": "The German supermarket's $9bn US push targets urban hubs like Manhattan.",
-        "link": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
+        "title": "How to change bank, energy or broadband provider and save money",
+        "summary": "Changing your broadband or energy supplier, or even your bank, for a better deal is simpler than it used to be.",
+        "link": "https://www.bbc.co.uk/news/articles/cd7w98n2y3eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "verstrichenes Ultimatum: VW-Betriebsrat sieht massiven Vertrauensverlust in Belegschaft gegenüber Konzernspitze",
-        "summary": "Der VW-Konzern plant einen Großumbau – angeblich sollen Tausende Stellen weltweit wegfallen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vw-krise-betriebsrat-wirft-konzernchef-blume-vertrauensbruch-vor-accg-201020945.html",
+        "title": "Estland: Eine Digitalministerin, die Bücher liebt",
+        "summary": "Estland ist das europäische Musterland der Digitalisierung.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/estland-digitalministerin-liisa-ly-pakosta-liebt-buecher-accg-200989443.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "USA: Republikanischer US-Senator Lindsey Graham tot",
-        "summary": "Der Senator Lindsey Graham war seit 2003 Mitglied im Senat für den Bundesstaat South Carolina.",
-        "link": "https://www.handelsblatt.com/politik/international/usa-republikanischer-us-senator-lindsey-graham-tot/100239601.html",
+        "title": "Dax aktuell: Dax notiert nahezu unverändert – Ringen mit 25.000 Punkten geht weiter",
+        "summary": "Die neue Eskalation zwischen den USA und dem Iran belastet die Stimmung an den Börsen.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-nahezu-unveraendert-ringen-mit-25.000-punkten-geht-weiter/100239713.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Will Trump Accounts deliver for American children?",
-        "summary": "The White House has hailed the project as giving new generations a stake in the American dream, but the scheme has its critics.",
-        "link": "https://www.bbc.co.uk/news/articles/ckg55v9e2y9o?at_medium=RSS&at_campaign=rss",
+        "title": "The SpaceX IPO made history. One month on has it lost momentum?",
+        "summary": "A month on from the firm's stock market debut, the reality of how SpaceX currently makes money has seemed to come into clearer focus.",
+        "link": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Techgiganten: Apple verklagt Open AI",
-        "summary": "Der Elektronikkonzern wirft dem Entwickler von ChatGPT Diebstahl von Geschäftsgeheimnissen vor.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/diebstahl-von-geschaeftsgeheimnissen-apple-verklagt-open-ai-accg-201019871.html",
+        "title": "Transport von Baumaterial: Schüttflix in der Dieselkrise",
+        "summary": "Schüttflix-Gründer Christian Hülsewig hat eine Zeit lang kräftig expandiert.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/schuettflix-in-der-dieselkrise-was-plant-christian-huelsewig-accg-201015546.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "+++ USA +++: US-Senator Lindsey Graham tot",
-        "summary": "US-Regierung lädt Journalisten nach Berichterstattung vor +++ USA mahnen geordneten Machtwechsel in Kolumbien an +++ Brücke zwischen USA und Kanada soll Ende Juli öffnen +++ Der Newsblog",
-        "link": "https://www.handelsblatt.com/politik/international/usa-us-senator-lindsey-graham-tot/29669594.html",
+        "title": "Immobilien: Deutschlands bekanntester Luxus-Makler: Engel & Völkers ordnet seine Führung neu",
+        "summary": "Nach der Transformation räumt Jawed Barma den Chefposten bei Engel & Völkers.",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-engel-voelkers-ordnet-seine-fuehrung-neu/100239647.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Major car firms found not to have installed emissions-cheating devices",
-        "summary": "A High Court judge said some major car manufacturers did not install a device to cheat emissions testing.",
-        "link": "https://www.bbc.co.uk/news/articles/c0mye0d1297o?at_medium=RSS&at_campaign=rss",
+        "title": "US and Iran trade fire as tensions rise over Strait of Hormuz",
+        "summary": "Within hours of fresh US attacks, Iran said it had struck US military bases in Kuwait, Jordan and Bahrain.",
+        "link": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": null,
+    "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "Ancient DNA reveals the mysterious collapse of Europe's megalith builders",
-        "summary": "DNA from a 5,000-year-old French megalithic tomb reveals that the people buried before and after a population collapse were genetically unrelated, pointing to a major migration after a devastating crisis.",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260707054108.htm",
-        "source": "ScienceDaily – Archäologie",
+        "title": "Scientists used AI to crack one of water's biggest mysteries",
+        "summary": "Water’s odd behavior becomes even more dramatic when it is supercooled, but scientists have struggled to compare the many different ways of describing its microscopic structure.",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260707025047.htm",
+        "source": "ScienceDaily – Physik",
         "publisher": "ScienceDaily",
-        "category": "Archäologie"
+        "category": "Physik"
       },
       {
-        "title": "A Vietnam Veteran Collected Fossils for 66 Years. One, Mislabeled 'Baby Lamprey,' Made Paleontologists Reconsider How Vertebrates Moved From Water to Land",
-        "summary": "The fossil turned out to be a hatchling of a crocodile-like creature, and it suggests, according to a new study, that early animals did not use metamorphosis to evolve to dwell on land",
-        "link": "https://www.smithsonianmag.com/science-nature/a-vietnam-veteran-collected-fossils-for-66-years-one-mislabeled-baby-lamprey-made-paleontologists-reconsider-how-vertebrates-moved-from-water-to-land-180988981/",
-        "source": "Smithsonian",
-        "publisher": "Smithsonian",
-        "category": "Wissenschaft"
-      },
-      {
-        "title": "NSF plans cuts to core science programmes to fund White House initiative",
-        "summary": "Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02135-x A proposed clawback of already distributed research funds comes as the US agency’s budget is already squeezed and it struggling to clear a backlog o…",
-        "link": "https://www.nature.com/articles/d41586-026-02135-x",
+        "title": "Briefing Chat: The 30 year-legacy of a science icon — Dolly the sheep",
+        "summary": "Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02185-1 Nature staff discuss the landmark moment when a mammal was first cloned from an adult cell — plus, the first direct observation of ocean-floor crust…",
+        "link": "https://www.nature.com/articles/d41586-026-02185-1",
         "source": "Nature News",
         "publisher": "Nature",
         "category": "Forschung"
+      },
+      {
+        "title": "The Download: worms fight pollution, and geoengineering faces reality",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+        "link": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
+        "source": "MIT Technology Review",
+        "publisher": "MIT",
+        "category": "Technologie"
       }
     ]
   }

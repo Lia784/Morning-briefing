@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T08:18:57+00:00",
-  "date_label": "Monday, 13. July 2026",
+  "generated_at": "2026-07-14T07:11:43+00:00",
+  "date_label": "Tuesday, 14. July 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25056.0391,
-        "change_pct": -0.04
+        "price": 25114.25,
+        "change_pct": 0.19
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7575.3901,
-        "change_pct": 0.42
+        "price": 7515.3398,
+        "change_pct": -0.79
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26281.6094,
-        "change_pct": 0.29
+        "price": 25873.1797,
+        "change_pct": -1.55
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6256.46,
-        "change_pct": -0.22
+        "price": 6271.02,
+        "change_pct": 0.02
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 67242.7266,
-        "change_pct": -1.92
+        "price": 67743.5,
+        "change_pct": 0.74
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 55063,
-        "usd": 62991,
-        "change_24h_pct": -1.75
+        "eur": 54891,
+        "usd": 62515,
+        "change_24h_pct": -0.31
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1560.5,
-        "usd": 1785.17,
-        "change_24h_pct": -1.32
+        "eur": 1562.69,
+        "usd": 1779.75,
+        "change_24h_pct": 0.23
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.145,
-        "change_pct": 0.14
+        "price": 1.1392,
+        "change_pct": -0.11
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8534,
-        "change_pct": 0.12
+        "price": 0.8528,
+        "change_pct": 0.11
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9241,
-        "change_pct": 0.22
+        "price": 0.9279,
+        "change_pct": 0.52
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 162.034,
-        "change_pct": -0.2
+        "price": 162.351,
+        "change_pct": 0.29
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 185.429,
-        "change_pct": -0.11
+        "price": 184.889,
+        "change_pct": 0.15
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.569,
-        "change_pct": 0.66,
+        "price": 4.609,
+        "change_pct": 0.88,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Foxconn, Apple und BYD in China: Zehn bis zwölf Stunden am Tag für 600 Euro im Monat",
-        "summary": "Im chinesischen Zhengzhou arbeiten die Menschen in zwei der größten Fabriken der Welt – zu niedrigen Löhnen, mit langen Schichten und politischer Kontrolle.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/12-stunden-am-tag-600-euro-im-monat-so-laeuft-die-arbeit-in-china-fuer-byd-apple-co-accg-201003031.html",
+        "title": "„Deep-Precision-Strikes“: Berlin und Paris sprechen über weitreichende Raketen",
+        "summary": "Deutschland und Frankreich bemühen sich um gemeinsame neue Projekte in der Rüstung – auch in einer bislang nur von Nuklearmächten beherrschten Technik.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/weitreichende-raketen-deutschland-und-frankreich-kooperieren-accg-201024079.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Landwirtschaft: Deutsche Agrar-Erzeugerpreise mit größtem Rückgang seit Januar 2015",
-        "summary": "Agrarprodukte in Deutschland waren im Mai so günstig wie seit über elf Jahren nicht mehr.",
-        "link": "https://www.handelsblatt.com/politik/konjunktur/landwirtschaft-deutsche-agrar-erzeugerpreise-mit-groesstem-rueckgang-seit-januar-2015/100239743.html",
+        "title": "Trendviertel: Nördlich der Elbe locken in Hamburg gute Konditionen",
+        "summary": "Wohnraum in der Hansestadt bleibt knapp und lässt die Mieten steigen.",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wo-finden-kaeufer-in-hamburg-guenstigen-wohnraum/100235844.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "How to change bank, energy or broadband provider and save money",
-        "summary": "Changing your broadband or energy supplier, or even your bank, for a better deal is simpler than it used to be.",
-        "link": "https://www.bbc.co.uk/news/articles/cd7w98n2y3eo?at_medium=RSS&at_campaign=rss",
+        "title": "The secretive crypto firm backed by Farage's biggest donor",
+        "summary": "Tether is a giant in crytocurrency, an industry that Nigel Farage believes the UK should be embracing.",
+        "link": "https://www.bbc.co.uk/news/articles/cg4w6wqye32o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Estland: Eine Digitalministerin, die Bücher liebt",
-        "summary": "Estland ist das europäische Musterland der Digitalisierung.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/estland-digitalministerin-liisa-ly-pakosta-liebt-buecher-accg-200989443.html",
+        "title": "Reform des Datenschutzes: Dobrindt tritt auf die Bremse",
+        "summary": "Von wegen Datenschutzreform: Ausgerechnet der zuständige Bundesinnenminister verzögert ein wichtiges Vorhaben der Bundesregierung.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/reform-des-datenschutzes-dobrindt-tritt-auf-die-bremse-201018996.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Dax aktuell: Dax notiert nahezu unverändert – Ringen mit 25.000 Punkten geht weiter",
-        "summary": "Die neue Eskalation zwischen den USA und dem Iran belastet die Stimmung an den Börsen.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-nahezu-unveraendert-ringen-mit-25.000-punkten-geht-weiter/100239713.html",
+        "title": "Trendviertel: Leipzig – In diesen Vierteln sollten Interessenten zugreifen",
+        "summary": "Die sächsische Metropole gehört zu den Boomstädten im Osten Deutschlands.",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-in-diesen-leipziger-vierteln-sollten-kaeufer-zugreifen/100236970.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "The SpaceX IPO made history. One month on has it lost momentum?",
-        "summary": "A month on from the firm's stock market debut, the reality of how SpaceX currently makes money has seemed to come into clearer focus.",
-        "link": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss",
+        "title": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
+        "summary": "Simon Andriesz made the discovery about Howard Lutnick in publicly released Epstein files.",
+        "link": "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Transport von Baumaterial: Schüttflix in der Dieselkrise",
-        "summary": "Schüttflix-Gründer Christian Hülsewig hat eine Zeit lang kräftig expandiert.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/schuettflix-in-der-dieselkrise-was-plant-christian-huelsewig-accg-201015546.html",
+        "title": "Neue Wirtschaftsbücher: Die Geschichte des Geldes",
+        "summary": "Der Ökonom Barry Eichengreen zeichnet in seinem Buch die Geschichte der internationalen Währungen von der Erfindung der Münzen bis hin zu den Kryptowährungen nach.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/buchrezension-barry-eichengreen-die-geschichte-der-waehrungen-accg-200962491.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Immobilien: Deutschlands bekanntester Luxus-Makler: Engel & Völkers ordnet seine Führung neu",
-        "summary": "Nach der Transformation räumt Jawed Barma den Chefposten bei Engel & Völkers.",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-engel-voelkers-ordnet-seine-fuehrung-neu/100239647.html",
+        "title": "Trendviertel: „Es gibt teuer und sehr teuer“: Immobilienpreise in München steigen weiter – noch unter der Schmerzgrenze",
+        "summary": "Die höchsten Mieten, die höchsten Preise, aber München wächst weiter.",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-muenchen-bleibt-fuer-kaeufer-die-stadt-mit-den-hoechsten-preisen/100235845.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "US and Iran trade fire as tensions rise over Strait of Hormuz",
-        "summary": "Within hours of fresh US attacks, Iran said it had struck US military bases in Kuwait, Jordan and Bahrain.",
-        "link": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss",
+        "title": "'I don't want to seem tight': How much should you give to the year-end teacher collection?",
+        "summary": "Collecting money for a joint present might overcome the competitive gift-giving, but it can still cause friction.",
+        "link": "https://www.bbc.co.uk/news/articles/ckg8x4vk04vo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": "Quellen nicht erreichbar: NASA Breaking News",
+    "error": null,
     "data": [
       {
-        "title": "Scientists used AI to crack one of water's biggest mysteries",
-        "summary": "Water’s odd behavior becomes even more dramatic when it is supercooled, but scientists have struggled to compare the many different ways of describing its microscopic structure.",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260707025047.htm",
-        "source": "ScienceDaily – Physik",
+        "title": "Deep-sea life has a secret food source scientists never expected",
+        "summary": "Scientists discovered that extreme deep-sea pressure squeezes valuable nutrients out of sinking organic particles, providing an unexpected food source for ocean microbes.",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260711010127.htm",
+        "source": "ScienceDaily – Tiere",
         "publisher": "ScienceDaily",
-        "category": "Physik"
+        "category": "Biologie"
       },
       {
-        "title": "Briefing Chat: The 30 year-legacy of a science icon — Dolly the sheep",
-        "summary": "Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02185-1 Nature staff discuss the landmark moment when a mammal was first cloned from an adult cell — plus, the first direct observation of ocean-floor crust…",
-        "link": "https://www.nature.com/articles/d41586-026-02185-1",
+        "title": "Epigenetic editing makes its mark",
+        "summary": "Nature, Published online: 13 July 2026; doi:10.1038/d41586-026-02151-x Researchers are rewriting the chemical tags on DNA and chromatin to tune gene expression.",
+        "link": "https://www.nature.com/articles/d41586-026-02151-x",
         "source": "Nature News",
         "publisher": "Nature",
         "category": "Forschung"
       },
       {
-        "title": "The Download: worms fight pollution, and geoengineering faces reality",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
-        "link": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
-        "source": "MIT Technology Review",
-        "publisher": "MIT",
-        "category": "Technologie"
+        "title": "'Stupid Hot': Heat Waves Muddle the Minds of Animals and Humans as Confusion and Aggression Seem to Rise With the Temperature",
+        "summary": "Wide-ranging research suggests that as temperatures increase, some creatures pick fights while others struggle to learn.",
+        "link": "https://www.smithsonianmag.com/science-nature/stupid-hot-heat-waves-muddle-the-minds-of-animals-and-humans-as-confusion-and-aggression-seem-to-rise-with-the-temperature-180988902/",
+        "source": "Smithsonian",
+        "publisher": "Smithsonian",
+        "category": "Wissenschaft"
       }
     ]
   }

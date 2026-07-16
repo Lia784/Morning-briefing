@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T07:16:30+00:00",
-  "date_label": "Wednesday, 15. July 2026",
+  "generated_at": "2026-07-16T07:24:05+00:00",
+  "date_label": "Thursday, 16. July 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25114.25,
-        "change_pct": 0.19
+        "price": 24980.6406,
+        "change_pct": -0.08
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": NaN,
-        "change_pct": NaN
+        "price": 7572.3999,
+        "change_pct": 0.38
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": NaN,
-        "change_pct": NaN
+        "price": 26269.2305,
+        "change_pct": 0.62
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6260.9302,
-        "change_pct": -0.16
+        "price": 6278.2402,
+        "change_pct": 0.2
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 68751.5078,
-        "change_pct": 2.24
+        "price": 66835.5391,
+        "change_pct": -2.79
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 56713,
-        "usd": 64823,
-        "change_24h_pct": 3.29
+        "eur": 56273,
+        "usd": 64552,
+        "change_24h_pct": -0.47
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1640.68,
-        "usd": 1875.3,
-        "change_24h_pct": 4.89
+        "eur": 1672.01,
+        "usd": 1918.0,
+        "change_24h_pct": 2.2
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1434,
-        "change_pct": 0.43
+        "price": 1.1474,
+        "change_pct": 0.44
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.852,
-        "change_pct": -0.08
+        "price": 0.8473,
+        "change_pct": -0.63
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9246,
-        "change_pct": -0.28
+        "price": 0.924,
+        "change_pct": -0.03
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 162.215,
-        "change_pct": -0.13
+        "price": 162.016,
+        "change_pct": -0.11
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 185.421,
+        "price": 185.84,
         "change_pct": 0.3
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.609,
-        "change_pct": 0.88,
+        "price": 4.545,
+        "change_pct": -0.87,
         "unit": "%"
       }
     ]
@@ -113,41 +113,17 @@
         "category": ""
       },
       {
-        "title": "+++ USA +++: US-Senatoren stellen Gesetz für neue Russland-Sanktionen vor",
-        "summary": "Trump zahlt nach Gerichtsurteil 5,6 Millionen Dollar an Autorin Carroll +++ Richterin kippt Trumps Steuervergleich mit Finanzamt +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/international/usa-us-senatoren-stellen-gesetz-fuer-neue-russland-sanktionen-vor/29669594.html",
+        "title": "Ukraine: Präsident Selenskyj entlässt populären Armeereformer: „Eins der dümmsten Dinge, die er gemacht hat“",
+        "summary": "Verteidigungsminister Mychajlo Fedorow war ein Modernisierer und Hoffnungsträger.",
+        "link": "https://www.handelsblatt.com/politik/international/ukraine-praesident-selenskyj-entlaesst-populaeren-armeereformer/100240580.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Thames Water returns to profit after raising bills",
-        "summary": "The UK's largest water company reported a post-tax profit for the 12 months to the end of March, but its net debt also swelled.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gygy43103o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
-      },
-      {
-        "title": "Schrumpfende Gemeinden: Die Gegner von Bullerbü",
-        "summary": "150 Menschen wollen ins brandenburgische Wiesenburg ziehen, die ersten Holzhäuser stehen schon.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/wiesenburg-wenn-schrumpfende-gemeinden-ums-wachsen-kaempfen-accg-200983407.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "Vermögen: Bin ich schon reich oder nicht? Dieser Rechner liefert Ihnen die Antwort",
-        "summary": "Trotz Inflation zeigen aktuelle Daten, dass die Vermögen in Deutschland gewachsen sind.",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/vermoegen-dieser-rechner-zeigt-wie-viel-geld-ihnen-zum-reichtum-fehlt/100149729.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "Heating oil customers to get compensation after price hikes",
-        "summary": "The cost of heating oil spiked following the US-Israel war with Iran which forced up crude prices.",
-        "link": "https://www.bbc.co.uk/news/articles/cy494yypnv3o?at_medium=RSS&at_campaign=rss",
+        "title": "British Steel taken into public ownership to protect 'vital' UK supply",
+        "summary": "The Scunthorpe steelworks has been officially nationalised under new government powers passed this week.",
+        "link": "https://www.bbc.co.uk/news/articles/c5y680w62wno?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -161,17 +137,41 @@
         "category": ""
       },
       {
-        "title": "Rente: Bis zu 393.000 Euro extra möglich: Diese Zahlen zeigen, wie viel Kapitalrente Sie bekommen könnten",
-        "summary": "2028 soll die Kapitalrente starten.",
-        "link": "https://www.handelsblatt.com/finanzen/kapitalrente-wie-viel-geld-kann-ich-fuer-meine-altersvorsorge-ansparen/100235426.html",
+        "title": "Trendviertel: „Es gibt teuer und sehr teuer“: Immobilienpreise in München steigen weiter – noch unter der Schmerzgrenze",
+        "summary": "Die höchsten Mieten, die höchsten Preise, aber München wächst weiter.",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-muenchen-bleibt-spitzenreiter-bei-kauf-und-mietpreisen/100235845.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Buy Now Pay Later rules to bring refunds and rejections",
-        "summary": "Consumers should be better protected as Buy Now Pay Later lenders now require authorisation to operate.",
-        "link": "https://www.bbc.co.uk/news/articles/c9q283r9px3o?at_medium=RSS&at_campaign=rss",
+        "title": "UK economy returns to growth in May",
+        "summary": "The modest growth reverses a slight contraction that had been seen the previous month.",
+        "link": "https://www.bbc.co.uk/news/articles/c8xnllq944go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
+        "title": "Kernfusion: Dauerfeuer oder dauernd feuern?",
+        "summary": "Im Rennen um das erste Fusionskraftwerk der Welt stehen Laser- und Magnetfusion im Wettbewerb.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kernfusion-in-deutschland-laser-oder-magnetfusion-accg-200904319.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "Interaktiver Rechner: Ehepaar, Single, Eltern: Errechnen Sie Ihr künftiges Netto nach der Steuerreform",
+        "summary": "Das Reformpaket soll niedrige und mittlere Einkommen entlasten und Gutverdiener belasten.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/reformpaket-so-veraendert-die-steuerreform-ihr-nettoeinkommen/100237570.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "Celebrity influencers paid up to £1m to advertise deodorant on Instagram",
+        "summary": "The chief executive of Wild reveals what happens behind the scenes of social media posts.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgegqrp656o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,25 +183,25 @@
     "error": null,
     "data": [
       {
-        "title": "Lafcadio Hearn Japanese Gardens in Tramore, Ireland",
-        "summary": "The lesser-known of just two Japanese Gardens in Ireland, the Lafcadio Hearn Japanese Gardens are an enchanting homage to a remarkable writer, traveler and man of the world, and a tranquil place of great curation and be…",
-        "link": "https://www.atlasobscura.com/places/lafcadio-hearn-japanese-gardens",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
+        "title": "A 37-year soil experiment revealed a hidden climate threat",
+        "summary": "The world's longest-running soil warming experiment has revealed an unexpected climate concern.",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260713000809.htm",
+        "source": "ScienceDaily – Tiere",
+        "publisher": "ScienceDaily",
+        "category": "Biologie"
       },
       {
-        "title": "NASA’s Roman Telescope Will Spot Distant Black Holes That Shred Stars",
-        "summary": "Lee esta nota de prensa en español aquí.",
-        "link": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-telescope-will-spot-distant-black-holes-that-shred-stars/",
-        "source": "NASA Breaking News",
-        "publisher": "NASA",
-        "category": "Raumfahrt"
+        "title": "An ATPγS recycling strategy for practical biocatalytic thiophosphorylation",
+        "summary": "Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10895-9 An ATPγS recycling strategy for practical biocatalytic thiophosphorylation",
+        "link": "https://www.nature.com/articles/s41586-026-10895-9",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
       },
       {
-        "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
-        "summary": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory.",
-        "link": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
+        "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+        "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks.",
+        "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
         "source": "MIT Technology Review",
         "publisher": "MIT",
         "category": "Technologie"

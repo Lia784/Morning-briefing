@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T07:24:05+00:00",
-  "date_label": "Thursday, 16. July 2026",
+  "generated_at": "2026-07-17T07:19:36+00:00",
+  "date_label": "Friday, 17. July 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 24980.6406,
-        "change_pct": -0.08
+        "price": 24761.9805,
+        "change_pct": -0.62
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7572.3999,
-        "change_pct": 0.38
+        "price": 7533.77,
+        "change_pct": -0.51
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26269.2305,
-        "change_pct": 0.62
+        "price": 25881.9492,
+        "change_pct": -1.47
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6278.2402,
-        "change_pct": 0.2
+        "price": 6222.0601,
+        "change_pct": -0.98
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 66835.5391,
-        "change_pct": -2.79
+        "price": 64141.1211,
+        "change_pct": -4.03
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 56273,
-        "usd": 64552,
-        "change_24h_pct": -0.47
+        "eur": 54867,
+        "usd": 62817,
+        "change_24h_pct": -2.51
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1672.01,
-        "usd": 1918.0,
-        "change_24h_pct": 2.2
+        "eur": 1596.8,
+        "usd": 1828.18,
+        "change_24h_pct": -4.51
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1474,
-        "change_pct": 0.44
+        "price": 1.145,
+        "change_pct": -0.18
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8473,
-        "change_pct": -0.63
+        "price": 0.85,
+        "change_pct": 0.36
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.924,
-        "change_pct": -0.03
+        "price": 0.9245,
+        "change_pct": 0.17
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 162.016,
-        "change_pct": -0.11
+        "price": 162.177,
+        "change_pct": 0.06
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 185.84,
-        "change_pct": 0.3
+        "price": 185.631,
+        "change_pct": -0.13
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.545,
-        "change_pct": -0.87,
+        "price": 4.569,
+        "change_pct": 0.53,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Bosch in der Krise: Der schwäbische Ingenieur als hemmender Faktor",
-        "summary": "Bosch muss seine Denkweise grundlegend verändern.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/stefan-hartung-warum-bosch-der-wandel-nicht-gelingt-201011603.html",
+        "title": "Deutsche Arbeitsplätze in Gefahr: Das Ende der Privilegien für die Autowerker",
+        "summary": "Seit Jahren wird immer mehr der einstigen deutschen Autoproduktion ins Ausland verlegt.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/autoproduktion-in-deutschland-ende-der-privilegien-201029880.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Ukraine: Präsident Selenskyj entlässt populären Armeereformer: „Eins der dümmsten Dinge, die er gemacht hat“",
-        "summary": "Verteidigungsminister Mychajlo Fedorow war ein Modernisierer und Hoffnungsträger.",
-        "link": "https://www.handelsblatt.com/politik/international/ukraine-praesident-selenskyj-entlaesst-populaeren-armeereformer/100240580.html",
+        "title": "Dax aktuell: Dax öffnet im Minus – Konjunkturdaten im Fokus",
+        "summary": "Der deutsche Leitindex versucht weiterhin, die Marke von 25.000 Punkten zu halten.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-oeffnet-im-minus-konjunkturdaten-im-fokus/100240940.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "British Steel taken into public ownership to protect 'vital' UK supply",
-        "summary": "The Scunthorpe steelworks has been officially nationalised under new government powers passed this week.",
-        "link": "https://www.bbc.co.uk/news/articles/c5y680w62wno?at_medium=RSS&at_campaign=rss",
+        "title": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
+        "summary": "Economics editor Faisal Islam examines whether the north-west city can be a template for the entire country.",
+        "link": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Wandel in der Bildung: Warum ein Informatikstudium im KI-Zeitalter wichtiger wird",
-        "summary": "Die KI-Revolution frisst nicht ihre Kinder.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-und-studium-warum-ein-informatikstudium-kuenftig-wichtiger-wird-accg-201025120.html",
+        "title": "Klimaschutz in Europa: Wie geht es mit dem Emissionshandel in der EU weiter?",
+        "summary": "Steht Klimaschutz gegen Wettbewerbsfähigkeit?",
+        "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/zukunft-des-ets-wie-geht-es-mit-dem-emissionshandel-in-der-eu-weiter-accg-201039233.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Trendviertel: „Es gibt teuer und sehr teuer“: Immobilienpreise in München steigen weiter – noch unter der Schmerzgrenze",
-        "summary": "Die höchsten Mieten, die höchsten Preise, aber München wächst weiter.",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-muenchen-bleibt-spitzenreiter-bei-kauf-und-mietpreisen/100235845.html",
+        "title": "Bautätigkeit: Erneut mehr neue Wohnungen genehmigt",
+        "summary": "Wohnraum bleibt vorerst knapp.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/bautaetigkeit-erneut-mehr-neue-wohnungen-genehmigt/100240958.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "UK economy returns to growth in May",
-        "summary": "The modest growth reverses a slight contraction that had been seen the previous month.",
-        "link": "https://www.bbc.co.uk/news/articles/c8xnllq944go?at_medium=RSS&at_campaign=rss",
+        "title": "China hits out at British Steel nationalisation",
+        "summary": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
+        "link": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Kernfusion: Dauerfeuer oder dauernd feuern?",
-        "summary": "Im Rennen um das erste Fusionskraftwerk der Welt stehen Laser- und Magnetfusion im Wettbewerb.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kernfusion-in-deutschland-laser-oder-magnetfusion-accg-200904319.html",
+        "title": "Stablecoins: Von null auf 320 Milliarden Dollar",
+        "summary": "Der Markt für Stablecoins ist in den vergangenen Jahren kräftig gewachsen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/wachsender-markt-keine-angst-vor-stablecoins-accg-201025520.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Interaktiver Rechner: Ehepaar, Single, Eltern: Errechnen Sie Ihr künftiges Netto nach der Steuerreform",
-        "summary": "Das Reformpaket soll niedrige und mittlere Einkommen entlasten und Gutverdiener belasten.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/reformpaket-so-veraendert-die-steuerreform-ihr-nettoeinkommen/100237570.html",
+        "title": "Russland: „Angespannt wie seit dem Kalten Krieg nicht mehr“: So läuft Putins geheimer Krieg gegen Deutschland",
+        "summary": "Cyberattacken, Drohnen über Militäranlagen, Angriffe aufs Stromnetz: Ausländische Mächte führen einen verborgenen Krieg gegen die Bundesrepublik.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/russland-so-laeuft-putins-geheimer-krieg-gegen-deutschland/100239149.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Celebrity influencers paid up to £1m to advertise deodorant on Instagram",
-        "summary": "The chief executive of Wild reveals what happens behind the scenes of social media posts.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgegqrp656o?at_medium=RSS&at_campaign=rss",
+        "title": "The financial winners and losers from the World Cup",
+        "summary": "Big bucks are being made from the 2026 tournament off the field, but who is raking in the most?",
+        "link": "https://www.bbc.co.uk/news/articles/cgrkek8lrzvo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,25 +183,25 @@
     "error": null,
     "data": [
       {
-        "title": "A 37-year soil experiment revealed a hidden climate threat",
-        "summary": "The world's longest-running soil warming experiment has revealed an unexpected climate concern.",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260713000809.htm",
-        "source": "ScienceDaily – Tiere",
+        "title": "Eating chili peppers may raise the risk of one deadly cancer",
+        "summary": "A major review found that people who consumed the most chili peppers had a substantially higher risk of esophageal cancer, though the evidence was less clear for stomach and colorectal cancers.",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260713084921.htm",
+        "source": "ScienceDaily – Gesundheit",
         "publisher": "ScienceDaily",
-        "category": "Biologie"
+        "category": "Medizin"
       },
       {
-        "title": "An ATPγS recycling strategy for practical biocatalytic thiophosphorylation",
-        "summary": "Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10895-9 An ATPγS recycling strategy for practical biocatalytic thiophosphorylation",
-        "link": "https://www.nature.com/articles/s41586-026-10895-9",
+        "title": "‘Explosive diarrhoea’ outbreak grips US: how researchers are hunting its source",
+        "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02225-w Cases have hit record levels, and scientists are racing to pinpoint where the Cyclospora parasite entered the food supply.",
+        "link": "https://www.nature.com/articles/d41586-026-02225-w",
         "source": "Nature News",
         "publisher": "Nature",
         "category": "Forschung"
       },
       {
-        "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-        "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks.",
-        "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+        "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+        "link": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
         "source": "MIT Technology Review",
         "publisher": "MIT",
         "category": "Technologie"

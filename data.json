@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T07:19:36+00:00",
-  "date_label": "Friday, 17. July 2026",
+  "generated_at": "2026-07-18T07:00:57+00:00",
+  "date_label": "Saturday, 18. July 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,26 +8,26 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 24761.9805,
-        "change_pct": -0.62
+        "price": 24830.9805,
+        "change_pct": -0.34
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7533.77,
-        "change_pct": -0.51
+        "price": 7457.6899,
+        "change_pct": -1.01
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25881.9492,
-        "change_pct": -1.47
+        "price": 25520.2402,
+        "change_pct": -1.4
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6222.0601,
-        "change_pct": -0.98
+        "price": 6230.8701,
+        "change_pct": -0.84
       },
       {
         "name": "Nikkei 225",
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 54867,
-        "usd": 62817,
-        "change_24h_pct": -2.51
+        "eur": 55903,
+        "usd": 63936,
+        "change_24h_pct": 1.84
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1596.8,
-        "usd": 1828.18,
-        "change_24h_pct": -4.51
+        "eur": 1612.01,
+        "usd": 1843.65,
+        "change_24h_pct": 0.84
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.145,
-        "change_pct": -0.18
+        "price": 1.1446,
+        "change_pct": -0.22
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.85,
-        "change_pct": 0.36
+        "price": 0.8502,
+        "change_pct": 0.12
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9245,
-        "change_pct": 0.17
+        "price": 0.923,
+        "change_pct": 0.01
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 162.177,
-        "change_pct": 0.06
+        "price": 162.353,
+        "change_pct": 0.17
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 185.631,
-        "change_pct": -0.13
+        "price": 185.762,
+        "change_pct": -0.06
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.569,
-        "change_pct": 0.53,
+        "price": 4.541,
+        "change_pct": -0.61,
         "unit": "%"
       }
     ]
@@ -105,17 +105,17 @@
     "error": null,
     "data": [
       {
-        "title": "Deutsche Arbeitsplätze in Gefahr: Das Ende der Privilegien für die Autowerker",
-        "summary": "Seit Jahren wird immer mehr der einstigen deutschen Autoproduktion ins Ausland verlegt.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/autoproduktion-in-deutschland-ende-der-privilegien-201029880.html",
+        "title": "Fahrende Villen auf dem Meer: Wenn auf Luxusyachten Bäume wachsen",
+        "summary": "Größere Yachten verkaufen sich gut, kleinere weniger.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/sanlorenzo-luxusyachten-mit-feigenbaum-und-us-expansion-accg-201039596.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Dax aktuell: Dax öffnet im Minus – Konjunkturdaten im Fokus",
-        "summary": "Der deutsche Leitindex versucht weiterhin, die Marke von 25.000 Punkten zu halten.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-oeffnet-im-minus-konjunkturdaten-im-fokus/100240940.html",
+        "title": "+++ Bundespolitik +++: Auch Wadephul für Schuldenbremse-Ausnahme für Ukraine-Hilfen",
+        "summary": "ZDF-Politbarometer – Große Mehrheit lehnt Gesundheitsreform ab +++ Warken will Online-Krankschreibungen ohne Arztkontakt stoppen +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-auch-wadephul-fuer-schuldenbremse-ausnahme-fuer-ukraine-hilfen/100137034.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -129,49 +129,49 @@
         "category": ""
       },
       {
-        "title": "Klimaschutz in Europa: Wie geht es mit dem Emissionshandel in der EU weiter?",
-        "summary": "Steht Klimaschutz gegen Wettbewerbsfähigkeit?",
-        "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/zukunft-des-ets-wie-geht-es-mit-dem-emissionshandel-in-der-eu-weiter-accg-201039233.html",
+        "title": "Jensen Huang: Lederjacke von Nvidia-Chef für fast eine Million versteigert",
+        "summary": "Das Auktionshaus Sotheby's hatte den Wert des Kleidungsstückes im Vorfeld auf 60.000 Dollar geschätzt.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/jensen-huangs-lederjacke-bei-sothebys-fuer-960-000-dollar-accg-201042523.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Bautätigkeit: Erneut mehr neue Wohnungen genehmigt",
-        "summary": "Wohnraum bleibt vorerst knapp.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/bautaetigkeit-erneut-mehr-neue-wohnungen-genehmigt/100240958.html",
+        "title": "+++ Iran-Krieg +++: USA beenden siebte Angriffsnacht gegen Iran – Explosionen in Chorramabad",
+        "summary": "Durchfahrten durch Straße von Hormus auf Dreiwochentief +++ Wadephul warnt vor Wiederbewaffnung der Hamas und lehnt Israel-Sanktionen ab +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/international/iran-krieg-usa-beenden-siebte-angriffsnacht-gegen-iran-explosionen-in-chorramabad/100136895.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "China hits out at British Steel nationalisation",
-        "summary": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
-        "link": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
+        "title": "Five headaches Andy Burnham will have to deal with as PM",
+        "summary": "From defence spending to housing - the next UK leader has a series of challenges to deal with.",
+        "link": "https://www.bbc.co.uk/news/articles/c62122pgjqdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Stablecoins: Von null auf 320 Milliarden Dollar",
-        "summary": "Der Markt für Stablecoins ist in den vergangenen Jahren kräftig gewachsen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/wachsender-markt-keine-angst-vor-stablecoins-accg-201025520.html",
+        "title": "Tesla vorne: Mehr als 50 Millionen Euro für E-Auto-Prämien",
+        "summary": "Seit knapp zwei Monaten gibt es wieder eine staatliche Förderung, um das Geschäft mit Elektroautos in Deutschland anzukurbeln.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/elektroauto-kaufpraemien-50-millionen-euro-ausgezahlt-accg-201042491.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Russland: „Angespannt wie seit dem Kalten Krieg nicht mehr“: So läuft Putins geheimer Krieg gegen Deutschland",
-        "summary": "Cyberattacken, Drohnen über Militäranlagen, Angriffe aufs Stromnetz: Ausländische Mächte führen einen verborgenen Krieg gegen die Bundesrepublik.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/russland-so-laeuft-putins-geheimer-krieg-gegen-deutschland/100239149.html",
+        "title": "Dow, S&P, Nasdaq: Apple löst Nvidia als wertvollsten Konzern ab – Anleger haben neue Favoriten",
+        "summary": "KI-Sorgen und der wiederaufflammende Irankrieg treffen den Markt gleichzeitig.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-sp-nasdaq-apple-loest-nvidia-als-wertvollsten-konzern-ab/100241066.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "The financial winners and losers from the World Cup",
-        "summary": "Big bucks are being made from the 2026 tournament off the field, but who is raking in the most?",
-        "link": "https://www.bbc.co.uk/news/articles/cgrkek8lrzvo?at_medium=RSS&at_campaign=rss",
+        "title": "Brewdog founder faces data complaints over efforts to buy back firm",
+        "summary": "The UK data watchdog has received complaints after James Watt reportedly contacted former shareholders.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gw9pp0xlno?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,28 +183,28 @@
     "error": null,
     "data": [
       {
-        "title": "Eating chili peppers may raise the risk of one deadly cancer",
-        "summary": "A major review found that people who consumed the most chili peppers had a substantially higher risk of esophageal cancer, though the evidence was less clear for stomach and colorectal cancers.",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260713084921.htm",
-        "source": "ScienceDaily – Gesundheit",
-        "publisher": "ScienceDaily",
-        "category": "Medizin"
+        "title": "Saint-Thibault Chapel in La Chapelle-au-Mans, France",
+        "summary": "On a remote hill in the middle of nowhere in southern Burgundy stands a small chapel.",
+        "link": "https://www.atlasobscura.com/places/chapelle-saint-thibault",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
       },
       {
-        "title": "‘Explosive diarrhoea’ outbreak grips US: how researchers are hunting its source",
-        "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02225-w Cases have hit record levels, and scientists are racing to pinpoint where the Cyclospora parasite entered the food supply.",
-        "link": "https://www.nature.com/articles/d41586-026-02225-w",
+        "title": "Found: a rocky exoplanet with an atmosphere — could it host life?",
+        "summary": "Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02200-5 Astronomers have spotted helium escaping from LHS 1140b, an exoplanet orbiting in its star’s ‘habitable zone’.",
+        "link": "https://www.nature.com/articles/d41586-026-02200-5",
         "source": "Nature News",
         "publisher": "Nature",
         "category": "Forschung"
       },
       {
-        "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
-        "link": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
-        "source": "MIT Technology Review",
-        "publisher": "MIT",
-        "category": "Technologie"
+        "title": "Speed Limits for Ships Protect Endangered Right Whales From Vessel Strikes. Could the Animals Survive Without Them?",
+        "summary": "Since 2008, rules requiring ships to slow down to avoid collisions with North Atlantic right whales have reduced fatalities of the critically endangered animals.",
+        "link": "https://www.smithsonianmag.com/science-nature/speed-limits-for-ships-protect-endangered-right-whales-from-vessel-strikes-could-the-animals-survive-without-them-180989013/",
+        "source": "Smithsonian",
+        "publisher": "Smithsonian",
+        "category": "Wissenschaft"
       }
     ]
   }

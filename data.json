@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T07:00:57+00:00",
-  "date_label": "Saturday, 18. July 2026",
+  "generated_at": "2026-07-19T07:28:18+00:00",
+  "date_label": "Sunday, 19. July 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 55903,
-        "usd": 63936,
-        "change_24h_pct": 1.84
+        "eur": 56546,
+        "usd": 64671,
+        "change_24h_pct": 1.1
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1612.01,
-        "usd": 1843.65,
-        "change_24h_pct": 0.84
+        "eur": 1633.23,
+        "usd": 1867.92,
+        "change_24h_pct": 1.31
       }
     ]
   },
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Fahrende Villen auf dem Meer: Wenn auf Luxusyachten Bäume wachsen",
-        "summary": "Größere Yachten verkaufen sich gut, kleinere weniger.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/sanlorenzo-luxusyachten-mit-feigenbaum-und-us-expansion-accg-201039596.html",
+        "title": "Deutschlands Reformen: „Die Erzählung vom Sozialabbau entbehrt jeder Grundlage“",
+        "summary": "Der ehemalige Caritas-Chef Georg Cremer sorgt sich, dass selbst gute Politik nicht wahrgenommen wird.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/sozialabbau-in-deutschland-was-georg-cremer-von-der-caritas-sagt-accg-201039635.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "+++ Bundespolitik +++: Auch Wadephul für Schuldenbremse-Ausnahme für Ukraine-Hilfen",
-        "summary": "ZDF-Politbarometer – Große Mehrheit lehnt Gesundheitsreform ab +++ Warken will Online-Krankschreibungen ohne Arztkontakt stoppen +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-auch-wadephul-fuer-schuldenbremse-ausnahme-fuer-ukraine-hilfen/100137034.html",
+        "title": "CSU: „Wadlbeißer“ mit weichem Herz – Erwin Huber wird 80",
+        "summary": "Parteisoldat – so nannte er sich, so nannten sie ihn.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/csu-wadlbeisser-mit-weichem-herz-erwin-huber-wird-80/100241288.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
-        "summary": "Economics editor Faisal Islam examines whether the north-west city can be a template for the entire country.",
-        "link": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss",
+        "title": "New EU border system tripling time at passport control, airport boss says",
+        "summary": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
+        "link": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Jensen Huang: Lederjacke von Nvidia-Chef für fast eine Million versteigert",
-        "summary": "Das Auktionshaus Sotheby's hatte den Wert des Kleidungsstückes im Vorfeld auf 60.000 Dollar geschätzt.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/jensen-huangs-lederjacke-bei-sothebys-fuer-960-000-dollar-accg-201042523.html",
+        "title": "Allein vor Gericht: „Ich dachte, es geht um den Pkw-Stellplatz?“",
+        "summary": "Vor den Sozialgerichten vertreten sich viele Menschen selbst, ganz ohne Anwalt.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/ohne-anwalt-vor-gericht-warum-sich-viele-menschen-selbst-vertreten-accg-200939635.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "+++ Iran-Krieg +++: USA beenden siebte Angriffsnacht gegen Iran – Explosionen in Chorramabad",
-        "summary": "Durchfahrten durch Straße von Hormus auf Dreiwochentief +++ Wadephul warnt vor Wiederbewaffnung der Hamas und lehnt Israel-Sanktionen ab +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/international/iran-krieg-usa-beenden-siebte-angriffsnacht-gegen-iran-explosionen-in-chorramabad/100136895.html",
+        "title": "Umweltkatastrophe: Schweres Erdbeben erschüttert Peru",
+        "summary": "Erneut bebt in dem südamerikanischen Land die Erde.",
+        "link": "https://www.handelsblatt.com/politik/international/umweltkatastrophe-schweres-erdbeben-erschuettert-peru/100241285.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Five headaches Andy Burnham will have to deal with as PM",
-        "summary": "From defence spending to housing - the next UK leader has a series of challenges to deal with.",
-        "link": "https://www.bbc.co.uk/news/articles/c62122pgjqdo?at_medium=RSS&at_campaign=rss",
+        "title": "'My buyers dropped their offer by £15,000 the day before exchange': Gazundering and how to avoid it",
+        "summary": "It's a small but growing problem in the property market - here's how to protect yourself.",
+        "link": "https://www.bbc.co.uk/news/articles/c3d39r338m0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Tesla vorne: Mehr als 50 Millionen Euro für E-Auto-Prämien",
-        "summary": "Seit knapp zwei Monaten gibt es wieder eine staatliche Förderung, um das Geschäft mit Elektroautos in Deutschland anzukurbeln.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/elektroauto-kaufpraemien-50-millionen-euro-ausgezahlt-accg-201042491.html",
+        "title": "Neue EU-Pflicht: Warum Autos jetzt jeden Blick überwachen",
+        "summary": "Neue Kameras im Auto sollen ablenkende Blicke sofort erkennen – Teil der EU-Vision, die Zahl der Verkehrstoten auf null zu senken.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/innenraumueberwachung-warum-autos-jetzt-jeden-blick-ueberwachen-accg-201043854.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Dow, S&P, Nasdaq: Apple löst Nvidia als wertvollsten Konzern ab – Anleger haben neue Favoriten",
-        "summary": "KI-Sorgen und der wiederaufflammende Irankrieg treffen den Markt gleichzeitig.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-sp-nasdaq-apple-loest-nvidia-als-wertvollsten-konzern-ab/100241066.html",
+        "title": "Debatte um Leihmutterschaft: Merz drückt aufs Tempo bei Suche nach Spahn-Nachfolge",
+        "summary": "Nach dem Rücktritt von Jens Spahn sucht die Union einen neuen Fraktionschef.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/debatte-um-leihmutterschaft-merz-drueckt-aufs-tempo-bei-suche-nach-spahn-nachfolge/100241284.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Brewdog founder faces data complaints over efforts to buy back firm",
-        "summary": "The UK data watchdog has received complaints after James Watt reportedly contacted former shareholders.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gw9pp0xlno?at_medium=RSS&at_campaign=rss",
+        "title": "The hidden cost of the night shift and how to sleep it off",
+        "summary": "More than three million people in the UK work night shifts, which can greatly impact their health.",
+        "link": "https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": null,
+    "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "Saint-Thibault Chapel in La Chapelle-au-Mans, France",
-        "summary": "On a remote hill in the middle of nowhere in southern Burgundy stands a small chapel.",
-        "link": "https://www.atlasobscura.com/places/chapelle-saint-thibault",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
+        "title": "The Neanderthal “love story” isn’t what the DNA actually shows",
+        "summary": "Claims that Neanderthal men \"preferred\" Homo sapiens women may make for catchy headlines, but the underlying research does not actually show prehistoric romance.",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260626030443.htm",
+        "source": "ScienceDaily – Archäologie",
+        "publisher": "ScienceDaily",
+        "category": "Archäologie"
       },
       {
-        "title": "Found: a rocky exoplanet with an atmosphere — could it host life?",
-        "summary": "Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02200-5 Astronomers have spotted helium escaping from LHS 1140b, an exoplanet orbiting in its star’s ‘habitable zone’.",
-        "link": "https://www.nature.com/articles/d41586-026-02200-5",
+        "title": "Can giant space mirrors boost green energy on Earth? A start-up aims to find out",
+        "summary": "Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02218-9 Astronomers are deeply worried that a planned array of 50,000 mirror-bearing satellites in orbit will severely compromise telescopes.",
+        "link": "https://www.nature.com/articles/d41586-026-02218-9",
         "source": "Nature News",
         "publisher": "Nature",
         "category": "Forschung"
       },
       {
-        "title": "Speed Limits for Ships Protect Endangered Right Whales From Vessel Strikes. Could the Animals Survive Without Them?",
-        "summary": "Since 2008, rules requiring ships to slow down to avoid collisions with North Atlantic right whales have reduced fatalities of the critically endangered animals.",
-        "link": "https://www.smithsonianmag.com/science-nature/speed-limits-for-ships-protect-endangered-right-whales-from-vessel-strikes-could-the-animals-survive-without-them-180989013/",
-        "source": "Smithsonian",
-        "publisher": "Smithsonian",
-        "category": "Wissenschaft"
+        "title": "The Solgrylle at the Blacksmith's Bridge in Aarhus, Denmark",
+        "summary": "Smedens Bro , \"The Blacksmith's Bridge\", is a pedestrian and cycling bridge in central Aarhus.",
+        "link": "https://www.atlasobscura.com/places/the-solgrylle-of-the-blacksmiths-bridge",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
       }
     ]
   }

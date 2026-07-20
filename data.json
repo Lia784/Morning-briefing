@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T07:28:18+00:00",
-  "date_label": "Sunday, 19. July 2026",
+  "generated_at": "2026-07-20T08:07:49+00:00",
+  "date_label": "Monday, 20. July 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,8 +8,8 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 24830.9805,
-        "change_pct": -0.34
+        "price": 24859.9199,
+        "change_pct": 0.12
       },
       {
         "name": "S&P 500",
@@ -26,8 +26,8 @@
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6230.8701,
-        "change_pct": -0.84
+        "price": 6243.3501,
+        "change_pct": 0.2
       },
       {
         "name": "Nikkei 225",
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 56546,
-        "usd": 64671,
-        "change_24h_pct": 1.1
+        "eur": 56094,
+        "usd": 64190,
+        "change_24h_pct": -0.76
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1633.23,
-        "usd": 1867.92,
-        "change_24h_pct": 1.31
+        "eur": 1626.65,
+        "usd": 1861.41,
+        "change_24h_pct": -0.42
       }
     ]
   },
@@ -65,31 +65,31 @@
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
         "price": 1.1446,
-        "change_pct": -0.22
+        "change_pct": 0.01
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8502,
-        "change_pct": 0.12
+        "price": 0.8492,
+        "change_pct": 0.0
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
         "price": 0.923,
-        "change_pct": 0.01
+        "change_pct": -0.25
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 162.353,
-        "change_pct": 0.17
+        "price": 162.371,
+        "change_pct": -0.0
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 185.762,
-        "change_pct": -0.06
+        "price": 185.796,
+        "change_pct": -0.02
       },
       {
         "name": "US 10Y Rendite",
@@ -113,65 +113,65 @@
         "category": ""
       },
       {
-        "title": "CSU: „Wadlbeißer“ mit weichem Herz – Erwin Huber wird 80",
-        "summary": "Parteisoldat – so nannte er sich, so nannten sie ihn.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/csu-wadlbeisser-mit-weichem-herz-erwin-huber-wird-80/100241288.html",
+        "title": "Handel: Amazon kündigt höhere Löhne für Logistik-Mitarbeiter an",
+        "summary": "Der Einstiegslohn in der Logistik soll ab September auf mindestens 17 Euro steigen, kündigt der US-Handelsriese an.",
+        "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/logistik-amazon-kuendigt-hoehere-loehne-fuer-mitarbeiter-an/100241421.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "New EU border system tripling time at passport control, airport boss says",
-        "summary": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
-        "link": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+        "title": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
+        "summary": "The Irish airline said oil prices had increased costs meanwhile Brent crude surpassed $90.",
+        "link": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Allein vor Gericht: „Ich dachte, es geht um den Pkw-Stellplatz?“",
-        "summary": "Vor den Sozialgerichten vertreten sich viele Menschen selbst, ganz ohne Anwalt.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/ohne-anwalt-vor-gericht-warum-sich-viele-menschen-selbst-vertreten-accg-200939635.html",
+        "title": "China-Schock 2.0: Wie Europa sich im Wettbewerb mit China behauptet",
+        "summary": "Alle reden vom China-Schock 2.0 und fürchten die Konkurrenz aus Fernost.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/china-schock-2-0-wie-gut-schlaegt-sich-deutschland-accg-201039515.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Umweltkatastrophe: Schweres Erdbeben erschüttert Peru",
-        "summary": "Erneut bebt in dem südamerikanischen Land die Erde.",
-        "link": "https://www.handelsblatt.com/politik/international/umweltkatastrophe-schweres-erdbeben-erschuettert-peru/100241285.html",
+        "title": "Interview: Mercedes-Vorstand lobt Ungarn: „Arbeitsstunden hier sind höher als in Deutschland“",
+        "summary": "Der Autobauer stellt in Ungarn ein und kürzt in Deutschland.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/autobauer-mercedes-baut-in-ungarn-aus-und-spart-in-deutschland/100240108.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "'My buyers dropped their offer by £15,000 the day before exchange': Gazundering and how to avoid it",
-        "summary": "It's a small but growing problem in the property market - here's how to protect yourself.",
-        "link": "https://www.bbc.co.uk/news/articles/c3d39r338m0o?at_medium=RSS&at_campaign=rss",
+        "title": "Are you a parent missing out on £27 a week? Here's how to check",
+        "summary": "Thousands of new parents fail to claim child benefit until it is too late to receive some of the money, HMRC says.",
+        "link": "https://www.bbc.co.uk/news/articles/cz9l993wj5ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Neue EU-Pflicht: Warum Autos jetzt jeden Blick überwachen",
-        "summary": "Neue Kameras im Auto sollen ablenkende Blicke sofort erkennen – Teil der EU-Vision, die Zahl der Verkehrstoten auf null zu senken.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/innenraumueberwachung-warum-autos-jetzt-jeden-blick-ueberwachen-accg-201043854.html",
+        "title": "Software für Drohnen: Eine niederländische Helsing im Kleinen",
+        "summary": "Intelic liefert herstellerunabhängige Software für Drohnen – eingesetzt in der Ukraine.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/universalsoftware-fuer-drohnen-eine-niederlaendische-helsing-im-kleinen-accg-201020621.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Debatte um Leihmutterschaft: Merz drückt aufs Tempo bei Suche nach Spahn-Nachfolge",
-        "summary": "Nach dem Rücktritt von Jens Spahn sucht die Union einen neuen Fraktionschef.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/debatte-um-leihmutterschaft-merz-drueckt-aufs-tempo-bei-suche-nach-spahn-nachfolge/100241284.html",
+        "title": "Dax aktuell: Dax eröffnet nahezu unverändert",
+        "summary": "Neue Inflationsdaten aus Deutschland und die angespannte Lage im Nahen Osten bestimmen das Geschehen an den Märkten.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-eroeffnet-nahezu-unveraendert/100241396.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "The hidden cost of the night shift and how to sleep it off",
-        "summary": "More than three million people in the UK work night shifts, which can greatly impact their health.",
-        "link": "https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&at_campaign=rss",
+        "title": "Thames Water lenders preparing legal challenge in event of Burnham nationalisation",
+        "summary": "The BBC understands creditors would would pursue payment in full of the outstanding debts, in the multi-billions of pounds.",
+        "link": "https://www.bbc.co.uk/news/articles/cx278ed09nzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": "Quellen nicht erreichbar: NASA Breaking News",
+    "error": null,
     "data": [
       {
-        "title": "The Neanderthal “love story” isn’t what the DNA actually shows",
-        "summary": "Claims that Neanderthal men \"preferred\" Homo sapiens women may make for catchy headlines, but the underlying research does not actually show prehistoric romance.",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260626030443.htm",
-        "source": "ScienceDaily – Archäologie",
-        "publisher": "ScienceDaily",
-        "category": "Archäologie"
+        "title": "H.H. Richardson House in Staten Island, New York",
+        "summary": "Henry Hobson Richardson is one of the most famous American architects of all time, known for designing a number of iconic structures including Trinity Church in Boston, the John J.",
+        "link": "https://www.atlasobscura.com/places/h-h-richardson-house",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
       },
       {
-        "title": "Can giant space mirrors boost green energy on Earth? A start-up aims to find out",
-        "summary": "Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02218-9 Astronomers are deeply worried that a planned array of 50,000 mirror-bearing satellites in orbit will severely compromise telescopes.",
-        "link": "https://www.nature.com/articles/d41586-026-02218-9",
+        "title": "Found: a rocky exoplanet with an atmosphere — could it host life?",
+        "summary": "Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02200-5 Astronomers have spotted helium escaping from LHS 1140b, an exoplanet orbiting in its star’s ‘habitable zone’.",
+        "link": "https://www.nature.com/articles/d41586-026-02200-5",
         "source": "Nature News",
         "publisher": "Nature",
         "category": "Forschung"
       },
       {
-        "title": "The Solgrylle at the Blacksmith's Bridge in Aarhus, Denmark",
-        "summary": "Smedens Bro , \"The Blacksmith's Bridge\", is a pedestrian and cycling bridge in central Aarhus.",
-        "link": "https://www.atlasobscura.com/places/the-solgrylle-of-the-blacksmiths-bridge",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
+        "title": "Scientists identify the rare meteorite that killed the dinosaurs 66 million years ago",
+        "summary": "The asteroid that wiped out the dinosaurs was likely an exceptionally rare CO chondrite from a distant region of the solar system.",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260718010142.htm",
+        "source": "ScienceDaily – Geowissenschaften",
+        "publisher": "ScienceDaily",
+        "category": "Erde"
       }
     ]
   }

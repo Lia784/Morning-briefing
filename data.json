@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T08:07:49+00:00",
-  "date_label": "Monday, 20. July 2026",
+  "generated_at": "2026-07-21T07:34:17+00:00",
+  "date_label": "Tuesday, 21. July 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 24859.9199,
+        "price": 24876.8496,
         "change_pct": 0.12
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7457.6899,
-        "change_pct": -1.01
+        "price": 7443.2798,
+        "change_pct": -0.19
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25520.2402,
-        "change_pct": -1.4
+        "price": 25508.0703,
+        "change_pct": -0.05
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6243.3501,
-        "change_pct": 0.2
+        "price": 6251.3799,
+        "change_pct": 0.39
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 64141.1211,
-        "change_pct": -4.03
+        "price": 66232.1875,
+        "change_pct": 3.26
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 56094,
-        "usd": 64190,
-        "change_24h_pct": -0.76
+        "eur": 57747,
+        "usd": 65972,
+        "change_24h_pct": 3.08
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1626.65,
-        "usd": 1861.41,
-        "change_24h_pct": -0.42
+        "eur": 1694.08,
+        "usd": 1935.36,
+        "change_24h_pct": 4.36
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1446,
-        "change_pct": 0.01
+        "price": 1.1427,
+        "change_pct": -0.0
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8492,
-        "change_pct": 0.0
+        "price": 0.8498,
+        "change_pct": -0.01
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.923,
-        "change_pct": -0.25
+        "price": 0.9249,
+        "change_pct": 0.11
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 162.371,
-        "change_pct": -0.0
+        "price": 162.569,
+        "change_pct": 0.04
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 185.796,
-        "change_pct": -0.02
+        "price": 185.735,
+        "change_pct": 0.01
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.541,
-        "change_pct": -0.61,
+        "price": 4.598,
+        "change_pct": 1.26,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Deutschlands Reformen: „Die Erzählung vom Sozialabbau entbehrt jeder Grundlage“",
-        "summary": "Der ehemalige Caritas-Chef Georg Cremer sorgt sich, dass selbst gute Politik nicht wahrgenommen wird.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/sozialabbau-in-deutschland-was-georg-cremer-von-der-caritas-sagt-accg-201039635.html",
+        "title": "Rüstungstechnologie von Trumpf: Wann kommt die Laserwaffe zur Drohnenabwehr?",
+        "summary": "Trumpf-Vorstand Hagen Zimer macht erstmals konkrete Angaben zum Zeitplan für die neue deutsche Defensivwaffe.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/laserwaffe-von-trumpf-wann-kommt-die-drohnenabwehr-accg-201046287.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Handel: Amazon kündigt höhere Löhne für Logistik-Mitarbeiter an",
-        "summary": "Der Einstiegslohn in der Logistik soll ab September auf mindestens 17 Euro steigen, kündigt der US-Handelsriese an.",
-        "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/logistik-amazon-kuendigt-hoehere-loehne-fuer-mitarbeiter-an/100241421.html",
+        "title": "+++ Ukraine-Krieg +++: Russland greift ukrainische Gasanlagen in Region Charkiw an",
+        "summary": "IWF gibt weitere 690 Millionen Dollar für die Ukraine frei +++ Inder bei russischem Angriff auf Schiff bei Odessa getötet +++ Ukraine greift Moskau mit 400 Drohnen an +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/international/ukraine-russland-greift-ukrainische-gasanlagen-in-region-charkiw-an/27982126.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
-        "summary": "The Irish airline said oil prices had increased costs meanwhile Brent crude surpassed $90.",
-        "link": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo?at_medium=RSS&at_campaign=rss",
+        "title": "VAT to be cut from household electricity bills in October",
+        "summary": "Homes will save around £45 a year through the cut announced on Andy Burnham's first full day as prime minister.",
+        "link": "https://www.bbc.co.uk/news/articles/cjwxll8jyz8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "China-Schock 2.0: Wie Europa sich im Wettbewerb mit China behauptet",
-        "summary": "Alle reden vom China-Schock 2.0 und fürchten die Konkurrenz aus Fernost.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/china-schock-2-0-wie-gut-schlaegt-sich-deutschland-accg-201039515.html",
+        "title": "Preisverfall-Theorie: Hat das alles bald noch Wert?",
+        "summary": "Immobilien droht der Preisverfall, wenn die Babyboomer in Rente gehen, behauptet eine Theorie aus den Achtzigern.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/haeuserpreise-und-demographischer-wandel-was-kaeufer-wissen-muessen-201031987.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Interview: Mercedes-Vorstand lobt Ungarn: „Arbeitsstunden hier sind höher als in Deutschland“",
-        "summary": "Der Autobauer stellt in Ungarn ein und kürzt in Deutschland.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/autobauer-mercedes-baut-in-ungarn-aus-und-spart-in-deutschland/100240108.html",
+        "title": "Arbeitsmarkt: Studie – Zahl der Ungelernten wächst pro Jahr um 100.000",
+        "summary": "Jeder siebte Beschäftigte hat keinen Berufsabschluss.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/arbeitsmarkt-zahl-der-ungelernten-waechst-laut-studie-pro-jahr-um-100.000/100239888.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Are you a parent missing out on £27 a week? Here's how to check",
-        "summary": "Thousands of new parents fail to claim child benefit until it is too late to receive some of the money, HMRC says.",
-        "link": "https://www.bbc.co.uk/news/articles/cz9l993wj5ko?at_medium=RSS&at_campaign=rss",
+        "title": "UK government borrowing falls in June",
+        "summary": "Public finances for last month were better than expected but the UK is carrying major debt.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2vd3qgjy9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Software für Drohnen: Eine niederländische Helsing im Kleinen",
-        "summary": "Intelic liefert herstellerunabhängige Software für Drohnen – eingesetzt in der Ukraine.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/universalsoftware-fuer-drohnen-eine-niederlaendische-helsing-im-kleinen-accg-201020621.html",
+        "title": "Kassenspargesetz: Stabile Beiträge sind gut – solange Medikamente verfügbar bleiben",
+        "summary": "Die Finanzreform der gesetzlichen Krankenversicherung ist beschlossen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/gkv-gesetz-stabile-beitraege-sind-gut-solange-medikamente-verfuegbar-bleiben-200996576.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Dax aktuell: Dax eröffnet nahezu unverändert",
-        "summary": "Neue Inflationsdaten aus Deutschland und die angespannte Lage im Nahen Osten bestimmen das Geschehen an den Märkten.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-eroeffnet-nahezu-unveraendert/100241396.html",
+        "title": "Immobilien: Neue Förderung: Das zahlt der Staat jetzt beim Heizungstausch",
+        "summary": "Seit diesem Dienstag können Eigentümer für den Heizungstausch wieder Gelder bei der Förderbank KfW beantragen.",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-neue-foerderung-das-zahlt-der-staat-jetzt-beim-heizungstausch/100240071.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Thames Water lenders preparing legal challenge in event of Burnham nationalisation",
-        "summary": "The BBC understands creditors would would pursue payment in full of the outstanding debts, in the multi-billions of pounds.",
-        "link": "https://www.bbc.co.uk/news/articles/cx278ed09nzo?at_medium=RSS&at_campaign=rss",
+        "title": "'I made £100,000 of TikTok sales in one day': The business of live shopping",
+        "summary": "Buying on social media livestreams is fast becoming regular consumer behaviour for many.",
+        "link": "https://www.bbc.co.uk/news/articles/cm2j22w8k0po?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,28 +183,28 @@
     "error": null,
     "data": [
       {
-        "title": "H.H. Richardson House in Staten Island, New York",
-        "summary": "Henry Hobson Richardson is one of the most famous American architects of all time, known for designing a number of iconic structures including Trinity Church in Boston, the John J.",
-        "link": "https://www.atlasobscura.com/places/h-h-richardson-house",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
+        "title": "Alzheimer’s breakthrough: Scientists restore two hours of sleep without clearing brain plaques",
+        "summary": "Researchers have uncovered a surprising culprit behind sleep loss in Alzheimer’s disease: the brain’s own immune cells.",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260719035931.htm",
+        "source": "ScienceDaily – Neurowissenschaft",
+        "publisher": "ScienceDaily",
+        "category": "Neurowissenschaft"
       },
       {
-        "title": "Found: a rocky exoplanet with an atmosphere — could it host life?",
-        "summary": "Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02200-5 Astronomers have spotted helium escaping from LHS 1140b, an exoplanet orbiting in its star’s ‘habitable zone’.",
-        "link": "https://www.nature.com/articles/d41586-026-02200-5",
+        "title": "'Stupid Hot': Heat Waves Muddle the Minds of Animals and Humans as Confusion and Aggression Seem to Rise With the Temperature",
+        "summary": "Wide-ranging research suggests that as temperatures increase, some creatures pick fights while others struggle to learn.",
+        "link": "https://www.smithsonianmag.com/science-nature/stupid-hot-heat-waves-muddle-the-minds-of-animals-and-humans-as-confusion-and-aggression-seem-to-rise-with-the-temperature-180988902/",
+        "source": "Smithsonian",
+        "publisher": "Smithsonian",
+        "category": "Wissenschaft"
+      },
+      {
+        "title": "My job interviews for industry positions are going nowhere. How do I make myself stand out?",
+        "summary": "Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02234-9 A postdoc researcher trying to move into an industry role wants help gaining traction and making it past the first interview stage.",
+        "link": "https://www.nature.com/articles/d41586-026-02234-9",
         "source": "Nature News",
         "publisher": "Nature",
         "category": "Forschung"
-      },
-      {
-        "title": "Scientists identify the rare meteorite that killed the dinosaurs 66 million years ago",
-        "summary": "The asteroid that wiped out the dinosaurs was likely an exceptionally rare CO chondrite from a distant region of the solar system.",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260718010142.htm",
-        "source": "ScienceDaily – Geowissenschaften",
-        "publisher": "ScienceDaily",
-        "category": "Erde"
       }
     ]
   }

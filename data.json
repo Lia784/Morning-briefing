@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T07:36:10+00:00",
-  "date_label": "Wednesday, 22. July 2026",
+  "generated_at": "2026-07-23T07:34:08+00:00",
+  "date_label": "Thursday, 23. July 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25023.3105,
-        "change_pct": 0.05
+        "price": 24945.0996,
+        "change_pct": -0.84
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7509.2002,
-        "change_pct": 0.89
+        "price": 7498.96,
+        "change_pct": -0.14
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25837.2109,
-        "change_pct": 1.29
+        "price": 25690.9004,
+        "change_pct": -0.57
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6267.9502,
-        "change_pct": -0.28
+        "price": 6262.2798,
+        "change_pct": -0.87
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 66115.6016,
-        "change_pct": -0.18
+        "price": 66422.6016,
+        "change_pct": 0.46
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 57646,
-        "usd": 65796,
-        "change_24h_pct": -0.18
+        "eur": 57228,
+        "usd": 65387,
+        "change_24h_pct": -0.74
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1676.84,
-        "usd": 1913.92,
-        "change_24h_pct": -0.97
+        "eur": 1675.57,
+        "usd": 1914.46,
+        "change_24h_pct": -0.13
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1417,
-        "change_pct": -0.01
+        "price": 1.143,
+        "change_pct": 0.23
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8526,
-        "change_pct": 0.32
+        "price": 0.8541,
+        "change_pct": 0.22
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9266,
-        "change_pct": 0.22
+        "price": 0.9311,
+        "change_pct": 0.49
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 162.934,
-        "change_pct": 0.28
+        "price": 163.168,
+        "change_pct": -0.01
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 185.991,
-        "change_pct": 0.28
+        "price": 186.442,
+        "change_pct": 0.2
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.628,
-        "change_pct": 0.65,
+        "price": 4.657,
+        "change_pct": 0.63,
         "unit": "%"
       }
     ]
@@ -113,65 +113,65 @@
         "category": ""
       },
       {
-        "title": "Immobilien: Neue Förderung: Das zahlt der Staat jetzt beim Heizungstausch",
-        "summary": "Seit diesem Dienstag können Eigentümer für den Heizungstausch wieder Gelder bei der Förderbank KfW beantragen.",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-so-viel-zahlt-der-staat-mit-der-kfw-foerderung-beim-heizungstausch/100240071.html",
+        "title": "Steuererklärung 2025: 1230 Euro pauschal: Diese Werbungskosten senken die Steuerlast noch weiter",
+        "summary": "Ob Bücher oder Bahntickets – rund um den Job gibt es zahlreiche Möglichkeiten, Werbungskosten abzusetzen und so am Ende Steuern zu sparen.",
+        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/finanzamt-diese-werbungskosten-koennen-sie-von-der-steuer-absetzen/100105891.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Most bus fares in England to be capped at £2 from January",
-        "summary": "The government says the policy will \"help with the cost of living and give people the breathing space they need\"",
-        "link": "https://www.bbc.co.uk/news/articles/cz64l78n5vpo?at_medium=RSS&at_campaign=rss",
+        "title": "Airport drop-off fees up by a third - here are the priciest",
+        "summary": "The cost of parking closest to the terminal has hit £10 at two of the UK's airports.",
+        "link": "https://www.bbc.co.uk/news/articles/c2lqd72d4lqo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Cyberangriff: KI von OpenAI hackt eigenständig Systeme einer anderen Firma",
-        "summary": "Experten warnen schon länger vor Künstlicher Intelligenz, die eigenständig Cyberangriffe verüben kann.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/openai-ki-hackt-eigenstaendig-systeme-von-hugging-face-accg-201052749.html",
+        "title": "Deutschlands Reformen: „Die Erzählung vom Sozialabbau entbehrt jeder Grundlage“",
+        "summary": "Der ehemalige Caritas-Chef Georg Cremer sorgt sich, dass selbst gute Politik nicht wahrgenommen wird.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/sozialabbau-in-deutschland-was-georg-cremer-von-der-caritas-sagt-accg-201039635.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Konjunktur: Britische Inflation zum Amtsantritt von Burnham auf tiefstem Stand seit 2025",
-        "summary": "Die Verbraucherpreise stiegen im Vergleich zum Vorjahresmonat um 2,6 Prozent.",
-        "link": "https://www.handelsblatt.com/politik/international/konjunktur-britische-inflation-zum-amtsantritt-von-burnham-auf-tiefstem-stand-seit-2025/100242002.html",
+        "title": "Luftfahrt: „Wir versuchen, einen Teller voller Spaghetti in eine Lasagne zu verwandeln“: Lufthansa sortiert IT neu",
+        "summary": "Mit der neuen Lufthansa Group IO will die Konzernführung Ordnung in die chaotischen IT-Strukturen bringen.",
+        "link": "https://www.handelsblatt.com/unternehmen/dienstleister/luftfahrt-umbau-der-organisation-lufthansa-sortiert-ihre-it-neu/100239779.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Will AI help you do your job or replace you?",
-        "summary": "Artificial Intelligence companies make vast claims about their tools replacing human labour - our charts show what's happening.",
-        "link": "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o?at_medium=RSS&at_campaign=rss",
+        "title": "Firm hacked by rogue OpenAI models says it is 'a wake-up call'",
+        "summary": "A co-founder of start-up Hugging Face told the BBC that most firms are not aware that the \"game has changed\".",
+        "link": "https://www.bbc.co.uk/news/articles/cdrvy3pn3r0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "GCAP-Kampfflugzeug: Wird der Eurofighter-Nachfolger gerade ohne Deutschland entwickelt?",
-        "summary": "Das FCAS-Projekt scheiterte, doch Briten, Italiener und Japaner kommen mit ihrem Kampfjet gut voran.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/gcap-kampfflugzeug-wird-der-eurofighter-nachfolger-gerade-ohne-deutschland-entwickelt-201048604.html",
+        "title": "Salzgitter-Chef: „Eine deutsche Stahl-AG würde die Branche massiv schwächen“",
+        "summary": "Der Stahlkonzern Salzgitter hat seit 2023 kein Geld verdient, übernimmt aber dennoch das zweitgrößte Stahlwerk im Ruhrgebiet.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/salzgitter-chef-gunnar-groebler-zur-deutschen-stahl-ag-accg-201048493.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Macht: Die Macht von unten – wie Bürgermeister zu nationalen Führungsfiguren werden",
-        "summary": "Andy Burnham will als neuer britischer Premierminister die Macht vom Zentrum in die Regionen verlagern.",
-        "link": "https://www.handelsblatt.com/politik/international/politiker-wie-praegen-buergermeister-die-nationale-politik/100237380.html",
+        "title": "Dax aktuell: Dax startet im Minus – Ölpreise auf höchstem Stand seit Anfang Juni",
+        "summary": "Weltweit präsentieren Unternehmen ihre Halbjahres- und Quartalszahlen – und die EZB entscheidet über den Leitzins.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-im-plus-und-oberhalb-der-25.000-punkte-marke/100242303.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Food prices rise at slowest rate in nearly two years",
-        "summary": "June's fall in inflation will be welcomed by the new prime minister but analysts warn the fall is temporary.",
-        "link": "https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo?at_medium=RSS&at_campaign=rss",
+        "title": "Google burning through cash with spiralling AI costs",
+        "summary": "The company said earlier this year it expected to spend as much as $190bn on AI investments.",
+        "link": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,28 +183,28 @@
     "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "AI is more likely than humans to form biases when hiring",
-        "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it.",
-        "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-        "source": "MIT Technology Review",
-        "publisher": "MIT",
-        "category": "Technologie"
+        "title": "Alzheimer’s breakthrough: Scientists restore two hours of sleep without clearing brain plaques",
+        "summary": "Researchers have uncovered a surprising culprit behind sleep loss in Alzheimer’s disease: the brain’s own immune cells.",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260719035931.htm",
+        "source": "ScienceDaily – Neurowissenschaft",
+        "publisher": "ScienceDaily",
+        "category": "Neurowissenschaft"
       },
       {
-        "title": "Moving floors keep buildings from swaying with the wind",
-        "summary": "Nature, Published online: 21 July 2026; doi:10.1038/d41586-026-02258-1 A construction design inspired by traditional Japanese pagodas could help to keep modern towers safe.",
-        "link": "https://www.nature.com/articles/d41586-026-02258-1",
-        "source": "Nature News",
-        "publisher": "Nature",
-        "category": "Forschung"
+        "title": "Fuel Tank Orca Mural in Palmer Station, Antarctica",
+        "summary": "The fuel tank mural at Palmer Station is one of the most recognizable landmarks at this remote Antarctic research base.",
+        "link": "https://www.atlasobscura.com/places/fuel-tank-orca-mural",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
       },
       {
-        "title": "What five minutes of dancing can do for your brain",
-        "summary": "A five-minute dance break every day energised me and made me more creative",
-        "link": "https://www.bbc.com/future/article/20260717-the-surprising-benefits-of-a-five-minute-dance-break?ocid=global_future_rss",
-        "source": "BBC Future",
-        "publisher": "BBC",
-        "category": "Zukunft"
+        "title": "'Stupid Hot': Heat Waves Muddle the Minds of Animals and Humans as Confusion and Aggression Seem to Rise With the Temperature",
+        "summary": "Wide-ranging research suggests that as temperatures increase, some creatures pick fights while others struggle to learn.",
+        "link": "https://www.smithsonianmag.com/science-nature/stupid-hot-heat-waves-muddle-the-minds-of-animals-and-humans-as-confusion-and-aggression-seem-to-rise-with-the-temperature-180988902/",
+        "source": "Smithsonian",
+        "publisher": "Smithsonian",
+        "category": "Wissenschaft"
       }
     ]
   }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T07:34:08+00:00",
-  "date_label": "Thursday, 23. July 2026",
+  "generated_at": "2026-07-24T07:34:09+00:00",
+  "date_label": "Friday, 24. July 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 24945.0996,
-        "change_pct": -0.84
+        "price": 24903.8398,
+        "change_pct": 0.57
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7498.96,
-        "change_pct": -0.14
+        "price": 7408.2998,
+        "change_pct": -1.21
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25690.9004,
-        "change_pct": -0.57
+        "price": 25137.6895,
+        "change_pct": -2.15
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6262.2798,
-        "change_pct": -0.87
+        "price": 6243.1699,
+        "change_pct": 0.53
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 66422.6016,
-        "change_pct": 0.46
+        "price": 64611.1484,
+        "change_pct": -2.73
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 57228,
-        "usd": 65387,
-        "change_24h_pct": -0.74
+        "eur": 57562,
+        "usd": 65606,
+        "change_24h_pct": 0.57
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1675.57,
-        "usd": 1914.46,
-        "change_24h_pct": -0.13
+        "eur": 1665.15,
+        "usd": 1897.87,
+        "change_24h_pct": -0.64
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.143,
-        "change_pct": 0.23
+        "price": 1.14,
+        "change_pct": -0.1
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8541,
-        "change_pct": 0.22
+        "price": 0.8543,
+        "change_pct": 0.13
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9311,
-        "change_pct": 0.49
+        "price": 0.9294,
+        "change_pct": 0.03
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 163.168,
-        "change_pct": -0.01
+        "price": 163.709,
+        "change_pct": 0.39
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 186.442,
-        "change_pct": 0.2
+        "price": 186.566,
+        "change_pct": 0.25
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.657,
-        "change_pct": 0.63,
+        "price": 4.703,
+        "change_pct": 0.99,
         "unit": "%"
       }
     ]
@@ -105,30 +105,6 @@
     "error": null,
     "data": [
       {
-        "title": "Betonwerk Rey: Wie eine Erbin ihr Familienunternehmen rettet",
-        "summary": "Stefanie Rey wollte Tierärztin werden.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/stefanie-rey-wie-eine-erbin-ihr-familienunternehmen-rettet-accg-201006385.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "Steuererklärung 2025: 1230 Euro pauschal: Diese Werbungskosten senken die Steuerlast noch weiter",
-        "summary": "Ob Bücher oder Bahntickets – rund um den Job gibt es zahlreiche Möglichkeiten, Werbungskosten abzusetzen und so am Ende Steuern zu sparen.",
-        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/finanzamt-diese-werbungskosten-koennen-sie-von-der-steuer-absetzen/100105891.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "Airport drop-off fees up by a third - here are the priciest",
-        "summary": "The cost of parking closest to the terminal has hit £10 at two of the UK's airports.",
-        "link": "https://www.bbc.co.uk/news/articles/c2lqd72d4lqo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
-      },
-      {
         "title": "Deutschlands Reformen: „Die Erzählung vom Sozialabbau entbehrt jeder Grundlage“",
         "summary": "Der ehemalige Caritas-Chef Georg Cremer sorgt sich, dass selbst gute Politik nicht wahrgenommen wird.",
         "link": "https://www.faz.net/aktuell/wirtschaft/sozialabbau-in-deutschland-was-georg-cremer-von-der-caritas-sagt-accg-201039635.html",
@@ -137,41 +113,65 @@
         "category": ""
       },
       {
-        "title": "Luftfahrt: „Wir versuchen, einen Teller voller Spaghetti in eine Lasagne zu verwandeln“: Lufthansa sortiert IT neu",
-        "summary": "Mit der neuen Lufthansa Group IO will die Konzernführung Ordnung in die chaotischen IT-Strukturen bringen.",
-        "link": "https://www.handelsblatt.com/unternehmen/dienstleister/luftfahrt-umbau-der-organisation-lufthansa-sortiert-ihre-it-neu/100239779.html",
+        "title": "Bundeskabinett: Verkehrsminister Schnieder muss gehen",
+        "summary": "Nach nur 14 Monaten im Amt verliert Bundesverkehrsminister Patrick Schnieder seinen Posten.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/bundeskabinett-verkehrsminister-schnieder-muss-gehen/100242618.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Firm hacked by rogue OpenAI models says it is 'a wake-up call'",
-        "summary": "A co-founder of start-up Hugging Face told the BBC that most firms are not aware that the \"game has changed\".",
-        "link": "https://www.bbc.co.uk/news/articles/cdrvy3pn3r0o?at_medium=RSS&at_campaign=rss",
+        "title": "US hits dozens of trading partners with new wave of tariffs",
+        "summary": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Salzgitter-Chef: „Eine deutsche Stahl-AG würde die Branche massiv schwächen“",
-        "summary": "Der Stahlkonzern Salzgitter hat seit 2023 kein Geld verdient, übernimmt aber dennoch das zweitgrößte Stahlwerk im Ruhrgebiet.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/salzgitter-chef-gunnar-groebler-zur-deutschen-stahl-ag-accg-201048493.html",
+        "title": "Preisverfall-Theorie: Hat das alles bald noch Wert?",
+        "summary": "Immobilien droht der Preisverfall, wenn die Babyboomer in Rente gehen, behauptet eine Theorie aus den Achtzigern.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/haeuserpreise-und-demographischer-wandel-was-kaeufer-wissen-muessen-201031987.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Dax aktuell: Dax startet im Minus – Ölpreise auf höchstem Stand seit Anfang Juni",
-        "summary": "Weltweit präsentieren Unternehmen ihre Halbjahres- und Quartalszahlen – und die EZB entscheidet über den Leitzins.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-im-plus-und-oberhalb-der-25.000-punkte-marke/100242303.html",
+        "title": "Dax aktuell: Dax startet höher in den Handel – US-Zölle im Blick",
+        "summary": "Im Fokus am Freitag steht die Handelspolitik.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-startet-hoeher-in-den-handel-us-zoelle-im-blick/100242615.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Google burning through cash with spiralling AI costs",
-        "summary": "The company said earlier this year it expected to spend as much as $190bn on AI investments.",
-        "link": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+        "title": "UK complacent about war threat, warns BAE boss",
+        "summary": "The threat of attack has never been higher, the boss of Europe's biggest defence contractor has warned.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
+        "title": "Wachstum ungebremst: SAP lässt keine Schwäche erkennen",
+        "summary": "Keine Angst vor der KI: Der Vorstand des deutschen Softwarekonzerns SAP sieht sich weiter als Profiteur der Zeitenwende.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/sap-laesst-keine-schwaeche-erkennen-accg-201060256.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "Immobilien: Mietrecht-Reform trifft Vermieter hart – Hunderte Euro weniger",
+        "summary": "Welche Einschränkungen die jetzt vorgestellten Reformpläne von Justizministerin Hubig für Eigentümer und Vermieter vorsehen – und wie sehr sie den Markt verändern werden.",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/reform-welche-einschraenkungen-kommen-auf-eigentuemer-und-vermieter-zu/100199045.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "We split bills equally even when one of us earned a lot more",
+        "summary": "Hannah and Max continued to pool finances after Max was made redundant but took \"drastic measures\" to cut spending.",
+        "link": "https://www.bbc.co.uk/news/articles/cz05rdn1n80o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": "Quellen nicht erreichbar: NASA Breaking News",
+    "error": null,
     "data": [
       {
-        "title": "Alzheimer’s breakthrough: Scientists restore two hours of sleep without clearing brain plaques",
-        "summary": "Researchers have uncovered a surprising culprit behind sleep loss in Alzheimer’s disease: the brain’s own immune cells.",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260719035931.htm",
-        "source": "ScienceDaily – Neurowissenschaft",
-        "publisher": "ScienceDaily",
-        "category": "Neurowissenschaft"
-      },
-      {
-        "title": "Fuel Tank Orca Mural in Palmer Station, Antarctica",
-        "summary": "The fuel tank mural at Palmer Station is one of the most recognizable landmarks at this remote Antarctic research base.",
-        "link": "https://www.atlasobscura.com/places/fuel-tank-orca-mural",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
-      },
-      {
-        "title": "'Stupid Hot': Heat Waves Muddle the Minds of Animals and Humans as Confusion and Aggression Seem to Rise With the Temperature",
-        "summary": "Wide-ranging research suggests that as temperatures increase, some creatures pick fights while others struggle to learn.",
-        "link": "https://www.smithsonianmag.com/science-nature/stupid-hot-heat-waves-muddle-the-minds-of-animals-and-humans-as-confusion-and-aggression-seem-to-rise-with-the-temperature-180988902/",
+        "title": "When a Team of Meteorologists and Combat Pilots Set Out to Understand Thunderstorms, They Made Flying Safer for Everyone",
+        "summary": "The sky was a very dangerous place in the early days of commercial aviation.",
+        "link": "https://www.smithsonianmag.com/science-nature/when-team-meteorologists-combat-pilots-set-out-understand-thunderstorms-made-flying-safer-everyone-180988841/",
         "source": "Smithsonian",
         "publisher": "Smithsonian",
         "category": "Wissenschaft"
+      },
+      {
+        "title": "China’s Chang’e-6 reveals why solar wind hits the Moon’s two sides differently",
+        "summary": "China’s Chang’e-6 samples have uncovered a surprising difference between the Moon’s two hemispheres.",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260718010145.htm",
+        "source": "ScienceDaily – Geowissenschaften",
+        "publisher": "ScienceDaily",
+        "category": "Erde"
+      },
+      {
+        "title": "Ike Towell’s Grave in Columbus, Texas",
+        "summary": "Isaac \"Ike\" Towell was born on November 25, 1849 and died, by suicide, on February 22, 1934 at the age of 83 in Columbus, Texas.",
+        "link": "https://www.atlasobscura.com/places/ike-towell-grave",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
       }
     ]
   }

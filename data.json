@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T07:34:09+00:00",
-  "date_label": "Friday, 24. July 2026",
+  "generated_at": "2026-07-25T07:20:21+00:00",
+  "date_label": "Saturday, 25. July 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,26 +8,26 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 24903.8398,
-        "change_pct": 0.57
+        "price": 25099.0,
+        "change_pct": 1.36
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7408.2998,
-        "change_pct": -1.21
+        "price": 7411.98,
+        "change_pct": 0.05
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25137.6895,
-        "change_pct": -2.15
+        "price": 24975.8203,
+        "change_pct": -0.64
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6243.1699,
-        "change_pct": 0.53
+        "price": 6210.1699,
+        "change_pct": -1.69
       },
       {
         "name": "Nikkei 225",
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 57562,
-        "usd": 65606,
-        "change_24h_pct": 0.57
+        "eur": 56230,
+        "usd": 63970,
+        "change_24h_pct": -2.47
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1665.15,
-        "usd": 1897.87,
-        "change_24h_pct": -0.64
+        "eur": 1631.97,
+        "usd": 1856.61,
+        "change_24h_pct": -2.22
       }
     ]
   },
@@ -64,32 +64,32 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.14,
-        "change_pct": -0.1
+        "price": 1.1375,
+        "change_pct": -0.32
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8543,
-        "change_pct": 0.13
+        "price": 0.8532,
+        "change_pct": -0.16
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9294,
-        "change_pct": 0.03
+        "price": 0.9297,
+        "change_pct": 0.04
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 163.709,
-        "change_pct": 0.39
+        "price": 163.791,
+        "change_pct": 0.44
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 186.566,
-        "change_pct": 0.25
+        "price": 186.245,
+        "change_pct": 0.08
       },
       {
         "name": "US 10Y Rendite",
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Deutschlands Reformen: „Die Erzählung vom Sozialabbau entbehrt jeder Grundlage“",
-        "summary": "Der ehemalige Caritas-Chef Georg Cremer sorgt sich, dass selbst gute Politik nicht wahrgenommen wird.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/sozialabbau-in-deutschland-was-georg-cremer-von-der-caritas-sagt-accg-201039635.html",
+        "title": "Raumfahrt: SpaceX absolviert erfolgreichen Starship-Testflug",
+        "summary": "Nach zwei Verschiebungen absolviert die Riesen-Rakete von Elon Musk erfolgreich ihren 13.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/spacex-absolviert-erfolgreichen-starship-testflug-accg-201064157.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Bundeskabinett: Verkehrsminister Schnieder muss gehen",
-        "summary": "Nach nur 14 Monaten im Amt verliert Bundesverkehrsminister Patrick Schnieder seinen Posten.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/bundeskabinett-verkehrsminister-schnieder-muss-gehen/100242618.html",
+        "title": "Feuer: Waldbrände in Spanien und Frankreich wüten weiter",
+        "summary": "Frankreich und Spanien kämpfen weiter gegen Waldbrände.",
+        "link": "https://www.handelsblatt.com/politik/international/feuer-waldbraende-in-spanien-und-frankreich-wueten-weiter/100242831.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "US hits dozens of trading partners with new wave of tariffs",
-        "summary": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+        "title": "ADHD has rewired the workplace. This is what it means for bosses and workers",
+        "summary": "As ADHD diagnoses have risen, have workplaces caught up with the needs of the workforce?",
+        "link": "https://www.bbc.co.uk/news/articles/c70gq125xweo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Preisverfall-Theorie: Hat das alles bald noch Wert?",
-        "summary": "Immobilien droht der Preisverfall, wenn die Babyboomer in Rente gehen, behauptet eine Theorie aus den Achtzigern.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/haeuserpreise-und-demographischer-wandel-was-kaeufer-wissen-muessen-201031987.html",
+        "title": "Nach Wettbewerbsklage: Paramount setzt Übernahme von Warner Brothers aus",
+        "summary": "Die amerikanische Filmproduktionsgesellschaft Paramount setzt den Kauf ihres Konkurrenten Warner Brothers aus.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/paramount-setzt-uebernahme-von-warner-brothers-aus-201063949.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Dax aktuell: Dax startet höher in den Handel – US-Zölle im Blick",
-        "summary": "Im Fokus am Freitag steht die Handelspolitik.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-startet-hoeher-in-den-handel-us-zoelle-im-blick/100242615.html",
+        "title": "Entertainment: Paramount setzt Warner-Übernahme vorerst aus",
+        "summary": "Der Mega-Deal der Entertainment-Branche lässt weiter auf sich warten.",
+        "link": "https://www.handelsblatt.com/unternehmen/it-medien/entertainment-paramount-setzt-warner-uebernahme-vorerst-aus/100242795.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "UK complacent about war threat, warns BAE boss",
-        "summary": "The threat of attack has never been higher, the boss of Europe's biggest defence contractor has warned.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss",
+        "title": "Long overdue, life-changing or frivolous? Your thoughts on wedding rule changes",
+        "summary": "The government wants to relax wedding laws so couples can get married almost anywhere.",
+        "link": "https://www.bbc.co.uk/news/articles/cvg8wlwzjx9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Wachstum ungebremst: SAP lässt keine Schwäche erkennen",
-        "summary": "Keine Angst vor der KI: Der Vorstand des deutschen Softwarekonzerns SAP sieht sich weiter als Profiteur der Zeitenwende.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/sap-laesst-keine-schwaeche-erkennen-accg-201060256.html",
+        "title": "KI-Fachmann Krüger: „Wir müssen annehmen, dass die KI den Weg ins Internet und den Angriff eigenständig entwickelt hat“",
+        "summary": "Künstliche Intelligenz von Open AI hat sich selbst ins Web befreit und ein Unternehmen gehackt.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/dfki-chef-krueger-ueber-open-ai-wir-muessen-annehmen-dass-die-ki-den-weg-ins-internet-und-den-angriff-eigenstaendig-entwickelt-hat-201060723.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Immobilien: Mietrecht-Reform trifft Vermieter hart – Hunderte Euro weniger",
-        "summary": "Welche Einschränkungen die jetzt vorgestellten Reformpläne von Justizministerin Hubig für Eigentümer und Vermieter vorsehen – und wie sehr sie den Markt verändern werden.",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/reform-welche-einschraenkungen-kommen-auf-eigentuemer-und-vermieter-zu/100199045.html",
+        "title": "US-Börsen: Wall Street schließt uneinheitlich – Tech-Werte sorgen weiter für Verunsicherung",
+        "summary": "Zwar sinken die Preise für Rohöl wieder, doch an den Märkten bleibt die Unsicherheit wegen des Iran-Krieges.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-sp-nasdaq-wall-street-schliesst-uneinheitlich/100242732.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "We split bills equally even when one of us earned a lot more",
-        "summary": "Hannah and Max continued to pool finances after Max was made redundant but took \"drastic measures\" to cut spending.",
-        "link": "https://www.bbc.co.uk/news/articles/cz05rdn1n80o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump vows to investigate EU over fining of US tech companies",
+        "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
+        "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": null,
+    "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "When a Team of Meteorologists and Combat Pilots Set Out to Understand Thunderstorms, They Made Flying Safer for Everyone",
-        "summary": "The sky was a very dangerous place in the early days of commercial aviation.",
-        "link": "https://www.smithsonianmag.com/science-nature/when-team-meteorologists-combat-pilots-set-out-understand-thunderstorms-made-flying-safer-everyone-180988841/",
-        "source": "Smithsonian",
-        "publisher": "Smithsonian",
-        "category": "Wissenschaft"
+        "title": "How AI helps scientists design the next generation of medicines",
+        "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge.",
+        "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+        "source": "MIT Technology Review",
+        "publisher": "MIT",
+        "category": "Technologie"
       },
       {
-        "title": "China’s Chang’e-6 reveals why solar wind hits the Moon’s two sides differently",
-        "summary": "China’s Chang’e-6 samples have uncovered a surprising difference between the Moon’s two hemispheres.",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260718010145.htm",
-        "source": "ScienceDaily – Geowissenschaften",
-        "publisher": "ScienceDaily",
-        "category": "Erde"
-      },
-      {
-        "title": "Ike Towell’s Grave in Columbus, Texas",
-        "summary": "Isaac \"Ike\" Towell was born on November 25, 1849 and died, by suicide, on February 22, 1934 at the age of 83 in Columbus, Texas.",
-        "link": "https://www.atlasobscura.com/places/ike-towell-grave",
+        "title": "Yi Sun-Shin Monument in Chantilly, Virginia",
+        "summary": "While not very well known in western culture, Admiral Yi Sun-Shin is a major figure in Korean and Asian history.",
+        "link": "https://www.atlasobscura.com/places/yi-sun-shin-monument",
         "source": "Atlas Obscura",
         "publisher": "Atlas Obscura",
         "category": "Entdeckung"
+      },
+      {
+        "title": "Personalized gene therapy relieves severe epilepsy in two boys",
+        "summary": "Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02267-0 Switching off one copy of a gene also enabled one of the children to walk independently for the first time.",
+        "link": "https://www.nature.com/articles/d41586-026-02267-0",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
       }
     ]
   }

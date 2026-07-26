@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T07:20:21+00:00",
-  "date_label": "Saturday, 25. July 2026",
+  "generated_at": "2026-07-26T07:37:19+00:00",
+  "date_label": "Sunday, 26. July 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -26,8 +26,8 @@
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6210.1699,
-        "change_pct": -1.69
+        "price": 6280.9399,
+        "change_pct": 1.14
       },
       {
         "name": "Nikkei 225",
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 56230,
-        "usd": 63970,
-        "change_24h_pct": -2.47
+        "eur": 56547,
+        "usd": 64316,
+        "change_24h_pct": 0.56
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1631.97,
-        "usd": 1856.61,
-        "change_24h_pct": -2.22
+        "eur": 1653.89,
+        "usd": 1881.13,
+        "change_24h_pct": 1.4
       }
     ]
   },
@@ -94,8 +94,8 @@
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.703,
-        "change_pct": 0.99,
+        "price": 4.679,
+        "change_pct": -0.51,
         "unit": "%"
       }
     ]
@@ -105,17 +105,65 @@
     "error": null,
     "data": [
       {
-        "title": "Raumfahrt: SpaceX absolviert erfolgreichen Starship-Testflug",
-        "summary": "Nach zwei Verschiebungen absolviert die Riesen-Rakete von Elon Musk erfolgreich ihren 13.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/spacex-absolviert-erfolgreichen-starship-testflug-accg-201064157.html",
+        "title": "Götz Aly im Interview: „Das klingt ein bisschen nach Nürnberger Rassegesetzen“",
+        "summary": "Der Historiker Götz Aly über Gewaltphantasien der AfD, die verwöhnten Deutschen – und die ökonomischen Grundlagen des Nationalsozialismus.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/historiker-goetz-aly-das-klingt-ein-bisschen-nach-nuernberger-rassegesetzen-accg-201061667.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Feuer: Waldbrände in Spanien und Frankreich wüten weiter",
-        "summary": "Frankreich und Spanien kämpfen weiter gegen Waldbrände.",
-        "link": "https://www.handelsblatt.com/politik/international/feuer-waldbraende-in-spanien-und-frankreich-wueten-weiter/100242831.html",
+        "title": "+++ Iran-Krieg +++: Iran bezeichnet Gespräche mit Oman über Straße von Hormus als produktiv",
+        "summary": "Huthi-Miliz reklamiert Angriffe auf Saudi-Ölanlagen für sich +++ Selenskyj: Russland stellt Iran Satellitenbeobachtungen zur Verfügung+++ Iran verurteilt ukrainischen Angriff auf Frachter +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-bezeichnet-gespraeche-mit-oman-ueber-strasse-von-hormus-als-produktiv/100136895.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "Rental searches for pet friendly properties drop after law change",
+        "summary": "Agents say some renters wrongly believe permission to have a pet is guaranteed.",
+        "link": "https://www.bbc.co.uk/news/articles/cj3gd312d8yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
+        "title": "Batteriehersteller am Ende: Das Trauerspiel um Varta",
+        "summary": "Varta wird zerschlagen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/varta-zerschlagung-wer-raegt-schuld-am-niedergang-201060535.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "+++ USA +++: US-Berufungsgericht blockiert Trumps Erlass zur Briefwahl",
+        "summary": "Katy Perry wütend auf Weißes Haus: Song in Kriegs-Clip +++ USA verzeichnen höchste Zahl an Masern-Infektionen seit 35 Jahren +++ US-Gericht blockiert Gebührenerhöhung für Arbeitsvisa +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/international/usa-us-regierung-zieht-vorladungen-von-times-journalisten-zurueck/29669594.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "Primark's new 'supermarket tactic' to woo customers in online price war",
+        "summary": "Competition from ultra-cheap Chinese retailers and the cost of living crisis could be putting some people off shopping at the store, analysts say.",
+        "link": "https://www.bbc.co.uk/news/articles/c4g3x4j8pgro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
+        "title": "Die Rolle der Unicredit: Der Niedergang der deutschen Großbanken",
+        "summary": "Nach einer Übernahme der Commerzbank befänden sich vier der ehemals fünf deutschen Großbanken unter dem Dach der Mailänder Unicredit.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/commerzbank-und-unicredit-der-niedergang-der-deutschen-grossbanken-accg-201058913.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "Forschung: „Könnte katastrophale Folgen haben“: Experten warnen vor Datenabfluss durch Kooperation mit China",
+        "summary": "Die TU München scheut nicht die Nähe zu militärnahen Forschungs-Einrichtungen in China und Russland.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/forschung-experten-warnen-vor-katastrophalen-folgen-von-datenabfluss/100240419.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -127,54 +175,6 @@
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
-      },
-      {
-        "title": "Nach Wettbewerbsklage: Paramount setzt Übernahme von Warner Brothers aus",
-        "summary": "Die amerikanische Filmproduktionsgesellschaft Paramount setzt den Kauf ihres Konkurrenten Warner Brothers aus.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/paramount-setzt-uebernahme-von-warner-brothers-aus-201063949.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "Entertainment: Paramount setzt Warner-Übernahme vorerst aus",
-        "summary": "Der Mega-Deal der Entertainment-Branche lässt weiter auf sich warten.",
-        "link": "https://www.handelsblatt.com/unternehmen/it-medien/entertainment-paramount-setzt-warner-uebernahme-vorerst-aus/100242795.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "Long overdue, life-changing or frivolous? Your thoughts on wedding rule changes",
-        "summary": "The government wants to relax wedding laws so couples can get married almost anywhere.",
-        "link": "https://www.bbc.co.uk/news/articles/cvg8wlwzjx9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
-      },
-      {
-        "title": "KI-Fachmann Krüger: „Wir müssen annehmen, dass die KI den Weg ins Internet und den Angriff eigenständig entwickelt hat“",
-        "summary": "Künstliche Intelligenz von Open AI hat sich selbst ins Web befreit und ein Unternehmen gehackt.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/dfki-chef-krueger-ueber-open-ai-wir-muessen-annehmen-dass-die-ki-den-weg-ins-internet-und-den-angriff-eigenstaendig-entwickelt-hat-201060723.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "US-Börsen: Wall Street schließt uneinheitlich – Tech-Werte sorgen weiter für Verunsicherung",
-        "summary": "Zwar sinken die Preise für Rohöl wieder, doch an den Märkten bleibt die Unsicherheit wegen des Iran-Krieges.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-sp-nasdaq-wall-street-schliesst-uneinheitlich/100242732.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "Trump vows to investigate EU over fining of US tech companies",
-        "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
-        "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
       }
     ]
   },
@@ -183,28 +183,28 @@
     "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "How AI helps scientists design the next generation of medicines",
-        "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge.",
-        "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-        "source": "MIT Technology Review",
-        "publisher": "MIT",
-        "category": "Technologie"
+        "title": "Scientists found mystery bacteria inside one of the ocean’s most elusive whales",
+        "summary": "Scientists studying decades of pygmy sperm whale strandings have uncovered three previously unknown types of Helicobacter bacteria hiding in the animals’ stomachs.",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260721000847.htm",
+        "source": "ScienceDaily – Tiere",
+        "publisher": "ScienceDaily",
+        "category": "Biologie"
       },
       {
-        "title": "Yi Sun-Shin Monument in Chantilly, Virginia",
-        "summary": "While not very well known in western culture, Admiral Yi Sun-Shin is a major figure in Korean and Asian history.",
-        "link": "https://www.atlasobscura.com/places/yi-sun-shin-monument",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
-      },
-      {
-        "title": "Personalized gene therapy relieves severe epilepsy in two boys",
-        "summary": "Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02267-0 Switching off one copy of a gene also enabled one of the children to walk independently for the first time.",
-        "link": "https://www.nature.com/articles/d41586-026-02267-0",
+        "title": "What The Odyssey reveals about ancient science — from botany to psychiatry",
+        "summary": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02275-0 From intelligent ships to clues about eclipses, Homer’s The Odyssey reveals how Bronze Age Greeks understood the world.",
+        "link": "https://www.nature.com/articles/d41586-026-02275-0",
         "source": "Nature News",
         "publisher": "Nature",
         "category": "Forschung"
+      },
+      {
+        "title": "'Stupid Hot': Heat Waves Muddle the Minds of Animals and Humans as Confusion and Aggression Seem to Rise With the Temperature",
+        "summary": "Wide-ranging research suggests that as temperatures increase, some creatures pick fights while others struggle to learn.",
+        "link": "https://www.smithsonianmag.com/science-nature/stupid-hot-heat-waves-muddle-the-minds-of-animals-and-humans-as-confusion-and-aggression-seem-to-rise-with-the-temperature-180988902/",
+        "source": "Smithsonian",
+        "publisher": "Smithsonian",
+        "category": "Wissenschaft"
       }
     ]
   }

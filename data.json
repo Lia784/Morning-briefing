@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T07:37:19+00:00",
-  "date_label": "Sunday, 26. July 2026",
+  "generated_at": "2026-07-27T08:33:15+00:00",
+  "date_label": "Monday, 27. July 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,8 +8,8 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25099.0,
-        "change_pct": 1.36
+        "price": 25406.2305,
+        "change_pct": 1.22
       },
       {
         "name": "S&P 500",
@@ -26,14 +26,14 @@
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6280.9399,
-        "change_pct": 1.14
+        "price": 6337.1802,
+        "change_pct": 0.9
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 64611.1484,
-        "change_pct": -2.73
+        "price": 64931.1914,
+        "change_pct": 0.5
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 56547,
-        "usd": 64316,
-        "change_24h_pct": 0.56
+        "eur": 57190,
+        "usd": 65171,
+        "change_24h_pct": 1.09
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1653.89,
-        "usd": 1881.13,
-        "change_24h_pct": 1.4
+        "eur": 1724.62,
+        "usd": 1965.3,
+        "change_24h_pct": 4.32
       }
     ]
   },
@@ -64,32 +64,32 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1375,
-        "change_pct": -0.32
+        "price": 1.1399,
+        "change_pct": 0.19
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8532,
-        "change_pct": -0.16
+        "price": 0.8546,
+        "change_pct": 0.01
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9297,
-        "change_pct": 0.04
+        "price": 0.9291,
+        "change_pct": -0.02
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 163.791,
-        "change_pct": 0.44
+        "price": 163.541,
+        "change_pct": -0.18
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 186.245,
-        "change_pct": 0.08
+        "price": 186.376,
+        "change_pct": -0.01
       },
       {
         "name": "US 10Y Rendite",
@@ -105,25 +105,25 @@
     "error": null,
     "data": [
       {
-        "title": "Götz Aly im Interview: „Das klingt ein bisschen nach Nürnberger Rassegesetzen“",
-        "summary": "Der Historiker Götz Aly über Gewaltphantasien der AfD, die verwöhnten Deutschen – und die ökonomischen Grundlagen des Nationalsozialismus.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/historiker-goetz-aly-das-klingt-ein-bisschen-nach-nuernberger-rassegesetzen-accg-201061667.html",
+        "title": "Die Rolle der Unicredit: Der Niedergang der deutschen Großbanken",
+        "summary": "Nach einer Übernahme der Commerzbank befänden sich vier der ehemals fünf deutschen Großbanken unter dem Dach der Mailänder Unicredit.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/commerzbank-und-unicredit-der-niedergang-der-deutschen-grossbanken-accg-201058913.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "+++ Iran-Krieg +++: Iran bezeichnet Gespräche mit Oman über Straße von Hormus als produktiv",
-        "summary": "Huthi-Miliz reklamiert Angriffe auf Saudi-Ölanlagen für sich +++ Selenskyj: Russland stellt Iran Satellitenbeobachtungen zur Verfügung+++ Iran verurteilt ukrainischen Angriff auf Frachter +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-bezeichnet-gespraeche-mit-oman-ueber-strasse-von-hormus-als-produktiv/100136895.html",
+        "title": "Autoindustrie: Möglicher Rettungsplan – Audi prüft weniger Kapazität für Werk in Neckarsulm",
+        "summary": "Nach einem schwachen ersten Halbjahr steigt bei Audi der Druck.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/autoindustrie-moeglicher-rettungsplan-fuer-audi-werk-in-neckarsulm/100242168.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Rental searches for pet friendly properties drop after law change",
-        "summary": "Agents say some renters wrongly believe permission to have a pet is guaranteed.",
-        "link": "https://www.bbc.co.uk/news/articles/cj3gd312d8yo?at_medium=RSS&at_campaign=rss",
+        "title": "Shein swings to $99m loss as Trump tariffs hit sales",
+        "summary": "The announcement comes as the fast fashion giant prepares for its stock market debut in Hong Kong.",
+        "link": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -137,41 +137,41 @@
         "category": ""
       },
       {
-        "title": "+++ USA +++: US-Berufungsgericht blockiert Trumps Erlass zur Briefwahl",
-        "summary": "Katy Perry wütend auf Weißes Haus: Song in Kriegs-Clip +++ USA verzeichnen höchste Zahl an Masern-Infektionen seit 35 Jahren +++ US-Gericht blockiert Gebührenerhöhung für Arbeitsvisa +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/international/usa-us-regierung-zieht-vorladungen-von-times-journalisten-zurueck/29669594.html",
+        "title": "Feuer: Macron beruft Krisensitzung wegen Waldbränden ein",
+        "summary": "In Frankreich wüten seit Anfang vergangener Woche schwere Waldbrände.",
+        "link": "https://www.handelsblatt.com/politik/international/feuer-macron-beruft-krisensitzung-wegen-waldbraenden-ein/100243077.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Primark's new 'supermarket tactic' to woo customers in online price war",
-        "summary": "Competition from ultra-cheap Chinese retailers and the cost of living crisis could be putting some people off shopping at the store, analysts say.",
-        "link": "https://www.bbc.co.uk/news/articles/c4g3x4j8pgro?at_medium=RSS&at_campaign=rss",
+        "title": "Would you choose £50,000 over the chance of £1m?",
+        "summary": "The vast majority of people - particularly women - answer a survey saying they'd take the certainty over chance.",
+        "link": "https://www.bbc.co.uk/news/articles/cn0njd4e2evo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Die Rolle der Unicredit: Der Niedergang der deutschen Großbanken",
-        "summary": "Nach einer Übernahme der Commerzbank befänden sich vier der ehemals fünf deutschen Großbanken unter dem Dach der Mailänder Unicredit.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/commerzbank-und-unicredit-der-niedergang-der-deutschen-grossbanken-accg-201058913.html",
+        "title": "Neue Toniebox Lite: Warum Tonies sich mit Netflix vergleicht",
+        "summary": "Das Düsseldorfer Unternehmen bringt eine günstigere Variante seiner Toniebox auf den Markt.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/toniebox-sieht-sich-als-abomodell-aehnlich-wie-netflix-accg-201067215.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Forschung: „Könnte katastrophale Folgen haben“: Experten warnen vor Datenabfluss durch Kooperation mit China",
-        "summary": "Die TU München scheut nicht die Nähe zu militärnahen Forschungs-Einrichtungen in China und Russland.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/forschung-experten-warnen-vor-katastrophalen-folgen-von-datenabfluss/100240419.html",
+        "title": "Immobilien: Kauf einer Mietwohnung – Das verdienen Vermieter tatsächlich",
+        "summary": "Viele Deutsche träumen davon, ihre Altersvorsorge mit einer vermieteten Immobilie zu sichern.",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wann-sich-ein-vermietetes-mehrfamilienhaus-noch-rechnet/100180922.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "ADHD has rewired the workplace. This is what it means for bosses and workers",
-        "summary": "As ADHD diagnoses have risen, have workplaces caught up with the needs of the workforce?",
-        "link": "https://www.bbc.co.uk/news/articles/c70gq125xweo?at_medium=RSS&at_campaign=rss",
+        "title": "Chinese chipmaker shares surge 470% in blockbuster stock market debut",
+        "summary": "The company's shares soared by 470% in its market debut, as the AI boom drives chip demand.",
+        "link": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,28 +183,28 @@
     "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "Scientists found mystery bacteria inside one of the ocean’s most elusive whales",
-        "summary": "Scientists studying decades of pygmy sperm whale strandings have uncovered three previously unknown types of Helicobacter bacteria hiding in the animals’ stomachs.",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260721000847.htm",
-        "source": "ScienceDaily – Tiere",
+        "title": "CRISPR makes prostate cancer vulnerable to immunotherapy",
+        "summary": "Scientists used CRISPR to make prostate cancer cells easier for the immune system to detect and destroy.",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260726015250.htm",
+        "source": "ScienceDaily – Gesundheit",
         "publisher": "ScienceDaily",
-        "category": "Biologie"
+        "category": "Medizin"
       },
       {
-        "title": "What The Odyssey reveals about ancient science — from botany to psychiatry",
-        "summary": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02275-0 From intelligent ships to clues about eclipses, Homer’s The Odyssey reveals how Bronze Age Greeks understood the world.",
-        "link": "https://www.nature.com/articles/d41586-026-02275-0",
+        "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+        "link": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
+        "source": "MIT Technology Review",
+        "publisher": "MIT",
+        "category": "Technologie"
+      },
+      {
+        "title": "Bizarre CRISPR enzyme kills cancer cells by shredding their DNA",
+        "summary": "Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02268-z Early tests suggest the protein can be aimed at targets with tumour-causing mutations.",
+        "link": "https://www.nature.com/articles/d41586-026-02268-z",
         "source": "Nature News",
         "publisher": "Nature",
         "category": "Forschung"
-      },
-      {
-        "title": "'Stupid Hot': Heat Waves Muddle the Minds of Animals and Humans as Confusion and Aggression Seem to Rise With the Temperature",
-        "summary": "Wide-ranging research suggests that as temperatures increase, some creatures pick fights while others struggle to learn.",
-        "link": "https://www.smithsonianmag.com/science-nature/stupid-hot-heat-waves-muddle-the-minds-of-animals-and-humans-as-confusion-and-aggression-seem-to-rise-with-the-temperature-180988902/",
-        "source": "Smithsonian",
-        "publisher": "Smithsonian",
-        "category": "Wissenschaft"
       }
     ]
   }

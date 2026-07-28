@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T08:33:15+00:00",
-  "date_label": "Monday, 27. July 2026",
+  "generated_at": "2026-07-28T07:41:20+00:00",
+  "date_label": "Tuesday, 28. July 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25406.2305,
-        "change_pct": 1.22
+        "price": 25546.5898,
+        "change_pct": 0.73
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7411.98,
-        "change_pct": 0.05
+        "price": 7413.1802,
+        "change_pct": 0.07
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 24975.8203,
-        "change_pct": -0.64
+        "price": 24932.0801,
+        "change_pct": -0.82
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6337.1802,
-        "change_pct": 0.9
+        "price": 6315.4199,
+        "change_pct": 0.53
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 64931.1914,
-        "change_pct": 0.5
+        "price": 62364.9219,
+        "change_pct": -3.95
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 57190,
-        "usd": 65171,
-        "change_24h_pct": 1.09
+        "eur": 55795,
+        "usd": 63443,
+        "change_24h_pct": -2.43
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1724.62,
-        "usd": 1965.3,
-        "change_24h_pct": 4.32
+        "eur": 1654.68,
+        "usd": 1881.49,
+        "change_24h_pct": -3.91
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1399,
-        "change_pct": 0.19
+        "price": 1.1374,
+        "change_pct": -0.18
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8546,
-        "change_pct": 0.01
+        "price": 0.8548,
+        "change_pct": 0.16
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9291,
-        "change_pct": -0.02
+        "price": 0.9317,
+        "change_pct": 0.18
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 163.541,
-        "change_pct": -0.18
+        "price": 163.745,
+        "change_pct": 0.08
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 186.376,
-        "change_pct": -0.01
+        "price": 186.194,
+        "change_pct": -0.13
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.679,
-        "change_pct": -0.51,
+        "price": 4.641,
+        "change_pct": -1.32,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Die Rolle der Unicredit: Der Niedergang der deutschen Großbanken",
-        "summary": "Nach einer Übernahme der Commerzbank befänden sich vier der ehemals fünf deutschen Großbanken unter dem Dach der Mailänder Unicredit.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/commerzbank-und-unicredit-der-niedergang-der-deutschen-grossbanken-accg-201058913.html",
+        "title": "Standort in der Krise: Warum Deutschland zurückfällt",
+        "summary": "Die deutsche Industrie verliert an Boden – viele Ursachen sind hausgemacht.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/deutschland-in-der-krise-5-vorschlaege-zur-rettung-accg-201052047.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Autoindustrie: Möglicher Rettungsplan – Audi prüft weniger Kapazität für Werk in Neckarsulm",
-        "summary": "Nach einem schwachen ersten Halbjahr steigt bei Audi der Druck.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/autoindustrie-moeglicher-rettungsplan-fuer-audi-werk-in-neckarsulm/100242168.html",
+        "title": "Dax aktuell: Dax trotzt KI-Sorgen – und öffnet im Plus",
+        "summary": "Andere Börsen auf der Welt geraten derzeit ins Ungleichgewicht, der Dax profitiert unterdessen von seiner Zusammensetzung.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-trotzt-ki-sorgen-und-oeffnet-im-plus/100243302.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Shein swings to $99m loss as Trump tariffs hit sales",
-        "summary": "The announcement comes as the fast fashion giant prepares for its stock market debut in Hong Kong.",
-        "link": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss",
+        "title": "Schools to offer technical subjects to pupils from age 14, Burnham says",
+        "summary": "The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.",
+        "link": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Batteriehersteller am Ende: Das Trauerspiel um Varta",
-        "summary": "Varta wird zerschlagen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/varta-zerschlagung-wer-raegt-schuld-am-niedergang-201060535.html",
+        "title": "KI außer Kontrolle: Hackingopfer Hugging Face stellt jetzt Forderungen an Open AI",
+        "summary": "Der von Open AI verursachte Cyberangriff schlägt hohe Wellen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/hugging-face-fordert-von-openai-100-millionen-dollar-201069087.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Feuer: Macron beruft Krisensitzung wegen Waldbränden ein",
-        "summary": "In Frankreich wüten seit Anfang vergangener Woche schwere Waldbrände.",
-        "link": "https://www.handelsblatt.com/politik/international/feuer-macron-beruft-krisensitzung-wegen-waldbraenden-ein/100243077.html",
+        "title": "Diskussionen: Dialogformat „Deutschland spricht“ startet",
+        "summary": "Menschen mit möglichst unterschiedlichen Meinungen miteinander ins Gespräch bringen – das ist die Idee der Medieninitiative.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/diskussionen-dialogformat-deutschland-spricht-startet/100057879.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Would you choose £50,000 over the chance of £1m?",
-        "summary": "The vast majority of people - particularly women - answer a survey saying they'd take the certainty over chance.",
-        "link": "https://www.bbc.co.uk/news/articles/cn0njd4e2evo?at_medium=RSS&at_campaign=rss",
+        "title": "The way you look can help you get a job - here's how",
+        "summary": "While you need to answer the questions in an interview, your appearance and mannerisms are also crucial.",
+        "link": "https://www.bbc.co.uk/news/articles/c80neg5rd81o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Neue Toniebox Lite: Warum Tonies sich mit Netflix vergleicht",
-        "summary": "Das Düsseldorfer Unternehmen bringt eine günstigere Variante seiner Toniebox auf den Markt.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/toniebox-sieht-sich-als-abomodell-aehnlich-wie-netflix-accg-201067215.html",
+        "title": "Kabinettsumbildung: Mit diesem Umbau geht Merz ins Risiko",
+        "summary": "Ob auf Minister- oder Staatssekretärsebene: Der Kanzler baut im Kabinett kräftig um.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/friedrich-merz-riskanter-kabinettsumbau-wer-gewinnt-201068879.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Immobilien: Kauf einer Mietwohnung – Das verdienen Vermieter tatsächlich",
-        "summary": "Viele Deutsche träumen davon, ihre Altersvorsorge mit einer vermieteten Immobilie zu sichern.",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wann-sich-ein-vermietetes-mehrfamilienhaus-noch-rechnet/100180922.html",
+        "title": "E-Commerce: EU-Kommission bremst Milliardenübernahme von Fedex",
+        "summary": "Der US-Logistikkonzern will zusammen mit Finanzinvestoren den europaweit tätigen Paketdienst Inpost übernehmen.",
+        "link": "https://www.handelsblatt.com/unternehmen/dienstleister/e-commerce-eu-kommission-bremst-milliardenuebernahme-von-fedex/100241880.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Chinese chipmaker shares surge 470% in blockbuster stock market debut",
-        "summary": "The company's shares soared by 470% in its market debut, as the AI boom drives chip demand.",
-        "link": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
+        "title": "Should I still travel to France or Spain on holiday?",
+        "summary": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.",
+        "link": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": "Quellen nicht erreichbar: NASA Breaking News",
+    "error": null,
     "data": [
       {
-        "title": "CRISPR makes prostate cancer vulnerable to immunotherapy",
-        "summary": "Scientists used CRISPR to make prostate cancer cells easier for the immune system to detect and destroy.",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260726015250.htm",
-        "source": "ScienceDaily – Gesundheit",
+        "title": "Scientists found two powerful new ways to destroy forever chemicals",
+        "summary": "Scientists are testing two promising ways to destroy PFAS, the stubborn “forever chemicals” that can accumulate in water and resist normal treatment.",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260718010147.htm",
+        "source": "ScienceDaily – Physik",
         "publisher": "ScienceDaily",
-        "category": "Medizin"
+        "category": "Physik"
       },
       {
-        "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
-        "link": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
-        "source": "MIT Technology Review",
-        "publisher": "MIT",
-        "category": "Technologie"
-      },
-      {
-        "title": "Bizarre CRISPR enzyme kills cancer cells by shredding their DNA",
-        "summary": "Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02268-z Early tests suggest the protein can be aimed at targets with tumour-causing mutations.",
-        "link": "https://www.nature.com/articles/d41586-026-02268-z",
+        "title": "The existential choice facing UK physics facilities: commercialize or close",
+        "summary": "Nature, Published online: 27 July 2026; doi:10.1038/d41586-026-02171-7 The national synchrotron source, a laser facility and a particle accelerator are under threat of closure unless cash is found.",
+        "link": "https://www.nature.com/articles/d41586-026-02171-7",
         "source": "Nature News",
         "publisher": "Nature",
         "category": "Forschung"
+      },
+      {
+        "title": "Monument to José Mata in Santa Cruz de la Palma, Spain",
+        "summary": "The Canary Islands are celebrated for their volcanic landscapes, lush forests, and dramatic Atlantic coastline—not for bullfighting.",
+        "link": "https://www.atlasobscura.com/places/monument-to-jose-mata",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
       }
     ]
   }

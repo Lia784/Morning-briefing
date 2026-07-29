@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T07:41:20+00:00",
-  "date_label": "Tuesday, 28. July 2026",
+  "generated_at": "2026-07-29T07:45:08+00:00",
+  "date_label": "Wednesday, 29. July 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25546.5898,
-        "change_pct": 0.73
+        "price": 25524.2793,
+        "change_pct": 0.24
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7413.1802,
-        "change_pct": 0.07
+        "price": 7428.7798,
+        "change_pct": 0.21
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 24932.0801,
-        "change_pct": -0.82
+        "price": 24876.9102,
+        "change_pct": -0.22
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6315.4199,
-        "change_pct": 0.53
+        "price": 6287.4902,
+        "change_pct": -0.03
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 62364.9219,
-        "change_pct": -3.95
+        "price": 61434.1914,
+        "change_pct": -1.49
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 55795,
-        "usd": 63443,
-        "change_24h_pct": -2.43
+        "eur": 56506,
+        "usd": 64418,
+        "change_24h_pct": 1.31
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1654.68,
-        "usd": 1881.49,
-        "change_24h_pct": -3.91
+        "eur": 1679.07,
+        "usd": 1914.15,
+        "change_24h_pct": 1.48
       }
     ]
   },
@@ -64,32 +64,32 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1374,
-        "change_pct": -0.18
+        "price": 1.1401,
+        "change_pct": 0.28
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8548,
-        "change_pct": 0.16
+        "price": 0.8568,
+        "change_pct": 0.15
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9317,
-        "change_pct": 0.18
+        "price": 0.9327,
+        "change_pct": 0.14
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 163.745,
-        "change_pct": 0.08
+        "price": 163.593,
+        "change_pct": -0.11
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 186.194,
-        "change_pct": -0.13
+        "price": 186.449,
+        "change_pct": 0.14
       },
       {
         "name": "US 10Y Rendite",
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
+        "title": "Altersvorsorge: Der digitale Renten-Reinfall",
+        "summary": "Wie viel Rente habe ich in Aussicht?",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/rentenuebersicht-der-digitale-renten-reinfall-201071557.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "Immobilien: Gericht bestellt vorläufigen Insolvenzverwalter für Centrum Development",
+        "summary": "Uwe Reppegather sitzt weiter in Untersuchungshaft.",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/centrum-development-gericht-bestellt-vorlaeufigen-insolvenzverwalter/100243639.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "Ticket prices set to rise as Heathrow able to recover runway project money",
+        "summary": "UK airport gets green light to charge airlines more to use the hub, which is expected to mean higher fares for flyers.",
+        "link": "https://www.bbc.co.uk/news/articles/cdx8ke9gpnko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
         "title": "Standort in der Krise: Warum Deutschland zurückfällt",
         "summary": "Die deutsche Industrie verliert an Boden – viele Ursachen sind hausgemacht.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/deutschland-in-der-krise-5-vorschlaege-zur-rettung-accg-201052047.html",
+        "link": "https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/5-vorschlaege-zur-rettung-der-deutschen-industrie-accg-201052047.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Dax aktuell: Dax trotzt KI-Sorgen – und öffnet im Plus",
-        "summary": "Andere Börsen auf der Welt geraten derzeit ins Ungleichgewicht, der Dax profitiert unterdessen von seiner Zusammensetzung.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-trotzt-ki-sorgen-und-oeffnet-im-plus/100243302.html",
+        "title": "Autoindustrie: BMW baut bis Ende des kommenden Jahres 8000 Stellen ab",
+        "summary": "In den vergangenen sechs Wochen haben Vorstand und Arbeitnehmervertreter intensiv verhandelt.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/autoindustrie-bmw-baut-bis-ende-des-kommenden-jahres-8000-stellen-ab/100241762.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Schools to offer technical subjects to pupils from age 14, Burnham says",
-        "summary": "The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.",
-        "link": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
+        "title": "'Don't wait until you want revenge' - why prenups are on the rise",
+        "summary": "Around one in three young couples are now signing prenups to set out who gets what in the event of divorce.",
+        "link": "https://www.bbc.co.uk/news/articles/cgmkgvy3lv4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "KI außer Kontrolle: Hackingopfer Hugging Face stellt jetzt Forderungen an Open AI",
-        "summary": "Der von Open AI verursachte Cyberangriff schlägt hohe Wellen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/hugging-face-fordert-von-openai-100-millionen-dollar-201069087.html",
+        "title": "Autohersteller spart: BMW baut 8000 Stellen ab",
+        "summary": "Der neue Vorstandschef Milan Nedeljković streicht fünf Prozent der 150.000 Arbeitsplätze, die Hälfte davon in Deutschland.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/bmw-baut-8000-stellen-ab-accg-201073702.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Diskussionen: Dialogformat „Deutschland spricht“ startet",
-        "summary": "Menschen mit möglichst unterschiedlichen Meinungen miteinander ins Gespräch bringen – das ist die Idee der Medieninitiative.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/diskussionen-dialogformat-deutschland-spricht-startet/100057879.html",
+        "title": "Dax aktuell: Dax startet unverändert – Bilanzen im Blick",
+        "summary": "Eine neue Eskalation im Iran-Krieg droht, die jüngste Hoffnung der Anleger zunichte zu machen.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-startet-unveraendert-bilanzen-im-blick/100243625.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "The way you look can help you get a job - here's how",
-        "summary": "While you need to answer the questions in an interview, your appearance and mannerisms are also crucial.",
-        "link": "https://www.bbc.co.uk/news/articles/c80neg5rd81o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
-      },
-      {
-        "title": "Kabinettsumbildung: Mit diesem Umbau geht Merz ins Risiko",
-        "summary": "Ob auf Minister- oder Staatssekretärsebene: Der Kanzler baut im Kabinett kräftig um.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/friedrich-merz-riskanter-kabinettsumbau-wer-gewinnt-201068879.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "E-Commerce: EU-Kommission bremst Milliardenübernahme von Fedex",
-        "summary": "Der US-Logistikkonzern will zusammen mit Finanzinvestoren den europaweit tätigen Paketdienst Inpost übernehmen.",
-        "link": "https://www.handelsblatt.com/unternehmen/dienstleister/e-commerce-eu-kommission-bremst-milliardenuebernahme-von-fedex/100241880.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "Should I still travel to France or Spain on holiday?",
-        "summary": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.",
-        "link": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
+        "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
+        "summary": "Campaign group Electrical Safety First has urged those \"heading abroad this summer to think before they buy\".",
+        "link": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": null,
+    "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "Scientists found two powerful new ways to destroy forever chemicals",
-        "summary": "Scientists are testing two promising ways to destroy PFAS, the stubborn “forever chemicals” that can accumulate in water and resist normal treatment.",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260718010147.htm",
-        "source": "ScienceDaily – Physik",
+        "title": "A hidden Alzheimer’s tipping point may decide who gets dementia",
+        "summary": "Scientists have identified a possible tipping point that helps determine whether Alzheimer’s-related brain changes lead to dementia.",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260726015257.htm",
+        "source": "ScienceDaily – Gesundheit",
         "publisher": "ScienceDaily",
-        "category": "Physik"
+        "category": "Medizin"
       },
       {
-        "title": "The existential choice facing UK physics facilities: commercialize or close",
-        "summary": "Nature, Published online: 27 July 2026; doi:10.1038/d41586-026-02171-7 The national synchrotron source, a laser facility and a particle accelerator are under threat of closure unless cash is found.",
-        "link": "https://www.nature.com/articles/d41586-026-02171-7",
+        "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI.",
+        "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+        "source": "MIT Technology Review",
+        "publisher": "MIT",
+        "category": "Technologie"
+      },
+      {
+        "title": "Wildfires rampaged across Europe in the dying days of the Triassic",
+        "summary": "Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02333-7 Infernos ravaged continental expanses of ferns during mass extinction of land and sea animals.",
+        "link": "https://www.nature.com/articles/d41586-026-02333-7",
         "source": "Nature News",
         "publisher": "Nature",
         "category": "Forschung"
-      },
-      {
-        "title": "Monument to José Mata in Santa Cruz de la Palma, Spain",
-        "summary": "The Canary Islands are celebrated for their volcanic landscapes, lush forests, and dramatic Atlantic coastline—not for bullfighting.",
-        "link": "https://www.atlasobscura.com/places/monument-to-jose-mata",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
       }
     ]
   }

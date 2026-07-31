@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T07:35:19+00:00",
-  "date_label": "Thursday, 30. July 2026",
+  "generated_at": "2026-07-31T07:52:22+00:00",
+  "date_label": "Friday, 31. July 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25345.4805,
-        "change_pct": -0.45
+        "price": 25852.7402,
+        "change_pct": 0.94
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7316.1499,
-        "change_pct": -1.52
+        "price": 7437.6299,
+        "change_pct": 1.66
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 24442.9395,
-        "change_pct": -1.74
+        "price": 25122.1797,
+        "change_pct": 2.78
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6264.4302,
-        "change_pct": 0.25
+        "price": 6412.4502,
+        "change_pct": 1.07
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 61867.4297,
-        "change_pct": 0.71
+        "price": 64362.0195,
+        "change_pct": 4.03
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 55868,
-        "usd": 63901,
-        "change_24h_pct": -1.09
+        "eur": 55491,
+        "usd": 63916,
+        "change_24h_pct": -0.72
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1660.7,
-        "usd": 1899.47,
-        "change_24h_pct": -1.18
+        "eur": 1638.64,
+        "usd": 1887.43,
+        "change_24h_pct": -1.46
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1439,
-        "change_pct": 0.46
+        "price": 1.1521,
+        "change_pct": 0.47
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8573,
-        "change_pct": 0.05
+        "price": 0.8561,
+        "change_pct": -0.2
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9343,
-        "change_pct": 0.14
+        "price": 0.9295,
+        "change_pct": -0.35
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 163.692,
-        "change_pct": -0.1
+        "price": 160.427,
+        "change_pct": -1.76
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 187.178,
-        "change_pct": 0.33
+        "price": 184.769,
+        "change_pct": -1.33
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.622,
-        "change_pct": 0.39,
+        "price": 4.663,
+        "change_pct": 0.89,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Merz-Aussagen: Start-up-Paradies Deutschland?",
-        "summary": "Die deutsche Start-up-Branche entwickelt sich schnell, aber nicht schnell genug.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/start-ups-in-deutschland-wachstum-aber-nicht-genug-201073894.html",
+        "title": "Kritische Rohstoffe: Europas wirtschaftliche Freiheit wird auch in Hanau verteidigt",
+        "summary": "Der Bund muss den Verkauf des Magnetherstellers VAC aus Hanau prüfen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/vac-vacuumschmelze-hanau-verkauf-an-us-konzern-201069100.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Deep Read: „Bei uns gibt es keine Brandmauer mehr“ – ein Land wird blau",
-        "summary": "Leif-Erik Holm war Radiomoderator, heute ist er AfD-Spitzenkandidat in Mecklenburg-Vorpommern.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/partei-so-will-die-afd-mit-dem-schwiegersohn-typ-waehler-gewinnen/100235768.html",
+        "title": "KI und Urheberrechte: Gericht stärkt Urheberrechte gegen KI-Musikfirma Suno",
+        "summary": "Der deutsche Gema hatte gegen das US-Unternehmen geklagt, weil sie sie Urheberrechte an Lieder verletzt sah.",
+        "link": "https://www.handelsblatt.com/unternehmen/ki-und-urheberrechte-gericht-staerkt-urheberrechte-gegen-ki-musikfirma-suno/100244223.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Interest rates expected to be held again by Bank of England",
-        "summary": "It would be the fifth hold in a row, with the Bank rate standing at 3.75% - the lowest since February 2023.",
-        "link": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
+        "title": "Sainsbury's agrees to sell Argos for £120m",
+        "summary": "Under the terms of the deal, Argos will still operate in Sainsbury's shops, sell Habitat products, and offer Nectar points.",
+        "link": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Neuer Porsche-Chef: „Porsche kann in der heutigen Form allein nicht überleben“",
-        "summary": "Michael Leiters will Porsche neu ausrichten.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/porsche-chef-michael-leiters-plan-gegen-wohlstandserosion-accg-201075227.html",
+        "title": "Dämmung, Heizung und Co.: Wann lohnt sich das Sanieren?",
+        "summary": "Wer sein Haus energieeffizient umbaut, steigert den Wert.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/energie-heizung/heizung-daemmung-und-co-wann-lohnt-sich-die-sanierung-vom-eigenheim-accg-201049744.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Verkehr: Deutsche Bahn macht offenbar wieder Gewinn mit ihrem Kerngeschäft",
-        "summary": "Unpünktliche Züge, marode Infrastruktur, schwache Zahlen: Bei der Bahn lief es zuletzt nicht gut.",
-        "link": "https://www.handelsblatt.com/unternehmen/dienstleister/deutsche-bahn-neuer-fahrgastrekord-bringt-bahn-offenbar-wieder-gewinn/100243417.html",
+        "title": "Dax aktuell: Dax öffnet im Plus – neuer Rekord in Reichweite",
+        "summary": "Nach einer monatelangen Seitwärtsbewegung scheint der Dax wieder im Aufwärtstrend zu sein.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-oeffnet-im-plus-neuer-rekord-in-reichweite/100244194.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Shell profits double as oil prices rise due to Iran war",
-        "summary": "Disruption to global supplies of oil and liquid natural gas through the Strait of Hormuz has pushed up prices.",
-        "link": "https://www.bbc.co.uk/news/articles/cpq8n45r5e8o?at_medium=RSS&at_campaign=rss",
+        "title": "Thames Water boss says leakage targets 'not realistic'",
+        "summary": "Chris Weston said Thames wanted \"to do better\" but some of its targets were not achievable.",
+        "link": "https://www.bbc.co.uk/news/articles/c04kd3gl1gpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Hausverkauf: „Privatleute sind bei Immobiliengeschäften oft erstaunlich naiv“",
-        "summary": "Der erste Auftritt muss sitzen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/immobiliengutachterin-darauf-sollten-privatleute-beim-hausverkauf-achten-accg-201023847.html",
+        "title": "Wegen Fusion mit SpaceX: Musk dementiert Abspaltung von Tesla in China",
+        "summary": "Steht Teslas China-Geschäft einer Fusion mit dem Raumfahrtunternehmen SpaceX im Weg?",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/musk-bezeichnet-tesla-abspaltung-in-china-als-fake-news-accg-201083036.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Südosteuropa: Griechenlands Auswanderer kehren in Scharen zurück – aber nicht des Geldes wegen",
-        "summary": "Mit Steueranreizen wirbt Athen um Fachkräfte, die während der Schuldenkrise ins Ausland gingen.",
-        "link": "https://www.handelsblatt.com/politik/international/griechenland-warum-kehren-die-auswanderer-jetzt-massenhaft-zurueck/100238582.html",
+        "title": "+++ Bundespolitik +++: Wildberger kündigt Abbau von 30 Prozent der Berichtspflichten an",
+        "summary": "Digitalminister fordert Grundsatzdebatte mit China über Daten und Handel +++ Zahl der Abschiebungen im ersten Halbjahr gesunken +++ Weidel für Abschaffung der Fünf-Prozent-Hürde bei Wahlen +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-wildberger-kuendigt-abbau-von-30-prozent-der-berichtspflichten-an/100137034.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "What happens here has a big impact on your money",
-        "summary": "BBC business reporter Dearbail Jordan explains how it works from inside the Bank of England.",
-        "link": "https://www.bbc.co.uk/news/videos/ckg4jxwkn2lo?at_medium=RSS&at_campaign=rss",
+        "title": "BP puts North Sea business up for sale",
+        "summary": "The decision follows a review of BP's operations and is set to end 60 years of production in the region by the oil giant.",
+        "link": "https://www.bbc.co.uk/news/articles/c62q7w003lro?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,28 +183,28 @@
     "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "A Little-Known Photographer Captured the First Clear Image of a Total Solar Eclipse 175 Years Ago. Today, These Celestial Events Still Reveal the Mysteries of the Sun",
-        "summary": "Ever since that first daguerreotype on a light-sensitive metal plate, eclipse observations have continued to unveil the star's corona and bring people together to experience the solar system's majesty",
-        "link": "https://www.smithsonianmag.com/science-nature/a-little-known-photographer-captured-the-first-clear-image-of-a-total-solar-eclipse-175-years-ago-today-these-celestial-events-still-reveal-the-mysteries-of-the-sun-180989208/",
-        "source": "Smithsonian",
-        "publisher": "Smithsonian",
-        "category": "Wissenschaft"
-      },
-      {
-        "title": "4 in 5 toddler foods are ultra-processed",
-        "summary": "A grocery-store audit found that many foods marketed for toddlers may be far less healthy than parents expect.",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260727012128.htm",
-        "source": "ScienceDaily – Gesundheit",
+        "title": "A hidden Alzheimer’s tipping point may decide who gets dementia",
+        "summary": "Scientists have identified a possible tipping point that helps determine whether Alzheimer’s-related brain changes lead to dementia.",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260726015257.htm",
+        "source": "ScienceDaily – Neurowissenschaft",
         "publisher": "ScienceDaily",
-        "category": "Medizin"
+        "category": "Neurowissenschaft"
       },
       {
-        "title": "Pilot Island in Washington, Wisconsin",
-        "summary": "A string of small islands stretch from the northern tip of Door County, where the warm waters of Green Bay meet the icy waves of Lake Michigan.",
-        "link": "https://www.atlasobscura.com/places/pilot-island",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
+        "title": "Author Correction: Sleep chart of biological ageing clocks in middle and late life",
+        "summary": "Nature, Published online: 30 July 2026; doi:10.1038/s41586-026-10920-x Author Correction: Sleep chart of biological ageing clocks in middle and late life",
+        "link": "https://www.nature.com/articles/s41586-026-10920-x",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
+      },
+      {
+        "title": "Montana’s plan to become an experimental medical hub just pushed forward",
+        "summary": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers.",
+        "link": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
+        "source": "MIT Technology Review",
+        "publisher": "MIT",
+        "category": "Technologie"
       }
     ]
   }

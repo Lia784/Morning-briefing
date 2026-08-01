@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T07:52:22+00:00",
-  "date_label": "Friday, 31. July 2026",
+  "generated_at": "2026-08-01T07:29:00+00:00",
+  "date_label": "Saturday, 01. August 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,26 +8,26 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25852.7402,
-        "change_pct": 0.94
+        "price": 25629.2402,
+        "change_pct": 0.07
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7437.6299,
-        "change_pct": 1.66
+        "price": 7489.7202,
+        "change_pct": 0.7
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25122.1797,
-        "change_pct": 2.78
+        "price": 25373.8496,
+        "change_pct": 1.0
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6412.4502,
-        "change_pct": 1.07
+        "price": 6358.0098,
+        "change_pct": 0.21
       },
       {
         "name": "Nikkei 225",
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 55491,
-        "usd": 63916,
-        "change_24h_pct": -0.72
+        "eur": 54626,
+        "usd": 63020,
+        "change_24h_pct": -1.65
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1638.64,
-        "usd": 1887.43,
-        "change_24h_pct": -1.46
+        "eur": 1619.4,
+        "usd": 1868.22,
+        "change_24h_pct": -1.12
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1521,
-        "change_pct": 0.47
+        "price": 1.1527,
+        "change_pct": 0.52
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8561,
-        "change_pct": -0.2
+        "price": 0.8551,
+        "change_pct": -0.32
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9295,
-        "change_pct": -0.35
+        "price": 0.9306,
+        "change_pct": -0.22
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 160.427,
-        "change_pct": -1.76
+        "price": 157.4,
+        "change_pct": -1.74
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 184.769,
-        "change_pct": -1.33
+        "price": 181.491,
+        "change_pct": -3.08
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.663,
-        "change_pct": 0.89,
+        "price": 4.745,
+        "change_pct": 1.76,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Kritische Rohstoffe: Europas wirtschaftliche Freiheit wird auch in Hanau verteidigt",
-        "summary": "Der Bund muss den Verkauf des Magnetherstellers VAC aus Hanau prüfen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/vac-vacuumschmelze-hanau-verkauf-an-us-konzern-201069100.html",
+        "title": "Deutsche Bahn: Bahnchefin: Pünktlichkeit im ersten Halbjahr bei 59 Prozent",
+        "summary": "Zugverspätungen bleiben das große Problem der Deutschen Bahn.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/deutsche-bahn-puenktlichkeit-im-ersten-halbjahr-bei-59-accg-201086134.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "KI und Urheberrechte: Gericht stärkt Urheberrechte gegen KI-Musikfirma Suno",
-        "summary": "Der deutsche Gema hatte gegen das US-Unternehmen geklagt, weil sie sie Urheberrechte an Lieder verletzt sah.",
-        "link": "https://www.handelsblatt.com/unternehmen/ki-und-urheberrechte-gericht-staerkt-urheberrechte-gegen-ki-musikfirma-suno/100244223.html",
+        "title": "+++ Iran-Krieg +++: Iran warnt USA vor neuen Angriffen und droht mit Gegenschlägen",
+        "summary": "Hamas bestätigt Einigung zur Entwaffnung +++ Trump kündigt weitere Angriffe auf den Iran an +++ Sanktionierter Tanker mit russischem Öl leckt vor Küste des Oman +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/international/iran-krieg-saudi-arabien-plant-koalition-zum-schutz-des-roten-meeres/100136895.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Sainsbury's agrees to sell Argos for £120m",
-        "summary": "Under the terms of the deal, Argos will still operate in Sainsbury's shops, sell Habitat products, and offer Nectar points.",
-        "link": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss",
+        "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
+        "summary": "Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content.",
+        "link": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Dämmung, Heizung und Co.: Wann lohnt sich das Sanieren?",
-        "summary": "Wer sein Haus energieeffizient umbaut, steigert den Wert.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/energie-heizung/heizung-daemmung-und-co-wann-lohnt-sich-die-sanierung-vom-eigenheim-accg-201049744.html",
+        "title": "Computerkonzern Dell: Wie der fünftreichste Mensch der Welt von Donald Trump profitiert",
+        "summary": "Niemand außer Elon Musk hat in diesem Jahr seinen Reichtum so stark vermehrt wie der Gründer des Computerherstellers Michael Dell.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/michael-dell-wie-der-fuenftreichste-mensch-der-welt-von-donald-trump-profitiert-201052593.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Dax aktuell: Dax öffnet im Plus – neuer Rekord in Reichweite",
-        "summary": "Nach einer monatelangen Seitwärtsbewegung scheint der Dax wieder im Aufwärtstrend zu sein.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-oeffnet-im-plus-neuer-rekord-in-reichweite/100244194.html",
+        "title": "+++ USA +++: US-Justizministerium – Bauunternehmen verursachte Schaden am „Reflecting Pool“ in Washington",
+        "summary": "US-Senat bestätigt Clayton als neuen Geheimdienstchef +++ Netanjahu: Treffen mit Trump „eines der besten Gespräche“ +++ Trump ehrt gestorbenen US-Senator Graham +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/international/usa-us-regierung-zieht-vorladungen-von-times-journalisten-zurueck/29669594.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Thames Water boss says leakage targets 'not realistic'",
-        "summary": "Chris Weston said Thames wanted \"to do better\" but some of its targets were not achievable.",
-        "link": "https://www.bbc.co.uk/news/articles/c04kd3gl1gpo?at_medium=RSS&at_campaign=rss",
+        "title": "Passenger on British Airways mayday flight describes fear and shout of 'I don't want to die'",
+        "summary": "Edward Killiwick was on the flight that issued a distress call, before it landed safely at Heathrow earlier this month.",
+        "link": "https://www.bbc.co.uk/news/articles/cn9n2v3lwr0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Wegen Fusion mit SpaceX: Musk dementiert Abspaltung von Tesla in China",
-        "summary": "Steht Teslas China-Geschäft einer Fusion mit dem Raumfahrtunternehmen SpaceX im Weg?",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/musk-bezeichnet-tesla-abspaltung-in-china-als-fake-news-accg-201083036.html",
+        "title": "Ost-Regierungschefs: So scheitert die ganze Rentenreform",
+        "summary": "Die abschlagsfreie Frührente ist ein Produkt der goldenen Aufschwungjahre.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/rentenreform-wie-die-fruehrente-das-ganze-paket-gefaehrdet-201084294.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "+++ Bundespolitik +++: Wildberger kündigt Abbau von 30 Prozent der Berichtspflichten an",
-        "summary": "Digitalminister fordert Grundsatzdebatte mit China über Daten und Handel +++ Zahl der Abschiebungen im ersten Halbjahr gesunken +++ Weidel für Abschaffung der Fünf-Prozent-Hürde bei Wahlen +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-wildberger-kuendigt-abbau-von-30-prozent-der-berichtspflichten-an/100137034.html",
+        "title": "+++ Ukraine-Krieg +++: Russische Getreidelobby warnt vor Stopp der Exporte im Schwarzen Meer",
+        "summary": "Polen fängt erneut russisches Aufklärungsflugzeug ab +++ Trump verhalten zu Patriot-Lizenzen für Ukraine +++ Logistikanlagen in drei russischen Regionen angegriffen +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-russische-getreidelobby-warnt-vor-stopp-der-exporte-im-schwarzen-meer/27982126.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "BP puts North Sea business up for sale",
-        "summary": "The decision follows a review of BP's operations and is set to end 60 years of production in the region by the oil giant.",
-        "link": "https://www.bbc.co.uk/news/articles/c62q7w003lro?at_medium=RSS&at_campaign=rss",
+        "title": "AI firms must answer for rogue bots, says boss of hacked company",
+        "summary": "Clement Delangue said he didn't want cyber attacks on other companies to become \"normalised\".",
+        "link": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": "Quellen nicht erreichbar: NASA Breaking News",
+    "error": null,
     "data": [
       {
-        "title": "A hidden Alzheimer’s tipping point may decide who gets dementia",
-        "summary": "Scientists have identified a possible tipping point that helps determine whether Alzheimer’s-related brain changes lead to dementia.",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260726015257.htm",
-        "source": "ScienceDaily – Neurowissenschaft",
-        "publisher": "ScienceDaily",
-        "category": "Neurowissenschaft"
+        "title": "Puits Sainte-Renelde in Tubize, Belgium",
+        "summary": "Saintes is a Belgian village located 30 minutes' drive southwest of Brussels.",
+        "link": "https://www.atlasobscura.com/places/puits-sainte-renelde",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
       },
       {
-        "title": "Author Correction: Sleep chart of biological ageing clocks in middle and late life",
-        "summary": "Nature, Published online: 30 July 2026; doi:10.1038/s41586-026-10920-x Author Correction: Sleep chart of biological ageing clocks in middle and late life",
-        "link": "https://www.nature.com/articles/s41586-026-10920-x",
+        "title": "Meat allergy is on the rise — what scientists want to know",
+        "summary": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02362-2 The allergy is caused by ticks, but researchers have much to learn about it.",
+        "link": "https://www.nature.com/articles/d41586-026-02362-2",
         "source": "Nature News",
         "publisher": "Nature",
         "category": "Forschung"
       },
       {
-        "title": "Montana’s plan to become an experimental medical hub just pushed forward",
-        "summary": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers.",
-        "link": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
-        "source": "MIT Technology Review",
-        "publisher": "MIT",
-        "category": "Technologie"
+        "title": "TB 26-04 Webbings for Use in Elevated Oxygen Environments",
+        "summary": "Flammability test results for commercial-off-the-shelf webbings that meet NASA flammability requirements are reported for use in elevated oxygen environments anticipated for future lunar and Martian missions.",
+        "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/",
+        "source": "NASA Breaking News",
+        "publisher": "NASA",
+        "category": "Raumfahrt"
       }
     ]
   }

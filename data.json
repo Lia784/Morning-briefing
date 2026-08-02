@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T07:29:00+00:00",
-  "date_label": "Saturday, 01. August 2026",
+  "generated_at": "2026-08-02T07:33:10+00:00",
+  "date_label": "Sunday, 02. August 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 54626,
-        "usd": 63020,
-        "change_24h_pct": -1.65
+        "eur": 55004,
+        "usd": 63434,
+        "change_24h_pct": 0.71
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1619.4,
-        "usd": 1868.22,
-        "change_24h_pct": -1.12
+        "eur": 1626.58,
+        "usd": 1875.85,
+        "change_24h_pct": 0.48
       }
     ]
   },
@@ -105,17 +105,41 @@
     "error": null,
     "data": [
       {
-        "title": "Deutsche Bahn: Bahnchefin: Pünktlichkeit im ersten Halbjahr bei 59 Prozent",
-        "summary": "Zugverspätungen bleiben das große Problem der Deutschen Bahn.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/deutsche-bahn-puenktlichkeit-im-ersten-halbjahr-bei-59-accg-201086134.html",
+        "title": "BDI Warnt: China-Schock 2.0 trifft deutsche Industrie hart",
+        "summary": "China-Schock 2.0 trifft deutsche Industrie hart",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/china-schock-2-0-wie-hart-trifft-china-die-deutsche-industrie-accg-201087447.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "+++ Iran-Krieg +++: Iran warnt USA vor neuen Angriffen und droht mit Gegenschlägen",
-        "summary": "Hamas bestätigt Einigung zur Entwaffnung +++ Trump kündigt weitere Angriffe auf den Iran an +++ Sanktionierter Tanker mit russischem Öl leckt vor Küste des Oman +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/international/iran-krieg-saudi-arabien-plant-koalition-zum-schutz-des-roten-meeres/100136895.html",
+        "title": "Moskau: Tote und Verletzte bei Explosion in",
+        "summary": "Bei der Explosion eines Sprengsatzes kommen in einem Moskauer Restaurant drei Menschen ums Leben.",
+        "link": "https://www.handelsblatt.com/politik/international/moskau-tote-und-verletzte-bei-explosion-in/100244487.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "Faisal Islam: Four reasons why Fifa's World Cup plan never stacked up",
+        "summary": "The actual presentation of FIFA's plan to part-privatise the World Cup raises many more questions than it answers.",
+        "link": "https://www.bbc.co.uk/news/articles/clyvd8363wlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
+        "title": "Infrastruktur: Die unmögliche Aufgabe des Verkehrsministers",
+        "summary": "Der neue Ressortchef Steffen Bilger hat wenig Chancen, die Straßen und Schienen des Landes flottzumachen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/steffen-bilger-schafft-er-die-infrastruktur-wende-accg-201084196.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "Yen: Japan und USA stützen offenbar gemeinsam den Yen",
+        "summary": "Es wäre die erste derartige gemeinsame Intervention seit 2011.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/yen-japan-und-usa-stuetzen-offenbar-gemeinsam-den-yen/100244484.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -129,17 +153,17 @@
         "category": ""
       },
       {
-        "title": "Computerkonzern Dell: Wie der fünftreichste Mensch der Welt von Donald Trump profitiert",
-        "summary": "Niemand außer Elon Musk hat in diesem Jahr seinen Reichtum so stark vermehrt wie der Gründer des Computerherstellers Michael Dell.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/michael-dell-wie-der-fuenftreichste-mensch-der-welt-von-donald-trump-profitiert-201052593.html",
+        "title": "Autokrise: Sparen allein wird die Autobauer nicht retten",
+        "summary": "Ein Sparprogramm bei BMW, weitere Stellenstreichungen bei Porsche: Die deutschen Autobauer müssen ihre Kosten senken, aber das genügt nicht.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/bmw-und-porsche-in-der-krise-sparen-allein-wird-die-autobauer-nicht-retten-201081048.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "+++ USA +++: US-Justizministerium – Bauunternehmen verursachte Schaden am „Reflecting Pool“ in Washington",
-        "summary": "US-Senat bestätigt Clayton als neuen Geheimdienstchef +++ Netanjahu: Treffen mit Trump „eines der besten Gespräche“ +++ Trump ehrt gestorbenen US-Senator Graham +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/international/usa-us-regierung-zieht-vorladungen-von-times-journalisten-zurueck/29669594.html",
+        "title": "Migration: Gesteuert von Marokko? So reagiert Europa auf den Massenansturm in die spanische Exklave Ceuta",
+        "summary": "Die Vorfälle in Ceuta beschäftigen die EU.",
+        "link": "https://www.handelsblatt.com/politik/international/ceuta-gesteuert-von-marokko-so-reagiert-europa-auf-den-massenansturm/100244252.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -151,60 +175,36 @@
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
-      },
-      {
-        "title": "Ost-Regierungschefs: So scheitert die ganze Rentenreform",
-        "summary": "Die abschlagsfreie Frührente ist ein Produkt der goldenen Aufschwungjahre.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/rentenreform-wie-die-fruehrente-das-ganze-paket-gefaehrdet-201084294.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "+++ Ukraine-Krieg +++: Russische Getreidelobby warnt vor Stopp der Exporte im Schwarzen Meer",
-        "summary": "Polen fängt erneut russisches Aufklärungsflugzeug ab +++ Trump verhalten zu Patriot-Lizenzen für Ukraine +++ Logistikanlagen in drei russischen Regionen angegriffen +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-russische-getreidelobby-warnt-vor-stopp-der-exporte-im-schwarzen-meer/27982126.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "AI firms must answer for rogue bots, says boss of hacked company",
-        "summary": "Clement Delangue said he didn't want cyber attacks on other companies to become \"normalised\".",
-        "link": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
       }
     ]
   },
   "niche_news": {
     "status": "ok",
-    "error": null,
+    "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "Puits Sainte-Renelde in Tubize, Belgium",
-        "summary": "Saintes is a Belgian village located 30 minutes' drive southwest of Brussels.",
-        "link": "https://www.atlasobscura.com/places/puits-sainte-renelde",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
+        "title": "A forgotten fossil just revealed a new Triassic predator from 210 million years ago",
+        "summary": "A fossil overlooked for nearly 80 years has revealed a previously unknown crocodile relative that lived 210 million years ago in what is now New Mexico.",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260729010732.htm",
+        "source": "ScienceDaily – Tiere",
+        "publisher": "ScienceDaily",
+        "category": "Biologie"
       },
       {
-        "title": "Meat allergy is on the rise — what scientists want to know",
-        "summary": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02362-2 The allergy is caused by ticks, but researchers have much to learn about it.",
-        "link": "https://www.nature.com/articles/d41586-026-02362-2",
+        "title": "How smallpox reached the Americas: first genomic evidence points to Europeans",
+        "summary": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02366-y Viral sequences from Chilean mummies confirm the disease was introduced from Europe.",
+        "link": "https://www.nature.com/articles/d41586-026-02366-y",
         "source": "Nature News",
         "publisher": "Nature",
         "category": "Forschung"
       },
       {
-        "title": "TB 26-04 Webbings for Use in Elevated Oxygen Environments",
-        "summary": "Flammability test results for commercial-off-the-shelf webbings that meet NASA flammability requirements are reported for use in elevated oxygen environments anticipated for future lunar and Martian missions.",
-        "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/",
-        "source": "NASA Breaking News",
-        "publisher": "NASA",
-        "category": "Raumfahrt"
+        "title": "Burpee Covered Bridge in Gaspereau Forks, New Brunswick",
+        "summary": "Back when public displays of affection were more taboo, covered bridges popped up in every corner of the province of New Brunswick.",
+        "link": "https://www.atlasobscura.com/places/burpee-covered-bridge",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
       }
     ]
   }

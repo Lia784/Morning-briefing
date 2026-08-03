@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T07:33:10+00:00",
-  "date_label": "Sunday, 02. August 2026",
+  "generated_at": "2026-08-03T08:31:33+00:00",
+  "date_label": "Monday, 03. August 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,8 +8,8 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25629.2402,
-        "change_pct": 0.07
+        "price": 25978.6309,
+        "change_pct": 1.36
       },
       {
         "name": "S&P 500",
@@ -26,14 +26,14 @@
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6358.0098,
-        "change_pct": 0.21
+        "price": 6410.0498,
+        "change_pct": 0.82
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 64362.0195,
-        "change_pct": 4.03
+        "price": 63754.8984,
+        "change_pct": -0.94
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 55004,
-        "usd": 63434,
-        "change_24h_pct": 0.71
+        "eur": 54044,
+        "usd": 62284,
+        "change_24h_pct": -1.6
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1626.58,
-        "usd": 1875.85,
-        "change_24h_pct": 0.48
+        "eur": 1588.91,
+        "usd": 1831.17,
+        "change_24h_pct": -2.08
       }
     ]
   },
@@ -65,31 +65,31 @@
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
         "price": 1.1527,
-        "change_pct": 0.52
+        "change_pct": 0.03
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8551,
-        "change_pct": -0.32
+        "price": 0.8563,
+        "change_pct": 0.03
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9306,
-        "change_pct": -0.22
+        "price": 0.9321,
+        "change_pct": 0.36
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 157.4,
-        "change_pct": -1.74
+        "price": 156.816,
+        "change_pct": -2.1
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 181.491,
-        "change_pct": -3.08
+        "price": 180.71,
+        "change_pct": -2.1
       },
       {
         "name": "US 10Y Rendite",
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "BDI Warnt: China-Schock 2.0 trifft deutsche Industrie hart",
-        "summary": "China-Schock 2.0 trifft deutsche Industrie hart",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/china-schock-2-0-wie-hart-trifft-china-die-deutsche-industrie-accg-201087447.html",
+        "title": "Wein-Krise: Der Absturz von Bordeaux",
+        "summary": "Die Region in Südfrankreich kämpft nicht nur gegen die Flammen, sondern schon seit Jahren gegen den Niedergang der Weinwirtschaft.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/bordeaux-die-krise-der-franzoesischen-weinwirtschaft-accg-201076694.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Moskau: Tote und Verletzte bei Explosion in",
-        "summary": "Bei der Explosion eines Sprengsatzes kommen in einem Moskauer Restaurant drei Menschen ums Leben.",
-        "link": "https://www.handelsblatt.com/politik/international/moskau-tote-und-verletzte-bei-explosion-in/100244487.html",
+        "title": "Dax aktuell: Dax startet mit neuem Rekord in die Handelswoche",
+        "summary": "Hoffnungen auf einen neuen Friedensdeal zwischen USA und Iran drücken die Ölpreise und heben den Dax auf einen neuen Höchststand.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-startet-mit-neuem-rekord-in-die-handelswoche/100244594.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Faisal Islam: Four reasons why Fifa's World Cup plan never stacked up",
-        "summary": "The actual presentation of FIFA's plan to part-privatise the World Cup raises many more questions than it answers.",
-        "link": "https://www.bbc.co.uk/news/articles/clyvd8363wlo?at_medium=RSS&at_campaign=rss",
+        "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
+        "summary": "Incidents of fuel being taken without payment have risen by a fifth in five months, according to industry analysis.",
+        "link": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Infrastruktur: Die unmögliche Aufgabe des Verkehrsministers",
-        "summary": "Der neue Ressortchef Steffen Bilger hat wenig Chancen, die Straßen und Schienen des Landes flottzumachen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/steffen-bilger-schafft-er-die-infrastruktur-wende-accg-201084196.html",
+        "title": "Hausverkauf: „Privatleute sind bei Immobiliengeschäften oft erstaunlich naiv“",
+        "summary": "Der erste Auftritt muss sitzen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/immobiliengutachterin-darauf-sollten-privatleute-beim-hausverkauf-achten-accg-201023847.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Yen: Japan und USA stützen offenbar gemeinsam den Yen",
-        "summary": "Es wäre die erste derartige gemeinsame Intervention seit 2011.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/yen-japan-und-usa-stuetzen-offenbar-gemeinsam-den-yen/100244484.html",
+        "title": "Iran-Krieg: Angriff abgesagt: Trump kündigt neue Gespräche mit Iran an – Teheran dementiert Verhandlungen",
+        "summary": "US-Präsident Donald Trump hat einen geplanten Angriff des US-Militärs auf Ziele im Iran vorerst abgesagt.",
+        "link": "https://www.handelsblatt.com/politik/international/iran-krieg-oelpreis-sinkt-nach-trumps-abgesagtem-iran-angriff-deutlich/100244578.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
-        "summary": "Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content.",
-        "link": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
+        "title": "US and Japan take action to prop up yen in rare joint move",
+        "summary": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
+        "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Autokrise: Sparen allein wird die Autobauer nicht retten",
-        "summary": "Ein Sparprogramm bei BMW, weitere Stellenstreichungen bei Porsche: Die deutschen Autobauer müssen ihre Kosten senken, aber das genügt nicht.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/bmw-und-porsche-in-der-krise-sparen-allein-wird-die-autobauer-nicht-retten-201081048.html",
+        "title": "So viele wie noch nie: Sie sind dann mal weg – warum Auswandern gerade angesagt ist",
+        "summary": "Viele junge, gut qualifizierte Deutsche verlassen das Land.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/deutsche-auswanderer-warum-so-viele-wie-nie-das-land-verlassen-accg-201076896.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Migration: Gesteuert von Marokko? So reagiert Europa auf den Massenansturm in die spanische Exklave Ceuta",
-        "summary": "Die Vorfälle in Ceuta beschäftigen die EU.",
-        "link": "https://www.handelsblatt.com/politik/international/ceuta-gesteuert-von-marokko-so-reagiert-europa-auf-den-massenansturm/100244252.html",
+        "title": "Friendflation: Warum Geld in Beziehungen relevanter wird",
+        "summary": "Wer gute Freunde hat, kommt leichter durchs Leben, hat eine bessere Beziehung und verringert sein Sterberisiko.",
+        "link": "https://www.handelsblatt.com/finanzen/friendflation-warum-heute-immer-mehr-freundschaften-am-geld-scheitern-01/100154689.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Passenger on British Airways mayday flight describes fear and shout of 'I don't want to die'",
-        "summary": "Edward Killiwick was on the flight that issued a distress call, before it landed safely at Heathrow earlier this month.",
-        "link": "https://www.bbc.co.uk/news/articles/cn9n2v3lwr0o?at_medium=RSS&at_campaign=rss",
+        "title": "The change that may help you get a mortgage as a first-time buyer",
+        "summary": "More relaxed mortgage regulation opens the door for some first-time buyers, but it comes with risk.",
+        "link": "https://www.bbc.co.uk/news/articles/cp3rkzpl7ngo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": "Quellen nicht erreichbar: NASA Breaking News",
+    "error": null,
     "data": [
       {
-        "title": "A forgotten fossil just revealed a new Triassic predator from 210 million years ago",
-        "summary": "A fossil overlooked for nearly 80 years has revealed a previously unknown crocodile relative that lived 210 million years ago in what is now New Mexico.",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260729010732.htm",
-        "source": "ScienceDaily – Tiere",
+        "title": "Here's what to eat to keep your bones strong",
+        "summary": "It's not just about getting enough calcium",
+        "link": "https://www.bbc.com/future/article/20260722-how-to-eat-for-better-bone-health-as-you-age?ocid=global_future_rss",
+        "source": "BBC Future",
+        "publisher": "BBC",
+        "category": "Zukunft"
+      },
+      {
+        "title": "The AI Hype Index: Unsexy AI",
+        "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job.",
+        "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+        "source": "MIT Technology Review",
+        "publisher": "MIT",
+        "category": "Technologie"
+      },
+      {
+        "title": "New giant salamander species discovered in 3.5-million-year-old fossils",
+        "summary": "Fossils discovered in Japan more than two decades ago have finally been identified as a new genus and species of giant salamander.",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260722032119.htm",
+        "source": "ScienceDaily – Archäologie",
         "publisher": "ScienceDaily",
-        "category": "Biologie"
-      },
-      {
-        "title": "How smallpox reached the Americas: first genomic evidence points to Europeans",
-        "summary": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02366-y Viral sequences from Chilean mummies confirm the disease was introduced from Europe.",
-        "link": "https://www.nature.com/articles/d41586-026-02366-y",
-        "source": "Nature News",
-        "publisher": "Nature",
-        "category": "Forschung"
-      },
-      {
-        "title": "Burpee Covered Bridge in Gaspereau Forks, New Brunswick",
-        "summary": "Back when public displays of affection were more taboo, covered bridges popped up in every corner of the province of New Brunswick.",
-        "link": "https://www.atlasobscura.com/places/burpee-covered-bridge",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
+        "category": "Archäologie"
       }
     ]
   }

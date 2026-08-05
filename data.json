@@ -1,39 +1,33 @@
 {
-  "generated_at": "2026-08-04T07:41:53+00:00",
-  "date_label": "Tuesday, 04. August 2026",
+  "generated_at": "2026-08-05T07:41:47+00:00",
+  "date_label": "Wednesday, 05. August 2026",
   "indices": {
     "status": "ok",
-    "error": null,
+    "error": "Teilweise nicht verfügbar: ^IXIC",
     "data": [
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 26232.6191,
-        "change_pct": 2.35
+        "price": 26360.3301,
+        "change_pct": 0.6
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": NaN,
-        "change_pct": NaN
-      },
-      {
-        "name": "Nasdaq",
-        "symbol": "^IXIC",
-        "price": NaN,
-        "change_pct": NaN
+        "price": 7736.52,
+        "change_pct": 1.79
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6471.7202,
-        "change_pct": 1.79
+        "price": 6503.5601,
+        "change_pct": 0.26
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 63957.5312,
-        "change_pct": -0.63
+        "price": 66300.4375,
+        "change_pct": 3.66
       }
     ]
   },
@@ -44,16 +38,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 55251,
-        "usd": 63615,
-        "change_24h_pct": 1.77
+        "eur": 55477,
+        "usd": 64006,
+        "change_24h_pct": 0.37
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1613.29,
-        "usd": 1857.54,
-        "change_24h_pct": 0.89
+        "eur": 1614.19,
+        "usd": 1862.34,
+        "change_24h_pct": 0.02
       }
     ]
   },
@@ -64,38 +58,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1515,
-        "change_pct": -0.25
+        "price": 1.1541,
+        "change_pct": 0.29
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8568,
-        "change_pct": 0.14
+        "price": 0.8569,
+        "change_pct": -0.0
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9326,
-        "change_pct": 0.11
+        "price": 0.9331,
+        "change_pct": 0.07
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 157.794,
-        "change_pct": 0.13
+        "price": 157.681,
+        "change_pct": 0.1
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 181.661,
-        "change_pct": -0.13
+        "price": 181.905,
+        "change_pct": 0.35
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.745,
-        "change_pct": 1.76,
+        "price": 4.627,
+        "change_pct": -1.26,
         "unit": "%"
       }
     ]
@@ -105,73 +99,73 @@
     "error": null,
     "data": [
       {
-        "title": "Altman und die Singularität: Die letzte Erfindung der Menschheit",
-        "summary": "Die Singularität ist da, sagt Open-AI-Chef Sam Altman.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/uebermenschlich-intelligente-maschinen-was-sam-altman-meint-wenn-er-von-singularitaet-spricht-accg-201072693.html",
+        "title": "wahl in Sachsen-Anhalt: „Das Wahlprogramm der AfD ist ein Luftschloss“",
+        "summary": "Die AfD macht den Wählern in Sachsen-Anhalt viele Versprechungen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/im-afd-wahlprogramm-klafft-eine-milliardenschwere-finanzierungsluecke-accg-201093563.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Studie: Immer mehr Häuser auf Sylt zum Verkauf – „Aber keine Schnäppchen“",
+        "title": "Immobilien: Angebot um 514 Prozent gestiegen – warum immer mehr Häuser auf Sylt zum Verkauf stehen",
         "summary": "Sylt zählt zu den exklusivsten Immobilienmärkten Deutschlands.",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/studie-immer-mehr-haeuser-auf-sylt-zum-verkauf-aber-keine-schnaeppchen/100244886.html",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-immer-mehr-haeuser-auf-sylt-stehen-zum-verkauf/100244886.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "US states sue to block Trump tariffs impacting dozens of countries",
-        "summary": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour.",
-        "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+        "title": "The cost of being single – and how friends are teaming up to beat it",
+        "summary": "Many singles face extra costs for housing, bills, food and holidays but there are ways to ease the burden.",
+        "link": "https://www.bbc.co.uk/news/articles/cly7dqprlnvo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Wein-Krise: Der Absturz von Bordeaux",
-        "summary": "Die Region in Südfrankreich kämpft nicht nur gegen die Flammen, sondern schon seit Jahren gegen den Niedergang der Weinwirtschaft.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/bordeaux-die-krise-der-franzoesischen-weinwirtschaft-accg-201076694.html",
+        "title": "Hitze in der Stadt: Kühlung wird zum Wertfaktor",
+        "summary": "Sommerhitze lässt deutsche Städte aufheizen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/energie-heizung/kuehlung-als-wertfaktor-was-sommerhitze-mit-immobilien-macht-200990852.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Luftfahrt: Kerosinkosten und Streiks lassen Gewinn bei Lufthansa einbrechen",
-        "summary": "Europas größter Airline-Konzern schwächelt im zweiten Quartal.",
-        "link": "https://www.handelsblatt.com/unternehmen/dienstleister/luftfahrt-kerosinkosten-und-streiks-lassen-gewinn-bei-lufthansa-einbrechen/100243328.html",
+        "title": "Dax aktuell: Dritter Rekordtag in Folge – Dax startet mit Gewinnen",
+        "summary": "Am deutschen Aktienmarkt verstärken sich die positiven Effekte.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dritter-rekordtag-in-folge-dax-startet-mit-gewinnen/100245150.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Half-price rail travel extended to 18-year-olds",
-        "summary": "They'll be able to buy the 16-17 Saver railcard up until the day before they turn 18.",
-        "link": "https://www.bbc.co.uk/news/articles/cy0jyln07r7o?at_medium=RSS&at_campaign=rss",
+        "title": "SpaceX's first-ever earnings show higher revenues and huge spending",
+        "summary": "Elon Musk said during a call with financial analysts that people were \"underestimating\" his company.",
+        "link": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Künstliche Intelligenz: 15 Generalstaatsanwälte befassen sich jetzt mit dem Hackerangriff von Open AI",
-        "summary": "Eine Künstliche Intelligenz ist außer Kontrolle geraten und hat eine Internetplattform attackiert.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/sam-altman-openai-und-anthropic-jetzt-wird-die-justiz-aktiv-accg-201093099.html",
+        "title": "Studium: Zahl der BAföG-Empfänger auf niedrigstem Stand seit 2000",
+        "summary": "Die Zahl der Bafög-Empfänger sinkt weiter.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/studium-zahl-der-bafoeg-empfaenger-auf-niedrigstem-stand-seit-2000-accg-201096742.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Dax aktuell: Leitindex bleibt oberhalb der 26.000-Punkte – und startet Handel mit Rekord",
-        "summary": "Getragen wurde der Dax zuletzt durch seine Schwergewichte.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-leitindex-startet-handel-mit-rekord/100244865.html",
+        "title": "+++ Ukraine-Krieg +++: Russland beschießt Kiew mit Raketen – 15 Tote",
+        "summary": "Ukrainische Flugabwehr machtlos gegen russische Raketen +++ Nordkorea verlegt wohl Raketeneinheit nach Westrussland +++ Russland: Haben drei Frachter nahe Odessa beschädigt +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-15-tote-bei-russischem-angriff-auf-kiew/27982126.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Why is Trump Media selling early access to Trump's Truth Social posts?",
-        "summary": "The service reportedly costs up to $100,000 (£74,170) per month and offers access to posts from influential accounts milliseconds before they appear online.",
-        "link": "https://www.bbc.co.uk/news/videos/c74g0q8eey9o?at_medium=RSS&at_campaign=rss",
+        "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
+        "summary": "AI is reshaping the Philippines' outsourcing industry, raising questions over the future of the industry.",
+        "link": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +174,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": null,
+    "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "Koolwink Motel in Romney, West Virginia",
-        "summary": "Long before boutique “retro” hotels became fashionable, the Koolwink Motel was serving up charming roadside Americana in small-town West Virginia.",
-        "link": "https://www.atlasobscura.com/places/koolwink-motel",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
+        "title": "The devil worm that prowls the Earth's crust",
+        "summary": "Only one devil worm has ever been found in the wild",
+        "link": "https://www.bbc.com/future/article/20260729-devil-worm-the-worlds-deepest-living-animal?ocid=global_future_rss",
+        "source": "BBC Future",
+        "publisher": "BBC",
+        "category": "Zukunft"
       },
       {
-        "title": "This new alloy is up to 10 times stronger than steel and surprisingly flexible",
-        "summary": "Engineers have transformed a notoriously brittle cobalt-aluminum compound into a material that is both extremely strong and capable of bending without breaking.",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260729051524.htm",
-        "source": "ScienceDaily – Physik",
+        "title": "Some coastal cities are sinking faster than the ocean is rising",
+        "summary": "Coastal communities are facing a hidden threat that is making rising seas far more dangerous: the land beneath them is sinking.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260801042824.htm",
+        "source": "ScienceDaily – Geowissenschaften",
         "publisher": "ScienceDaily",
-        "category": "Physik"
+        "category": "Erde"
       },
       {
-        "title": "APOD: 2026 August 2 – A Fire Rainbow over West Virginia",
-        "summary": "APODScienceAPODAPOD: 2026 August 2 – A Fire…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos!",
-        "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-2-a-fire-rainbow-over-west-virginia/",
-        "source": "NASA Breaking News",
-        "publisher": "NASA",
-        "category": "Raumfahrt"
+        "title": "Lab leaders should follow football’s lead and have coaching qualifications",
+        "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02427-2 Lab leaders should follow football’s lead and have coaching qualifications",
+        "link": "https://www.nature.com/articles/d41586-026-02427-2",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
       }
     ]
   }

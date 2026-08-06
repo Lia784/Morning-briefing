@@ -1,33 +1,39 @@
 {
-  "generated_at": "2026-08-05T07:41:47+00:00",
-  "date_label": "Wednesday, 05. August 2026",
+  "generated_at": "2026-08-06T07:41:54+00:00",
+  "date_label": "Thursday, 06. August 2026",
   "indices": {
     "status": "ok",
-    "error": "Teilweise nicht verfügbar: ^IXIC",
+    "error": null,
     "data": [
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 26360.3301,
-        "change_pct": 0.6
+        "price": 26171.8008,
+        "change_pct": 0.17
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7736.52,
-        "change_pct": 1.79
+        "price": 7723.5498,
+        "change_pct": -0.17
+      },
+      {
+        "name": "Nasdaq",
+        "symbol": "^IXIC",
+        "price": 26363.4395,
+        "change_pct": -0.83
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6503.5601,
-        "change_pct": 0.26
+        "price": 6508.5898,
+        "change_pct": 0.49
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 66300.4375,
-        "change_pct": 3.66
+        "price": 65683.2578,
+        "change_pct": -0.93
       }
     ]
   },
@@ -38,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 55477,
-        "usd": 64006,
-        "change_24h_pct": 0.37
+        "eur": 56138,
+        "usd": 64801,
+        "change_24h_pct": 1.18
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1614.19,
-        "usd": 1862.34,
-        "change_24h_pct": 0.02
+        "eur": 1653.73,
+        "usd": 1908.95,
+        "change_24h_pct": 2.39
       }
     ]
   },
@@ -58,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1541,
-        "change_pct": 0.29
+        "price": 1.1547,
+        "change_pct": 0.13
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8569,
-        "change_pct": -0.0
+        "price": 0.8578,
+        "change_pct": 0.05
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9331,
-        "change_pct": 0.07
+        "price": 0.9333,
+        "change_pct": 0.03
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 157.681,
-        "change_pct": 0.1
+        "price": 157.858,
+        "change_pct": 0.11
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 181.905,
-        "change_pct": 0.35
+        "price": 182.233,
+        "change_pct": 0.21
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.627,
-        "change_pct": -1.26,
+        "price": 4.617,
+        "change_pct": -0.22,
         "unit": "%"
       }
     ]
@@ -99,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "wahl in Sachsen-Anhalt: „Das Wahlprogramm der AfD ist ein Luftschloss“",
-        "summary": "Die AfD macht den Wählern in Sachsen-Anhalt viele Versprechungen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/im-afd-wahlprogramm-klafft-eine-milliardenschwere-finanzierungsluecke-accg-201093563.html",
+        "title": "Vorschriften am Bau: Drei Zimmer mit 47 Steckdosen?",
+        "summary": "Immer mehr Vorschriften verteuern den Bau?",
+        "link": "https://www.faz.net/aktuell/wirtschaft/din-normen-beim-bau-falschmeldungen-halten-sich-hartnaeckig-201084283.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Immobilien: Angebot um 514 Prozent gestiegen – warum immer mehr Häuser auf Sylt zum Verkauf stehen",
-        "summary": "Sylt zählt zu den exklusivsten Immobilienmärkten Deutschlands.",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-immer-mehr-haeuser-auf-sylt-stehen-zum-verkauf/100244886.html",
+        "title": "+++ Iran-Krieg +++: Massiver Rückgang des Schiffsverkehrs in Straße von Hormus und Bab al-Mandab",
+        "summary": "Huthi greifen erneut saudischen Tanker an +++ Trump: Ich würde lieber Deal mit Iran schließen +++ Zwei israelische Soldaten und ein Libanese im Südlibanon getötet +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/international/iran-krieg-trump-deutet-einigung-in-verhandlungen-um-strasse-von-hormus-an/100136895.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "The cost of being single – and how friends are teaming up to beat it",
-        "summary": "Many singles face extra costs for housing, bills, food and holidays but there are ways to ease the burden.",
-        "link": "https://www.bbc.co.uk/news/articles/cly7dqprlnvo?at_medium=RSS&at_campaign=rss",
+        "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
+        "summary": "Andre Lavoie joined SpaceX in 2009 as an engineer, now he's looking to cash in his shares in the company.",
+        "link": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Hitze in der Stadt: Kühlung wird zum Wertfaktor",
-        "summary": "Sommerhitze lässt deutsche Städte aufheizen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/energie-heizung/kuehlung-als-wertfaktor-was-sommerhitze-mit-immobilien-macht-200990852.html",
+        "title": "Hausverkauf: „Privatleute sind bei Immobiliengeschäften oft erstaunlich naiv“",
+        "summary": "Der erste Auftritt muss sitzen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/hausverkauf-privatleute-sind-bei-immobiliengeschaeften-oft-erstaunlich-naiv-accg-201023847.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Dax aktuell: Dritter Rekordtag in Folge – Dax startet mit Gewinnen",
-        "summary": "Am deutschen Aktienmarkt verstärken sich die positiven Effekte.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dritter-rekordtag-in-folge-dax-startet-mit-gewinnen/100245150.html",
+        "title": "Nikkei, Topix, CSI 300: Chip-Ausverkauf lastet auf asiatischen Börsen",
+        "summary": "Die Quartalszahlen einiger US-Technologiefirmen konnten die hohen Erwartungen der Anleger in Asien nicht erfüllen.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-topix-csi-300-chip-ausverkauf-lastet-auf-asiatischen-boersen/100245428.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "SpaceX's first-ever earnings show higher revenues and huge spending",
-        "summary": "Elon Musk said during a call with financial analysts that people were \"underestimating\" his company.",
-        "link": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
+        "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+        "summary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
+        "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Studium: Zahl der BAföG-Empfänger auf niedrigstem Stand seit 2000",
-        "summary": "Die Zahl der Bafög-Empfänger sinkt weiter.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/studium-zahl-der-bafoeg-empfaenger-auf-niedrigstem-stand-seit-2000-accg-201096742.html",
+        "title": "Binnenschifffahrt: Der Wirtschaft geht das Wasser aus",
+        "summary": "Der Rhein hat in dieser Woche an vielen Orten historische Niedrigstände erreicht.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/wie-das-niedrigwasser-im-rhein-teile-der-deutschen-industrie-bedroht-201089672.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "+++ Ukraine-Krieg +++: Russland beschießt Kiew mit Raketen – 15 Tote",
-        "summary": "Ukrainische Flugabwehr machtlos gegen russische Raketen +++ Nordkorea verlegt wohl Raketeneinheit nach Westrussland +++ Russland: Haben drei Frachter nahe Odessa beschädigt +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-15-tote-bei-russischem-angriff-auf-kiew/27982126.html",
+        "title": "Technologiekonzern: Dax-Konzern erzielt Rekord-Quartalsgewinn – und verteilt die Macht im Vorstand neu",
+        "summary": "Hohe Nachfrage nach Software sorgt für starke Geschäfte, Siemens hebt die Gewinnprognose an.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/siemens-dax-konzern-erzielt-rekord-quartalsgewinn-und-ordnet-vorstand-neu/100243303.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
-        "summary": "AI is reshaping the Philippines' outsourcing industry, raising questions over the future of the industry.",
-        "link": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
+        "title": "Shorts, strappy tops and sandals: Can my boss tell me what to wear in summer?",
+        "summary": "Here's how to style for success while keeping your cool - and where you and your boss stand on your wardrobe.",
+        "link": "https://www.bbc.co.uk/news/articles/cre49389g1qo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -177,28 +183,28 @@
     "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "The devil worm that prowls the Earth's crust",
-        "summary": "Only one devil worm has ever been found in the wild",
-        "link": "https://www.bbc.com/future/article/20260729-devil-worm-the-worlds-deepest-living-animal?ocid=global_future_rss",
-        "source": "BBC Future",
-        "publisher": "BBC",
-        "category": "Zukunft"
-      },
-      {
-        "title": "Some coastal cities are sinking faster than the ocean is rising",
-        "summary": "Coastal communities are facing a hidden threat that is making rising seas far more dangerous: the land beneath them is sinking.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260801042824.htm",
-        "source": "ScienceDaily – Geowissenschaften",
+        "title": "567-million-year-old fossils rewrite the dawn of animal life",
+        "summary": "A spectacular fossil site in Canada contains 567-million-year-old creatures that may represent some of the earliest animals to move, reproduce sexually, and develop recognizable body plans.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260804034644.htm",
+        "source": "ScienceDaily – Tiere",
         "publisher": "ScienceDaily",
-        "category": "Erde"
+        "category": "Biologie"
       },
       {
-        "title": "Lab leaders should follow football’s lead and have coaching qualifications",
-        "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02427-2 Lab leaders should follow football’s lead and have coaching qualifications",
-        "link": "https://www.nature.com/articles/d41586-026-02427-2",
+        "title": "ZFP36L2 orchestrates stress-adaptive plasticity in regeneration and cancer",
+        "summary": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10890-0 The RNA-binding protein ZFP36L2 mediates stress-adaptive plasticity in intestinal regeneration and colorectal cancer metastasis.",
+        "link": "https://www.nature.com/articles/s41586-026-10890-0",
         "source": "Nature News",
         "publisher": "Nature",
         "category": "Forschung"
+      },
+      {
+        "title": "The Old Place at Sam Houston Park in Houston, Texas",
+        "summary": "At the edge of downtown lies Sam Houston Park, a manicured green haven that doubles as a time capsule.",
+        "link": "https://www.atlasobscura.com/places/the-old-place-at-sam-houston-park",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
       }
     ]
   }

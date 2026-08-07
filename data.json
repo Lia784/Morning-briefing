@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T07:41:54+00:00",
-  "date_label": "Thursday, 06. August 2026",
+  "generated_at": "2026-08-07T06:10:49+00:00",
+  "date_label": "Friday, 07. August 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 26171.8008,
-        "change_pct": 0.17
+        "price": 26140.1309,
+        "change_pct": 0.05
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7723.5498,
-        "change_pct": -0.17
+        "price": 7709.96,
+        "change_pct": -0.18
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26363.4395,
-        "change_pct": -0.83
+        "price": 26348.3496,
+        "change_pct": -0.06
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6508.5898,
-        "change_pct": 0.49
+        "price": 6502.5601,
+        "change_pct": 0.39
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 65683.2578,
-        "change_pct": -0.93
+        "price": 65520.4414,
+        "change_pct": -0.25
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 56138,
-        "usd": 64801,
-        "change_24h_pct": 1.18
+        "eur": 55809,
+        "usd": 64301,
+        "change_24h_pct": -0.49
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1653.73,
-        "usd": 1908.95,
-        "change_24h_pct": 2.39
+        "eur": 1649.2,
+        "usd": 1900.14,
+        "change_24h_pct": -0.28
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1547,
-        "change_pct": 0.13
+        "price": 1.1526,
+        "change_pct": -0.27
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8578,
-        "change_pct": 0.05
+        "price": 0.8564,
+        "change_pct": -0.18
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9333,
-        "change_pct": 0.03
+        "price": 0.936,
+        "change_pct": 0.4
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 157.858,
-        "change_pct": 0.11
+        "price": 158.342,
+        "change_pct": 0.47
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 182.233,
-        "change_pct": 0.21
+        "price": 182.452,
+        "change_pct": 0.17
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.617,
-        "change_pct": -0.22,
+        "price": 4.67,
+        "change_pct": 1.15,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Vorschriften am Bau: Drei Zimmer mit 47 Steckdosen?",
-        "summary": "Immer mehr Vorschriften verteuern den Bau?",
-        "link": "https://www.faz.net/aktuell/wirtschaft/din-normen-beim-bau-falschmeldungen-halten-sich-hartnaeckig-201084283.html",
+        "title": "Begünstigte Frührente: Kretschmer und Co. wissen wohl nicht, was sie fordern",
+        "summary": "Es gibt keine besondere Betroffenheit des Ostens.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/beguenstigte-fruehrente-kretschmer-und-co-wissen-wohl-nicht-was-sie-fordern-accg-201101064.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "+++ Iran-Krieg +++: Massiver Rückgang des Schiffsverkehrs in Straße von Hormus und Bab al-Mandab",
-        "summary": "Huthi greifen erneut saudischen Tanker an +++ Trump: Ich würde lieber Deal mit Iran schließen +++ Zwei israelische Soldaten und ein Libanese im Südlibanon getötet +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/international/iran-krieg-trump-deutet-einigung-in-verhandlungen-um-strasse-von-hormus-an/100136895.html",
+        "title": "+++ Geschäftszahlen +++: Lanxess legt beim Ergebnis zu",
+        "summary": "Airbnb übertrifft Erwartungen – Fußball-WM beflügelt Geschäft +++ Hohe Treibstoffkosten und Iran-Krieg belasten Billigflieger Wizz Air +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/quartalszahlen-lanxess-legt-beim-ergebnis-zu/24098412.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
-        "summary": "Andre Lavoie joined SpaceX in 2009 as an engineer, now he's looking to cash in his shares in the company.",
-        "link": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
+        "title": "Meta fined $567m in largest child safety ruling against social media giant",
+        "summary": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
+        "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Hausverkauf: „Privatleute sind bei Immobiliengeschäften oft erstaunlich naiv“",
-        "summary": "Der erste Auftritt muss sitzen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/hausverkauf-privatleute-sind-bei-immobiliengeschaeften-oft-erstaunlich-naiv-accg-201023847.html",
+        "title": "Psychische Gesundheit: Meta wegen mangelnden Schutzes von Kindern zu Millionenstrafe verurteilt",
+        "summary": "Ein US-Gericht wirft dem Facebook-Konzern vor, junge Nutzer nicht ausreichend zu schützen und abhängig zu machen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/mangelnder-kinderschutz-meta-zu-567-millionen-dollar-strafe-verurteilt-accg-201103725.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Nikkei, Topix, CSI 300: Chip-Ausverkauf lastet auf asiatischen Börsen",
-        "summary": "Die Quartalszahlen einiger US-Technologiefirmen konnten die hohen Erwartungen der Anleger in Asien nicht erfüllen.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-topix-csi-300-chip-ausverkauf-lastet-auf-asiatischen-boersen/100245428.html",
+        "title": "Pflegenotstand: Deutschlands Pflege hängt am Ausland – doch die Fachkräfte gehen",
+        "summary": "Mehr als 350.000 ausländische Pflegekräfte arbeiten hierzulande.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/pflegenotstand-deutschlands-pflege-haengt-am-ausland-aber-fachkraefte-gehen/100230739.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-        "summary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
-        "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+        "title": "Argos is getting a makeover - but can it attract new shoppers?",
+        "summary": "The retailer has been around for 50 years but struggled to compete with newer rivals such as Amazon.",
+        "link": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Binnenschifffahrt: Der Wirtschaft geht das Wasser aus",
-        "summary": "Der Rhein hat in dieser Woche an vielen Orten historische Niedrigstände erreicht.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/wie-das-niedrigwasser-im-rhein-teile-der-deutschen-industrie-bedroht-201089672.html",
+        "title": "Rentenreform: Österreichs Frühverrentung als Vorbild für Deutschland",
+        "summary": "In der SPD gibt es zum Thema Rente mit 63 Sympathien für Österreichs Schwerarbeitspension.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/rentenreform-oesterreichs-fruehverrentung-als-vorbild-fuer-deutschland-201099276.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Technologiekonzern: Dax-Konzern erzielt Rekord-Quartalsgewinn – und verteilt die Macht im Vorstand neu",
-        "summary": "Hohe Nachfrage nach Software sorgt für starke Geschäfte, Siemens hebt die Gewinnprognose an.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/siemens-dax-konzern-erzielt-rekord-quartalsgewinn-und-ordnet-vorstand-neu/100243303.html",
+        "title": "Einkommensteuer: Hier schaut das Finanzamt in der Steuererklärung für 2025 ganz genau hin",
+        "summary": "Viele Steuererklärungen werden automatisch bearbeitet.",
+        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/steuererklaerung-bei-welchen-angaben-das-finanzamt-besonders-genau-hinschaut-01/100105886.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Shorts, strappy tops and sandals: Can my boss tell me what to wear in summer?",
-        "summary": "Here's how to style for success while keeping your cool - and where you and your boss stand on your wardrobe.",
-        "link": "https://www.bbc.co.uk/news/articles/cre49389g1qo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump imposes 15% tariff on key chip material to counter China",
+        "summary": "The move aims to protect US firms as they face increasing competition from China's chip industry.",
+        "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": "Quellen nicht erreichbar: NASA Breaking News",
+    "error": "Quellen nicht erreichbar: Atlas Obscura",
     "data": [
       {
-        "title": "567-million-year-old fossils rewrite the dawn of animal life",
-        "summary": "A spectacular fossil site in Canada contains 567-million-year-old creatures that may represent some of the earliest animals to move, reproduce sexually, and develop recognizable body plans.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260804034644.htm",
-        "source": "ScienceDaily – Tiere",
+        "title": "Stanford scientists discover immune cells that explode like microscopic bombs",
+        "summary": "Stanford researchers discovered immune cells in flatworms that explode within minutes, killing nearby bacteria and foreign cells before vanishing completely.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260803080914.htm",
+        "source": "ScienceDaily – Gesundheit",
         "publisher": "ScienceDaily",
-        "category": "Biologie"
+        "category": "Medizin"
       },
       {
-        "title": "ZFP36L2 orchestrates stress-adaptive plasticity in regeneration and cancer",
-        "summary": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10890-0 The RNA-binding protein ZFP36L2 mediates stress-adaptive plasticity in intestinal regeneration and colorectal cancer metastasis.",
-        "link": "https://www.nature.com/articles/s41586-026-10890-0",
+        "title": "A New Study Points to Two Origins of Life on Earth by Tracing Early Chemical Reactions in Single-Celled Organisms",
+        "summary": "The work challenges the assumption that all life descended from one free-living cell.",
+        "link": "https://www.smithsonianmag.com/science-nature/a-new-study-points-to-two-origins-of-life-on-earth-by-tracing-early-chemical-reactions-in-single-celled-organisms-180989260/",
+        "source": "Smithsonian",
+        "publisher": "Smithsonian",
+        "category": "Wissenschaft"
+      },
+      {
+        "title": "AI agents are checking the scientific literature — and spotting decades-old errors",
+        "summary": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02235-8 The technology is proving adept at finding faults in decades-old papers and reference databases.",
+        "link": "https://www.nature.com/articles/d41586-026-02235-8",
         "source": "Nature News",
         "publisher": "Nature",
         "category": "Forschung"
-      },
-      {
-        "title": "The Old Place at Sam Houston Park in Houston, Texas",
-        "summary": "At the edge of downtown lies Sam Houston Park, a manicured green haven that doubles as a time capsule.",
-        "link": "https://www.atlasobscura.com/places/the-old-place-at-sam-houston-park",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
       }
     ]
   }

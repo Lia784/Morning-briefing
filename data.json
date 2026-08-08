@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T06:10:49+00:00",
-  "date_label": "Friday, 07. August 2026",
+  "generated_at": "2026-08-08T05:43:46+00:00",
+  "date_label": "Saturday, 08. August 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 26140.1309,
-        "change_pct": 0.05
+        "price": 26319.4492,
+        "change_pct": 0.69
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7709.96,
-        "change_pct": -0.18
+        "price": 7757.6401,
+        "change_pct": 0.62
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26348.3496,
-        "change_pct": -0.06
+        "price": 26690.6191,
+        "change_pct": 1.3
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6502.5601,
-        "change_pct": 0.39
+        "price": 6523.8599,
+        "change_pct": 0.33
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 65520.4414,
-        "change_pct": -0.25
+        "price": 65606.7109,
+        "change_pct": -0.12
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 55809,
-        "usd": 64301,
-        "change_24h_pct": -0.49
+        "eur": 56207,
+        "usd": 64982,
+        "change_24h_pct": 0.92
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1649.2,
-        "usd": 1900.14,
-        "change_24h_pct": -0.28
+        "eur": 1658.51,
+        "usd": 1917.41,
+        "change_24h_pct": 0.81
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1526,
-        "change_pct": -0.27
+        "price": 1.1562,
+        "change_pct": 0.04
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8564,
-        "change_pct": -0.18
+        "price": 0.8567,
+        "change_pct": -0.15
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.936,
-        "change_pct": 0.4
+        "price": 0.9335,
+        "change_pct": 0.13
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 158.342,
-        "change_pct": 0.47
+        "price": 157.745,
+        "change_pct": 0.09
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 182.452,
-        "change_pct": 0.17
+        "price": 182.378,
+        "change_pct": 0.13
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.67,
-        "change_pct": 1.15,
+        "price": 4.66,
+        "change_pct": -0.21,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Begünstigte Frührente: Kretschmer und Co. wissen wohl nicht, was sie fordern",
-        "summary": "Es gibt keine besondere Betroffenheit des Ostens.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/beguenstigte-fruehrente-kretschmer-und-co-wissen-wohl-nicht-was-sie-fordern-accg-201101064.html",
+        "title": "Niedrige Flusspegel: Umweltschützer kritisierten Lockerung von Fahrverboten für Lkw",
+        "summary": "Die Regierung habe nicht verstanden, dass niedrige Flusspegel ein Symptom der Klimakrise seien, kritisiert die Umweltorganisation BUND.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/umweltschuetzer-kritisierten-lockerung-von-fahrverboten-fuer-lkw-accg-201107328.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "+++ Geschäftszahlen +++: Lanxess legt beim Ergebnis zu",
-        "summary": "Airbnb übertrifft Erwartungen – Fußball-WM beflügelt Geschäft +++ Hohe Treibstoffkosten und Iran-Krieg belasten Billigflieger Wizz Air +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/quartalszahlen-lanxess-legt-beim-ergebnis-zu/24098412.html",
+        "title": "Wall Street: Jobmarktdaten sorgen für Euphorie an US-Börsen – Software-Aktie legt 35 Prozent zu",
+        "summary": "Der überraschend geschrumpfte US-Jobmarkt hat zum Wochenausklang die Kurse beflügelt.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-sp-500-nasdaq-us-boersen-legen-weiter-zu-kurssprung-fuer-atlassian/100245798.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Meta fined $567m in largest child safety ruling against social media giant",
-        "summary": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
-        "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+        "title": "How a 90-second power outage sparked chaos for rail commuters",
+        "summary": "The incident raised questions about how a disrupted power supply can have such a widespread impact.",
+        "link": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Psychische Gesundheit: Meta wegen mangelnden Schutzes von Kindern zu Millionenstrafe verurteilt",
-        "summary": "Ein US-Gericht wirft dem Facebook-Konzern vor, junge Nutzer nicht ausreichend zu schützen und abhängig zu machen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/mangelnder-kinderschutz-meta-zu-567-millionen-dollar-strafe-verurteilt-accg-201103725.html",
+        "title": "Wirtschaftsweiser Werding: „Die Witwenrente ist nicht mehr zeitgemäß“",
+        "summary": "Der Wirtschaftsweise Martin Werding fordert die Abschaffung der Witwenrente.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/wirtschaftsweiser-fordert-abschaffung-der-witwenrente-201106823.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Pflegenotstand: Deutschlands Pflege hängt am Ausland – doch die Fachkräfte gehen",
-        "summary": "Mehr als 350.000 ausländische Pflegekräfte arbeiten hierzulande.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/pflegenotstand-deutschlands-pflege-haengt-am-ausland-aber-fachkraefte-gehen/100230739.html",
+        "title": "Aktien: SpaceX – Worauf sich Anleger vor dem „Elon Day“ einstellen müssen",
+        "summary": "Nach dem Ende der sogenannten Lock-up-Frist hat die Aktie des Raumfahrtkonzerns überraschend zugelegt.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/aktien-analysten-rechnen-mit-neuer-phase-der-volatilitaet-bei-spacex/100244908.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Argos is getting a makeover - but can it attract new shoppers?",
-        "summary": "The retailer has been around for 50 years but struggled to compete with newer rivals such as Amazon.",
-        "link": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss",
+        "title": "Goodwin considers selling part of defence business",
+        "summary": "The firm is a key supplier of components to UK and US frigate and submarine programmes.",
+        "link": "https://www.bbc.co.uk/news/articles/c20dgpl0z4jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Rentenreform: Österreichs Frühverrentung als Vorbild für Deutschland",
-        "summary": "In der SPD gibt es zum Thema Rente mit 63 Sympathien für Österreichs Schwerarbeitspension.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/rentenreform-oesterreichs-fruehverrentung-als-vorbild-fuer-deutschland-201099276.html",
+        "title": "Sicherheitsbedenken: OpenAI stoppt in Teilen die Entwicklung von KI-Modell",
+        "summary": "OpenAI trainiert derzeit das neue KI-Modell Astra.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/openai-stoppt-in-teilen-die-entwicklung-von-ki-modell-astra-201107034.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Einkommensteuer: Hier schaut das Finanzamt in der Steuererklärung für 2025 ganz genau hin",
-        "summary": "Viele Steuererklärungen werden automatisch bearbeitet.",
-        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/steuererklaerung-bei-welchen-angaben-das-finanzamt-besonders-genau-hinschaut-01/100105886.html",
+        "title": "US-Notenbank: Neue Runde im Machtkampf mit Fed: Trump startet nächsten Versuch der Entlassung von Lisa Cook",
+        "summary": "Nach einem juristischen Rückschlag nimmt der US-Präsident einen neuen Anlauf, um die Fed-Gouverneurin zu feuern.",
+        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/us-notenbank-trump-startet-naechsten-versuch-der-entlassung-von-lisa-cook/100245870.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Trump imposes 15% tariff on key chip material to counter China",
-        "summary": "The move aims to protect US firms as they face increasing competition from China's chip industry.",
-        "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
+        "title": "Surprise fall in US jobs last month as slow summer continues",
+        "summary": "Analysts had expected an uptick in the number of jobs created, but the number of roles fell by 23,000 in July.",
+        "link": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": "Quellen nicht erreichbar: Atlas Obscura",
+    "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "Stanford scientists discover immune cells that explode like microscopic bombs",
-        "summary": "Stanford researchers discovered immune cells in flatworms that explode within minutes, killing nearby bacteria and foreign cells before vanishing completely.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260803080914.htm",
-        "source": "ScienceDaily – Gesundheit",
-        "publisher": "ScienceDaily",
-        "category": "Medizin"
-      },
-      {
-        "title": "A New Study Points to Two Origins of Life on Earth by Tracing Early Chemical Reactions in Single-Celled Organisms",
-        "summary": "The work challenges the assumption that all life descended from one free-living cell.",
-        "link": "https://www.smithsonianmag.com/science-nature/a-new-study-points-to-two-origins-of-life-on-earth-by-tracing-early-chemical-reactions-in-single-celled-organisms-180989260/",
+        "title": "Yellowstone Is Among the World's Best Places to See Wild Wolves. Here's the Story of the Animal Called Both 'Public Enemy' and Cultural Icon",
+        "summary": "A century ago, resident wolves were eliminated from the park.",
+        "link": "https://www.smithsonianmag.com/science-nature/yellowstone-is-among-the-worlds-best-places-to-see-wild-wolves-heres-the-story-of-the-animal-simultaneously-dubbed-public-enemy-and-cultural-icon-180989194/",
         "source": "Smithsonian",
         "publisher": "Smithsonian",
         "category": "Wissenschaft"
       },
       {
-        "title": "AI agents are checking the scientific literature — and spotting decades-old errors",
-        "summary": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02235-8 The technology is proving adept at finding faults in decades-old papers and reference databases.",
-        "link": "https://www.nature.com/articles/d41586-026-02235-8",
+        "title": "Scientists up in arms about cuts to UK physics and astronomy",
+        "summary": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02460-1 Funding is being terminated for projects including a future CERN experiment and the iconic Lovell Telescope.",
+        "link": "https://www.nature.com/articles/d41586-026-02460-1",
         "source": "Nature News",
         "publisher": "Nature",
         "category": "Forschung"
+      },
+      {
+        "title": "Grand Gulch Mine in Littlefield, Arizona",
+        "summary": "Copper, of course, has been known since antiquity, but it only became an important industrial metal in the latter 19th century with the rise of large-scale electrical technology.",
+        "link": "https://www.atlasobscura.com/places/grand-gulch-mine",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
       }
     ]
   }

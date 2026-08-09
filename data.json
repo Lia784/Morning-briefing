@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T05:43:46+00:00",
-  "date_label": "Saturday, 08. August 2026",
+  "generated_at": "2026-08-09T05:48:27+00:00",
+  "date_label": "Sunday, 09. August 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 56207,
-        "usd": 64982,
-        "change_24h_pct": 0.92
+        "eur": 56022,
+        "usd": 64745,
+        "change_24h_pct": -0.31
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1658.51,
-        "usd": 1917.41,
-        "change_24h_pct": 0.81
+        "eur": 1655.04,
+        "usd": 1912.73,
+        "change_24h_pct": -0.15
       }
     ]
   },
@@ -105,17 +105,41 @@
     "error": null,
     "data": [
       {
-        "title": "Niedrige Flusspegel: Umweltschützer kritisierten Lockerung von Fahrverboten für Lkw",
-        "summary": "Die Regierung habe nicht verstanden, dass niedrige Flusspegel ein Symptom der Klimakrise seien, kritisiert die Umweltorganisation BUND.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/umweltschuetzer-kritisierten-lockerung-von-fahrverboten-fuer-lkw-accg-201107328.html",
+        "title": "Neues KI-Modell „Astra“: Open AI zieht die Notbremse",
+        "summary": "Der ChatGPT-Entwickler stellt die Arbeit an einem KI-Modell aus Sicherheitsgründen teilweise ein.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/entwicklung-an-astra-modell-teils-gestoppt-open-ai-zieht-notbremse-accg-201107993.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Wall Street: Jobmarktdaten sorgen für Euphorie an US-Börsen – Software-Aktie legt 35 Prozent zu",
-        "summary": "Der überraschend geschrumpfte US-Jobmarkt hat zum Wochenausklang die Kurse beflügelt.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-sp-500-nasdaq-us-boersen-legen-weiter-zu-kurssprung-fuer-atlassian/100245798.html",
+        "title": "+++ Iran-Krieg +++: USA behindern laut Iran Lebensmittelimporte – US-Militär widerspricht",
+        "summary": "US-Generalstabschef Caine sucht offenbar Ausweg aus Iran-Krieg +++ Serbien und Ukraine planen Freihandelsabkommen bis Jahresende +++ Schiff in Straße von Hormus beschossen +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/international/iran-krieg-us-generalstabschef-caine-sucht-angeblich-ausweg-aus-trumps-iran-krieg/100136895.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
+        "summary": "What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?",
+        "link": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
+        "title": "Schneller Schlau: Was kostet eine KI Anfrage?",
+        "summary": "ChatGPT, Claude, Gemini: Was kostet eine KI-Anfrage?",
+        "link": "https://www.faz.net/aktuell/wirtschaft/schneller-schlau/chatgpt-gemini-claude-und-co-was-eine-ki-anfrage-kostet-201069075.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "Kapitalanlage: Buffetts Nachfolger geht mit neuen Investments in die Offensive",
+        "summary": "Das Konglomerat steigert seinen operativen Gewinn um 16 Prozent.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/kapitalanlage-buffetts-nachfolger-geht-mit-neuen-investments-in-die-offensive/100245170.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -129,17 +153,17 @@
         "category": ""
       },
       {
-        "title": "Wirtschaftsweiser Werding: „Die Witwenrente ist nicht mehr zeitgemäß“",
-        "summary": "Der Wirtschaftsweise Martin Werding fordert die Abschaffung der Witwenrente.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/wirtschaftsweiser-fordert-abschaffung-der-witwenrente-201106823.html",
+        "title": "Atommüll in Finnland: „Das nächste Endlager könnten wir noch schneller bauen“",
+        "summary": "Als erstes Land der Welt hat Finnland ein Endlager für seinen Atommüll gebaut.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/finnlands-endlager-was-deutschland-von-posiva-lernen-kann-accg-201101449.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Aktien: SpaceX – Worauf sich Anleger vor dem „Elon Day“ einstellen müssen",
-        "summary": "Nach dem Ende der sogenannten Lock-up-Frist hat die Aktie des Raumfahrtkonzerns überraschend zugelegt.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/aktien-analysten-rechnen-mit-neuer-phase-der-volatilitaet-bei-spacex/100244908.html",
+        "title": "Flughafen Leipzig/Halle: US-Medien – Sprengstoff-Drohne könnte Russland gehören",
+        "summary": "Wer steckt hinter dem Vorfall mit der Sprengstoff-Drohne auf dem Flughafen Leipzig/Halle?",
+        "link": "https://www.handelsblatt.com/politik/deutschland/flughafen-leipzig-halle-us-medien-sprengstoff-drohne-koennte-russland-gehoeren/100245977.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -151,30 +175,6 @@
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
-      },
-      {
-        "title": "Sicherheitsbedenken: OpenAI stoppt in Teilen die Entwicklung von KI-Modell",
-        "summary": "OpenAI trainiert derzeit das neue KI-Modell Astra.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/openai-stoppt-in-teilen-die-entwicklung-von-ki-modell-astra-201107034.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "US-Notenbank: Neue Runde im Machtkampf mit Fed: Trump startet nächsten Versuch der Entlassung von Lisa Cook",
-        "summary": "Nach einem juristischen Rückschlag nimmt der US-Präsident einen neuen Anlauf, um die Fed-Gouverneurin zu feuern.",
-        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/us-notenbank-trump-startet-naechsten-versuch-der-entlassung-von-lisa-cook/100245870.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "Surprise fall in US jobs last month as slow summer continues",
-        "summary": "Analysts had expected an uptick in the number of jobs created, but the number of roles fell by 23,000 in July.",
-        "link": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
       }
     ]
   },
@@ -183,28 +183,28 @@
     "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "Yellowstone Is Among the World's Best Places to See Wild Wolves. Here's the Story of the Animal Called Both 'Public Enemy' and Cultural Icon",
-        "summary": "A century ago, resident wolves were eliminated from the park.",
-        "link": "https://www.smithsonianmag.com/science-nature/yellowstone-is-among-the-worlds-best-places-to-see-wild-wolves-heres-the-story-of-the-animal-simultaneously-dubbed-public-enemy-and-cultural-icon-180989194/",
+        "title": "Ancient Arctic carbon is pouring into the sea, but the seabed captures most of it",
+        "summary": "Thawing Arctic permafrost is releasing ancient carbon into the ocean, raising fears that microbes could turn it into greenhouse gases and accelerate climate change.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260802223424.htm",
+        "source": "ScienceDaily – Geowissenschaften",
+        "publisher": "ScienceDaily",
+        "category": "Erde"
+      },
+      {
+        "title": "Big Waves Meet Biodiversity: Why Surfing Paradises Could Offer a Key Opportunity for Marine Conservation",
+        "summary": "A recent mapping study examines places in northwestern Africa where coastal ecosystems overlap with surf breaks, highlighting areas that could support recreation, the environment and local economies, if protected",
+        "link": "https://www.smithsonianmag.com/science-nature/big-waves-meet-biodiversity-why-surfing-paradises-could-offer-a-key-opportunity-for-marine-conservation-180989119/",
         "source": "Smithsonian",
         "publisher": "Smithsonian",
         "category": "Wissenschaft"
       },
       {
-        "title": "Scientists up in arms about cuts to UK physics and astronomy",
-        "summary": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02460-1 Funding is being terminated for projects including a future CERN experiment and the iconic Lovell Telescope.",
-        "link": "https://www.nature.com/articles/d41586-026-02460-1",
+        "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
+        "summary": "Nature, Published online: 07 August 2026; doi:10.1038/d41586-026-02488-3 Nature staff discuss how animal studies are starting to uncover how DNA repair could prolong life, and how COVID-19 can reawaken dormant viruses.",
+        "link": "https://www.nature.com/articles/d41586-026-02488-3",
         "source": "Nature News",
         "publisher": "Nature",
         "category": "Forschung"
-      },
-      {
-        "title": "Grand Gulch Mine in Littlefield, Arizona",
-        "summary": "Copper, of course, has been known since antiquity, but it only became an important industrial metal in the latter 19th century with the rise of large-scale electrical technology.",
-        "link": "https://www.atlasobscura.com/places/grand-gulch-mine",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
       }
     ]
   }

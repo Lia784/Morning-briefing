@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T05:48:27+00:00",
-  "date_label": "Sunday, 09. August 2026",
+  "generated_at": "2026-08-10T06:11:28+00:00",
+  "date_label": "Monday, 10. August 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -32,8 +32,8 @@
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 65606.7109,
-        "change_pct": -0.12
+        "price": 66900.8438,
+        "change_pct": 1.97
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 56022,
-        "usd": 64745,
-        "change_24h_pct": -0.31
+        "eur": 56390,
+        "usd": 65147,
+        "change_24h_pct": 0.63
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1655.04,
-        "usd": 1912.73,
-        "change_24h_pct": -0.15
+        "eur": 1665.21,
+        "usd": 1923.8,
+        "change_24h_pct": 0.59
       }
     ]
   },
@@ -64,32 +64,32 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1562,
-        "change_pct": 0.04
+        "price": 1.1557,
+        "change_pct": 0.28
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8567,
-        "change_pct": -0.15
+        "price": 0.8561,
+        "change_pct": -0.05
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9335,
-        "change_pct": 0.13
+        "price": 0.9346,
+        "change_pct": -0.17
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 157.745,
-        "change_pct": 0.09
+        "price": 158.356,
+        "change_pct": -0.03
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 182.378,
-        "change_pct": 0.13
+        "price": 182.973,
+        "change_pct": 0.24
       },
       {
         "name": "US 10Y Rendite",
@@ -105,17 +105,65 @@
     "error": null,
     "data": [
       {
-        "title": "Neues KI-Modell „Astra“: Open AI zieht die Notbremse",
-        "summary": "Der ChatGPT-Entwickler stellt die Arbeit an einem KI-Modell aus Sicherheitsgründen teilweise ein.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/entwicklung-an-astra-modell-teils-gestoppt-open-ai-zieht-notbremse-accg-201107993.html",
+        "title": "Cybersicherheits-Expertin: „KI probiert Angriffswege schneller aus, als ein Mensch das könnte“",
+        "summary": "Künstliche Intelligenz von Open AI und Anthropic hat ungeplant Cyberangriffe durchgeführt.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/haya-schulmann-ueber-open-ai-und-anthropic-ki-probiert-angriffswege-schneller-aus-als-ein-mensch-das-koennte-accg-201104199.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "+++ Iran-Krieg +++: USA behindern laut Iran Lebensmittelimporte – US-Militär widerspricht",
-        "summary": "US-Generalstabschef Caine sucht offenbar Ausweg aus Iran-Krieg +++ Serbien und Ukraine planen Freihandelsabkommen bis Jahresende +++ Schiff in Straße von Hormus beschossen +++ Der Newsblog.",
+        "title": "Einkommensteuer: Steuerzahlerbund nennt Klingbeils Steuerpläne „Scherz oder Provokation“",
+        "summary": "Die Kritik an den Plänen von Bundesfinanzminister Lars Klingbeil für eine Steuerreform nimmt zu.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/einkommensteuer-steuerzahlerbund-nennt-klingbeils-steuerplaene-scherz-oder-provokation/100246138.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
+        "summary": "The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs.",
+        "link": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
+        "title": "Gefährliche Dunkelflauten: Energiewende braucht laut Studie auch Atomkraft",
+        "summary": "Ministerin Reiche erntet Kritik dafür, dass sie dem Ökostrom zu wenig Raum lasse.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/ges-studie-warum-es-ohne-atomkraft-keine-energiewende-gibt-accg-201109267.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "+++ Iran-Krieg +++: Ölpreise steigen – Unsicherheit über Öffnung der Straße von Hormus",
+        "summary": "Huthi-Rebellen greifen Anlagen in Saudi-Arabien und im Jemen an +++ Iran tauscht obersten Sicherheitsberater aus +++ Netanjahu: Israel lehnt Gaza-Fahrplan ab +++ Der Newsblog.",
         "link": "https://www.handelsblatt.com/politik/international/iran-krieg-us-generalstabschef-caine-sucht-angeblich-ausweg-aus-trumps-iran-krieg/100136895.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
+        "summary": "Tech companies are not modelling their own claims of the technology giving people more free time.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
+        "title": "Plan des Digitalministers: So soll Künstliche Intelligenz nun Deutschland digitalisieren",
+        "summary": "Bei der Digitalisierung liefert Deutschland im internationalen Vergleich ein beschämendes Bild ab.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/wildbergers-plan-wie-die-ki-deutschland-digitalisiert-accg-201108838.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "Börse am 10. August: Fünf Punkte, die für Anleger heute wichtig sind",
+        "summary": "In der neuen Woche neigt sich die Berichtssaison langsam dem Ende entgegen.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-fuenf-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -127,84 +175,36 @@
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
-      },
-      {
-        "title": "Schneller Schlau: Was kostet eine KI Anfrage?",
-        "summary": "ChatGPT, Claude, Gemini: Was kostet eine KI-Anfrage?",
-        "link": "https://www.faz.net/aktuell/wirtschaft/schneller-schlau/chatgpt-gemini-claude-und-co-was-eine-ki-anfrage-kostet-201069075.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "Kapitalanlage: Buffetts Nachfolger geht mit neuen Investments in die Offensive",
-        "summary": "Das Konglomerat steigert seinen operativen Gewinn um 16 Prozent.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/kapitalanlage-buffetts-nachfolger-geht-mit-neuen-investments-in-die-offensive/100245170.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "How a 90-second power outage sparked chaos for rail commuters",
-        "summary": "The incident raised questions about how a disrupted power supply can have such a widespread impact.",
-        "link": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
-      },
-      {
-        "title": "Atommüll in Finnland: „Das nächste Endlager könnten wir noch schneller bauen“",
-        "summary": "Als erstes Land der Welt hat Finnland ein Endlager für seinen Atommüll gebaut.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/finnlands-endlager-was-deutschland-von-posiva-lernen-kann-accg-201101449.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "Flughafen Leipzig/Halle: US-Medien – Sprengstoff-Drohne könnte Russland gehören",
-        "summary": "Wer steckt hinter dem Vorfall mit der Sprengstoff-Drohne auf dem Flughafen Leipzig/Halle?",
-        "link": "https://www.handelsblatt.com/politik/deutschland/flughafen-leipzig-halle-us-medien-sprengstoff-drohne-koennte-russland-gehoeren/100245977.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "Goodwin considers selling part of defence business",
-        "summary": "The firm is a key supplier of components to UK and US frigate and submarine programmes.",
-        "link": "https://www.bbc.co.uk/news/articles/c20dgpl0z4jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
       }
     ]
   },
   "niche_news": {
     "status": "ok",
-    "error": "Quellen nicht erreichbar: NASA Breaking News",
+    "error": null,
     "data": [
       {
-        "title": "Ancient Arctic carbon is pouring into the sea, but the seabed captures most of it",
-        "summary": "Thawing Arctic permafrost is releasing ancient carbon into the ocean, raising fears that microbes could turn it into greenhouse gases and accelerate climate change.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260802223424.htm",
-        "source": "ScienceDaily – Geowissenschaften",
-        "publisher": "ScienceDaily",
-        "category": "Erde"
+        "title": "Sensing the Poles’ Hidden Heat",
+        "summary": "New animations from NASA’s PREFIRE mission reveal two years of seasonal temperature swings at the Arctic and Antarctic.",
+        "link": "https://science.nasa.gov/earth/earth-observatory/sensing-the-poles-hidden-heat/",
+        "source": "NASA Breaking News",
+        "publisher": "NASA",
+        "category": "Raumfahrt"
       },
       {
-        "title": "Big Waves Meet Biodiversity: Why Surfing Paradises Could Offer a Key Opportunity for Marine Conservation",
-        "summary": "A recent mapping study examines places in northwestern Africa where coastal ecosystems overlap with surf breaks, highlighting areas that could support recreation, the environment and local economies, if protected",
-        "link": "https://www.smithsonianmag.com/science-nature/big-waves-meet-biodiversity-why-surfing-paradises-could-offer-a-key-opportunity-for-marine-conservation-180989119/",
+        "title": "Puzzle Corner",
+        "summary": "Ready for a fresh set of puzzles?",
+        "link": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
+        "source": "MIT Technology Review",
+        "publisher": "MIT",
+        "category": "Technologie"
+      },
+      {
+        "title": "A Rare Comet Made History as the Third Known Interstellar Object to Fly Through Our Solar System. Studies Are Now Revealing the Mysterious Conditions in Which It Formed",
+        "summary": "In the latest research, telescope observations of 3I/ATLAS examine its chemical structure and suggest that it took shape in a peripheral region of a relatively calm planetary system",
+        "link": "https://www.smithsonianmag.com/science-nature/a-rare-comet-made-history-as-the-third-known-interstellar-object-to-fly-through-our-solar-system-studies-are-now-revealing-the-mysterious-the-mysterious-conditions-in-which-it-formed-180989037/",
         "source": "Smithsonian",
         "publisher": "Smithsonian",
         "category": "Wissenschaft"
-      },
-      {
-        "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
-        "summary": "Nature, Published online: 07 August 2026; doi:10.1038/d41586-026-02488-3 Nature staff discuss how animal studies are starting to uncover how DNA repair could prolong life, and how COVID-19 can reawaken dormant viruses.",
-        "link": "https://www.nature.com/articles/d41586-026-02488-3",
-        "source": "Nature News",
-        "publisher": "Nature",
-        "category": "Forschung"
       }
     ]
   }

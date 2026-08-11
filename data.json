@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T06:11:28+00:00",
-  "date_label": "Monday, 10. August 2026",
+  "generated_at": "2026-08-11T05:54:37+00:00",
+  "date_label": "Tuesday, 11. August 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 26319.4492,
-        "change_pct": 0.69
+        "price": 26323.8809,
+        "change_pct": 0.02
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7757.6401,
-        "change_pct": 0.62
+        "price": 7753.1099,
+        "change_pct": -0.06
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26690.6191,
-        "change_pct": 1.3
+        "price": 26605.3594,
+        "change_pct": -0.32
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6523.8599,
-        "change_pct": 0.33
+        "price": 6535.6201,
+        "change_pct": 0.18
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 66900.8438,
-        "change_pct": 1.97
+        "price": 66970.2188,
+        "change_pct": 2.08
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 56390,
-        "usd": 65147,
-        "change_24h_pct": 0.63
+        "eur": 55434,
+        "usd": 63979,
+        "change_24h_pct": -1.55
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1665.21,
-        "usd": 1923.8,
-        "change_24h_pct": 0.59
+        "eur": 1624.13,
+        "usd": 1874.47,
+        "change_24h_pct": -2.36
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1557,
-        "change_pct": 0.28
+        "price": 1.1542,
+        "change_pct": -0.12
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8561,
-        "change_pct": -0.05
+        "price": 0.854,
+        "change_pct": -0.3
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9346,
-        "change_pct": -0.17
+        "price": 0.9352,
+        "change_pct": 0.14
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 158.356,
-        "change_pct": -0.03
+        "price": 159.228,
+        "change_pct": 0.85
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 182.973,
-        "change_pct": 0.24
+        "price": 183.729,
+        "change_pct": 0.69
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.66,
-        "change_pct": -0.21,
+        "price": 4.699,
+        "change_pct": 0.84,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Cybersicherheits-Expertin: „KI probiert Angriffswege schneller aus, als ein Mensch das könnte“",
-        "summary": "Künstliche Intelligenz von Open AI und Anthropic hat ungeplant Cyberangriffe durchgeführt.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/haya-schulmann-ueber-open-ai-und-anthropic-ki-probiert-angriffswege-schneller-aus-als-ein-mensch-das-koennte-accg-201104199.html",
+        "title": "Wer muss für Gesundheit Zahlen?: Wie die Pflege sich möglicherweise retten lässt",
+        "summary": "Die erste große Bewährungsprobe für den neuen Gesundheitsminister Linnemann ist die Pflegereform.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/linnemanns-bewaehrungsprobe-wie-die-pflege-sich-moeglicherweise-retten-laesst-accg-201111812.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Einkommensteuer: Steuerzahlerbund nennt Klingbeils Steuerpläne „Scherz oder Provokation“",
-        "summary": "Die Kritik an den Plänen von Bundesfinanzminister Lars Klingbeil für eine Steuerreform nimmt zu.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/einkommensteuer-steuerzahlerbund-nennt-klingbeils-steuerplaene-scherz-oder-provokation/100246138.html",
+        "title": "Wirtschaftskrise: „Die Kennedy aus Bolivien“ – warum Lateinamerikas Eliten diese Tiktokerin um Rat fragen",
+        "summary": "Sayuri Loza zählt zu den einflussreichsten indigenen Stimmen Boliviens.",
+        "link": "https://www.handelsblatt.com/politik/international/wirtschaft-sayuri-loza-praegt-boliviens-politik-und-soziale-medien/100242151.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
-        "summary": "The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs.",
-        "link": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump Media reports $238m loss as crypto falls",
+        "summary": "The firm says it will refocus on social media, which includes a plan to sell faster access to Trump's posts.",
+        "link": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Gefährliche Dunkelflauten: Energiewende braucht laut Studie auch Atomkraft",
-        "summary": "Ministerin Reiche erntet Kritik dafür, dass sie dem Ökostrom zu wenig Raum lasse.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/ges-studie-warum-es-ohne-atomkraft-keine-energiewende-gibt-accg-201109267.html",
+        "title": "Geld Für Rechenzentren: Nvidia und Investmentfirmen wollen halbe Billion Dollar für KI einsammeln",
+        "summary": "Der Ausbau von KI-Infrastruktur verschlingt unglaubliche viel Geld.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/nvidia-und-goldman-sachs-wollen-halbe-billion-fuer-ki-201113438.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "+++ Iran-Krieg +++: Ölpreise steigen – Unsicherheit über Öffnung der Straße von Hormus",
-        "summary": "Huthi-Rebellen greifen Anlagen in Saudi-Arabien und im Jemen an +++ Iran tauscht obersten Sicherheitsberater aus +++ Netanjahu: Israel lehnt Gaza-Fahrplan ab +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/international/iran-krieg-us-generalstabschef-caine-sucht-angeblich-ausweg-aus-trumps-iran-krieg/100136895.html",
+        "title": "Energiekonzern: Uniper setzt sich höhere Ziele",
+        "summary": "Der Konzern will mehr Energie für Rechenzentren liefern und verspricht sich davon höhere Gewinne.",
+        "link": "https://www.handelsblatt.com/unternehmen/energie/uniper-energiekonzern-setzt-sich-hoehere-ziele/100244758.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
-        "summary": "Tech companies are not modelling their own claims of the technology giving people more free time.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss",
+        "title": "Nvidia gets $500bn from major investors to develop AI infrastructure",
+        "summary": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
+        "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Plan des Digitalministers: So soll Künstliche Intelligenz nun Deutschland digitalisieren",
-        "summary": "Bei der Digitalisierung liefert Deutschland im internationalen Vergleich ein beschämendes Bild ab.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/wildbergers-plan-wie-die-ki-deutschland-digitalisiert-accg-201108838.html",
+        "title": "Hanks Welt: Den Politikern ist nicht zu trauen",
+        "summary": "Worum geht es den Ost-Ministerpräsidenten, wenn sie am Rentenpaket rütteln?",
+        "link": "https://www.faz.net/aktuell/wirtschaft/hanks-welt/kolumne-hanks-welt-warum-politikern-nicht-zu-trauen-ist-201101579.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Börse am 10. August: Fünf Punkte, die für Anleger heute wichtig sind",
-        "summary": "In der neuen Woche neigt sich die Berichtssaison langsam dem Ende entgegen.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-fuenf-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
+        "title": "US-Regierung: Trump-Medienunternehmen meldet massiven Verlust",
+        "summary": "Trump Media & Technology erwirtschaftet im zweiten Quartal einen Milliardenverlust.",
+        "link": "https://www.handelsblatt.com/unternehmen/it-medien/us-regierung-trump-medienunternehmen-meldet-massiven-verlust/100246397.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
-        "summary": "What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?",
-        "link": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
+        "title": "Councils to get more powers to stop vape and betting shops, PM announces",
+        "summary": "Prime Minister Andy Burnham said town centres had been \"hollowed out\" by decades of decline.",
+        "link": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": null,
+    "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "Sensing the Poles’ Hidden Heat",
-        "summary": "New animations from NASA’s PREFIRE mission reveal two years of seasonal temperature swings at the Arctic and Antarctic.",
-        "link": "https://science.nasa.gov/earth/earth-observatory/sensing-the-poles-hidden-heat/",
-        "source": "NASA Breaking News",
-        "publisher": "NASA",
-        "category": "Raumfahrt"
+        "title": "How to stop seagulls stealing your food",
+        "summary": "Here's the scientific way to thwart the curious, tenacious and intelligent birds",
+        "link": "https://www.bbc.com/future/article/20260806-why-seagulls-steal-human-food-and-how-to-stop-them?ocid=global_future_rss",
+        "source": "BBC Future",
+        "publisher": "BBC",
+        "category": "Zukunft"
       },
       {
-        "title": "Puzzle Corner",
-        "summary": "Ready for a fresh set of puzzles?",
-        "link": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
-        "source": "MIT Technology Review",
-        "publisher": "MIT",
-        "category": "Technologie"
+        "title": "New GLP-1 pill delivers up to 12% weight loss in 36 weeks",
+        "summary": "An experimental GLP-1 pill helped people with obesity or overweight lose as much as 12.1% of their body weight in just 36 weeks.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260810015717.htm",
+        "source": "ScienceDaily – Gesundheit",
+        "publisher": "ScienceDaily",
+        "category": "Medizin"
       },
       {
-        "title": "A Rare Comet Made History as the Third Known Interstellar Object to Fly Through Our Solar System. Studies Are Now Revealing the Mysterious Conditions in Which It Formed",
-        "summary": "In the latest research, telescope observations of 3I/ATLAS examine its chemical structure and suggest that it took shape in a peripheral region of a relatively calm planetary system",
-        "link": "https://www.smithsonianmag.com/science-nature/a-rare-comet-made-history-as-the-third-known-interstellar-object-to-fly-through-our-solar-system-studies-are-now-revealing-the-mysterious-the-mysterious-conditions-in-which-it-formed-180989037/",
-        "source": "Smithsonian",
-        "publisher": "Smithsonian",
-        "category": "Wissenschaft"
+        "title": "Learning millisecond protein dynamics from what is missing in NMR spectra",
+        "summary": "Nature, Published online: 10 August 2026; doi:10.1038/s41586-026-10989-4 Learning millisecond protein dynamics from what is missing in NMR spectra",
+        "link": "https://www.nature.com/articles/s41586-026-10989-4",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
       }
     ]
   }

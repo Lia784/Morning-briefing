@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T05:54:37+00:00",
-  "date_label": "Tuesday, 11. August 2026",
+  "generated_at": "2026-08-12T06:16:47+00:00",
+  "date_label": "Wednesday, 12. August 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 26323.8809,
-        "change_pct": 0.02
+        "price": 26391.4199,
+        "change_pct": 0.26
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7753.1099,
-        "change_pct": -0.06
+        "price": 7728.2002,
+        "change_pct": -0.32
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26605.3594,
-        "change_pct": -0.32
+        "price": 26445.4492,
+        "change_pct": -0.6
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6535.6201,
-        "change_pct": 0.18
+        "price": 6551.2202,
+        "change_pct": 0.24
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 66970.2188,
-        "change_pct": 2.08
+        "price": 67522.2266,
+        "change_pct": 0.82
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 55434,
-        "usd": 63979,
-        "change_24h_pct": -1.55
+        "eur": 55181,
+        "usd": 63654,
+        "change_24h_pct": -0.45
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1624.13,
-        "usd": 1874.47,
-        "change_24h_pct": -2.36
+        "eur": 1634.96,
+        "usd": 1886.01,
+        "change_24h_pct": 0.77
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1542,
-        "change_pct": -0.12
+        "price": 1.1538,
+        "change_pct": -0.07
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
         "price": 0.854,
-        "change_pct": -0.3
+        "change_pct": -0.06
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9352,
-        "change_pct": 0.14
+        "price": 0.9366,
+        "change_pct": 0.17
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 159.228,
-        "change_pct": 0.85
+        "price": 159.378,
+        "change_pct": 0.14
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 183.729,
-        "change_pct": 0.69
+        "price": 183.841,
+        "change_pct": 0.04
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.699,
-        "change_pct": 0.84,
+        "price": 4.684,
+        "change_pct": -0.32,
         "unit": "%"
       }
     ]
@@ -105,9 +105,9 @@
     "error": null,
     "data": [
       {
-        "title": "Wer muss für Gesundheit Zahlen?: Wie die Pflege sich möglicherweise retten lässt",
-        "summary": "Die erste große Bewährungsprobe für den neuen Gesundheitsminister Linnemann ist die Pflegereform.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/linnemanns-bewaehrungsprobe-wie-die-pflege-sich-moeglicherweise-retten-laesst-accg-201111812.html",
+        "title": "Berechnungen der BIZ: Auf dem gefährlichen Weg in den Schuldenstaat",
+        "summary": "Krisen liefern Regierungen stets einen Anlass für neue Schulden.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/auf-dem-weg-in-den-schuldenstaat-accg-201100973.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
@@ -115,63 +115,63 @@
       {
         "title": "Wirtschaftskrise: „Die Kennedy aus Bolivien“ – warum Lateinamerikas Eliten diese Tiktokerin um Rat fragen",
         "summary": "Sayuri Loza zählt zu den einflussreichsten indigenen Stimmen Boliviens.",
-        "link": "https://www.handelsblatt.com/politik/international/wirtschaft-sayuri-loza-praegt-boliviens-politik-und-soziale-medien/100242151.html",
+        "link": "https://www.handelsblatt.com/politik/international/wirtschaft-wie-eine-tiktok-influencerin-boliviens-politik-praegt/100242151.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Trump Media reports $238m loss as crypto falls",
-        "summary": "The firm says it will refocus on social media, which includes a plan to sell faster access to Trump's posts.",
-        "link": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss",
+        "title": "PM admits cost of living help is not enough and hints at further support",
+        "summary": "The PM has announced a rake of measures to help people since taking office three weeks ago.",
+        "link": "https://www.bbc.co.uk/news/articles/cgmkee248vdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Geld Für Rechenzentren: Nvidia und Investmentfirmen wollen halbe Billion Dollar für KI einsammeln",
-        "summary": "Der Ausbau von KI-Infrastruktur verschlingt unglaubliche viel Geld.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/nvidia-und-goldman-sachs-wollen-halbe-billion-fuer-ki-201113438.html",
+        "title": "Geldpolitik in Not: Die Zentralbanken entkommen dem Zugriff schuldensüchtiger Regierungen nicht",
+        "summary": "Frischer Wind täte den Notenbanken gut.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/fed-und-ezb-an-der-kandare-der-politik-201104595.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Energiekonzern: Uniper setzt sich höhere Ziele",
-        "summary": "Der Konzern will mehr Energie für Rechenzentren liefern und verspricht sich davon höhere Gewinne.",
-        "link": "https://www.handelsblatt.com/unternehmen/energie/uniper-energiekonzern-setzt-sich-hoehere-ziele/100244758.html",
+        "title": "Düngemittel- und Salzkonzern: Starke Kalinachfrage verhilft K+S zu höherem Ausblick",
+        "summary": "Das operative Ergebnis springt im zweiten Quartal über die Erwartungen hinaus auf 176 Millionen Euro.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/duengemittel-und-salzkonzern-starke-kalinachfrage-verhilft-ks-zu-hoeherem-ausblick/100246673.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Nvidia gets $500bn from major investors to develop AI infrastructure",
-        "summary": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
-        "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
+        "title": "Homes near pylons to get £250 a year off energy bills – first sites revealed",
+        "summary": "Households living within 1,600ft of upgraded pylons will get £250 a year off their electricity bills.",
+        "link": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Hanks Welt: Den Politikern ist nicht zu trauen",
-        "summary": "Worum geht es den Ost-Ministerpräsidenten, wenn sie am Rentenpaket rütteln?",
-        "link": "https://www.faz.net/aktuell/wirtschaft/hanks-welt/kolumne-hanks-welt-warum-politikern-nicht-zu-trauen-ist-201101579.html",
+        "title": "Hohes Schadensrisiko: Der KI-Boom fordert die Versicherer heraus",
+        "summary": "Die Künstliche Intelligenz löst in der ganzen Welt eine der größten Investitionswellen aus.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/rechenzentren-und-ki-neue-risiken-fordern-versicherer-accg-201111710.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "US-Regierung: Trump-Medienunternehmen meldet massiven Verlust",
-        "summary": "Trump Media & Technology erwirtschaftet im zweiten Quartal einen Milliardenverlust.",
-        "link": "https://www.handelsblatt.com/unternehmen/it-medien/us-regierung-trump-medienunternehmen-meldet-massiven-verlust/100246397.html",
+        "title": "+++ Geschäftszahlen +++: Thyssen-Rüstungstochter TKMS steigert Umsatz dank voller Auftragsbücher",
+        "summary": "Starke Kalinachfrage verhilft K+S zu höherem Ausblick +++ Kostensenkungen bescheren Brenntag deutlich mehr Gewinn +++ CoreWeave übertrifft Erwartungen dank KI-Boom +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/quartalszahlen-thyssen-tochter-tkms-steigert-umsatz-dank-voller-auftragsbuecher/24098412.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Councils to get more powers to stop vape and betting shops, PM announces",
-        "summary": "Prime Minister Andy Burnham said town centres had been \"hollowed out\" by decades of decline.",
-        "link": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
+        "title": "Sun-tanned cauliflowers and knobbly spuds - the heatwave veg that's good to eat",
+        "summary": "British shoppers should expect to see more wonky vegetables due to repeated heatwaves.",
+        "link": "https://www.bbc.co.uk/news/articles/c4g360z8d2lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,15 +180,23 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": "Quellen nicht erreichbar: NASA Breaking News",
+    "error": null,
     "data": [
       {
-        "title": "How to stop seagulls stealing your food",
-        "summary": "Here's the scientific way to thwart the curious, tenacious and intelligent birds",
-        "link": "https://www.bbc.com/future/article/20260806-why-seagulls-steal-human-food-and-how-to-stop-them?ocid=global_future_rss",
-        "source": "BBC Future",
-        "publisher": "BBC",
-        "category": "Zukunft"
+        "title": "How the “censorship-industrial complex” is changing the Internet and US policy",
+        "summary": "I first heard the term “censorship-industrial complex” on April 15, 2025.&#160; That’s when I got the tip that a small office in the U.S.",
+        "link": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
+        "source": "MIT Technology Review",
+        "publisher": "MIT",
+        "category": "Technologie"
+      },
+      {
+        "title": "AI tools speed up analysis, but scientific truths must be grounded in reality",
+        "summary": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02490-9 AI tools speed up analysis, but scientific truths must be grounded in reality",
+        "link": "https://www.nature.com/articles/d41586-026-02490-9",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
       },
       {
         "title": "New GLP-1 pill delivers up to 12% weight loss in 36 weeks",
@@ -197,14 +205,6 @@
         "source": "ScienceDaily – Gesundheit",
         "publisher": "ScienceDaily",
         "category": "Medizin"
-      },
-      {
-        "title": "Learning millisecond protein dynamics from what is missing in NMR spectra",
-        "summary": "Nature, Published online: 10 August 2026; doi:10.1038/s41586-026-10989-4 Learning millisecond protein dynamics from what is missing in NMR spectra",
-        "link": "https://www.nature.com/articles/s41586-026-10989-4",
-        "source": "Nature News",
-        "publisher": "Nature",
-        "category": "Forschung"
       }
     ]
   }

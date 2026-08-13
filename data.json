@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T06:16:47+00:00",
-  "date_label": "Wednesday, 12. August 2026",
+  "generated_at": "2026-08-13T06:18:46+00:00",
+  "date_label": "Thursday, 13. August 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 26391.4199,
-        "change_pct": 0.26
+        "price": 26331.0703,
+        "change_pct": -0.23
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7728.2002,
-        "change_pct": -0.32
+        "price": 7748.5,
+        "change_pct": 0.26
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26445.4492,
-        "change_pct": -0.6
+        "price": 26588.4902,
+        "change_pct": 0.54
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6551.2202,
-        "change_pct": 0.24
+        "price": 6533.9902,
+        "change_pct": -0.26
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 67522.2266,
-        "change_pct": 0.82
+        "price": 68337.8281,
+        "change_pct": 1.21
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 55181,
-        "usd": 63654,
-        "change_24h_pct": -0.45
+        "eur": 55351,
+        "usd": 63768,
+        "change_24h_pct": 0.27
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1634.96,
-        "usd": 1886.01,
-        "change_24h_pct": 0.77
+        "eur": 1642.45,
+        "usd": 1892.21,
+        "change_24h_pct": 0.4
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1538,
-        "change_pct": -0.07
+        "price": 1.1525,
+        "change_pct": -0.16
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.854,
-        "change_pct": -0.06
+        "price": 0.8539,
+        "change_pct": -0.07
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9366,
-        "change_pct": 0.17
+        "price": 0.9376,
+        "change_pct": 0.15
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
         "price": 159.378,
-        "change_pct": 0.14
+        "change_pct": 0.07
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 183.841,
-        "change_pct": 0.04
+        "price": 183.618,
+        "change_pct": -0.13
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.684,
-        "change_pct": -0.32,
+        "price": 4.682,
+        "change_pct": -0.04,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Berechnungen der BIZ: Auf dem gefährlichen Weg in den Schuldenstaat",
-        "summary": "Krisen liefern Regierungen stets einen Anlass für neue Schulden.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/auf-dem-weg-in-den-schuldenstaat-accg-201100973.html",
+        "title": "Gefahren für Jobanfänger: Auf dem Arbeitsmarkt wird es richtig ungemütlich",
+        "summary": "Die Aussichten, nach Schule oder Uni einen sicheren Job zu finden, verschlechtern sich.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/jugendarbeitslosigkeit-steigt-wegen-ki-auf-dem-arbeitsmarkt-wird-es-ungemuetlich-201118731.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Wirtschaftskrise: „Die Kennedy aus Bolivien“ – warum Lateinamerikas Eliten diese Tiktokerin um Rat fragen",
-        "summary": "Sayuri Loza zählt zu den einflussreichsten indigenen Stimmen Boliviens.",
-        "link": "https://www.handelsblatt.com/politik/international/wirtschaft-wie-eine-tiktok-influencerin-boliviens-politik-praegt/100242151.html",
+        "title": "+++ Geschäftszahlen +++: Mittelmeergeschäft verhilft Sixt zu Rekordumsatz",
+        "summary": "Boom bei Digitalwerbung beschert Ströer Gewinnplus +++ Schwache Nachfrage macht Hello Fresh vorsichtiger +++ Stahlsparte schiebt Thyssenkrupp an +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/quartalszahlen-mittelmeergeschaeft-verhilft-sixt-zu-rekordumsatz/24098412.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "PM admits cost of living help is not enough and hints at further support",
-        "summary": "The PM has announced a rake of measures to help people since taking office three weeks ago.",
-        "link": "https://www.bbc.co.uk/news/articles/cgmkee248vdo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump sued over Truth Social's $100,000 early access service",
+        "summary": "The suit challenges Truth Social plan selling early access to Trump's market-moving posts.",
+        "link": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Geldpolitik in Not: Die Zentralbanken entkommen dem Zugriff schuldensüchtiger Regierungen nicht",
-        "summary": "Frischer Wind täte den Notenbanken gut.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/fed-und-ezb-an-der-kandare-der-politik-201104595.html",
+        "title": "Umbau beim Versicherer: Das große KI-Experiment der Allianz",
+        "summary": "Der Versicherer wird zum Testfall dafür, was Künstliche Intelligenz mit unseren Jobs macht.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/das-grosse-ki-experiment-der-allianz-accg-201094131.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Düngemittel- und Salzkonzern: Starke Kalinachfrage verhilft K+S zu höherem Ausblick",
-        "summary": "Das operative Ergebnis springt im zweiten Quartal über die Erwartungen hinaus auf 176 Millionen Euro.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/duengemittel-und-salzkonzern-starke-kalinachfrage-verhilft-ks-zu-hoeherem-ausblick/100246673.html",
+        "title": "Solarenergie: Sondereffekte verhelfen SMA Solar zu Gewinnsprung",
+        "summary": "Die USA müssen Zölle zurückerstatten.",
+        "link": "https://www.handelsblatt.com/unternehmen/energie/sma-solar-sondereffekte-verhelfen-solarkonzern-zu-gewinnsprung/100246191.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Homes near pylons to get £250 a year off energy bills – first sites revealed",
-        "summary": "Households living within 1,600ft of upgraded pylons will get £250 a year off their electricity bills.",
-        "link": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o?at_medium=RSS&at_campaign=rss",
+        "title": "Discord ordered to suspend livestreams in Brazil",
+        "summary": "Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\"",
+        "link": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Hohes Schadensrisiko: Der KI-Boom fordert die Versicherer heraus",
-        "summary": "Die Künstliche Intelligenz löst in der ganzen Welt eine der größten Investitionswellen aus.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/rechenzentren-und-ki-neue-risiken-fordern-versicherer-accg-201111710.html",
+        "title": "Wahlkampf in Sachsen-Anhalt: „Ich bin nicht nahe bei der AfD, aber weit weg von der CDU“",
+        "summary": "Thomas Kowalski war lange ein Freund der CDU und hält bis heute große Stücke auf Angela Merkel.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/landtagswahl-sachsen-anhalt-ein-unternehmer-erklaert-warum-er-die-afd-waehlen-koennte-accg-201118206.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "+++ Geschäftszahlen +++: Thyssen-Rüstungstochter TKMS steigert Umsatz dank voller Auftragsbücher",
-        "summary": "Starke Kalinachfrage verhilft K+S zu höherem Ausblick +++ Kostensenkungen bescheren Brenntag deutlich mehr Gewinn +++ CoreWeave übertrifft Erwartungen dank KI-Boom +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/quartalszahlen-thyssen-tochter-tkms-steigert-umsatz-dank-voller-auftragsbuecher/24098412.html",
+        "title": "Thüringen: Höcke will Wagenknecht zur Ministerpräsidentin machen",
+        "summary": "Thüringens AfD-Chef Björn Höcke fordert Sahra Wagenknecht in einem Video auf, Ministerpräsidentin in Thüringen zu werden.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/thueringen-hoecke-will-wagenknecht-zur-ministerpraesidentin-machen/100246948.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Sun-tanned cauliflowers and knobbly spuds - the heatwave veg that's good to eat",
-        "summary": "British shoppers should expect to see more wonky vegetables due to repeated heatwaves.",
-        "link": "https://www.bbc.co.uk/news/articles/c4g360z8d2lo?at_medium=RSS&at_campaign=rss",
+        "title": "Burnham warned Iran war could hit UK growth next year",
+        "summary": "The conflict in the Middle East has pushed up oil and fuel prices, and also disrupted supply chains.",
+        "link": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,28 +183,28 @@
     "error": null,
     "data": [
       {
-        "title": "How the “censorship-industrial complex” is changing the Internet and US policy",
-        "summary": "I first heard the term “censorship-industrial complex” on April 15, 2025.&#160; That’s when I got the tip that a small office in the U.S.",
-        "link": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
-        "source": "MIT Technology Review",
-        "publisher": "MIT",
-        "category": "Technologie"
-      },
-      {
-        "title": "AI tools speed up analysis, but scientific truths must be grounded in reality",
-        "summary": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02490-9 AI tools speed up analysis, but scientific truths must be grounded in reality",
-        "link": "https://www.nature.com/articles/d41586-026-02490-9",
-        "source": "Nature News",
-        "publisher": "Nature",
-        "category": "Forschung"
-      },
-      {
-        "title": "New GLP-1 pill delivers up to 12% weight loss in 36 weeks",
-        "summary": "An experimental GLP-1 pill helped people with obesity or overweight lose as much as 12.1% of their body weight in just 36 weeks.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260810015717.htm",
+        "title": "3,500-year-old skeletons challenge what scientists thought they knew about syphilis",
+        "summary": "Ancient remains from Vietnam suggest diseases like yaws may have been passed from mother to child thousands of years ago, a form of transmission often assumed to indicate syphilis.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260811011143.htm",
         "source": "ScienceDaily – Gesundheit",
         "publisher": "ScienceDaily",
         "category": "Medizin"
+      },
+      {
+        "title": "This Amazing Archive of Animal Photography Reveals 18,000 Species and Counting. Here's How Joel Sartore Built His 'Photo Ark'",
+        "summary": "For 20 years, the National Geographic photographer has showcased Earth’s animals in a series of striking images that make even the tiniest creatures look immense",
+        "link": "https://www.smithsonianmag.com/science-nature/this-amazing-archive-of-animal-photography-reveals-18000-species-and-counting-heres-how-joel-sartore-built-his-photo-ark-180989282/",
+        "source": "Smithsonian",
+        "publisher": "Smithsonian",
+        "category": "Wissenschaft"
+      },
+      {
+        "title": "The Original ‘Backrooms’ Location (John’s Hobbies) in Oshkosh, Wisconsin",
+        "summary": "For years, the real-world location of the original Backrooms photo remained a total mystery.",
+        "link": "https://www.atlasobscura.com/places/the-original-backrooms-location-johns-hobbies",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
       }
     ]
   }

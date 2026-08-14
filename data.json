@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T06:18:46+00:00",
-  "date_label": "Thursday, 13. August 2026",
+  "generated_at": "2026-08-14T06:16:13+00:00",
+  "date_label": "Friday, 14. August 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 26331.0703,
-        "change_pct": -0.23
+        "price": 26299.7402,
+        "change_pct": -0.12
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7748.5,
-        "change_pct": 0.26
+        "price": 7798.9902,
+        "change_pct": 0.65
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26588.4902,
-        "change_pct": 0.54
+        "price": 26803.0293,
+        "change_pct": 0.81
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6533.9902,
-        "change_pct": -0.26
+        "price": 6545.4702,
+        "change_pct": 0.18
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 68337.8281,
-        "change_pct": 1.21
+        "price": 68793.7578,
+        "change_pct": 0.71
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 55351,
-        "usd": 63768,
-        "change_24h_pct": 0.27
+        "eur": 54837,
+        "usd": 63294,
+        "change_24h_pct": -0.94
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1642.45,
-        "usd": 1892.21,
-        "change_24h_pct": 0.4
+        "eur": 1629.25,
+        "usd": 1880.52,
+        "change_24h_pct": -0.81
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1525,
-        "change_pct": -0.16
+        "price": 1.1543,
+        "change_pct": 0.12
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8539,
-        "change_pct": -0.07
+        "price": 0.8547,
+        "change_pct": 0.1
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9376,
-        "change_pct": 0.15
+        "price": 0.9389,
+        "change_pct": 0.16
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 159.378,
-        "change_pct": 0.07
+        "price": 159.215,
+        "change_pct": -0.07
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 183.618,
-        "change_pct": -0.13
+        "price": 183.739,
+        "change_pct": 0.04
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.682,
-        "change_pct": -0.04,
+        "price": 4.641,
+        "change_pct": -0.88,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Gefahren für Jobanfänger: Auf dem Arbeitsmarkt wird es richtig ungemütlich",
-        "summary": "Die Aussichten, nach Schule oder Uni einen sicheren Job zu finden, verschlechtern sich.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/jugendarbeitslosigkeit-steigt-wegen-ki-auf-dem-arbeitsmarkt-wird-es-ungemuetlich-201118731.html",
+        "title": "Neue Deutsche BAin-Chefin: „Ein KI-Flickenteppich schafft keinen Wert“",
+        "summary": "Christina Ellringmann ist die erste Frau an der Spitze einer großen deutschen Strategieberatung.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/bain-chefin-christina-ellringmann-ueber-ki-und-wachstum-accg-201072204.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "+++ Geschäftszahlen +++: Mittelmeergeschäft verhilft Sixt zu Rekordumsatz",
-        "summary": "Boom bei Digitalwerbung beschert Ströer Gewinnplus +++ Schwache Nachfrage macht Hello Fresh vorsichtiger +++ Stahlsparte schiebt Thyssenkrupp an +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/quartalszahlen-mittelmeergeschaeft-verhilft-sixt-zu-rekordumsatz/24098412.html",
+        "title": "Versicherung: Talanx wird für Gesamtjahr optimistischer",
+        "summary": "Der Versicherer geht nach einem guten Halbjahr davon aus, die Jahresprognose noch zu übertreffen.",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/versicherung-talanx-wird-fuer-gesamtjahr-optimistischer/100245194.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Trump sued over Truth Social's $100,000 early access service",
-        "summary": "The suit challenges Truth Social plan selling early access to Trump's market-moving posts.",
-        "link": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss",
+        "title": "I got an £89 refund – how to cancel and avoid unwanted subscriptions",
+        "summary": "After the PM announced a crackdown on subscription traps, readers share how they got into and out of unwanted plans.",
+        "link": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Umbau beim Versicherer: Das große KI-Experiment der Allianz",
-        "summary": "Der Versicherer wird zum Testfall dafür, was Künstliche Intelligenz mit unseren Jobs macht.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/das-grosse-ki-experiment-der-allianz-accg-201094131.html",
+        "title": "Siemens-vorstand KÖrte im Gespräch: „Digitale Technologien definieren immer mehr die reale Welt“",
+        "summary": "Der Technologiekonzern stellt sich neu auf.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/siemens-neu-denken-peter-koerte-ueber-das-wachstumsprogramm-accg-201115507.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Solarenergie: Sondereffekte verhelfen SMA Solar zu Gewinnsprung",
-        "summary": "Die USA müssen Zölle zurückerstatten.",
-        "link": "https://www.handelsblatt.com/unternehmen/energie/sma-solar-sondereffekte-verhelfen-solarkonzern-zu-gewinnsprung/100246191.html",
+        "title": "Urteil: Fiskus kassiert Unternehmer bei Verzug ab – trotz pünktlich gezahlter Steuern",
+        "summary": "Selbst ohne Steuernachzahlung wird ein Verspätungszuschlag fällig, sobald Unternehmer die Abgabefrist für die Gewinnfeststellung überschreiten.",
+        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/urteil-fiskus-kassiert-unternehmer-bei-verzug-ab-trotz-puenktlich-gezahlter-steuern-02/100243357.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Discord ordered to suspend livestreams in Brazil",
-        "summary": "Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\"",
-        "link": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
+        "title": "US says dozens of countries helped China dodge Trump's tariffs",
+        "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+        "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Wahlkampf in Sachsen-Anhalt: „Ich bin nicht nahe bei der AfD, aber weit weg von der CDU“",
-        "summary": "Thomas Kowalski war lange ein Freund der CDU und hält bis heute große Stücke auf Angela Merkel.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/landtagswahl-sachsen-anhalt-ein-unternehmer-erklaert-warum-er-die-afd-waehlen-koennte-accg-201118206.html",
+        "title": "Dürre: Bauernverband warnt vor totalem Ernteausfall im Süden Deutschlands",
+        "summary": "Bei Weizen, Kartoffeln und Zuckerrüben drohen wegen Trockenheit massive Ernteausfälle.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/bauernverband-warnt-vor-totalem-ernteausfall-im-sueden-deutschlands-201124784.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Thüringen: Höcke will Wagenknecht zur Ministerpräsidentin machen",
-        "summary": "Thüringens AfD-Chef Björn Höcke fordert Sahra Wagenknecht in einem Video auf, Ministerpräsidentin in Thüringen zu werden.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/thueringen-hoecke-will-wagenknecht-zur-ministerpraesidentin-machen/100246948.html",
+        "title": "Jochen Flasbarth: „Endgegner der Union“: Wie ein versierter Beamter die CDU in die Verzweiflung treibt",
+        "summary": "Kaum ein Beamter ist so mächtig wie Umweltstaatssekretär Jochen Flasbarth.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/bundesregierung-wie-ein-beamter-die-union-in-die-verzweiflung-treibt-02/100238563.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Burnham warned Iran war could hit UK growth next year",
-        "summary": "The conflict in the Middle East has pushed up oil and fuel prices, and also disrupted supply chains.",
-        "link": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
+        "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
+        "summary": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market.",
+        "link": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": null,
+    "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "3,500-year-old skeletons challenge what scientists thought they knew about syphilis",
-        "summary": "Ancient remains from Vietnam suggest diseases like yaws may have been passed from mother to child thousands of years ago, a form of transmission often assumed to indicate syphilis.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260811011143.htm",
+        "title": "Ozempic may have revealed the brain’s hidden “craving center”",
+        "summary": "Ozempic-like drugs appear to weaken more than hunger—they may also reduce cravings for alcohol and other addictive substances.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260811011138.htm",
         "source": "ScienceDaily – Gesundheit",
         "publisher": "ScienceDaily",
         "category": "Medizin"
       },
       {
-        "title": "This Amazing Archive of Animal Photography Reveals 18,000 Species and Counting. Here's How Joel Sartore Built His 'Photo Ark'",
-        "summary": "For 20 years, the National Geographic photographer has showcased Earth’s animals in a series of striking images that make even the tiniest creatures look immense",
-        "link": "https://www.smithsonianmag.com/science-nature/this-amazing-archive-of-animal-photography-reveals-18000-species-and-counting-heres-how-joel-sartore-built-his-photo-ark-180989282/",
-        "source": "Smithsonian",
-        "publisher": "Smithsonian",
-        "category": "Wissenschaft"
-      },
-      {
-        "title": "The Original ‘Backrooms’ Location (John’s Hobbies) in Oshkosh, Wisconsin",
-        "summary": "For years, the real-world location of the original Backrooms photo remained a total mystery.",
-        "link": "https://www.atlasobscura.com/places/the-original-backrooms-location-johns-hobbies",
+        "title": "Hundafoss in Iceland",
+        "summary": "Most walkers leave Skaftafell aiming at Svartifoss , but the trail offers an earlier surprise.",
+        "link": "https://www.atlasobscura.com/places/hundafoss",
         "source": "Atlas Obscura",
         "publisher": "Atlas Obscura",
         "category": "Entdeckung"
+      },
+      {
+        "title": "Scaling AI agents with trustworthy data",
+        "summary": "Business and technology leaders need no convincing that the time of agentic AI is here.",
+        "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+        "source": "MIT Technology Review",
+        "publisher": "MIT",
+        "category": "Technologie"
       }
     ]
   }

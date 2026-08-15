@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T06:16:13+00:00",
-  "date_label": "Friday, 14. August 2026",
+  "generated_at": "2026-08-15T05:27:12+00:00",
+  "date_label": "Saturday, 15. August 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 26299.7402,
-        "change_pct": -0.12
+        "price": 26440.3105,
+        "change_pct": 0.53
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7798.9902,
-        "change_pct": 0.65
+        "price": 7785.7598,
+        "change_pct": -0.17
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26803.0293,
-        "change_pct": 0.81
+        "price": 26729.1602,
+        "change_pct": -0.28
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6545.4702,
-        "change_pct": 0.18
+        "price": 6539.5898,
+        "change_pct": -0.09
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 68793.7578,
-        "change_pct": 0.71
+        "price": 68713.7969,
+        "change_pct": 0.59
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 54837,
-        "usd": 63294,
-        "change_24h_pct": -0.94
+        "eur": 54519,
+        "usd": 63076,
+        "change_24h_pct": -0.52
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1629.25,
-        "usd": 1880.52,
-        "change_24h_pct": -0.81
+        "eur": 1626.35,
+        "usd": 1881.61,
+        "change_24h_pct": -0.17
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1543,
-        "change_pct": 0.12
+        "price": 1.1573,
+        "change_pct": 0.37
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8547,
+        "price": 0.8548,
         "change_pct": 0.1
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9389,
-        "change_pct": 0.16
+        "price": 0.9406,
+        "change_pct": 0.34
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 159.215,
-        "change_pct": -0.07
+        "price": 159.305,
+        "change_pct": -0.08
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 183.739,
-        "change_pct": 0.04
+        "price": 184.365,
+        "change_pct": 0.38
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.641,
-        "change_pct": -0.88,
+        "price": 4.696,
+        "change_pct": 1.19,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Neue Deutsche BAin-Chefin: „Ein KI-Flickenteppich schafft keinen Wert“",
-        "summary": "Christina Ellringmann ist die erste Frau an der Spitze einer großen deutschen Strategieberatung.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/bain-chefin-christina-ellringmann-ueber-ki-und-wachstum-accg-201072204.html",
+        "title": "Fataler Hackerangriff: Ein Debakel für Liechtenstein",
+        "summary": "Der vertrauensschädigende Datendiebstahl bringt den gesamten Finanzplatz in Misskredit.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/hackerangriff-ein-debakel-fuer-liechtenstein-201123193.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Versicherung: Talanx wird für Gesamtjahr optimistischer",
-        "summary": "Der Versicherer geht nach einem guten Halbjahr davon aus, die Jahresprognose noch zu übertreffen.",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/versicherung-talanx-wird-fuer-gesamtjahr-optimistischer/100245194.html",
+        "title": "+++ Iran-Krieg +++: Iran – Keine Entscheidung über neue Verhandlungen mit den USA",
+        "summary": "VAE – Angriff auf Schiff von staatlichem Ölkonzern in der Straße von Hormus +++ Trump: Werde Straße von Hormus zu US-Territorium machen +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/international/iran-krieg-angriff-auf-schiffe-lage-am-golf-weiter-angespannt/100136895.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "I got an £89 refund – how to cancel and avoid unwanted subscriptions",
-        "summary": "After the PM announced a crackdown on subscription traps, readers share how they got into and out of unwanted plans.",
-        "link": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss",
+        "title": "Electric vehicle sales targets could be cut after pressure from car makers",
+        "summary": "The government says it is considering cutting the new electric car sales target from 80% to 50% by 2030.",
+        "link": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Siemens-vorstand KÖrte im Gespräch: „Digitale Technologien definieren immer mehr die reale Welt“",
-        "summary": "Der Technologiekonzern stellt sich neu auf.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/siemens-neu-denken-peter-koerte-ueber-das-wachstumsprogramm-accg-201115507.html",
+        "title": "Rente mit 63: Wie berechtigt ist die Kritik der Ostministerpräsidenten?",
+        "summary": "Wer ostdeutsche Erwerbsbiographien pauschal mit westdeutschen gleichsetzt und die Möglichkeit zur privaten Vorsorge ignoriert, argumentiert stark verkürzt.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/rente-mit-63-was-ist-dran-an-der-kritik-der-ostdeutschen-ministerpraesidenten-201126003.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Urteil: Fiskus kassiert Unternehmer bei Verzug ab – trotz pünktlich gezahlter Steuern",
-        "summary": "Selbst ohne Steuernachzahlung wird ein Verspätungszuschlag fällig, sobald Unternehmer die Abgabefrist für die Gewinnfeststellung überschreiten.",
-        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/urteil-fiskus-kassiert-unternehmer-bei-verzug-ab-trotz-puenktlich-gezahlter-steuern-02/100243357.html",
+        "title": "Zahlungsdienstleister: PayPal verhandelt mit Stripe und Advent über Übernahme",
+        "summary": "Stripe und Advent sollen nach einem abgelehnten Angebot über einen höheren Kaufpreis verhandeln.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/zahlungsdienstleister-paypal-verhandelt-mit-stripe-und-advent-ueber-uebernahme/100247432.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "US says dozens of countries helped China dodge Trump's tariffs",
-        "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
-        "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+        "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
+        "summary": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+        "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Dürre: Bauernverband warnt vor totalem Ernteausfall im Süden Deutschlands",
-        "summary": "Bei Weizen, Kartoffeln und Zuckerrüben drohen wegen Trockenheit massive Ernteausfälle.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/bauernverband-warnt-vor-totalem-ernteausfall-im-sueden-deutschlands-201124784.html",
+        "title": "Künstliche Intelligenz: Manager-Exodus sorgt für Unruhe bei Open AI",
+        "summary": "Der ChatGPT-Entwickler erlebt einen Exodus.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/open-ai-denise-dresser-verlaesst-das-unternehmen-nach-kurzer-zeit-201126562.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Jochen Flasbarth: „Endgegner der Union“: Wie ein versierter Beamter die CDU in die Verzweiflung treibt",
-        "summary": "Kaum ein Beamter ist so mächtig wie Umweltstaatssekretär Jochen Flasbarth.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/bundesregierung-wie-ein-beamter-die-union-in-die-verzweiflung-treibt-02/100238563.html",
+        "title": "US-Marine in Nahost: Trump spielt Missstände auf Flugzeugträger herunter",
+        "summary": "Von angeblichen Missständen und Versorgungsengpässen an Bord der „USS Abraham Lincoln“ will US-Präsident Trump nichts wissen.",
+        "link": "https://www.handelsblatt.com/politik/international/us-marine-in-nahost-trump-spielt-missstaende-auf-flugzeugtraeger-herunter/100247447.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
-        "summary": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market.",
-        "link": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
+        "title": "Selena Gomez sued for alleged fraud over mental health company",
+        "summary": "Investors say the actor and singer did not take an \"active role\" in the company as promised.",
+        "link": "https://www.bbc.co.uk/news/articles/c8jn2811we4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": "Quellen nicht erreichbar: NASA Breaking News",
+    "error": null,
     "data": [
       {
-        "title": "Ozempic may have revealed the brain’s hidden “craving center”",
-        "summary": "Ozempic-like drugs appear to weaken more than hunger—they may also reduce cravings for alcohol and other addictive substances.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260811011138.htm",
-        "source": "ScienceDaily – Gesundheit",
+        "title": "240-million-year-old reptile fossil reveals a lost chapter before dinosaurs and crocodiles",
+        "summary": "A 240-million-year-old reptile discovered in Brazil is revealing what evolution looked like just before the rise of dinosaurs and crocodiles.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260808234956.htm",
+        "source": "ScienceDaily – Tiere",
         "publisher": "ScienceDaily",
-        "category": "Medizin"
+        "category": "Biologie"
       },
       {
-        "title": "Hundafoss in Iceland",
-        "summary": "Most walkers leave Skaftafell aiming at Svartifoss , but the trail offers an earlier surprise.",
-        "link": "https://www.atlasobscura.com/places/hundafoss",
+        "title": "Big Waves Meet Biodiversity: Why Surfing Paradises Could Offer a Key Opportunity for Marine Conservation",
+        "summary": "A recent mapping study examines places in northwestern Africa where coastal ecosystems overlap with surf breaks, highlighting areas that could support recreation, the environment and local economies, if protected",
+        "link": "https://www.smithsonianmag.com/science-nature/big-waves-meet-biodiversity-why-surfing-paradises-could-offer-a-key-opportunity-for-marine-conservation-180989119/",
+        "source": "Smithsonian",
+        "publisher": "Smithsonian",
+        "category": "Wissenschaft"
+      },
+      {
+        "title": "Murales del Borgo San Giuliano in Rimini, Italy",
+        "summary": "Founded around the year 1000, Borgo San Giuliano, was originally the city's fishermen’s quarter.",
+        "link": "https://www.atlasobscura.com/places/murales-del-borgo-san-giuliano",
         "source": "Atlas Obscura",
         "publisher": "Atlas Obscura",
         "category": "Entdeckung"
-      },
-      {
-        "title": "Scaling AI agents with trustworthy data",
-        "summary": "Business and technology leaders need no convincing that the time of agentic AI is here.",
-        "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-        "source": "MIT Technology Review",
-        "publisher": "MIT",
-        "category": "Technologie"
       }
     ]
   }

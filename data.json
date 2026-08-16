@@ -1,16 +1,10 @@
 {
-  "generated_at": "2026-08-15T05:27:12+00:00",
-  "date_label": "Saturday, 15. August 2026",
+  "generated_at": "2026-08-16T05:30:41+00:00",
+  "date_label": "Sunday, 16. August 2026",
   "indices": {
     "status": "ok",
-    "error": null,
+    "error": "Teilweise nicht verfügbar: ^GDAXI",
     "data": [
-      {
-        "name": "DAX",
-        "symbol": "^GDAXI",
-        "price": 26440.3105,
-        "change_pct": 0.53
-      },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
@@ -44,16 +38,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 54519,
-        "usd": 63076,
-        "change_24h_pct": -0.52
+        "eur": 54471,
+        "usd": 63018,
+        "change_24h_pct": -0.07
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1626.35,
-        "usd": 1881.61,
-        "change_24h_pct": -0.17
+        "eur": 1624.18,
+        "usd": 1879.01,
+        "change_24h_pct": -0.13
       }
     ]
   },
@@ -105,17 +99,17 @@
     "error": null,
     "data": [
       {
-        "title": "Fataler Hackerangriff: Ein Debakel für Liechtenstein",
-        "summary": "Der vertrauensschädigende Datendiebstahl bringt den gesamten Finanzplatz in Misskredit.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/hackerangriff-ein-debakel-fuer-liechtenstein-201123193.html",
+        "title": "Fehmarnbelttunnel: Blamage am Belt",
+        "summary": "Ärger um geplanten Fehmarnbelt-Tunnel zwischen Deutschland und Dänemark",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/fehmarnbelttunnel-blamage-durch-proteste-und-kostenstieg-201091267.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "+++ Iran-Krieg +++: Iran – Keine Entscheidung über neue Verhandlungen mit den USA",
-        "summary": "VAE – Angriff auf Schiff von staatlichem Ölkonzern in der Straße von Hormus +++ Trump: Werde Straße von Hormus zu US-Territorium machen +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/international/iran-krieg-angriff-auf-schiffe-lage-am-golf-weiter-angespannt/100136895.html",
+        "title": "+++ Iran-Krieg +++: Betrieb im Hafen von Mokka offenbar eingestellt",
+        "summary": "Katar: Halten keine iranischen Piloten fest +++ Medien berichten von sieben Toten bei israelischem Angriff auf Südlibanon +++ Iran: Keine Entscheidung über neue Verhandlungen mit den USA +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/international/iran-krieg-betrieb-im-hafen-von-mokka-offenbar-eingestellt/100136895.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -129,17 +123,41 @@
         "category": ""
       },
       {
-        "title": "Rente mit 63: Wie berechtigt ist die Kritik der Ostministerpräsidenten?",
-        "summary": "Wer ostdeutsche Erwerbsbiographien pauschal mit westdeutschen gleichsetzt und die Möglichkeit zur privaten Vorsorge ignoriert, argumentiert stark verkürzt.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/rente-mit-63-was-ist-dran-an-der-kritik-der-ostdeutschen-ministerpraesidenten-201126003.html",
+        "title": "Kosten pro Übernachtung: Warum Hotels so teuer werden",
+        "summary": "Hotelportale zeigen jedem Reisenden sein Lieblingshotel.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/booking-expedia-und-hrs-warum-buchungsportale-hotels-teurer-machen-201126436.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Zahlungsdienstleister: PayPal verhandelt mit Stripe und Advent über Übernahme",
-        "summary": "Stripe und Advent sollen nach einem abgelehnten Angebot über einen höheren Kaufpreis verhandeln.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/zahlungsdienstleister-paypal-verhandelt-mit-stripe-und-advent-ueber-uebernahme/100247432.html",
+        "title": "Waldbrände: Lage bei Monschau spitzt sich zu – Brand rückt näher",
+        "summary": "In nordrhein-westfälischen Monschau bereiten sich Bewohner auf Evakuierungen vor – im belgischen Hohen Venn sind rund 2700 Hektar vom Brand betroffen.",
+        "link": "https://www.handelsblatt.com/politik/international/waldbraende-lage-bei-monschau-spitzt-sich-zu-brand-rueckt-naeher/100247502.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
+        "summary": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart",
+        "link": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
+        "title": "Sanierung im Spreewald: Eine Villa mit Fortüne",
+        "summary": "Kurz nach der Wende kaufte eine junge Berlinerin eine heruntergekommene Jugendstilvilla im Spreewald.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/villa-fortuna-im-spreewald-juliane-kamms-lebenstraum-201102954.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "Migration: Marokko nimmt mehr als 100 Migranten vor spanischer Exklave Ceuta fest",
+        "summary": "Erneut haben Migranten versucht, die Grenze zur spanischen Exklave Ceuta zu überwinden.",
+        "link": "https://www.handelsblatt.com/politik/international/migration-marokko-nimmt-mehr-als-100-migranten-vor-spanischer-exklave-ceuta-fest/100247500.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -151,60 +169,36 @@
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
-      },
-      {
-        "title": "Künstliche Intelligenz: Manager-Exodus sorgt für Unruhe bei Open AI",
-        "summary": "Der ChatGPT-Entwickler erlebt einen Exodus.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/open-ai-denise-dresser-verlaesst-das-unternehmen-nach-kurzer-zeit-201126562.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "US-Marine in Nahost: Trump spielt Missstände auf Flugzeugträger herunter",
-        "summary": "Von angeblichen Missständen und Versorgungsengpässen an Bord der „USS Abraham Lincoln“ will US-Präsident Trump nichts wissen.",
-        "link": "https://www.handelsblatt.com/politik/international/us-marine-in-nahost-trump-spielt-missstaende-auf-flugzeugtraeger-herunter/100247447.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "Selena Gomez sued for alleged fraud over mental health company",
-        "summary": "Investors say the actor and singer did not take an \"active role\" in the company as promised.",
-        "link": "https://www.bbc.co.uk/news/articles/c8jn2811we4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
       }
     ]
   },
   "niche_news": {
     "status": "ok",
-    "error": null,
+    "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "240-million-year-old reptile fossil reveals a lost chapter before dinosaurs and crocodiles",
-        "summary": "A 240-million-year-old reptile discovered in Brazil is revealing what evolution looked like just before the rise of dinosaurs and crocodiles.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260808234956.htm",
-        "source": "ScienceDaily – Tiere",
+        "title": "The adult brain can repair itself better than scientists thought",
+        "summary": "The adult brain may be far better at repairing itself than scientists once believed.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260812015158.htm",
+        "source": "ScienceDaily – Neurowissenschaft",
         "publisher": "ScienceDaily",
-        "category": "Biologie"
+        "category": "Neurowissenschaft"
       },
       {
-        "title": "Big Waves Meet Biodiversity: Why Surfing Paradises Could Offer a Key Opportunity for Marine Conservation",
-        "summary": "A recent mapping study examines places in northwestern Africa where coastal ecosystems overlap with surf breaks, highlighting areas that could support recreation, the environment and local economies, if protected",
-        "link": "https://www.smithsonianmag.com/science-nature/big-waves-meet-biodiversity-why-surfing-paradises-could-offer-a-key-opportunity-for-marine-conservation-180989119/",
-        "source": "Smithsonian",
-        "publisher": "Smithsonian",
-        "category": "Wissenschaft"
+        "title": "Job titles of the future: Space travel agent",
+        "summary": "Roman Chiporukha has long turned wild travel dreams into reality.",
+        "link": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+        "source": "MIT Technology Review",
+        "publisher": "MIT",
+        "category": "Technologie"
       },
       {
-        "title": "Murales del Borgo San Giuliano in Rimini, Italy",
-        "summary": "Founded around the year 1000, Borgo San Giuliano, was originally the city's fishermen’s quarter.",
-        "link": "https://www.atlasobscura.com/places/murales-del-borgo-san-giuliano",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
+        "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
+        "summary": "Nature, Published online: 13 August 2026; doi:10.1038/s41586-026-10959-w Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
+        "link": "https://www.nature.com/articles/s41586-026-10959-w",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
       }
     ]
   }

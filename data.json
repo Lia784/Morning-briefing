@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-16T05:30:41+00:00",
-  "date_label": "Sunday, 16. August 2026",
+  "generated_at": "2026-08-17T05:37:01+00:00",
+  "date_label": "Monday, 17. August 2026",
   "indices": {
     "status": "ok",
-    "error": "Teilweise nicht verfügbar: ^GDAXI",
+    "error": "Teilweise nicht verfügbar: ^IXIC",
     "data": [
+      {
+        "name": "DAX",
+        "symbol": "^GDAXI",
+        "price": 26440.3105,
+        "change_pct": 0.53
+      },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
         "price": 7785.7598,
         "change_pct": -0.17
-      },
-      {
-        "name": "Nasdaq",
-        "symbol": "^IXIC",
-        "price": 26729.1602,
-        "change_pct": -0.28
       },
       {
         "name": "Euro Stoxx 50",
@@ -26,8 +26,8 @@
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 68713.7969,
-        "change_pct": 0.59
+        "price": 68956.2578,
+        "change_pct": 0.35
       }
     ]
   },
@@ -38,16 +38,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 54471,
-        "usd": 63018,
-        "change_24h_pct": -0.07
+        "eur": 54745,
+        "usd": 63429,
+        "change_24h_pct": 0.5
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1624.18,
-        "usd": 1879.01,
-        "change_24h_pct": -0.13
+        "eur": 1638.4,
+        "usd": 1898.28,
+        "change_24h_pct": 0.86
       }
     ]
   },
@@ -58,32 +58,32 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1573,
-        "change_pct": 0.37
+        "price": 1.1589,
+        "change_pct": 0.46
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
         "price": 0.8548,
-        "change_pct": 0.1
+        "change_pct": -0.02
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9406,
-        "change_pct": 0.34
+        "price": 0.94,
+        "change_pct": 0.11
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 159.305,
-        "change_pct": -0.08
+        "price": 159.051,
+        "change_pct": -0.24
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 184.365,
-        "change_pct": 0.38
+        "price": 184.269,
+        "change_pct": 0.32
       },
       {
         "name": "US 10Y Rendite",
@@ -99,73 +99,73 @@
     "error": null,
     "data": [
       {
-        "title": "Fehmarnbelttunnel: Blamage am Belt",
-        "summary": "Ärger um geplanten Fehmarnbelt-Tunnel zwischen Deutschland und Dänemark",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/fehmarnbelttunnel-blamage-durch-proteste-und-kostenstieg-201091267.html",
+        "title": "Arbeitsmarkt: In Indien ist die Ungleichheit groß – KI macht sie noch größer",
+        "summary": "Den Sieg über die Regierung verdankt Indiens Generation Z der digitalen Revolution.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/wie-ki-die-ungleichheit-der-genz-in-indien-verschaerft-201102556.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "+++ Iran-Krieg +++: Betrieb im Hafen von Mokka offenbar eingestellt",
-        "summary": "Katar: Halten keine iranischen Piloten fest +++ Medien berichten von sieben Toten bei israelischem Angriff auf Südlibanon +++ Iran: Keine Entscheidung über neue Verhandlungen mit den USA +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/international/iran-krieg-betrieb-im-hafen-von-mokka-offenbar-eingestellt/100136895.html",
+        "title": "Interview: „Ich kenne keinen Unternehmer, der AfD wählt“: Warum dieser ostdeutsche Gründer die Partei für eine Gefahr hält",
+        "summary": "Martin Menz, Gründer des Onlinehändlers Relaxdays, spricht über seine Gefühle vor der Landtagswahl in Sachsen-Anhalt, Probleme des Standorts Deutschland und den Turnaround seines Unternehmens.",
+        "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/sachsen-anhalt-warum-relaxdays-gruender-menz-afd-fuer-eine-bedrohung-haelt-01/100246135.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Electric vehicle sales targets could be cut after pressure from car makers",
-        "summary": "The government says it is considering cutting the new electric car sales target from 80% to 50% by 2030.",
-        "link": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss",
+        "title": "Ferrari's first ever electric car sold for record $40m at auction",
+        "summary": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
+        "link": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Kosten pro Übernachtung: Warum Hotels so teuer werden",
-        "summary": "Hotelportale zeigen jedem Reisenden sein Lieblingshotel.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/booking-expedia-und-hrs-warum-buchungsportale-hotels-teurer-machen-201126436.html",
+        "title": "Heizungen: Wo eine Wärmepumpe den Hauskauf verteuert",
+        "summary": "Moderne Heizungen werden zu Preistreibern.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/energie-heizung/waermepumpe-beim-hauskauf-so-stark-steigt-der-preis-201116319.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Waldbrände: Lage bei Monschau spitzt sich zu – Brand rückt näher",
-        "summary": "In nordrhein-westfälischen Monschau bereiten sich Bewohner auf Evakuierungen vor – im belgischen Hohen Venn sind rund 2700 Hektar vom Brand betroffen.",
-        "link": "https://www.handelsblatt.com/politik/international/waldbraende-lage-bei-monschau-spitzt-sich-zu-brand-rueckt-naeher/100247502.html",
+        "title": "Autoindustrie: Geely steigert Gewinn dank starker Exporte",
+        "summary": "Der chinesische Autobauer Geely trotzt der schwachen Nachfrage im Heimatmarkt.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/autoindustrie-geely-steigert-gewinn-dank-starker-exporte/100247664.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
-        "summary": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart",
-        "link": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
+        "title": "If Meta loses this trial, Instagram and Facebook could change forever",
+        "summary": "Thirty US states have sued Meta to force an overhaul of its platforms for young users.",
+        "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Sanierung im Spreewald: Eine Villa mit Fortüne",
-        "summary": "Kurz nach der Wende kaufte eine junge Berlinerin eine heruntergekommene Jugendstilvilla im Spreewald.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/villa-fortuna-im-spreewald-juliane-kamms-lebenstraum-201102954.html",
+        "title": "Kiez in berlin: Der geheime Charme der Charlottenburger Bourgeoisie",
+        "summary": "Der Berliner Leonhardtkiez gehört zu den begehrtesten Adressen der Hauptstadt.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/leonhardtkiez-in-berlin-das-begehrte-geheimviertel-in-charlottenburg-201091007.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Migration: Marokko nimmt mehr als 100 Migranten vor spanischer Exklave Ceuta fest",
-        "summary": "Erneut haben Migranten versucht, die Grenze zur spanischen Exklave Ceuta zu überwinden.",
-        "link": "https://www.handelsblatt.com/politik/international/migration-marokko-nimmt-mehr-als-100-migranten-vor-spanischer-exklave-ceuta-fest/100247500.html",
+        "title": "Waldbrände: Brand im Hohen Venn – Evakuierung bei Monschau angeordnet",
+        "summary": "Wegen des Waldbrandes im belgischen Hohen Venn mussten am Abend Anwohner auf der deutschen Seite der Grenze ihre Häuser verlassen.",
+        "link": "https://www.handelsblatt.com/politik/international/waldbraende-brand-im-hohen-venn-evakuierung-bei-monschau-angeordnet/100247608.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
-        "summary": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
-        "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+        "title": "Changing pubs into homes to be made harder under new rules",
+        "summary": "The rules will come into force on Monday along with other changes to planning policy.",
+        "link": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -174,31 +174,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": "Quellen nicht erreichbar: NASA Breaking News",
+    "error": null,
     "data": [
       {
-        "title": "The adult brain can repair itself better than scientists thought",
-        "summary": "The adult brain may be far better at repairing itself than scientists once believed.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260812015158.htm",
-        "source": "ScienceDaily – Neurowissenschaft",
+        "title": "A 30-year-old fossil was hiding bones from a mysterious ancient sea monster",
+        "summary": "Fossils collected in Osaka more than 30 years ago have revealed a surprise hiding in plain sight: four previously unrecognized bones from a giant Cretaceous mosasaur.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260813045555.htm",
+        "source": "ScienceDaily – Archäologie",
         "publisher": "ScienceDaily",
-        "category": "Neurowissenschaft"
+        "category": "Archäologie"
       },
       {
-        "title": "Job titles of the future: Space travel agent",
-        "summary": "Roman Chiporukha has long turned wild travel dreams into reality.",
-        "link": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+        "title": "Murales del Borgo San Giuliano in Rimini, Italy",
+        "summary": "Founded around the year 1000, Borgo San Giuliano, was originally the city's fishermen’s quarter.",
+        "link": "https://www.atlasobscura.com/places/murales-del-borgo-san-giuliano",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
+      },
+      {
+        "title": "Cloning could be used to save species—or make human “organ sacks”",
+        "summary": "This week I spoke to scientists who have found a way to turn male mouse embryos female.",
+        "link": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
         "source": "MIT Technology Review",
         "publisher": "MIT",
         "category": "Technologie"
-      },
-      {
-        "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
-        "summary": "Nature, Published online: 13 August 2026; doi:10.1038/s41586-026-10959-w Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
-        "link": "https://www.nature.com/articles/s41586-026-10959-w",
-        "source": "Nature News",
-        "publisher": "Nature",
-        "category": "Forschung"
       }
     ]
   }

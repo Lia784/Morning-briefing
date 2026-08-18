@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-17T05:37:01+00:00",
-  "date_label": "Monday, 17. August 2026",
+  "generated_at": "2026-08-18T05:32:07+00:00",
+  "date_label": "Tuesday, 18. August 2026",
   "indices": {
     "status": "ok",
-    "error": "Teilweise nicht verfügbar: ^IXIC",
+    "error": null,
     "data": [
       {
         "name": "DAX",
@@ -14,8 +14,14 @@
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7785.7598,
-        "change_pct": -0.17
+        "price": NaN,
+        "change_pct": NaN
+      },
+      {
+        "name": "Nasdaq",
+        "symbol": "^IXIC",
+        "price": NaN,
+        "change_pct": NaN
       },
       {
         "name": "Euro Stoxx 50",
@@ -26,8 +32,8 @@
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 68956.2578,
-        "change_pct": 0.35
+        "price": 67745.1719,
+        "change_pct": -1.41
       }
     ]
   },
@@ -38,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 54745,
-        "usd": 63429,
-        "change_24h_pct": 0.5
+        "eur": 55472,
+        "usd": 64188,
+        "change_24h_pct": 1.3
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1638.4,
-        "usd": 1898.28,
-        "change_24h_pct": 0.86
+        "eur": 1637.41,
+        "usd": 1894.68,
+        "change_24h_pct": -0.14
       }
     ]
   },
@@ -58,32 +64,32 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1589,
-        "change_pct": 0.46
+        "price": 1.1577,
+        "change_pct": 0.02
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
         "price": 0.8548,
-        "change_pct": -0.02
+        "change_pct": 0.05
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.94,
-        "change_pct": 0.11
+        "price": 0.9392,
+        "change_pct": -0.14
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 159.051,
-        "change_pct": -0.24
+        "price": 159.672,
+        "change_pct": 0.28
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 184.269,
-        "change_pct": 0.32
+        "price": 184.777,
+        "change_pct": 0.27
       },
       {
         "name": "US 10Y Rendite",
@@ -99,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Arbeitsmarkt: In Indien ist die Ungleichheit groß – KI macht sie noch größer",
-        "summary": "Den Sieg über die Regierung verdankt Indiens Generation Z der digitalen Revolution.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/wie-ki-die-ungleichheit-der-genz-in-indien-verschaerft-201102556.html",
+        "title": "Bahn erklärt Konzept: Video zu Stuttgart 21 ohne Klimaanlage sorgt für Kritik",
+        "summary": "Der zukünftige Stuttgarter Hauptbahnhof soll ohne Klimaanlage auskommen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/stuttgart-21-ohne-klimaanlage-deutsche-bahn-erntet-spott-accg-201135576.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Interview: „Ich kenne keinen Unternehmer, der AfD wählt“: Warum dieser ostdeutsche Gründer die Partei für eine Gefahr hält",
-        "summary": "Martin Menz, Gründer des Onlinehändlers Relaxdays, spricht über seine Gefühle vor der Landtagswahl in Sachsen-Anhalt, Probleme des Standorts Deutschland und den Turnaround seines Unternehmens.",
-        "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/sachsen-anhalt-warum-relaxdays-gruender-menz-afd-fuer-eine-bedrohung-haelt-01/100246135.html",
+        "title": "Howard Buffett: 27 Reisen ins Kriegsgebiet: Warren Buffetts Sohn ist „der größte Freund der Ukraine“",
+        "summary": "Der Sprössling des US-Investors hat eine Mission – und sie heißt nicht Berkshire.",
+        "link": "https://www.handelsblatt.com/politik/international/howard-buffett-wir-stehen-so-lange-an-der-seite-der-ukraine-wie-es-noetig-ist-01/100238525.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Ferrari's first ever electric car sold for record $40m at auction",
-        "summary": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
-        "link": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
+        "title": "To joke or not to joke?: How to write a good out-of-office message",
+        "summary": "As we hit peak holiday season, the BBC looks at the dos and don'ts of composing a good out-of-office message.",
+        "link": "https://www.bbc.co.uk/news/articles/c934xy32919o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Heizungen: Wo eine Wärmepumpe den Hauskauf verteuert",
-        "summary": "Moderne Heizungen werden zu Preistreibern.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/energie-heizung/waermepumpe-beim-hauskauf-so-stark-steigt-der-preis-201116319.html",
+        "title": "Nach Tim Cook: Was auf den neuen Apple-Chef zukommt",
+        "summary": "Apple läutet eine neue Ära ein.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/john-ternus-folgt-bei-apple-auf-tim-cook-was-auf-den-neuen-chef-zukommt-201119368.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Autoindustrie: Geely steigert Gewinn dank starker Exporte",
-        "summary": "Der chinesische Autobauer Geely trotzt der schwachen Nachfrage im Heimatmarkt.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/autoindustrie-geely-steigert-gewinn-dank-starker-exporte/100247664.html",
+        "title": "Industrie: In nur zehn Wochen zum Milliardendeal: Familienunternehmen EBM-Papst geht an US-Konzern",
+        "summary": "Für knapp fünf Milliarden Euro geht der Ventilatorenspezialist an Madison Air.",
+        "link": "https://www.handelsblatt.com/unternehmen/mittelstand/familienunternehmer/familienunternehmen-ventilatorenspezialist-ebm-papst-wird-an-us-konzern-verkauft/100247761.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "If Meta loses this trial, Instagram and Facebook could change forever",
-        "summary": "Thirty US states have sued Meta to force an overhaul of its platforms for young users.",
-        "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
+        "title": "US-Canada trade talks 'intense' as new tariff deadline looms",
+        "summary": "Mark Carney will need to sell Canadians on any concessions made to the US as negotiators scramble to reach a deal to avoid Trump’s latest tariffs.",
+        "link": "https://www.bbc.co.uk/news/articles/crl7600rpnko?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Kiez in berlin: Der geheime Charme der Charlottenburger Bourgeoisie",
-        "summary": "Der Berliner Leonhardtkiez gehört zu den begehrtesten Adressen der Hauptstadt.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/leonhardtkiez-in-berlin-das-begehrte-geheimviertel-in-charlottenburg-201091007.html",
+        "title": "Demographie: Chancenvernichtung und Substanzverlust",
+        "summary": "Die Alterung der Gesellschaft bringt nicht nur die Rentenfinanzen in Schieflage.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/demographischer-wandel-chancenvernichtung-und-substanzverlust-201131072.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Waldbrände: Brand im Hohen Venn – Evakuierung bei Monschau angeordnet",
-        "summary": "Wegen des Waldbrandes im belgischen Hohen Venn mussten am Abend Anwohner auf der deutschen Seite der Grenze ihre Häuser verlassen.",
-        "link": "https://www.handelsblatt.com/politik/international/waldbraende-brand-im-hohen-venn-evakuierung-bei-monschau-angeordnet/100247608.html",
+        "title": "Luftfahrt: Flughafen München entging offenbar nur knapp einer Katastrophe",
+        "summary": "Warum hob eine Boeing 787-9 der Vietnam Airlines am Samstag erst hinter der Landebahn ab – und wieso wurde der Start nicht abgebrochen?",
+        "link": "https://www.handelsblatt.com/unternehmen/dienstleister/luftfahrt-flughafen-muenchen-entging-offenbar-nur-knapp-einer-katastrophe/100247746.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Changing pubs into homes to be made harder under new rules",
-        "summary": "The rules will come into force on Monday along with other changes to planning policy.",
-        "link": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
+        "title": "Disabled people in England to get 24-hour free bus travel",
+        "summary": "The change, which has been welcomed by campaign groups, will come into effect in England from April.",
+        "link": "https://www.bbc.co.uk/news/articles/cjwx5vx21y2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -174,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": null,
+    "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "A 30-year-old fossil was hiding bones from a mysterious ancient sea monster",
-        "summary": "Fossils collected in Osaka more than 30 years ago have revealed a surprise hiding in plain sight: four previously unrecognized bones from a giant Cretaceous mosasaur.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260813045555.htm",
-        "source": "ScienceDaily – Archäologie",
-        "publisher": "ScienceDaily",
-        "category": "Archäologie"
+        "title": "Programmable remodelling of carbon–nitrogen connectivity in amines",
+        "summary": "Nature, Published online: 17 August 2026; doi:10.1038/s41586-026-11009-1 Programmable remodelling of carbon–nitrogen connectivity in amines",
+        "link": "https://www.nature.com/articles/s41586-026-11009-1",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
       },
       {
-        "title": "Murales del Borgo San Giuliano in Rimini, Italy",
-        "summary": "Founded around the year 1000, Borgo San Giuliano, was originally the city's fishermen’s quarter.",
-        "link": "https://www.atlasobscura.com/places/murales-del-borgo-san-giuliano",
+        "title": "Marine Biologists Solved a Wildlife Mystery From the Walkway of the Golden Gate Bridge: How the Harbor Porpoise Mates",
+        "summary": "The dolphin-like marine mammals returned to San Francisco Bay in 2008 after a decades-long absence from the area.",
+        "link": "https://www.smithsonianmag.com/science-nature/marine-biologists-solved-a-wildlife-mystery-from-the-walkway-of-the-golden-gate-bridge-how-the-harbor-porpoise-mates-180989163/",
+        "source": "Smithsonian",
+        "publisher": "Smithsonian",
+        "category": "Wissenschaft"
+      },
+      {
+        "title": "Fannie Bay Gaol in Fannie Bay, Australia",
+        "summary": "For nearly a century, Fannie Bay Gaol was the Northern Territory of Australia's principal prison, confining a range of prisoners from cattle rustlers and opium traffickers to political prisoners and condemned murderers.",
+        "link": "https://www.atlasobscura.com/places/fannie-bay-gaol",
         "source": "Atlas Obscura",
         "publisher": "Atlas Obscura",
         "category": "Entdeckung"
-      },
-      {
-        "title": "Cloning could be used to save species—or make human “organ sacks”",
-        "summary": "This week I spoke to scientists who have found a way to turn male mouse embryos female.",
-        "link": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
-        "source": "MIT Technology Review",
-        "publisher": "MIT",
-        "category": "Technologie"
       }
     ]
   }

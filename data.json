@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T05:32:07+00:00",
-  "date_label": "Tuesday, 18. August 2026",
+  "generated_at": "2026-08-19T05:33:17+00:00",
+  "date_label": "Wednesday, 19. August 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 26440.3105,
-        "change_pct": 0.53
+        "price": 26128.3594,
+        "change_pct": -0.8
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": NaN,
-        "change_pct": NaN
+        "price": 7691.7598,
+        "change_pct": -0.69
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": NaN,
-        "change_pct": NaN
+        "price": 26289.7109,
+        "change_pct": -1.33
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6539.5898,
-        "change_pct": -0.09
+        "price": 6468.1699,
+        "change_pct": -0.95
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 67745.1719,
-        "change_pct": -1.41
+        "price": 65267.9297,
+        "change_pct": -3.25
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 55472,
-        "usd": 64188,
-        "change_24h_pct": 1.3
+        "eur": 55498,
+        "usd": 64302,
+        "change_24h_pct": 0.11
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1637.41,
-        "usd": 1894.68,
-        "change_24h_pct": -0.14
+        "eur": 1649.81,
+        "usd": 1911.54,
+        "change_24h_pct": 0.83
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1577,
-        "change_pct": 0.02
+        "price": 1.1589,
+        "change_pct": 0.05
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8548,
-        "change_pct": 0.05
+        "price": 0.8555,
+        "change_pct": 0.09
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9392,
-        "change_pct": -0.14
+        "price": 0.9398,
+        "change_pct": 0.1
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 159.672,
-        "change_pct": 0.28
+        "price": 159.26,
+        "change_pct": -0.05
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 184.777,
-        "change_pct": 0.27
+        "price": 184.514,
+        "change_pct": -0.01
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.696,
-        "change_pct": 1.19,
+        "price": 4.706,
+        "change_pct": -0.38,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Bahn erklärt Konzept: Video zu Stuttgart 21 ohne Klimaanlage sorgt für Kritik",
-        "summary": "Der zukünftige Stuttgarter Hauptbahnhof soll ohne Klimaanlage auskommen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/stuttgart-21-ohne-klimaanlage-deutsche-bahn-erntet-spott-accg-201135576.html",
+        "title": "Zusammenwohnen: „Wer überpowert wird, erlebt eine Grenzverletzung“",
+        "summary": "Die Architektin Ahuti Alice Müller berät nicht nur beim Einrichten, sondern auch beim Zusammenleben.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/wohnberatung-fuer-paare-wo-haeufig-konflikte-entstehen-und-wie-man-sie-vermeidet-accg-201095047.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Howard Buffett: 27 Reisen ins Kriegsgebiet: Warren Buffetts Sohn ist „der größte Freund der Ukraine“",
-        "summary": "Der Sprössling des US-Investors hat eine Mission – und sie heißt nicht Berkshire.",
-        "link": "https://www.handelsblatt.com/politik/international/howard-buffett-wir-stehen-so-lange-an-der-seite-der-ukraine-wie-es-noetig-ist-01/100238525.html",
+        "title": "Umfragewerte: Knobloch über AfD und NSDAP – „Vergleichen sollte man“",
+        "summary": "Die AfD bekommt Zulauf wie nie zuvor.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/umfragewerte-knobloch-ueber-afd-und-nsdapvergleichen-sollte-man/100248209.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "To joke or not to joke?: How to write a good out-of-office message",
-        "summary": "As we hit peak holiday season, the BBC looks at the dos and don'ts of composing a good out-of-office message.",
-        "link": "https://www.bbc.co.uk/news/articles/c934xy32919o?at_medium=RSS&at_campaign=rss",
+        "title": "Meta hooked children on Facebook and Instagram, US court hears",
+        "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
+        "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Nach Tim Cook: Was auf den neuen Apple-Chef zukommt",
-        "summary": "Apple läutet eine neue Ära ein.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/john-ternus-folgt-bei-apple-auf-tim-cook-was-auf-den-neuen-chef-zukommt-201119368.html",
+        "title": "Public-Pay-Studie: Wieviel die Chefs kommunaler Unternehmen verdienen",
+        "summary": "Die Chefs der Sparkassen sind seit Jahren die Spitzenverdiener unter den Managern öffentlicher Unternehmen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/sparkassenchefs-ganz-vorne-was-die-geschaeftsfuehrer-kommunaler-unternehmen-verdienen-accg-201134494.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Industrie: In nur zehn Wochen zum Milliardendeal: Familienunternehmen EBM-Papst geht an US-Konzern",
-        "summary": "Für knapp fünf Milliarden Euro geht der Ventilatorenspezialist an Madison Air.",
-        "link": "https://www.handelsblatt.com/unternehmen/mittelstand/familienunternehmer/familienunternehmen-ventilatorenspezialist-ebm-papst-wird-an-us-konzern-verkauft/100247761.html",
+        "title": "Länderfinanzausgleich: Grüner Finanzminister droht mit Zahlungsstopp für Sachsen-Anhalt",
+        "summary": "Baden-Württembergs Finanzminister Bayaz fordert, Zahlungen beim Länderfinanzausgleich einzustellen, sollte eine AfD-Regierung rechtsstaatliche Prinzipien verletzen.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/laenderfinanzausgleich-gruener-finanzminister-droht-mit-zahlungsstopp-fuer-sachsen-anhalt-01/100247907.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "US-Canada trade talks 'intense' as new tariff deadline looms",
-        "summary": "Mark Carney will need to sell Canadians on any concessions made to the US as negotiators scramble to reach a deal to avoid Trump’s latest tariffs.",
-        "link": "https://www.bbc.co.uk/news/articles/crl7600rpnko?at_medium=RSS&at_campaign=rss",
+        "title": "'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted",
+        "summary": "Several thousands of Vinted users say they have been wrongly suspended or permanently banned from the preloved app.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Demographie: Chancenvernichtung und Substanzverlust",
-        "summary": "Die Alterung der Gesellschaft bringt nicht nur die Rentenfinanzen in Schieflage.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/demographischer-wandel-chancenvernichtung-und-substanzverlust-201131072.html",
+        "title": "Hype um Humanoide Roboter: Roboterbauer Unitree legt fulminantes Börsendebüt hin",
+        "summary": "Der Aktienkurs des Herstellers humanoider Roboter versiebenfacht sich vorübergehend.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/humanoide-roboter-unitree-legt-fulminantes-boersendebuet-hin-accg-201139072.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Luftfahrt: Flughafen München entging offenbar nur knapp einer Katastrophe",
-        "summary": "Warum hob eine Boeing 787-9 der Vietnam Airlines am Samstag erst hinter der Landebahn ab – und wieso wurde der Start nicht abgebrochen?",
-        "link": "https://www.handelsblatt.com/unternehmen/dienstleister/luftfahrt-flughafen-muenchen-entging-offenbar-nur-knapp-einer-katastrophe/100247746.html",
+        "title": "Märkte Insight: Die Märkte haben womöglich ein Märchenszenario eingepreist",
+        "summary": "Die Renditen für lang laufende Staatsanleihen notieren auf dem höchsten Niveau seit Jahrzehnten.",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/aktien-die-maerkte-haben-womoeglich-ein-maerchenszenario-eingepreist-01/100247743.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Disabled people in England to get 24-hour free bus travel",
-        "summary": "The change, which has been welcomed by campaign groups, will come into effect in England from April.",
-        "link": "https://www.bbc.co.uk/news/articles/cjwx5vx21y2o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+        "summary": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.",
+        "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": "Quellen nicht erreichbar: NASA Breaking News",
+    "error": null,
     "data": [
       {
-        "title": "Programmable remodelling of carbon–nitrogen connectivity in amines",
-        "summary": "Nature, Published online: 17 August 2026; doi:10.1038/s41586-026-11009-1 Programmable remodelling of carbon–nitrogen connectivity in amines",
-        "link": "https://www.nature.com/articles/s41586-026-11009-1",
-        "source": "Nature News",
-        "publisher": "Nature",
-        "category": "Forschung"
+        "title": "NASA Glenn’s Legacy Forged Through Decades of Flight Research",
+        "summary": "Many of NASA’s most important aerospace breakthroughs that began in the laboratory were&#160;ultimately proven&#160;in the sky.",
+        "link": "https://www.nasa.gov/general/nasa-glenn-inflight-research/",
+        "source": "NASA Breaking News",
+        "publisher": "NASA",
+        "category": "Raumfahrt"
       },
       {
-        "title": "Marine Biologists Solved a Wildlife Mystery From the Walkway of the Golden Gate Bridge: How the Harbor Porpoise Mates",
-        "summary": "The dolphin-like marine mammals returned to San Francisco Bay in 2008 after a decades-long absence from the area.",
-        "link": "https://www.smithsonianmag.com/science-nature/marine-biologists-solved-a-wildlife-mystery-from-the-walkway-of-the-golden-gate-bridge-how-the-harbor-porpoise-mates-180989163/",
+        "title": "Earth's Organisms Developed Via Evolution. Some Theorists Wonder: What if the Entire Cosmos Did, Too?",
+        "summary": "The idea that universes evolve like organisms sat on the fringes of theoretical physics for decades.",
+        "link": "https://www.smithsonianmag.com/science-nature/earths-organisms-developed-via-evolution-some-theorists-wonder-what-if-the-entire-cosmos-did-too-180989338/",
         "source": "Smithsonian",
         "publisher": "Smithsonian",
         "category": "Wissenschaft"
       },
       {
-        "title": "Fannie Bay Gaol in Fannie Bay, Australia",
-        "summary": "For nearly a century, Fannie Bay Gaol was the Northern Territory of Australia's principal prison, confining a range of prisoners from cattle rustlers and opium traffickers to political prisoners and condemned murderers.",
-        "link": "https://www.atlasobscura.com/places/fannie-bay-gaol",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
+        "title": "150-million-year-old dinosaur footprints reveal something strange about its walk",
+        "summary": "A spectacular 150-million-year-old trail of more than 130 footprints captures a giant sauropod making a complete loop before continuing on its way.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260810015727.htm",
+        "source": "ScienceDaily – Archäologie",
+        "publisher": "ScienceDaily",
+        "category": "Archäologie"
       }
     ]
   }

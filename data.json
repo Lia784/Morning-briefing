@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T05:33:17+00:00",
-  "date_label": "Wednesday, 19. August 2026",
+  "generated_at": "2026-08-20T05:33:42+00:00",
+  "date_label": "Thursday, 20. August 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 26128.3594,
-        "change_pct": -0.8
+        "price": 26091.3301,
+        "change_pct": -0.14
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7691.7598,
-        "change_pct": -0.69
+        "price": 7707.98,
+        "change_pct": 0.21
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26289.7109,
-        "change_pct": -1.33
+        "price": 26331.0898,
+        "change_pct": 0.16
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6468.1699,
-        "change_pct": -0.95
+        "price": 6444.46,
+        "change_pct": -0.37
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 65267.9297,
-        "change_pct": -3.25
+        "price": 66173.3672,
+        "change_pct": 1.3
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 55498,
-        "usd": 64302,
-        "change_24h_pct": 0.11
+        "eur": 59604,
+        "usd": 69567,
+        "change_24h_pct": 7.4
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1649.81,
-        "usd": 1911.54,
-        "change_24h_pct": 0.83
+        "eur": 1928.78,
+        "usd": 2251.2,
+        "change_24h_pct": 16.91
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1589,
-        "change_pct": 0.05
+        "price": 1.1675,
+        "change_pct": 0.83
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8555,
-        "change_pct": 0.09
+        "price": 0.8579,
+        "change_pct": 0.32
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9398,
-        "change_pct": 0.1
+        "price": 0.9342,
+        "change_pct": -0.64
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 159.26,
-        "change_pct": -0.05
+        "price": 158.7,
+        "change_pct": -0.53
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 184.514,
-        "change_pct": -0.01
+        "price": 185.22,
+        "change_pct": 0.29
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.706,
-        "change_pct": -0.38,
+        "price": 4.653,
+        "change_pct": -1.13,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Zusammenwohnen: „Wer überpowert wird, erlebt eine Grenzverletzung“",
-        "summary": "Die Architektin Ahuti Alice Müller berät nicht nur beim Einrichten, sondern auch beim Zusammenleben.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/wohnberatung-fuer-paare-wo-haeufig-konflikte-entstehen-und-wie-man-sie-vermeidet-accg-201095047.html",
+        "title": "China: Evergrande-Gründer zu lebenslanger Haft verurteilt",
+        "summary": "Der Mann hinter Chinas größtem Immobilienkonzern muss fünf Jahre nach dessen Insolvenz lebenslang ins Gefängnis.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/evergrande-gruender-in-china-zu-lebenslanger-haft-verurteilt-accg-201142658.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Umfragewerte: Knobloch über AfD und NSDAP – „Vergleichen sollte man“",
-        "summary": "Die AfD bekommt Zulauf wie nie zuvor.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/umfragewerte-knobloch-ueber-afd-und-nsdapvergleichen-sollte-man/100248209.html",
+        "title": "Patientensicherheit: Behandlungsfehler könnten Krankenkassen Milliarden kosten",
+        "summary": "Der Medizinische Dienst beziffert die möglichen Folgekosten vermeidbarer Schäden im Gesundheitssystem auf rund 31 Milliarden Euro.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/patientensicherheit-behandlungsfehler-koennten-krankenkassen-milliarden-kosten/100248243.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Meta hooked children on Facebook and Instagram, US court hears",
-        "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
-        "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+        "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+        "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Public-Pay-Studie: Wieviel die Chefs kommunaler Unternehmen verdienen",
-        "summary": "Die Chefs der Sparkassen sind seit Jahren die Spitzenverdiener unter den Managern öffentlicher Unternehmen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/sparkassenchefs-ganz-vorne-was-die-geschaeftsfuehrer-kommunaler-unternehmen-verdienen-accg-201134494.html",
+        "title": "Laut einer Studie: Schere bei Vermögen geht nicht immer nur auseinander",
+        "summary": "Die Vermögensungleichheit in Deutschland ist relativ hoch.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/ungleichheit-bei-vermoegen-laut-iw-studie-zurueckgegangen-accg-201142301.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Länderfinanzausgleich: Grüner Finanzminister droht mit Zahlungsstopp für Sachsen-Anhalt",
-        "summary": "Baden-Württembergs Finanzminister Bayaz fordert, Zahlungen beim Länderfinanzausgleich einzustellen, sollte eine AfD-Regierung rechtsstaatliche Prinzipien verletzen.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/laenderfinanzausgleich-gruener-finanzminister-droht-mit-zahlungsstopp-fuer-sachsen-anhalt-01/100247907.html",
+        "title": "Welthandel: Südkorea probt Seeweg durch Russlands Arktis",
+        "summary": "Durch den Klimawandel wird die Nordostpassage im Sommer eisfrei.",
+        "link": "https://www.handelsblatt.com/politik/international/welthandel-suedkorea-probt-seeweg-durch-russlands-arktis/100248470.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted",
-        "summary": "Several thousands of Vinted users say they have been wrongly suspended or permanently banned from the preloved app.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo?at_medium=RSS&at_campaign=rss",
+        "title": "US national debt passes $40tn after doubling in a decade",
+        "summary": "It comes after the interest rate on 30-year bonds reached the highest level in almost 20 years.",
+        "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Hype um Humanoide Roboter: Roboterbauer Unitree legt fulminantes Börsendebüt hin",
-        "summary": "Der Aktienkurs des Herstellers humanoider Roboter versiebenfacht sich vorübergehend.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/humanoide-roboter-unitree-legt-fulminantes-boersendebuet-hin-accg-201139072.html",
+        "title": "Vietnam Airlines und Lufthansa: Zwei Zwischenfälle auf Piste 26L",
+        "summary": "Erst hebt eine Boeing 787 viel zu spät ab, dann setzt ein A380 zu früh auf.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/flughafen-muenchen-zwei-zwischenfaelle-auf-piste-26l-201140430.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Märkte Insight: Die Märkte haben womöglich ein Märchenszenario eingepreist",
-        "summary": "Die Renditen für lang laufende Staatsanleihen notieren auf dem höchsten Niveau seit Jahrzehnten.",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/aktien-die-maerkte-haben-womoeglich-ein-maerchenszenario-eingepreist-01/100247743.html",
+        "title": "Interview: Luxusmakler Schönberger: „Wir werden bald viele Seegrundstücke am Markt sehen“",
+        "summary": "Seegrundstücke wechseln selten den Besitzer – bald könnten es deutlich mehr werden.",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-nur-die-allerwenigsten-verkaufen-ein-seegrundstueck-freiwillig-01/100246415.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
-        "summary": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.",
-        "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+        "title": "I quit my £80,000 job to make ice cream - here's how",
+        "summary": "The co-founder of Little Moons shares her advice for anyone thinking about starting a business of their own.",
+        "link": "https://www.bbc.co.uk/news/articles/cz97148eye0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": null,
+    "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "NASA Glenn’s Legacy Forged Through Decades of Flight Research",
-        "summary": "Many of NASA’s most important aerospace breakthroughs that began in the laboratory were&#160;ultimately proven&#160;in the sky.",
-        "link": "https://www.nasa.gov/general/nasa-glenn-inflight-research/",
-        "source": "NASA Breaking News",
-        "publisher": "NASA",
-        "category": "Raumfahrt"
+        "title": "These trees are making air quality in cities worse",
+        "summary": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02586-2 They release compounds that contribute to ozone emissions, and rising temperatures could exacerbate the problem.",
+        "link": "https://www.nature.com/articles/d41586-026-02586-2",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
       },
       {
-        "title": "Earth's Organisms Developed Via Evolution. Some Theorists Wonder: What if the Entire Cosmos Did, Too?",
-        "summary": "The idea that universes evolve like organisms sat on the fringes of theoretical physics for decades.",
-        "link": "https://www.smithsonianmag.com/science-nature/earths-organisms-developed-via-evolution-some-theorists-wonder-what-if-the-entire-cosmos-did-too-180989338/",
-        "source": "Smithsonian",
-        "publisher": "Smithsonian",
-        "category": "Wissenschaft"
+        "title": "The giant shark that seems to appear from nowhere",
+        "summary": "A rare encounter with a baby whale shark sheds light on where their life begins",
+        "link": "https://www.bbc.com/future/article/20260817-the-giant-shark-that-seems-to-appear-from-nowhere?ocid=global_future_rss",
+        "source": "BBC Future",
+        "publisher": "BBC",
+        "category": "Zukunft"
       },
       {
-        "title": "150-million-year-old dinosaur footprints reveal something strange about its walk",
-        "summary": "A spectacular 150-million-year-old trail of more than 130 footprints captures a giant sauropod making a complete loop before continuing on its way.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260810015727.htm",
-        "source": "ScienceDaily – Archäologie",
-        "publisher": "ScienceDaily",
-        "category": "Archäologie"
+        "title": "Child-monitoring apps might need a reboot",
+        "summary": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet.",
+        "link": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
+        "source": "MIT Technology Review",
+        "publisher": "MIT",
+        "category": "Technologie"
       }
     ]
   }

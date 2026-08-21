@@ -1,39 +1,33 @@
 {
-  "generated_at": "2026-08-20T05:33:42+00:00",
-  "date_label": "Thursday, 20. August 2026",
+  "generated_at": "2026-08-21T05:35:04+00:00",
+  "date_label": "Friday, 21. August 2026",
   "indices": {
     "status": "ok",
-    "error": null,
+    "error": "Teilweise nicht verfügbar: ^GDAXI",
     "data": [
-      {
-        "name": "DAX",
-        "symbol": "^GDAXI",
-        "price": 26091.3301,
-        "change_pct": -0.14
-      },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7707.98,
-        "change_pct": 0.21
+        "price": 7641.1602,
+        "change_pct": -0.87
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26331.0898,
-        "change_pct": 0.16
+        "price": 26067.1699,
+        "change_pct": -1.0
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6444.46,
-        "change_pct": -0.37
+        "price": 6422.0601,
+        "change_pct": -0.35
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 66173.3672,
-        "change_pct": 1.3
+        "price": 65982.9531,
+        "change_pct": -0.35
       }
     ]
   },
@@ -44,16 +38,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 59604,
-        "usd": 69567,
-        "change_24h_pct": 7.4
+        "eur": 64239,
+        "usd": 75104,
+        "change_24h_pct": 7.82
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1928.78,
-        "usd": 2251.2,
-        "change_24h_pct": 16.91
+        "eur": 2011.03,
+        "usd": 2351.17,
+        "change_24h_pct": 4.29
       }
     ]
   },
@@ -64,38 +58,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1675,
-        "change_pct": 0.83
+        "price": 1.1696,
+        "change_pct": 0.19
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8579,
-        "change_pct": 0.32
+        "price": 0.8569,
+        "change_pct": -0.16
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9342,
-        "change_pct": -0.64
+        "price": 0.9351,
+        "change_pct": 0.42
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 158.7,
-        "change_pct": -0.53
+        "price": 158.962,
+        "change_pct": 0.43
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 185.22,
-        "change_pct": 0.29
+        "price": 185.883,
+        "change_pct": 0.61
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.653,
-        "change_pct": -1.13,
+        "price": 4.696,
+        "change_pct": 0.92,
         "unit": "%"
       }
     ]
@@ -105,73 +99,73 @@
     "error": null,
     "data": [
       {
-        "title": "China: Evergrande-Gründer zu lebenslanger Haft verurteilt",
-        "summary": "Der Mann hinter Chinas größtem Immobilienkonzern muss fünf Jahre nach dessen Insolvenz lebenslang ins Gefängnis.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/evergrande-gruender-in-china-zu-lebenslanger-haft-verurteilt-accg-201142658.html",
+        "title": "Zu wenig Regen: Panamakanal senkt Zahl der Schiffspassagen",
+        "summary": "In Panama ist Regenzeit, doch der Niederschlag bleibt durch den starken El Niño aus.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/panamakanal-reduziert-schiffspassagen-wegen-el-nino-accg-201146196.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Patientensicherheit: Behandlungsfehler könnten Krankenkassen Milliarden kosten",
-        "summary": "Der Medizinische Dienst beziffert die möglichen Folgekosten vermeidbarer Schäden im Gesundheitssystem auf rund 31 Milliarden Euro.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/patientensicherheit-behandlungsfehler-koennten-krankenkassen-milliarden-kosten/100248243.html",
+        "title": "Industrie: Holcim übernimmt Gipsfaserplatten-Hersteller Fermacell",
+        "summary": "Der Schweizer Baustoffkonzern übernimmt das Düsseldorfer Unternehmen für 840 Millionen Euro.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/industrie-holcim-uebernimmt-gipsfaserplatten-hersteller-fermacell/100248770.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
-        "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
-        "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+        "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
+        "summary": "Holidaymakers tell the BBC they paid for luxury breaks but faulty air conditioning left them in sweltering heat.",
+        "link": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Laut einer Studie: Schere bei Vermögen geht nicht immer nur auseinander",
-        "summary": "Die Vermögensungleichheit in Deutschland ist relativ hoch.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/ungleichheit-bei-vermoegen-laut-iw-studie-zurueckgegangen-accg-201142301.html",
+        "title": "Streit über E-Autos: Veraltete Emissionsregeln",
+        "summary": "Dass der Ausbau der Elektromobilität viel länger dauert, als Politiker und Bürokraten das einst geplant haben, ist bekannt.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/emissionsregeln-droht-volkswagen-eine-milliardenstrafe-201144192.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Welthandel: Südkorea probt Seeweg durch Russlands Arktis",
-        "summary": "Durch den Klimawandel wird die Nordostpassage im Sommer eisfrei.",
-        "link": "https://www.handelsblatt.com/politik/international/welthandel-suedkorea-probt-seeweg-durch-russlands-arktis/100248470.html",
+        "title": "Interview: Booking.com-Chef: „Manchmal buchen Gäste günstiger beim Hotel direkt“",
+        "summary": "Italiens Behörden werfen seiner Firma Verbrauchertäuschung vor, in Amsterdam klagen mehr als 11.000 Hoteliers gegen die Buchungsplattform.",
+        "link": "https://www.handelsblatt.com/unternehmen/dienstleister/tourismus-booking-chef-manchmal-buchen-gaeste-guenstiger-beim-hotel-direkt/100241866.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "US national debt passes $40tn after doubling in a decade",
-        "summary": "It comes after the interest rate on 30-year bonds reached the highest level in almost 20 years.",
-        "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
+        "title": "Millennials are struggling to buy a home - but is it actually getting easier?",
+        "summary": "Twenty-somethings are much less likely to own a home than previous generations.",
+        "link": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Vietnam Airlines und Lufthansa: Zwei Zwischenfälle auf Piste 26L",
-        "summary": "Erst hebt eine Boeing 787 viel zu spät ab, dann setzt ein A380 zu früh auf.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/flughafen-muenchen-zwei-zwischenfaelle-auf-piste-26l-201140430.html",
+        "title": "Philippinen: „Komm, Bro, ich zeige dir den lebendigsten Friedhof der Welt“",
+        "summary": "Weil es zu wenig Wohnungen gibt, leben in Manila Tausende auf dem Friedhof in Gräbern.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/manilas-nordfriedhof-leben-zwischen-graebern-und-toten-201138879.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Interview: Luxusmakler Schönberger: „Wir werden bald viele Seegrundstücke am Markt sehen“",
-        "summary": "Seegrundstücke wechseln selten den Besitzer – bald könnten es deutlich mehr werden.",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-nur-die-allerwenigsten-verkaufen-ein-seegrundstueck-freiwillig-01/100246415.html",
+        "title": "CO2-Zertifikate: Umweltbundesamt stuft Exxon-Klimaschutzprojekt als ungültig ein",
+        "summary": "Das Umweltbundesamt hat 30 chinesische CO₂-Projekte als gefälscht oder aufgebläht eingestuft und ihre Zertifikate gestrichen.",
+        "link": "https://www.handelsblatt.com/unternehmen/energie/co2-zertifikate-umweltbundesamt-stuft-exxon-klimaschutzprojekt-als-ungueltig-ein/100248764.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "I quit my £80,000 job to make ice cream - here's how",
-        "summary": "The co-founder of Little Moons shares her advice for anyone thinking about starting a business of their own.",
-        "link": "https://www.bbc.co.uk/news/articles/cz97148eye0o?at_medium=RSS&at_campaign=rss",
+        "title": "Why the US economy is ringing alarm bells",
+        "summary": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
+        "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +174,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": "Quellen nicht erreichbar: NASA Breaking News",
+    "error": null,
     "data": [
       {
-        "title": "These trees are making air quality in cities worse",
-        "summary": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02586-2 They release compounds that contribute to ozone emissions, and rising temperatures could exacerbate the problem.",
-        "link": "https://www.nature.com/articles/d41586-026-02586-2",
-        "source": "Nature News",
-        "publisher": "Nature",
-        "category": "Forschung"
+        "title": "Animals have been eating nature’s original bioplastic for millions of years",
+        "summary": "Nature invented biodegradable plastic long before humans did—and animals may have been feeding on it for hundreds of millions of years.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260815064759.htm",
+        "source": "ScienceDaily – Tiere",
+        "publisher": "ScienceDaily",
+        "category": "Biologie"
       },
       {
-        "title": "The giant shark that seems to appear from nowhere",
-        "summary": "A rare encounter with a baby whale shark sheds light on where their life begins",
-        "link": "https://www.bbc.com/future/article/20260817-the-giant-shark-that-seems-to-appear-from-nowhere?ocid=global_future_rss",
-        "source": "BBC Future",
-        "publisher": "BBC",
-        "category": "Zukunft"
+        "title": "APOD: 2026 August 20 – The Elephant’s Trunk in Cepheus",
+        "summary": "APODScienceAPODAPOD: 2026 August 20 – The…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos!",
+        "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-20-the-elephants-trunk-in-cepheus/",
+        "source": "NASA Breaking News",
+        "publisher": "NASA",
+        "category": "Raumfahrt"
       },
       {
-        "title": "Child-monitoring apps might need a reboot",
-        "summary": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet.",
-        "link": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
-        "source": "MIT Technology Review",
-        "publisher": "MIT",
-        "category": "Technologie"
+        "title": "Volvo Island in Ottawa, Illinois",
+        "summary": "In 2012, the owner of a local Ottawa, Illinois, repair shop towed a 2001 Volvo S80 onto a peninsula and then used an excavator to create a small, one-car island.",
+        "link": "https://www.atlasobscura.com/places/volvo-island",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
       }
     ]
   }

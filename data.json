@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-08-21T05:35:04+00:00",
-  "date_label": "Friday, 21. August 2026",
+  "generated_at": "2026-08-22T05:29:53+00:00",
+  "date_label": "Saturday, 22. August 2026",
   "indices": {
     "status": "ok",
-    "error": "Teilweise nicht verfügbar: ^GDAXI",
+    "error": "Teilweise nicht verfügbar: ^GSPC",
     "data": [
       {
-        "name": "S&P 500",
-        "symbol": "^GSPC",
-        "price": 7641.1602,
-        "change_pct": -0.87
+        "name": "DAX",
+        "symbol": "^GDAXI",
+        "price": 26136.5605,
+        "change_pct": 0.59
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26067.1699,
-        "change_pct": -1.0
+        "price": 26180.4609,
+        "change_pct": 0.43
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6422.0601,
-        "change_pct": -0.35
+        "price": 6462.2202,
+        "change_pct": 0.63
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 65982.9531,
-        "change_pct": -0.35
+        "price": 66016.3594,
+        "change_pct": -0.3
       }
     ]
   },
@@ -38,16 +38,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 64239,
-        "usd": 75104,
-        "change_24h_pct": 7.82
+        "eur": 66085,
+        "usd": 77184,
+        "change_24h_pct": 2.8
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2011.03,
-        "usd": 2351.17,
-        "change_24h_pct": 4.29
+        "eur": 2090.94,
+        "usd": 2442.11,
+        "change_24h_pct": 3.94
       }
     ]
   },
@@ -58,38 +58,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1696,
-        "change_pct": 0.19
+        "price": 1.1678,
+        "change_pct": 0.04
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8569,
-        "change_pct": -0.16
+        "price": 0.8561,
+        "change_pct": -0.26
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
         "price": 0.9351,
-        "change_pct": 0.42
+        "change_pct": 0.41
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 158.962,
-        "change_pct": 0.43
+        "price": 158.94,
+        "change_pct": 0.42
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 185.883,
-        "change_pct": 0.61
+        "price": 185.677,
+        "change_pct": 0.49
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.696,
-        "change_pct": 0.92,
+        "price": 4.738,
+        "change_pct": 0.89,
         "unit": "%"
       }
     ]
@@ -99,73 +99,73 @@
     "error": null,
     "data": [
       {
-        "title": "Zu wenig Regen: Panamakanal senkt Zahl der Schiffspassagen",
-        "summary": "In Panama ist Regenzeit, doch der Niederschlag bleibt durch den starken El Niño aus.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/panamakanal-reduziert-schiffspassagen-wegen-el-nino-accg-201146196.html",
+        "title": "Monte dei Paschi di Siena: Deutschland muss von Italiens Banken lernen",
+        "summary": "Monte dei Paschi di Siena will nicht tatenlos zusehen, wie sie vom Marktführer Intesa Sanpaolo geschluckt wird.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/monte-dei-paschi-di-siena-wehrt-sich-gegen-uebernahme-deutschland-muss-von-italiens-banken-lernen-201147815.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Industrie: Holcim übernimmt Gipsfaserplatten-Hersteller Fermacell",
-        "summary": "Der Schweizer Baustoffkonzern übernimmt das Düsseldorfer Unternehmen für 840 Millionen Euro.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/industrie-holcim-uebernimmt-gipsfaserplatten-hersteller-fermacell/100248770.html",
+        "title": "+++ USA +++: US-Regierung will UN 725 Millionen Dollar an ausstehenden Beiträgen zahlen",
+        "summary": "Oberster US-Gerichtshof erlaubt vorerst Weiterbau von Trumps Festsaal +++ US-Justiz nimmt FBI-Durchsuchung von Trumps Anwesen ins Visier +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/international/usa-us-regierung-will-un-725-millionen-dollar-an-ausstehenden-beitraegen-zahlen/29669594.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
-        "summary": "Holidaymakers tell the BBC they paid for luxury breaks but faulty air conditioning left them in sweltering heat.",
-        "link": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
+        "title": "Royal Mail misses delivery targets again but hails 'encouraging' signs",
+        "summary": "The struggling firm said it had improved its performance but missed regulator-set delivery targets.",
+        "link": "https://www.bbc.co.uk/news/articles/c1w1rg208xdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Streit über E-Autos: Veraltete Emissionsregeln",
-        "summary": "Dass der Ausbau der Elektromobilität viel länger dauert, als Politiker und Bürokraten das einst geplant haben, ist bekannt.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/emissionsregeln-droht-volkswagen-eine-milliardenstrafe-201144192.html",
+        "title": "Österreich: Regierung koppelt Dürrehilfe an Klimaneutralität",
+        "summary": "Ein österreichischer Agrarversicherer geht von Dürreschäden in Höhe von einer Milliarde Euro aus.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/oesterreichische-regierung-koppelt-duerrehilfe-an-klimaneutralitaet-201148953.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Interview: Booking.com-Chef: „Manchmal buchen Gäste günstiger beim Hotel direkt“",
-        "summary": "Italiens Behörden werfen seiner Firma Verbrauchertäuschung vor, in Amsterdam klagen mehr als 11.000 Hoteliers gegen die Buchungsplattform.",
-        "link": "https://www.handelsblatt.com/unternehmen/dienstleister/tourismus-booking-chef-manchmal-buchen-gaeste-guenstiger-beim-hotel-direkt/100241866.html",
+        "title": "+++ Iran-Krieg +++: Iran nennt Trumps „Wirtschaftskrieg“ völkerrechtswidrig",
+        "summary": "Irans Präsident wirbt für Ende des Kriegs – Keine Kapitulation +++ Siedler dringen in Dorf nahe Hebron ein – Palästinenser getötet +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-nennt-trumps-wirtschaftskrieg-voelkerrechtswidrig/100136895.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Millennials are struggling to buy a home - but is it actually getting easier?",
-        "summary": "Twenty-somethings are much less likely to own a home than previous generations.",
-        "link": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss",
+        "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
+        "summary": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
+        "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Philippinen: „Komm, Bro, ich zeige dir den lebendigsten Friedhof der Welt“",
-        "summary": "Weil es zu wenig Wohnungen gibt, leben in Manila Tausende auf dem Friedhof in Gräbern.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/manilas-nordfriedhof-leben-zwischen-graebern-und-toten-201138879.html",
+        "title": "Folge von El Niño: Panamakanal schränkt Schiffsverkehr ein",
+        "summary": "Der Panamakanal gewinnt wegen der Unsicherheit auf anderen Handelsrouten an Bedeutung.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/panamakanal-kapazitaet-wegen-duerre-eingeschraenkt-201147544.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "CO2-Zertifikate: Umweltbundesamt stuft Exxon-Klimaschutzprojekt als ungültig ein",
-        "summary": "Das Umweltbundesamt hat 30 chinesische CO₂-Projekte als gefälscht oder aufgebläht eingestuft und ihre Zertifikate gestrichen.",
-        "link": "https://www.handelsblatt.com/unternehmen/energie/co2-zertifikate-umweltbundesamt-stuft-exxon-klimaschutzprojekt-als-ungueltig-ein/100248764.html",
+        "title": "US-Börsen: Wall Street schließt im Plus – aber mit negativer Wochenbilanz",
+        "summary": "Während Bitcoin und Gold an Interesse bei den Anlegern gewinnen, verliert der Dollar zunehmend.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-schliesst-im-plus-aber-mit-negativer-wochenbilanz/100248856.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Why the US economy is ringing alarm bells",
-        "summary": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
-        "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+        "title": "US borrowing costs rise as attempts to ease rates prove short-lived",
+        "summary": "Economists said there were ongoing concerns over the level of borrowing as national debt passed $40tn.",
+        "link": "https://www.bbc.co.uk/news/articles/cvg92p3ez17o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -177,28 +177,28 @@
     "error": null,
     "data": [
       {
-        "title": "Animals have been eating nature’s original bioplastic for millions of years",
-        "summary": "Nature invented biodegradable plastic long before humans did—and animals may have been feeding on it for hundreds of millions of years.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260815064759.htm",
-        "source": "ScienceDaily – Tiere",
-        "publisher": "ScienceDaily",
-        "category": "Biologie"
+        "title": "The Download: threats from space mirrors and credit for AI drugs",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+        "link": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
+        "source": "MIT Technology Review",
+        "publisher": "MIT",
+        "category": "Technologie"
       },
       {
-        "title": "APOD: 2026 August 20 – The Elephant’s Trunk in Cepheus",
-        "summary": "APODScienceAPODAPOD: 2026 August 20 – The…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos!",
-        "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-20-the-elephants-trunk-in-cepheus/",
-        "source": "NASA Breaking News",
-        "publisher": "NASA",
-        "category": "Raumfahrt"
+        "title": "To shield the fetus, link a protein to these drugs",
+        "summary": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02553-x Adding albumin to popular antibody-based medicines helps to block their passage through the placenta.",
+        "link": "https://www.nature.com/articles/d41586-026-02553-x",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
       },
       {
-        "title": "Volvo Island in Ottawa, Illinois",
-        "summary": "In 2012, the owner of a local Ottawa, Illinois, repair shop towed a 2001 Volvo S80 onto a peninsula and then used an excavator to create a small, one-car island.",
-        "link": "https://www.atlasobscura.com/places/volvo-island",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
+        "title": "The giant shark that seems to appear from nowhere",
+        "summary": "A rare encounter with a baby whale shark sheds light on where their life begins",
+        "link": "https://www.bbc.com/future/article/20260817-the-giant-shark-that-seems-to-appear-from-nowhere?ocid=global_future_rss",
+        "source": "BBC Future",
+        "publisher": "BBC",
+        "category": "Zukunft"
       }
     ]
   }

@@ -1,15 +1,21 @@
 {
-  "generated_at": "2026-08-22T05:29:53+00:00",
-  "date_label": "Saturday, 22. August 2026",
+  "generated_at": "2026-08-23T05:32:01+00:00",
+  "date_label": "Sunday, 23. August 2026",
   "indices": {
     "status": "ok",
-    "error": "Teilweise nicht verfügbar: ^GSPC",
+    "error": null,
     "data": [
       {
         "name": "DAX",
         "symbol": "^GDAXI",
         "price": 26136.5605,
         "change_pct": 0.59
+      },
+      {
+        "name": "S&P 500",
+        "symbol": "^GSPC",
+        "price": 7674.3701,
+        "change_pct": 0.43
       },
       {
         "name": "Nasdaq",
@@ -38,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 66085,
-        "usd": 77184,
-        "change_24h_pct": 2.8
+        "eur": 65292,
+        "usd": 76258,
+        "change_24h_pct": -0.99
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2090.94,
-        "usd": 2442.11,
-        "change_24h_pct": 3.94
+        "eur": 2038.08,
+        "usd": 2380.38,
+        "change_24h_pct": -2.09
       }
     ]
   },
@@ -82,8 +88,8 @@
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 185.677,
-        "change_pct": 0.49
+        "price": 185.362,
+        "change_pct": -0.18
       },
       {
         "name": "US 10Y Rendite",
@@ -99,17 +105,17 @@
     "error": null,
     "data": [
       {
-        "title": "Monte dei Paschi di Siena: Deutschland muss von Italiens Banken lernen",
-        "summary": "Monte dei Paschi di Siena will nicht tatenlos zusehen, wie sie vom Marktführer Intesa Sanpaolo geschluckt wird.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/monte-dei-paschi-di-siena-wehrt-sich-gegen-uebernahme-deutschland-muss-von-italiens-banken-lernen-201147815.html",
+        "title": "Neue Handelsroute: Südkorea schickt erstmals Frachter über Arktis nach Europa",
+        "summary": "Südkorea testet die nördliche Handelsroute zwischen Asien und Europa.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/suedkorea-schickt-erstmals-frachter-ueber-arktis-nach-europa-accg-201150798.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "+++ USA +++: US-Regierung will UN 725 Millionen Dollar an ausstehenden Beiträgen zahlen",
-        "summary": "Oberster US-Gerichtshof erlaubt vorerst Weiterbau von Trumps Festsaal +++ US-Justiz nimmt FBI-Durchsuchung von Trumps Anwesen ins Visier +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/international/usa-us-regierung-will-un-725-millionen-dollar-an-ausstehenden-beitraegen-zahlen/29669594.html",
+        "title": "+++ Ukraine-Krieg +++: „Büchse der Pandora“ geöffnet – Putin droht Kiew mit Vergeltungsschlag",
+        "summary": "Wadephul in Kiew – Russland beschießt Vorort +++ Putin und Medwedew beschwören Zusammenhalt +++ Ukraine: Tote nach Angriff auf Einkaufszentrum steigen auf 16 +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-buechse-der-pandora-geoeffnet-putin-droht-kiew-mit-schlag/27982126.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -123,17 +129,17 @@
         "category": ""
       },
       {
-        "title": "Österreich: Regierung koppelt Dürrehilfe an Klimaneutralität",
-        "summary": "Ein österreichischer Agrarversicherer geht von Dürreschäden in Höhe von einer Milliarde Euro aus.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/oesterreichische-regierung-koppelt-duerrehilfe-an-klimaneutralitaet-201148953.html",
+        "title": "Handelskrieg USA-Kanada: 50 Prozent Zölle für den alten Freund",
+        "summary": "Nach geplatzten Zoll-Verhandlungen mit Kanada reanimiert Donald Trump das Smoot-Hawley-Gesetz.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/kanada-und-usa-donald-trump-verhaengt-50-prozent-zoelle-201150635.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "+++ Iran-Krieg +++: Iran nennt Trumps „Wirtschaftskrieg“ völkerrechtswidrig",
-        "summary": "Irans Präsident wirbt für Ende des Kriegs – Keine Kapitulation +++ Siedler dringen in Dorf nahe Hebron ein – Palästinenser getötet +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-nennt-trumps-wirtschaftskrieg-voelkerrechtswidrig/100136895.html",
+        "title": "Zollstreit: „Dollar für Dollar“ – Kanada kündigt Gegenzölle auf US-Güter an",
+        "summary": "US-Präsident Trump hat im Handelsstreit mit Kanada neue Zusatzzölle in Höhe von 50 Prozent angekündigt.",
+        "link": "https://www.handelsblatt.com/politik/international/zollstreit-kanada-kuendigt-vergeltung-nach-us-zoellen-an/100248991.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -147,17 +153,17 @@
         "category": ""
       },
       {
-        "title": "Folge von El Niño: Panamakanal schränkt Schiffsverkehr ein",
-        "summary": "Der Panamakanal gewinnt wegen der Unsicherheit auf anderen Handelsrouten an Bedeutung.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/panamakanal-kapazitaet-wegen-duerre-eingeschraenkt-201147544.html",
+        "title": "Qualitätsprüfungen: Alarm im Pflegeheim",
+        "summary": "Wenn gerade keine Qualitätsprüfungen anstehen, sterben in amerikanischen Heimen mehr Menschen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/pflegeheime-wie-qualitaetspruefungen-leben-retten-201115843.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "US-Börsen: Wall Street schließt im Plus – aber mit negativer Wochenbilanz",
-        "summary": "Während Bitcoin und Gold an Interesse bei den Anlegern gewinnen, verliert der Dollar zunehmend.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-schliesst-im-plus-aber-mit-negativer-wochenbilanz/100248856.html",
+        "title": "Alternative zu China: Das Wirtschaftswunder von Vietnam",
+        "summary": "Vietnam galt als einer der größten Verlierer des US-Zollkriegs.",
+        "link": "https://www.handelsblatt.com/politik/international/alternative-zu-china-das-wirtschaftswunder-von-vietnam/100245063.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -177,28 +183,28 @@
     "error": null,
     "data": [
       {
-        "title": "The Download: threats from space mirrors and credit for AI drugs",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
-        "link": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
-        "source": "MIT Technology Review",
-        "publisher": "MIT",
-        "category": "Technologie"
-      },
-      {
-        "title": "To shield the fetus, link a protein to these drugs",
-        "summary": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02553-x Adding albumin to popular antibody-based medicines helps to block their passage through the placenta.",
-        "link": "https://www.nature.com/articles/d41586-026-02553-x",
-        "source": "Nature News",
-        "publisher": "Nature",
-        "category": "Forschung"
-      },
-      {
         "title": "The giant shark that seems to appear from nowhere",
         "summary": "A rare encounter with a baby whale shark sheds light on where their life begins",
         "link": "https://www.bbc.com/future/article/20260817-the-giant-shark-that-seems-to-appear-from-nowhere?ocid=global_future_rss",
         "source": "BBC Future",
         "publisher": "BBC",
         "category": "Zukunft"
+      },
+      {
+        "title": "Earth-shaking thunder probes underground geology",
+        "summary": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02596-0 Seismologists measured the varying speeds of a ‘thunderquake’ to survey an area with little seismic activity.",
+        "link": "https://www.nature.com/articles/d41586-026-02596-0",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
+      },
+      {
+        "title": "Europe’s Scorching Summer",
+        "summary": "A series of heat waves in 2026 is breaking records and taking a toll in Europe.",
+        "link": "https://science.nasa.gov/earth/europes-scorching-summer/",
+        "source": "NASA Breaking News",
+        "publisher": "NASA",
+        "category": "Raumfahrt"
       }
     ]
   }

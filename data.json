@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T05:32:01+00:00",
-  "date_label": "Sunday, 23. August 2026",
+  "generated_at": "2026-08-24T05:40:27+00:00",
+  "date_label": "Monday, 24. August 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -32,8 +32,8 @@
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 66016.3594,
-        "change_pct": -0.3
+        "price": 65694.2109,
+        "change_pct": -0.49
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 65292,
-        "usd": 76258,
-        "change_24h_pct": -0.99
+        "eur": 65895,
+        "usd": 76957,
+        "change_24h_pct": 1.0
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2038.08,
-        "usd": 2380.38,
-        "change_24h_pct": -2.09
+        "eur": 2093.4,
+        "usd": 2444.83,
+        "change_24h_pct": 2.98
       }
     ]
   },
@@ -64,32 +64,32 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1678,
-        "change_pct": 0.04
+        "price": 1.1681,
+        "change_pct": -0.06
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
         "price": 0.8561,
-        "change_pct": -0.26
+        "change_pct": -0.07
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
         "price": 0.9351,
-        "change_pct": 0.41
+        "change_pct": 0.06
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 158.94,
-        "change_pct": 0.42
+        "price": 158.948,
+        "change_pct": 0.04
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 185.362,
-        "change_pct": -0.18
+        "price": 185.617,
+        "change_pct": -0.05
       },
       {
         "name": "US 10Y Rendite",
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Neue Handelsroute: Südkorea schickt erstmals Frachter über Arktis nach Europa",
-        "summary": "Südkorea testet die nördliche Handelsroute zwischen Asien und Europa.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/suedkorea-schickt-erstmals-frachter-ueber-arktis-nach-europa-accg-201150798.html",
+        "title": "Risiko einer Blase?: Die Milliarden für KI können sich lohnen – wenn alles gut geht",
+        "summary": "Exklusive Berechnungen der KfW zeigen: Die hohen KI-Investitionen der Techkonzerne können eine Billionenrendite einbringen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kfw-berechnung-lohnen-sich-die-ki-investitionen-accg-201148128.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "+++ Ukraine-Krieg +++: „Büchse der Pandora“ geöffnet – Putin droht Kiew mit Vergeltungsschlag",
-        "summary": "Wadephul in Kiew – Russland beschießt Vorort +++ Putin und Medwedew beschwören Zusammenhalt +++ Ukraine: Tote nach Angriff auf Einkaufszentrum steigen auf 16 +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-buechse-der-pandora-geoeffnet-putin-droht-kiew-mit-schlag/27982126.html",
+        "title": "Lukas Flöer: Werbung, die aus dem Rahmen springt: Wie ein 29-Jähriger die größten Screens bespielt",
+        "summary": "Der Unternehmer baut 3D-Werbung für die größten deutschen Werbeflächen.",
+        "link": "https://www.handelsblatt.com/unternehmen/mittelstand/familienunternehmer/gruender-ein-29jaehriger-deutscher-baut-3d-werbung-fuer-die-groessten-werbeflaechen-01/100245470.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Royal Mail misses delivery targets again but hails 'encouraging' signs",
-        "summary": "The struggling firm said it had improved its performance but missed regulator-set delivery targets.",
-        "link": "https://www.bbc.co.uk/news/articles/c1w1rg208xdo?at_medium=RSS&at_campaign=rss",
+        "title": "Shein aims for almost $27bn valuation in stock market debut",
+        "summary": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
+        "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Handelskrieg USA-Kanada: 50 Prozent Zölle für den alten Freund",
-        "summary": "Nach geplatzten Zoll-Verhandlungen mit Kanada reanimiert Donald Trump das Smoot-Hawley-Gesetz.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/kanada-und-usa-donald-trump-verhaengt-50-prozent-zoelle-201150635.html",
+        "title": "Online-Riese: Shein geht am 1. September in Hongkong an die Börse",
+        "summary": "Der Online-Händler ist mit seinem Geschäftsmodell, Kleidung billig zu produzieren und zu Schnäppchenpreisen direkt zu vertreiben, weltweit erfolgreich.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/shein-boersengang-ipo-in-hongkong-am-1-september-accg-201152785.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Zollstreit: „Dollar für Dollar“ – Kanada kündigt Gegenzölle auf US-Güter an",
-        "summary": "US-Präsident Trump hat im Handelsstreit mit Kanada neue Zusatzzölle in Höhe von 50 Prozent angekündigt.",
-        "link": "https://www.handelsblatt.com/politik/international/zollstreit-kanada-kuendigt-vergeltung-nach-us-zoellen-an/100248991.html",
+        "title": "Edelmetalle: Goldpreis steigt auf Drei-Monats-Hoch",
+        "summary": "Das US-Finanzministerium greift massiv am Anleihemarkt ein – und schürt damit neue Zweifel am Dollar.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/edelmetalle-goldpreis-steigt-auf-drei-monats-hoch/100249199.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
-        "summary": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
-        "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
+        "title": "Review launched into how pub and hotel business rates calculated",
+        "summary": "The review of how rates are calculated in England and Wales could lead to reform of the system.",
+        "link": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Qualitätsprüfungen: Alarm im Pflegeheim",
-        "summary": "Wenn gerade keine Qualitätsprüfungen anstehen, sterben in amerikanischen Heimen mehr Menschen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/pflegeheime-wie-qualitaetspruefungen-leben-retten-201115843.html",
+        "title": "Vorstoss von 6 EU-Ländern: Neues Koalitions-Hickhack um Öl-Übergewinne",
+        "summary": "Finanzminister Klingbeil will krisenbedingte Gewinne der Kraftstoffbranche abschöpfen, um die Preise zu drücken.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/lars-klingbeil-und-die-eu-uebergewinnsteuer-fuer-oelkonzerne-201151550.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Alternative zu China: Das Wirtschaftswunder von Vietnam",
-        "summary": "Vietnam galt als einer der größten Verlierer des US-Zollkriegs.",
-        "link": "https://www.handelsblatt.com/politik/international/alternative-zu-china-das-wirtschaftswunder-von-vietnam/100245063.html",
+        "title": "Fressnapf-Gründer: Torsten Toeller holte einen Finanzinvestor in sein Unternehmen – das hat der Milliardär daraus gelernt",
+        "summary": "Mit Investor Cinven hat sich Fressnapf radikal fokussiert.",
+        "link": "https://www.handelsblatt.com/unternehmen/mittelstand/familienunternehmer/fressnapf-gruender-holte-finanzinvestor-in-die-firma-das-hat-er-daraus-gelernt-01/100247106.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "US borrowing costs rise as attempts to ease rates prove short-lived",
-        "summary": "Economists said there were ongoing concerns over the level of borrowing as national debt passed $40tn.",
-        "link": "https://www.bbc.co.uk/news/articles/cvg92p3ez17o?at_medium=RSS&at_campaign=rss",
+        "title": "Why students are being paid £2,000 to play computer games",
+        "summary": "Roehampton University offers students £2,000 a year to play esports alongside their studies.",
+        "link": "https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,25 +183,25 @@
     "error": null,
     "data": [
       {
-        "title": "The giant shark that seems to appear from nowhere",
-        "summary": "A rare encounter with a baby whale shark sheds light on where their life begins",
-        "link": "https://www.bbc.com/future/article/20260817-the-giant-shark-that-seems-to-appear-from-nowhere?ocid=global_future_rss",
-        "source": "BBC Future",
-        "publisher": "BBC",
-        "category": "Zukunft"
+        "title": "Scientists say the human family tree may need a major rewrite",
+        "summary": "The human family tree may be due for a major rewrite.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260820002413.htm",
+        "source": "ScienceDaily – Tiere",
+        "publisher": "ScienceDaily",
+        "category": "Biologie"
       },
       {
-        "title": "Earth-shaking thunder probes underground geology",
-        "summary": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02596-0 Seismologists measured the varying speeds of a ‘thunderquake’ to survey an area with little seismic activity.",
-        "link": "https://www.nature.com/articles/d41586-026-02596-0",
-        "source": "Nature News",
-        "publisher": "Nature",
-        "category": "Forschung"
+        "title": "Debates over AI consciousness are a trap",
+        "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators.",
+        "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+        "source": "MIT Technology Review",
+        "publisher": "MIT",
+        "category": "Technologie"
       },
       {
-        "title": "Europe’s Scorching Summer",
-        "summary": "A series of heat waves in 2026 is breaking records and taking a toll in Europe.",
-        "link": "https://science.nasa.gov/earth/europes-scorching-summer/",
+        "title": "APOD: 2026 August 22 – Mostly Perseids",
+        "summary": "APOD Science APOD APOD: 2026 August 22… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+        "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-22-mostly-perseids/",
         "source": "NASA Breaking News",
         "publisher": "NASA",
         "category": "Raumfahrt"

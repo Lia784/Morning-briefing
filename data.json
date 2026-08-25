@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T05:40:27+00:00",
-  "date_label": "Monday, 24. August 2026",
+  "generated_at": "2026-08-25T05:34:09+00:00",
+  "date_label": "Tuesday, 25. August 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 26136.5605,
-        "change_pct": 0.59
+        "price": 26106.5996,
+        "change_pct": -0.11
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7674.3701,
-        "change_pct": 0.43
+        "price": 7652.8599,
+        "change_pct": -0.28
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26180.4609,
-        "change_pct": 0.43
+        "price": 25980.1895,
+        "change_pct": -0.76
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6462.2202,
-        "change_pct": 0.63
+        "price": 6447.98,
+        "change_pct": -0.22
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 65694.2109,
-        "change_pct": -0.49
+        "price": 65770.1406,
+        "change_pct": 0.37
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 65895,
-        "usd": 76957,
-        "change_24h_pct": 1.0
+        "eur": 69198,
+        "usd": 80661,
+        "change_24h_pct": 5.04
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2093.4,
-        "usd": 2444.83,
-        "change_24h_pct": 2.98
+        "eur": 2151.14,
+        "usd": 2507.48,
+        "change_24h_pct": 2.82
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1681,
-        "change_pct": -0.06
+        "price": 1.1659,
+        "change_pct": -0.19
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8561,
-        "change_pct": -0.07
+        "price": 0.8553,
+        "change_pct": -0.03
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9351,
-        "change_pct": 0.06
+        "price": 0.9368,
+        "change_pct": 0.17
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 158.948,
-        "change_pct": 0.04
+        "price": 159.325,
+        "change_pct": 0.26
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 185.617,
-        "change_pct": -0.05
+        "price": 185.706,
+        "change_pct": 0.04
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.738,
-        "change_pct": 0.89,
+        "price": 4.704,
+        "change_pct": -0.72,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Risiko einer Blase?: Die Milliarden für KI können sich lohnen – wenn alles gut geht",
-        "summary": "Exklusive Berechnungen der KfW zeigen: Die hohen KI-Investitionen der Techkonzerne können eine Billionenrendite einbringen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kfw-berechnung-lohnen-sich-die-ki-investitionen-accg-201148128.html",
+        "title": "Magnesium, Kollagen und Co.: Kapseln, die jeder nimmt und fast niemand braucht",
+        "summary": "Der Markt um Nahrungsergänzungsmittel ist alt.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/supplemente-warum-der-markt-mit-magnesium-kollagen-und-co-waechst-accg-201140569.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Lukas Flöer: Werbung, die aus dem Rahmen springt: Wie ein 29-Jähriger die größten Screens bespielt",
-        "summary": "Der Unternehmer baut 3D-Werbung für die größten deutschen Werbeflächen.",
-        "link": "https://www.handelsblatt.com/unternehmen/mittelstand/familienunternehmer/gruender-ein-29jaehriger-deutscher-baut-3d-werbung-fuer-die-groessten-werbeflaechen-01/100245470.html",
+        "title": "Milliardendeal: Siemens Energy bereitet Verkauf von Dampfturbinen-Geschäft vor",
+        "summary": "Siemens Energy arbeitet mit Goldman Sachs an einem Verkauf einer Mehrheitsbeteiligung an seinem Dampfturbinen-Geschäft.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/milliardendeal-siemens-energy-bereitet-verkauf-von-dampfturbinen-geschaeft-vor/100249453.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Shein aims for almost $27bn valuation in stock market debut",
-        "summary": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
-        "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+        "title": "Burnham refuses to rule out tax rises in autumn Budget",
+        "summary": "Experts have warned that he and Chancellor John Healey will have little room to manoeuvre in their first Budget.",
+        "link": "https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Online-Riese: Shein geht am 1. September in Hongkong an die Börse",
-        "summary": "Der Online-Händler ist mit seinem Geschäftsmodell, Kleidung billig zu produzieren und zu Schnäppchenpreisen direkt zu vertreiben, weltweit erfolgreich.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/shein-boersengang-ipo-in-hongkong-am-1-september-accg-201152785.html",
+        "title": "Künstliche Intelligenz: Australien verbannt KI-Musik aus den Charts",
+        "summary": "Nachdem ein KI-Cover von Madonnas „Like a Prayer“ die Chartspitze erobert hat, zieht Australiens Musikbranche Konsequenzen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/australien-verbannt-ki-musik-aus-den-charts-accg-201156145.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Edelmetalle: Goldpreis steigt auf Drei-Monats-Hoch",
-        "summary": "Das US-Finanzministerium greift massiv am Anleihemarkt ein – und schürt damit neue Zweifel am Dollar.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/edelmetalle-goldpreis-steigt-auf-drei-monats-hoch/100249199.html",
+        "title": "Interview: Netzagentur-Chef Klaus Müller: „Mit dem Gasspeicherfüllstand kann man nicht zufrieden sein“",
+        "summary": "Der Chef der Bundesnetzagentur spricht im Handelsblatt-Interview über Energiesicherheit, 700 Netzbetreiber-Klagen auf dem Schreibtisch – und sein Verhältnis zu Wirtschaftsministerin Reiche.",
+        "link": "https://www.handelsblatt.com/unternehmen/energie/klaus-mueller-mit-dem-gasspeicherfuellstand-kann-man-nicht-zufrieden-sein/100246302.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Review launched into how pub and hotel business rates calculated",
-        "summary": "The review of how rates are calculated in England and Wales could lead to reform of the system.",
-        "link": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss",
+        "title": "New 10p coin enters circulation - will you spot one?",
+        "summary": "The coin has been designed to feature King Charles III and a Scottish grouse close to extinction.",
+        "link": "https://www.bbc.co.uk/news/articles/cn74lxrv110o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Vorstoss von 6 EU-Ländern: Neues Koalitions-Hickhack um Öl-Übergewinne",
-        "summary": "Finanzminister Klingbeil will krisenbedingte Gewinne der Kraftstoffbranche abschöpfen, um die Preise zu drücken.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/lars-klingbeil-und-die-eu-uebergewinnsteuer-fuer-oelkonzerne-201151550.html",
+        "title": "Handelsstreit mit den USA: Kanada ändert Konfliktstrategie",
+        "summary": "Die kanadische Regierung will noch am Dienstag Vergeltungszölle gegen die USA verhängen, verzichtet aber auf eine Antwort „Dollar für Dollar“.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/zollstreit-mit-den-usa-kanada-aendert-konfliktstrategie-accg-201156088.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Fressnapf-Gründer: Torsten Toeller holte einen Finanzinvestor in sein Unternehmen – das hat der Milliardär daraus gelernt",
-        "summary": "Mit Investor Cinven hat sich Fressnapf radikal fokussiert.",
-        "link": "https://www.handelsblatt.com/unternehmen/mittelstand/familienunternehmer/fressnapf-gruender-holte-finanzinvestor-in-die-firma-das-hat-er-daraus-gelernt-01/100247106.html",
+        "title": "Börse am 25. August: Fünf Punkte, die für Anleger heute wichtig sind",
+        "summary": "Die Anleger am deutschen Aktienmarkt halten sich derzeit zurück.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-fuenf-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Why students are being paid £2,000 to play computer games",
-        "summary": "Roehampton University offers students £2,000 a year to play esports alongside their studies.",
-        "link": "https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&at_campaign=rss",
+        "title": "How Canada could hit back to hurt the US economy - and Trump",
+        "summary": "What leverage does Canada, which sells about 70% of its goods to the US, actually have in this spiraling trade dispute?",
+        "link": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": null,
+    "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "Scientists say the human family tree may need a major rewrite",
-        "summary": "The human family tree may be due for a major rewrite.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260820002413.htm",
-        "source": "ScienceDaily – Tiere",
+        "title": "This 23-foot crocodylian may have ruled South America’s food chain",
+        "summary": "Miocene South America was packed with giant prey—and the predators hunting them were just as spectacular.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260819041226.htm",
+        "source": "ScienceDaily – Archäologie",
         "publisher": "ScienceDaily",
-        "category": "Biologie"
+        "category": "Archäologie"
       },
       {
-        "title": "Debates over AI consciousness are a trap",
-        "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators.",
-        "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-        "source": "MIT Technology Review",
-        "publisher": "MIT",
-        "category": "Technologie"
+        "title": "The secure retro tech that confounds hackers",
+        "summary": "Not impervious, but often ignored",
+        "link": "https://www.bbc.com/future/article/20260821-why-older-tech-is-sometimes-safer-from-hackers?ocid=global_future_rss",
+        "source": "BBC Future",
+        "publisher": "BBC",
+        "category": "Zukunft"
       },
       {
-        "title": "APOD: 2026 August 22 – Mostly Perseids",
-        "summary": "APOD Science APOD APOD: 2026 August 22… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-        "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-22-mostly-perseids/",
-        "source": "NASA Breaking News",
-        "publisher": "NASA",
-        "category": "Raumfahrt"
+        "title": "Jingling Pot in England",
+        "summary": "Jingling Pot is one of the most popular vertical cave systems in the West Kingsdale area of Yorkshire.",
+        "link": "https://www.atlasobscura.com/places/jingling-pot",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
       }
     ]
   }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T05:34:09+00:00",
-  "date_label": "Tuesday, 25. August 2026",
+  "generated_at": "2026-08-26T05:36:41+00:00",
+  "date_label": "Wednesday, 26. August 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 26106.5996,
-        "change_pct": -0.11
+        "price": 26266.1406,
+        "change_pct": 0.61
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7652.8599,
-        "change_pct": -0.28
+        "price": 7677.2798,
+        "change_pct": 0.32
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25980.1895,
-        "change_pct": -0.76
+        "price": 26151.3008,
+        "change_pct": 0.66
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6447.98,
-        "change_pct": -0.22
+        "price": 6455.6299,
+        "change_pct": 0.12
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 65770.1406,
-        "change_pct": 0.37
+        "price": 66278.2422,
+        "change_pct": 0.64
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 69198,
-        "usd": 80661,
-        "change_24h_pct": 5.04
+        "eur": 67792,
+        "usd": 79075,
+        "change_24h_pct": -2.15
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2151.14,
-        "usd": 2507.48,
-        "change_24h_pct": 2.82
+        "eur": 2113.43,
+        "usd": 2465.18,
+        "change_24h_pct": -1.81
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1659,
-        "change_pct": -0.19
+        "price": 1.167,
+        "change_pct": 0.01
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8553,
-        "change_pct": -0.03
+        "price": 0.8556,
+        "change_pct": 0.01
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
         "price": 0.9368,
-        "change_pct": 0.17
+        "change_pct": 0.08
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 159.325,
-        "change_pct": 0.26
+        "price": 158.977,
+        "change_pct": -0.1
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 185.706,
-        "change_pct": 0.04
+        "price": 185.459,
+        "change_pct": -0.12
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.704,
-        "change_pct": -0.72,
+        "price": 4.639,
+        "change_pct": -1.38,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Magnesium, Kollagen und Co.: Kapseln, die jeder nimmt und fast niemand braucht",
-        "summary": "Der Markt um Nahrungsergänzungsmittel ist alt.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/supplemente-warum-der-markt-mit-magnesium-kollagen-und-co-waechst-accg-201140569.html",
+        "title": "Einnahme von Supplementen: Das gute Gefühl von Nahrungsergänzungsmitteln",
+        "summary": "Ein Großteil der Menschen nimmt Nahrungsergänzungsmittel, doch die wenigsten brauchen sie.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/einnahme-von-magnesium-und-co-das-gute-gefuehl-von-supplementen-accg-201154565.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Milliardendeal: Siemens Energy bereitet Verkauf von Dampfturbinen-Geschäft vor",
-        "summary": "Siemens Energy arbeitet mit Goldman Sachs an einem Verkauf einer Mehrheitsbeteiligung an seinem Dampfturbinen-Geschäft.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/milliardendeal-siemens-energy-bereitet-verkauf-von-dampfturbinen-geschaeft-vor/100249453.html",
+        "title": "Börse am 26. August: Sieben Punkte, die für Anleger heute wichtig sind",
+        "summary": "Nach einem schwachen Wochenstart legte der Dax am Dienstag wieder zu.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Burnham refuses to rule out tax rises in autumn Budget",
-        "summary": "Experts have warned that he and Chancellor John Healey will have little room to manoeuvre in their first Budget.",
-        "link": "https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&at_campaign=rss",
+        "title": "Winter energy prices expected to rise to three-year high",
+        "summary": "Millions of households will be affected by an increase in the energy price cap by regulator Ofgem.",
+        "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Künstliche Intelligenz: Australien verbannt KI-Musik aus den Charts",
-        "summary": "Nachdem ein KI-Cover von Madonnas „Like a Prayer“ die Chartspitze erobert hat, zieht Australiens Musikbranche Konsequenzen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/australien-verbannt-ki-musik-aus-den-charts-accg-201156145.html",
+        "title": "Geburt eines neuen Werbekanals: Wie Marken Werbung auf ChatGPT richtig nutzen",
+        "summary": "Mit der Einführung von Werbeanzeigen in ChatGPT begründet Open AI praktisch über Nacht eine neue Mediengattung.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/chatgpt-werbeanzeigen-so-nutzen-marken-den-neuen-kanal-accg-201158000.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Interview: Netzagentur-Chef Klaus Müller: „Mit dem Gasspeicherfüllstand kann man nicht zufrieden sein“",
-        "summary": "Der Chef der Bundesnetzagentur spricht im Handelsblatt-Interview über Energiesicherheit, 700 Netzbetreiber-Klagen auf dem Schreibtisch – und sein Verhältnis zu Wirtschaftsministerin Reiche.",
-        "link": "https://www.handelsblatt.com/unternehmen/energie/klaus-mueller-mit-dem-gasspeicherfuellstand-kann-man-nicht-zufrieden-sein/100246302.html",
+        "title": "Nikkei: Asiens Börsen uneinheitlich – Warten auf Nvidia-Zahlen",
+        "summary": "Die asiatischen Anleger warten gespannt auf die Veröffentlichung der Quartalszahlen von Nvidia und ein Zeichen darauf, ob der KI-Boom nachhaltig ist.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-asiens-boersen-uneinheitlich-warten-auf-nvidia-zahlen/100249717.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "New 10p coin enters circulation - will you spot one?",
-        "summary": "The coin has been designed to feature King Charles III and a Scottish grouse close to extinction.",
-        "link": "https://www.bbc.co.uk/news/articles/cn74lxrv110o?at_medium=RSS&at_campaign=rss",
+        "title": "Back to school: How to save on uniform costs",
+        "summary": "From baby banks to supermarket deals, there are many ways parents can ease the back-to-school burden.",
+        "link": "https://www.bbc.co.uk/news/articles/cedjqx6zdl0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Handelsstreit mit den USA: Kanada ändert Konfliktstrategie",
-        "summary": "Die kanadische Regierung will noch am Dienstag Vergeltungszölle gegen die USA verhängen, verzichtet aber auf eine Antwort „Dollar für Dollar“.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/zollstreit-mit-den-usa-kanada-aendert-konfliktstrategie-accg-201156088.html",
+        "title": "Token Economics: KI im Unternehmen wirtschaftlich einsetzen – ein Leitfaden",
+        "summary": "Generative KI wird leistungsfähiger, vielseitiger und in immer mehr Unternehmen eingesetzt.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/token-economics-leitlinien-fuer-wirtschaftlichen-ki-einsatz-accg-201157152.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Börse am 25. August: Fünf Punkte, die für Anleger heute wichtig sind",
-        "summary": "Die Anleger am deutschen Aktienmarkt halten sich derzeit zurück.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-fuenf-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
+        "title": "USA: Rückzahlung von US-Zöllen: Wer davon profitiert – und wer sie weiterreicht",
+        "summary": "Nach einem Urteil des Supreme Court müssen die USA zu Unrecht erhobene Zölle in Milliardenhöhe erstatten.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/us-zoelle-wer-von-den-rueckzahlungen-profitiert-und-wer-sie-weiterreicht/100248790.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "How Canada could hit back to hurt the US economy - and Trump",
-        "summary": "What leverage does Canada, which sells about 70% of its goods to the US, actually have in this spiraling trade dispute?",
-        "link": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
+        "title": "Musk's rocket firm SpaceX to build $100bn launch facility",
+        "summary": "It will be the firm's biggest site yet and aims to send rockets to space in 2029.",
+        "link": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": "Quellen nicht erreichbar: NASA Breaking News",
+    "error": null,
     "data": [
       {
-        "title": "This 23-foot crocodylian may have ruled South America’s food chain",
-        "summary": "Miocene South America was packed with giant prey—and the predators hunting them were just as spectacular.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260819041226.htm",
-        "source": "ScienceDaily – Archäologie",
-        "publisher": "ScienceDaily",
-        "category": "Archäologie"
+        "title": "Galactic Gems Glisten in New Gallery From NASA’s Chandra",
+        "summary": "Galaxies are like cosmic gems, each with characteristics including size and shape that make them distinct.",
+        "link": "https://science.nasa.gov/missions/chandra/galactic-gems-glisten-in-new-gallery-from-nasas-chandra/",
+        "source": "NASA Breaking News",
+        "publisher": "NASA",
+        "category": "Raumfahrt"
       },
       {
-        "title": "The secure retro tech that confounds hackers",
-        "summary": "Not impervious, but often ignored",
-        "link": "https://www.bbc.com/future/article/20260821-why-older-tech-is-sometimes-safer-from-hackers?ocid=global_future_rss",
+        "title": "Addressing a sticking point in sustainable adhesives",
+        "summary": "Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even sticking labels to otherwise recyclable containers.",
+        "link": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
+        "source": "MIT Technology Review",
+        "publisher": "MIT",
+        "category": "Technologie"
+      },
+      {
+        "title": "The giant shark that seems to appear from nowhere",
+        "summary": "A rare encounter with a baby whale shark sheds light on where their life begins",
+        "link": "https://www.bbc.com/future/article/20260817-the-giant-shark-that-seems-to-appear-from-nowhere?ocid=global_future_rss",
         "source": "BBC Future",
         "publisher": "BBC",
         "category": "Zukunft"
-      },
-      {
-        "title": "Jingling Pot in England",
-        "summary": "Jingling Pot is one of the most popular vertical cave systems in the West Kingsdale area of Yorkshire.",
-        "link": "https://www.atlasobscura.com/places/jingling-pot",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
       }
     ]
   }

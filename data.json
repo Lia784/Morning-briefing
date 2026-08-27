@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T05:36:41+00:00",
-  "date_label": "Wednesday, 26. August 2026",
+  "generated_at": "2026-08-27T16:13:13+00:00",
+  "date_label": "Thursday, 27. August 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 26266.1406,
-        "change_pct": 0.61
+        "price": 26367.2402,
+        "change_pct": 0.31
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7677.2798,
-        "change_pct": 0.32
+        "price": 7722.9902,
+        "change_pct": 0.62
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26151.3008,
-        "change_pct": 0.66
+        "price": 26473.2598,
+        "change_pct": 1.31
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6455.6299,
-        "change_pct": 0.12
+        "price": 6424.73,
+        "change_pct": -0.71
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 66278.2422,
-        "change_pct": 0.64
+        "price": 66262.1562,
+        "change_pct": 0.62
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 67792,
-        "usd": 79075,
-        "change_24h_pct": -2.15
+        "eur": 68915,
+        "usd": 80290,
+        "change_24h_pct": 2.82
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2113.43,
-        "usd": 2465.18,
-        "change_24h_pct": -1.81
+        "eur": 2164.47,
+        "usd": 2521.73,
+        "change_24h_pct": 2.86
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.167,
-        "change_pct": 0.01
+        "price": 1.1655,
+        "change_pct": -0.17
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8556,
-        "change_pct": 0.01
+        "price": 0.8569,
+        "change_pct": 0.18
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9368,
-        "change_pct": 0.08
+        "price": 0.9365,
+        "change_pct": 0.06
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 158.977,
-        "change_pct": -0.1
+        "price": 159.248,
+        "change_pct": 0.02
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 185.459,
-        "change_pct": -0.12
+        "price": 185.556,
+        "change_pct": -0.17
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.639,
-        "change_pct": -1.38,
+        "price": 4.656,
+        "change_pct": -0.17,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Einnahme von Supplementen: Das gute Gefühl von Nahrungsergänzungsmitteln",
-        "summary": "Ein Großteil der Menschen nimmt Nahrungsergänzungsmittel, doch die wenigsten brauchen sie.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/einnahme-von-magnesium-und-co-das-gute-gefuehl-von-supplementen-accg-201154565.html",
+        "title": "Neue Arbeitsplätze: Hier suchen Waffenhersteller besonders oft nach Arbeitskräften",
+        "summary": "Während die Autoindustrie und der Maschinenbau Jobs streichen, suchen Rüstungsbetriebe neue Mitarbeiter.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/offene-stellen-ruestungsjobs-in-unterluess-und-kassel-stark-gefragt-201163953.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Börse am 26. August: Sieben Punkte, die für Anleger heute wichtig sind",
-        "summary": "Nach einem schwachen Wochenstart legte der Dax am Dienstag wieder zu.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
+        "title": "Bärbel Bas: Stresstest Rentenreform – Warum die Arbeitsministerin vor ihrer größten Bewährungsprobe steht",
+        "summary": "Im Herbst muss Bärbel Bas eine Jahrhundertreform durchsetzen – daran hängt das Schicksal der Koalition.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/rentenreform-warum-arbeitsministerin-bas-vor-ihrem-groessten-stresstest-steht/100249251.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Winter energy prices expected to rise to three-year high",
-        "summary": "Millions of households will be affected by an increase in the energy price cap by regulator Ofgem.",
-        "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+        "title": "Hackers steal data from millions of airport customers",
+        "summary": "About 8.7 million customers had their data accessed and a ransom was demanded.",
+        "link": "https://www.bbc.co.uk/news/articles/c7v4353rry7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Geburt eines neuen Werbekanals: Wie Marken Werbung auf ChatGPT richtig nutzen",
-        "summary": "Mit der Einführung von Werbeanzeigen in ChatGPT begründet Open AI praktisch über Nacht eine neue Mediengattung.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/chatgpt-werbeanzeigen-so-nutzen-marken-den-neuen-kanal-accg-201158000.html",
+        "title": "Potentielle Cyberangriffe: Sicherheitslücke legt Gerätedaten beim Telefonieren offen",
+        "summary": "Ein einfacher Anruf reicht und schon können empfindliche Information erspäht werden.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/sicherheitsluecke-legt-geraetedaten-beim-telefonieren-offen-201165896.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Nikkei: Asiens Börsen uneinheitlich – Warten auf Nvidia-Zahlen",
-        "summary": "Die asiatischen Anleger warten gespannt auf die Veröffentlichung der Quartalszahlen von Nvidia und ein Zeichen darauf, ob der KI-Boom nachhaltig ist.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-asiens-boersen-uneinheitlich-warten-auf-nvidia-zahlen/100249717.html",
+        "title": "Dax aktuell: Dax schließt im Plus – Aktie der Telekom reagiert auf Handelsblatt-Recherche",
+        "summary": "Die Nvidia-Bilanz wirkt sich auf die Chip-Branche aus.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-knuepft-an-trendwende-an-nvidia-staerkt-europas-chip-werte/100250066.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Back to school: How to save on uniform costs",
-        "summary": "From baby banks to supermarket deals, there are many ways parents can ease the back-to-school burden.",
-        "link": "https://www.bbc.co.uk/news/articles/cedjqx6zdl0o?at_medium=RSS&at_campaign=rss",
+        "title": "What the Meta settlement means for the UK, and other questions after the deal",
+        "summary": "Other social media firms are yet to respond, while the debate from campaigners is far from over.",
+        "link": "https://www.bbc.co.uk/news/articles/cg49q4xydq0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Token Economics: KI im Unternehmen wirtschaftlich einsetzen – ein Leitfaden",
-        "summary": "Generative KI wird leistungsfähiger, vielseitiger und in immer mehr Unternehmen eingesetzt.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/token-economics-leitlinien-fuer-wirtschaftlichen-ki-einsatz-accg-201157152.html",
+        "title": "Rentenreform: Und wer denkt an die Beitragszahler?",
+        "summary": "Die große Rentenreform ist nach dem Sommertheater immerhin nicht abgesagt.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/rentenreform-wer-schuetzt-die-beitragszahler-vor-hoeheren-kosten-201164867.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "USA: Rückzahlung von US-Zöllen: Wer davon profitiert – und wer sie weiterreicht",
-        "summary": "Nach einem Urteil des Supreme Court müssen die USA zu Unrecht erhobene Zölle in Milliardenhöhe erstatten.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/us-zoelle-wer-von-den-rueckzahlungen-profitiert-und-wer-sie-weiterreicht/100248790.html",
+        "title": "Konjunktur: Industrie steigert Qualität, Staatsausgaben wirken – Kommt jetzt der Wirtschaftsaufschwung?",
+        "summary": "Bessere Konjunkturdaten nähren die Hoffnung auf eine Wende, erste Forscher verdoppeln ihre Prognosen fürs laufende Jahr.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/konjunktur-kommt-der-wirtschaftsaufschwung-dieses-mal-wirklich/100250042.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Musk's rocket firm SpaceX to build $100bn launch facility",
-        "summary": "It will be the firm's biggest site yet and aims to send rockets to space in 2029.",
-        "link": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&at_campaign=rss",
+        "title": "Plug-in solar panels are coming to a shop near you - here's what to know",
+        "summary": "The UK government claimes panels could help homes \"significantly cut\" energy bills.",
+        "link": "https://www.bbc.co.uk/news/articles/c4g3y6398nwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": null,
+    "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "Galactic Gems Glisten in New Gallery From NASA’s Chandra",
-        "summary": "Galaxies are like cosmic gems, each with characteristics including size and shape that make them distinct.",
-        "link": "https://science.nasa.gov/missions/chandra/galactic-gems-glisten-in-new-gallery-from-nasas-chandra/",
-        "source": "NASA Breaking News",
-        "publisher": "NASA",
-        "category": "Raumfahrt"
+        "title": "A mysterious cosmic hum may come from 13-billion-year-old dark stars",
+        "summary": "Today’s mysterious gravitational-wave background may preserve clues about how the Universe’s first supermassive black holes formed.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260827010457.htm",
+        "source": "ScienceDaily – Physik",
+        "publisher": "ScienceDaily",
+        "category": "Physik"
       },
       {
-        "title": "Addressing a sticking point in sustainable adhesives",
-        "summary": "Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even sticking labels to otherwise recyclable containers.",
-        "link": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
-        "source": "MIT Technology Review",
-        "publisher": "MIT",
-        "category": "Technologie"
-      },
-      {
-        "title": "The giant shark that seems to appear from nowhere",
-        "summary": "A rare encounter with a baby whale shark sheds light on where their life begins",
-        "link": "https://www.bbc.com/future/article/20260817-the-giant-shark-that-seems-to-appear-from-nowhere?ocid=global_future_rss",
+        "title": "India is returning to its ancient water systems",
+        "summary": "Communities in India are restoring water tanks built hundreds of years ago",
+        "link": "https://www.bbc.com/future/article/20260820-india-is-turning-to-ancient-water-systems-as-modern-ones-run-dry?ocid=global_future_rss",
         "source": "BBC Future",
         "publisher": "BBC",
         "category": "Zukunft"
+      },
+      {
+        "title": "Using nuclear waste to power space missions",
+        "summary": "Nature, Published online: 26 August 2026; doi:10.1038/d41586-026-02514-4 Researchers plan to use radioactive isotopes to power systems on a future Mars rover.",
+        "link": "https://www.nature.com/articles/d41586-026-02514-4",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
       }
     ]
   }

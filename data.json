@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-28T17:12:12+00:00",
-  "date_label": "Friday, 28. August 2026",
+  "generated_at": "2026-08-29T11:30:45+00:00",
+  "date_label": "Saturday, 29. August 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,26 +8,26 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 26569.9902,
-        "change_pct": 0.77
+        "price": 26367.2402,
+        "change_pct": 0.31
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7707.02,
-        "change_pct": -0.31
+        "price": NaN,
+        "change_pct": NaN
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26394.9766,
-        "change_pct": -0.55
+        "price": NaN,
+        "change_pct": NaN
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6485.6699,
-        "change_pct": 0.95
+        "price": 6424.73,
+        "change_pct": -0.71
       },
       {
         "name": "Nikkei 225",
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 67166,
-        "usd": 77812,
-        "change_24h_pct": -2.82
+        "eur": 67060,
+        "usd": 77686,
+        "change_24h_pct": -1.96
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2106.44,
-        "usd": 2440.34,
-        "change_24h_pct": -2.85
+        "eur": 2103.93,
+        "usd": 2437.3,
+        "change_24h_pct": -2.2
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1592,
-        "change_pct": -0.54
+        "price": 1.1587,
+        "change_pct": -0.58
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8561,
-        "change_pct": -0.12
+        "price": 0.8559,
+        "change_pct": -0.15
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9375,
-        "change_pct": -0.08
+        "price": 0.9374,
+        "change_pct": 0.08
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 160.15,
-        "change_pct": 0.56
+        "price": 160.038,
+        "change_pct": 0.49
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 185.571,
-        "change_pct": -0.02
+        "price": 185.244,
+        "change_pct": -0.22
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.726,
-        "change_pct": 1.16,
+        "price": 4.672,
+        "change_pct": 0.17,
         "unit": "%"
       }
     ]
@@ -105,41 +105,65 @@
     "error": null,
     "data": [
       {
-        "title": "Magnesium, Kollagen und Co.: Kapseln, die jeder nimmt und fast niemand braucht",
-        "summary": "Der Markt um Nahrungsergänzungsmittel ist alt.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/supplemente-warum-immer-mehr-menschen-magnesium-und-kollagen-nehmen-accg-201140569.html",
+        "title": "Handwerkspräsident im Interview: „Ich fürchte, dass sich der Verbraucher den Handwerker nicht mehr leisten kann“",
+        "summary": "„Die Lage ist besorgniserregend“, klagt der Handwerkspräsident Dittrich im F.A.Z.-Interview.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/zdh-chef-joerg-dittrich-ich-fuerchte-dass-sich-der-verbraucher-den-handwerker-nicht-mehr-leisten-kann-201165994.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Justiz: Flüchtiger Betrüger Holt verabschiedete sich von Behörden – Ist er in Moskau?",
-        "summary": "In einer E-Mail nach seiner Flucht schrieb der 36-Jährige, er werde nicht ins Gefängnis zurückkehren.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/justiz-fluechtiger-betrueger-holt-verabschiedete-sich-von-behoerden/100250459.html",
+        "title": "Raiffeisenbank Plankstetten: Bafin setzt sich im Streit mit Raiffeisenbank Plankstetten durch",
+        "summary": "Das Verwaltungsgericht Frankfurt hat Klagen der früheren Vorstände der Raiffeisenbank Plankstetten abgewiesen.",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/raiffeisenbank-plankstetten-bafin-setzt-sich-im-streit-mit-raiffeisenbank-plankstetten-durch/100250335.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "I was spending £700 a month: How I beat my late-night shopping addiction",
-        "summary": "Younger generations are thought to be more susceptible to impulse spending.",
-        "link": "https://www.bbc.co.uk/news/articles/czxqk1gwxn7o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+        "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "USA intervenieren: Trump greift nach Venezuelas Ölquellen",
-        "summary": "Die USA wollen sich den Zugriff auf Venezuelas riesige Ölreserven sichern – durch direkte Regierungsbeteiligungen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/trump-greift-nach-den-oelfeldern-in-venezuela-accg-201166575.html",
+        "title": "Klimaschutz: Warum immer noch so viele Schiffe mit Schweröl fahren",
+        "summary": "Zwei Drittel aller Ozeanriesen sind mit Motoren von Everllence unterwegs.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/everllence-chef-uwe-lauber-warum-schiffe-schweroel-nutzen-accg-201144589.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Dow Jones, S&P 500, Nasdaq: Wall Street reagiert positiv auf Warsh – Paypal-Aktie bricht ein",
-        "summary": "Das Notenbankertreffen in Jackson Hole und die Rede des Fed-Chefs bewegen die großen Indizes kaum.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-reagiert-positiv-auf-warsh-paypal-aktie-bricht-ein/100250403.html",
+        "title": "Superwahljahr 2026: So stehen die Umfragen vor den Landtagswahlen in Ostdeutschland",
+        "summary": "Im September wählen Berlin, Mecklenburg-Vorpommern und Sachsen-Anhalt.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahlen-2026-welche-parteien-in-ostdeutschland-laut-umfragen-vorne-liegen-02/100190670.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "Wife of man who died after turbulence sues airline",
+        "summary": "Lawyers for Linda Kitchen say her husband was \"fatally injured\" after the flight dropped 6,000 ft.",
+        "link": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
+        "title": "Zukunft des Autobauers: Volkswagen droht ein Machtkampf, wie es ihn noch nie im Konzern gab",
+        "summary": "Der Streit um die Zukunft von Europas größtem Autokonzern steht vor der Eskalation.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/machtkampf-um-volkswagen-droht-ein-showdown-zwischen-lies-porsche-und-piech-accg-201168830.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "Wahl-O-Mat: Welche Partei bei der Landtagswahl in Sachsen-Anhalt zu Ihnen passt",
+        "summary": "Am 6.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/wahl-o-mat-2026-welche-partei-vertritt-ihre-position-bei-der-wahl-in-sachsen-anhalt-02/100233463.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -151,30 +175,6 @@
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
-      },
-      {
-        "title": "Hausverkauf: „Privatleute sind bei Immobiliengeschäften oft erstaunlich naiv“",
-        "summary": "Der erste Auftritt muss sitzen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/hausverkauf-privatleute-sind-bei-immobiliengeschaeften-oft-erstaunlich-naiv-accg-201023847.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "Verteidigung: US-Firma plant offenbar Marschflugkörper-Bau ab 2027 bei Leipzig",
-        "summary": "Einem Bericht zufolge will der Konzern Covenant bald bis zu 1000 Geschosse pro Jahr in Sachsen fertigen.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/verteidigung-us-firma-plant-offenbar-marschflugkoerper-bau-ab-2027-bei-leipzig/100250458.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "Trump administration illegally retaliated against Anthropic, judge rules",
-        "summary": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
-        "link": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
       }
     ]
   },
@@ -183,28 +183,28 @@
     "error": null,
     "data": [
       {
-        "title": "APOD: 2026 August 28 – The Sky Turns Above Paranal",
-        "summary": "APOD Science APOD APOD: 2026 August 28 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-        "link": "https://science.nasa.gov/image-article/apod-2026-august-28-the-sky-turns-above-paranal/",
+        "title": "Scientists tracked 4,500 animals and found a surprising human effect",
+        "summary": "Scientists tracking thousands of animals found that our physical presence can reshape where wildlife moves and lives, sometimes as strongly as roads, cities, and other human development.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260827010517.htm",
+        "source": "ScienceDaily – Tiere",
+        "publisher": "ScienceDaily",
+        "category": "Biologie"
+      },
+      {
+        "title": "What employers are looking for in the age of AI — and four ways to provide it",
+        "summary": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-01913-x For applicants whose knowledge of AI stops at the name ChatGPT, Nature spoke to academics, employers and early-career researchers to find out what…",
+        "link": "https://www.nature.com/articles/d41586-026-01913-x",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
+      },
+      {
+        "title": "NASA Awards First Prize in Phase 2 of Agency’s LunaRecycle Challenge",
+        "summary": "NASA&#160;named&#160;a team from the&#160;Massachusetts Institute of Technology&#160;(MIT)&#160;as the&#160;first prize&#160;winner&#160;for&#160;Phase 2&#160;of the&#160;agency’s&#160;LunaRecycle&#160;Challenge, which&…",
+        "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-awards-first-prize-in-phase-2-of-agencys-lunarecycle-challenge/",
         "source": "NASA Breaking News",
         "publisher": "NASA",
         "category": "Raumfahrt"
-      },
-      {
-        "title": "A lost mega-cliff may explain the Grand Canyon’s missing billion years",
-        "summary": "A colossal cliff system created as the supercontinent Rodinia broke apart may have exposed the heart of the Grand Canyon nearly a billion years before the Colorado River carved it.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260820202828.htm",
-        "source": "ScienceDaily – Geowissenschaften",
-        "publisher": "ScienceDaily",
-        "category": "Erde"
-      },
-      {
-        "title": "This quantum battery upends the rules of charging",
-        "summary": "Unlike conventional batteries, this prototype charges faster the larger it gets",
-        "link": "https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets?ocid=global_future_rss",
-        "source": "BBC Future",
-        "publisher": "BBC",
-        "category": "Zukunft"
       }
     ]
   }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T11:30:45+00:00",
-  "date_label": "Saturday, 29. August 2026",
+  "generated_at": "2026-08-30T10:21:30+00:00",
+  "date_label": "Sunday, 30. August 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 26367.2402,
-        "change_pct": 0.31
+        "price": 26569.9902,
+        "change_pct": 0.77
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": NaN,
-        "change_pct": NaN
+        "price": 7711.7598,
+        "change_pct": -0.25
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": NaN,
-        "change_pct": NaN
+        "price": 26402.4199,
+        "change_pct": -0.52
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6424.73,
-        "change_pct": -0.71
+        "price": 6485.6699,
+        "change_pct": 0.95
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 66131.9766,
-        "change_pct": -0.2
+        "price": 66405.5625,
+        "change_pct": 0.41
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 67060,
-        "usd": 77686,
-        "change_24h_pct": -1.96
+        "eur": 67350,
+        "usd": 78011,
+        "change_24h_pct": 0.42
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2103.93,
-        "usd": 2437.3,
-        "change_24h_pct": -2.2
+        "eur": 2118.05,
+        "usd": 2453.34,
+        "change_24h_pct": 0.69
       }
     ]
   },
@@ -94,8 +94,8 @@
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.672,
-        "change_pct": 0.17,
+        "price": 4.72,
+        "change_pct": 1.03,
         "unit": "%"
       }
     ]
@@ -105,23 +105,23 @@
     "error": null,
     "data": [
       {
-        "title": "Handwerkspräsident im Interview: „Ich fürchte, dass sich der Verbraucher den Handwerker nicht mehr leisten kann“",
-        "summary": "„Die Lage ist besorgniserregend“, klagt der Handwerkspräsident Dittrich im F.A.Z.-Interview.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/zdh-chef-joerg-dittrich-ich-fuerchte-dass-sich-der-verbraucher-den-handwerker-nicht-mehr-leisten-kann-201165994.html",
+        "title": "Bill Gates Warnt: Das turbulente Zeitalter der Künstlichen Intelligenz hat begonnen",
+        "summary": "Wir erleben einen epochalen Umbruch.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/bill-gates-warnt-wir-sind-auf-die-kuenstliche-intelligenz-nicht-vorbereitet-accg-201170877.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Raiffeisenbank Plankstetten: Bafin setzt sich im Streit mit Raiffeisenbank Plankstetten durch",
-        "summary": "Das Verwaltungsgericht Frankfurt hat Klagen der früheren Vorstände der Raiffeisenbank Plankstetten abgewiesen.",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/raiffeisenbank-plankstetten-bafin-setzt-sich-im-streit-mit-raiffeisenbank-plankstetten-durch/100250335.html",
+        "title": "Referendum: Isländer stimmen gegen EU-Beitrittsverhandlungen",
+        "summary": "Nach einem engen Rennen steht nun das Ergebnis fest: Die knappe Mehrheit hat mit 52,8 Prozent gegen eine Wiederaufnahme der EU-Verhandlungen gestimmt.",
+        "link": "https://www.handelsblatt.com/politik/international/referendum-islaender-stimmen-gegen-eu-beitrittsverhandlungen/100250591.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+        "title": "Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil",
         "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
         "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
@@ -129,41 +129,17 @@
         "category": ""
       },
       {
-        "title": "Klimaschutz: Warum immer noch so viele Schiffe mit Schweröl fahren",
-        "summary": "Zwei Drittel aller Ozeanriesen sind mit Motoren von Everllence unterwegs.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/everllence-chef-uwe-lauber-warum-schiffe-schweroel-nutzen-accg-201144589.html",
+        "title": "Landtagswahl: Sie bewegen Sachsen-Anhalt",
+        "summary": "Eine Politikerin, ein Winzer, eine Kulturmanagerin: Vor fünf Jahren haben sie der F.A.S.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/wahl-sachsen-anhalt-2026-was-die-menschen-im-bundesland-bewegt-accg-201097525.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Superwahljahr 2026: So stehen die Umfragen vor den Landtagswahlen in Ostdeutschland",
-        "summary": "Im September wählen Berlin, Mecklenburg-Vorpommern und Sachsen-Anhalt.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahlen-2026-welche-parteien-in-ostdeutschland-laut-umfragen-vorne-liegen-02/100190670.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "Wife of man who died after turbulence sues airline",
-        "summary": "Lawyers for Linda Kitchen say her husband was \"fatally injured\" after the flight dropped 6,000 ft.",
-        "link": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
-      },
-      {
-        "title": "Zukunft des Autobauers: Volkswagen droht ein Machtkampf, wie es ihn noch nie im Konzern gab",
-        "summary": "Der Streit um die Zukunft von Europas größtem Autokonzern steht vor der Eskalation.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/machtkampf-um-volkswagen-droht-ein-showdown-zwischen-lies-porsche-und-piech-accg-201168830.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "Wahl-O-Mat: Welche Partei bei der Landtagswahl in Sachsen-Anhalt zu Ihnen passt",
-        "summary": "Am 6.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/wahl-o-mat-2026-welche-partei-vertritt-ihre-position-bei-der-wahl-in-sachsen-anhalt-02/100233463.html",
+        "title": "Deep Read: Kampf gegen „Atlas“: Bei Hyundai wehren sich die Arbeiter gegen ihre humanoide Konkurrenz",
+        "summary": "Hyundai plant den Einsatz Zehntausender humanoider Roboter.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/automobilindustrie-streikgrund-roboter-arbeitskampf-bei-hyundai/100248245.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -175,36 +151,60 @@
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
+      },
+      {
+        "title": "„XXL-Waschprogramm“: Bahn investiert 210 Millionen Euro in Großreinemachen",
+        "summary": "Weniger Schmutz, mehr Sicherheit – dafür will die Bahn in den kommenden Jahren einem Bericht zufolge tief in die Tasche greifen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/deutsche-bahn-investiert-210-millionen-in-saubere-zuege-accg-201171541.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "Haushalt: Konjunkturplus bringt Haushalt kaum Entlastung",
+        "summary": "Die bessere Konjunktur beschert dem Bund zusätzliche Steuereinnahmen.",
+        "link": "https://www.handelsblatt.com/politik/konjunktur/haushalt-konjunkturplus-bringt-haushalt-kaum-entlastung/100250612.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "Wife of man who died after turbulence sues airline",
+        "summary": "Lawyers for Linda Kitchen say her husband was \"fatally injured\" after the flight dropped 6,000 ft.",
+        "link": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
       }
     ]
   },
   "niche_news": {
     "status": "ok",
-    "error": null,
+    "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "Scientists tracked 4,500 animals and found a surprising human effect",
-        "summary": "Scientists tracking thousands of animals found that our physical presence can reshape where wildlife moves and lives, sometimes as strongly as roads, cities, and other human development.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260827010517.htm",
-        "source": "ScienceDaily – Tiere",
+        "title": "Why scientists asked 1,000 people to bury their underwear",
+        "summary": "More than 1,000 volunteers buried cotton underwear across Switzerland to help scientists measure how active different soils are.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260827010501.htm",
+        "source": "ScienceDaily – Geowissenschaften",
         "publisher": "ScienceDaily",
-        "category": "Biologie"
+        "category": "Erde"
       },
       {
-        "title": "What employers are looking for in the age of AI — and four ways to provide it",
-        "summary": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-01913-x For applicants whose knowledge of AI stops at the name ChatGPT, Nature spoke to academics, employers and early-career researchers to find out what…",
-        "link": "https://www.nature.com/articles/d41586-026-01913-x",
-        "source": "Nature News",
-        "publisher": "Nature",
-        "category": "Forschung"
+        "title": "The Download: a secretive antiaging drug and joining virtual power plants",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+        "link": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+        "source": "MIT Technology Review",
+        "publisher": "MIT",
+        "category": "Technologie"
       },
       {
-        "title": "NASA Awards First Prize in Phase 2 of Agency’s LunaRecycle Challenge",
-        "summary": "NASA&#160;named&#160;a team from the&#160;Massachusetts Institute of Technology&#160;(MIT)&#160;as the&#160;first prize&#160;winner&#160;for&#160;Phase 2&#160;of the&#160;agency’s&#160;LunaRecycle&#160;Challenge, which&…",
-        "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-awards-first-prize-in-phase-2-of-agencys-lunarecycle-challenge/",
-        "source": "NASA Breaking News",
-        "publisher": "NASA",
-        "category": "Raumfahrt"
+        "title": "Inside Earth's biggest telescope",
+        "summary": "A dry desert view into the cosmos",
+        "link": "https://www.bbc.com/future/article/20260827-the-biggest-telescope-of-all-time-is-nearly-ready-could-it-reveal-alien-life?ocid=global_future_rss",
+        "source": "BBC Future",
+        "publisher": "BBC",
+        "category": "Zukunft"
       }
     ]
   }

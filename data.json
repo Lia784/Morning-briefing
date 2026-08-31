@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T10:21:30+00:00",
-  "date_label": "Sunday, 30. August 2026",
+  "generated_at": "2026-08-31T11:26:22+00:00",
+  "date_label": "Monday, 31. August 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,8 +8,8 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 26569.9902,
-        "change_pct": 0.77
+        "price": 26388.0996,
+        "change_pct": -0.68
       },
       {
         "name": "S&P 500",
@@ -26,14 +26,14 @@
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6485.6699,
-        "change_pct": 0.95
+        "price": 6470.0,
+        "change_pct": -0.24
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 66405.5625,
-        "change_pct": 0.41
+        "price": 66311.9297,
+        "change_pct": -0.14
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 67350,
-        "usd": 78011,
-        "change_24h_pct": 0.42
+        "eur": 67698,
+        "usd": 78534,
+        "change_24h_pct": 0.31
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2118.05,
-        "usd": 2453.34,
-        "change_24h_pct": 0.69
+        "eur": 2115.27,
+        "usd": 2453.87,
+        "change_24h_pct": -0.38
       }
     ]
   },
@@ -64,32 +64,32 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1587,
-        "change_pct": -0.58
+        "price": 1.1605,
+        "change_pct": -0.44
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8559,
-        "change_pct": -0.15
+        "price": 0.8566,
+        "change_pct": -0.06
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9374,
-        "change_pct": 0.08
+        "price": 0.9378,
+        "change_pct": 0.12
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 160.038,
-        "change_pct": 0.49
+        "price": 159.642,
+        "change_pct": 0.2
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 185.244,
-        "change_pct": -0.22
+        "price": 185.208,
+        "change_pct": -0.24
       },
       {
         "name": "US 10Y Rendite",
@@ -105,17 +105,65 @@
     "error": null,
     "data": [
       {
-        "title": "Bill Gates Warnt: Das turbulente Zeitalter der Künstlichen Intelligenz hat begonnen",
-        "summary": "Wir erleben einen epochalen Umbruch.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/bill-gates-warnt-wir-sind-auf-die-kuenstliche-intelligenz-nicht-vorbereitet-accg-201170877.html",
+        "title": "Kritik aus den Ländern: „Die Deutsche Bahn ist grandios gescheitert“",
+        "summary": "Intransparent und ohne Plan: Brandenburgs Verkehrsminister Robert Crumbach äußert harsche Kritik an der Deutschen Bahn – und fordert einen drastischen Kurswechsel.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/brandenburgs-verkehrsminister-die-deutsche-bahn-ist-grandios-gescheitert-accg-201164511.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Referendum: Isländer stimmen gegen EU-Beitrittsverhandlungen",
-        "summary": "Nach einem engen Rennen steht nun das Ergebnis fest: Die knappe Mehrheit hat mit 52,8 Prozent gegen eine Wiederaufnahme der EU-Verhandlungen gestimmt.",
-        "link": "https://www.handelsblatt.com/politik/international/referendum-islaender-stimmen-gegen-eu-beitrittsverhandlungen/100250591.html",
+        "title": "Passives Einkommen: Dieses ETF-Portfolio schüttet jeden Monat Geld aus",
+        "summary": "Mit nur drei Fonds können Anleger sich eine regelmäßige monatliche Ausschüttung sichern – ohne auf die Chance zusätzlicher Kursgewinne verzichten zu müssen.",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/etfs-wie-anleger-mit-diesen-drei-fonds-monatliche-ausschuettungen-erzielen/100226123.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
+        "summary": "So-called financial favouritism can cause jealousy and resentment long into adulthood.",
+        "link": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
+        "title": "Zukunft des Autoherstellers: Volkswagen droht ein Machtkampf, wie es ihn noch nie im Konzern gab",
+        "summary": "Der Streit um die Zukunft von Europas größtem Autokonzern steht vor der Eskalation.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/machtkampf-um-volkswagen-droht-ein-showdown-zwischen-lies-porsche-und-piech-accg-201168830.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "Dax aktuell: Dax notiert im Minus – Ölpreis steigt",
+        "summary": "Der Dax steuert weiter auf die Rekordmarke von 27.000 Punkten zu.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-im-minus-oelpreis-steigt/100250724.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "How the US-Canada trade war is being felt on both sides of the border",
+        "summary": "The US-Canada trade war is being felt on both sides of the border.",
+        "link": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
+        "title": "Handwerkspräsident im Interview: „Ich fürchte, dass sich der Verbraucher den Handwerker nicht mehr leisten kann“",
+        "summary": "„Die Lage ist besorgniserregend“, klagt der Handwerkspräsident Dittrich im F.A.Z.-Interview.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/zdh-chef-joerg-dittrich-ich-fuerchte-dass-sich-der-verbraucher-den-handwerker-nicht-mehr-leisten-kann-201165994.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "Wahlexperte: AfD-Unterstützung in allen Bevölkerungsgruppen",
+        "summary": "Am Sonntag wählt Sachsen-Anhalt.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/wahlexperte-afd-unterstuetzung-in-allen-bevoelkerungsgruppen/100250836.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -127,81 +175,33 @@
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
-      },
-      {
-        "title": "Landtagswahl: Sie bewegen Sachsen-Anhalt",
-        "summary": "Eine Politikerin, ein Winzer, eine Kulturmanagerin: Vor fünf Jahren haben sie der F.A.S.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/wahl-sachsen-anhalt-2026-was-die-menschen-im-bundesland-bewegt-accg-201097525.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "Deep Read: Kampf gegen „Atlas“: Bei Hyundai wehren sich die Arbeiter gegen ihre humanoide Konkurrenz",
-        "summary": "Hyundai plant den Einsatz Zehntausender humanoider Roboter.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/automobilindustrie-streikgrund-roboter-arbeitskampf-bei-hyundai/100248245.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
-        "summary": "Kevin Warsh remarks suggest interest rates could be increased if policymakers think inflation is running too high.",
-        "link": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
-      },
-      {
-        "title": "„XXL-Waschprogramm“: Bahn investiert 210 Millionen Euro in Großreinemachen",
-        "summary": "Weniger Schmutz, mehr Sicherheit – dafür will die Bahn in den kommenden Jahren einem Bericht zufolge tief in die Tasche greifen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/deutsche-bahn-investiert-210-millionen-in-saubere-zuege-accg-201171541.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "Haushalt: Konjunkturplus bringt Haushalt kaum Entlastung",
-        "summary": "Die bessere Konjunktur beschert dem Bund zusätzliche Steuereinnahmen.",
-        "link": "https://www.handelsblatt.com/politik/konjunktur/haushalt-konjunkturplus-bringt-haushalt-kaum-entlastung/100250612.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "Wife of man who died after turbulence sues airline",
-        "summary": "Lawyers for Linda Kitchen say her husband was \"fatally injured\" after the flight dropped 6,000 ft.",
-        "link": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
       }
     ]
   },
   "niche_news": {
     "status": "ok",
-    "error": "Quellen nicht erreichbar: NASA Breaking News",
+    "error": null,
     "data": [
       {
-        "title": "Why scientists asked 1,000 people to bury their underwear",
-        "summary": "More than 1,000 volunteers buried cotton underwear across Switzerland to help scientists measure how active different soils are.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260827010501.htm",
-        "source": "ScienceDaily – Geowissenschaften",
-        "publisher": "ScienceDaily",
-        "category": "Erde"
-      },
-      {
-        "title": "The Download: a secretive antiaging drug and joining virtual power plants",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
-        "link": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+        "title": "Is Slate Auto’s new electric truck the EV Americans need?",
+        "summary": "EVs account for under 10% of total new-vehicle sales in the US, and the numbers are declining.",
+        "link": "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/",
         "source": "MIT Technology Review",
         "publisher": "MIT",
         "category": "Technologie"
       },
       {
-        "title": "Inside Earth's biggest telescope",
-        "summary": "A dry desert view into the cosmos",
-        "link": "https://www.bbc.com/future/article/20260827-the-biggest-telescope-of-all-time-is-nearly-ready-could-it-reveal-alien-life?ocid=global_future_rss",
+        "title": "Why are rich people so pessimistic? What the numbers say",
+        "summary": "Nature, Published online: 31 August 2026; doi:10.1038/d41586-026-02687-y Optimism about the future can seem in short supply nowadays, but people’s age, where they live and their expectations have a lot to do with it.",
+        "link": "https://www.nature.com/articles/d41586-026-02687-y",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
+      },
+      {
+        "title": "The perks and pitfalls of laughing at yourself",
+        "summary": "Poking fun at ourselves can be good for us, though it's not always a good idea",
+        "link": "https://www.bbc.com/future/article/20260828-laughing-at-ourselves-can-be-good-for-us-heres-how-to-harness-the-benefits?ocid=global_future_rss",
         "source": "BBC Future",
         "publisher": "BBC",
         "category": "Zukunft"

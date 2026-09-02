@@ -1,33 +1,39 @@
 {
-  "generated_at": "2026-09-01T09:49:04+00:00",
-  "date_label": "Tuesday, 01. September 2026",
+  "generated_at": "2026-09-02T09:21:35+00:00",
+  "date_label": "Wednesday, 02. September 2026",
   "indices": {
     "status": "ok",
-    "error": "Teilweise nicht verfügbar: ^IXIC",
+    "error": null,
     "data": [
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25961.6895,
-        "change_pct": -1.13
+        "price": 25841.3105,
+        "change_pct": -0.5
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7686.1401,
-        "change_pct": -0.58
+        "price": 7631.4702,
+        "change_pct": -0.71
+      },
+      {
+        "name": "Nasdaq",
+        "symbol": "^IXIC",
+        "price": 26099.7695,
+        "change_pct": -1.03
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6367.6299,
-        "change_pct": -0.82
+        "price": 6352.79,
+        "change_pct": -0.25
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 66215.3438,
-        "change_pct": -0.15
+        "price": 64325.6406,
+        "change_pct": -2.85
       }
     ]
   },
@@ -38,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 67227,
-        "usd": 77973,
-        "change_24h_pct": -0.91
+        "eur": 66428,
+        "usd": 76889,
+        "change_24h_pct": -1.03
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2113.88,
-        "usd": 2451.77,
-        "change_24h_pct": 0.02
+        "eur": 2067.15,
+        "usd": 2392.66,
+        "change_24h_pct": -1.95
       }
     ]
   },
@@ -58,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1602,
-        "change_pct": 0.11
+        "price": 1.1579,
+        "change_pct": -0.33
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8563,
-        "change_pct": 0.05
+        "price": 0.8574,
+        "change_pct": -0.01
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9389,
-        "change_pct": 0.16
+        "price": 0.9431,
+        "change_pct": 0.43
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 159.979,
-        "change_pct": -0.09
+        "price": 159.802,
+        "change_pct": 0.03
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 185.548,
-        "change_pct": -0.0
+        "price": 184.96,
+        "change_pct": -0.34
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.758,
-        "change_pct": 1.84,
+        "price": 4.796,
+        "change_pct": 0.8,
         "unit": "%"
       }
     ]
@@ -107,65 +113,65 @@
         "category": ""
       },
       {
-        "title": "Dax aktuell: Dax fällt unter 26.000-Marke – Inflation in Euro-Zone zieht an",
-        "summary": "Anleger im deutschen Leitindex zeigen sich zu Beginn des neuen Monats zurückhaltend.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-faellt-unter-26.000-marke-inflation-in-euro-zone-zieht-an/100251017.html",
+        "title": "Thüringen: Drei Abgeordnete verlassen Thüringer BSW-Fraktion",
+        "summary": "Mit dem Austritt von drei Abgeordneten verschärft sich die Regierungskrise in Thüringen.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/thueringen-drei-abgeordnete-verlassen-thueringer-bsw-fraktion/100251457.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Shein shares fall in long-awaited stock market debut",
-        "summary": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
-        "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
+        "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
+        "summary": "Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget.",
+        "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Shein-Börsengang: Ein Fehler, der Milliarden kostet",
-        "summary": "Die Börsengang-Odyssee von Shein ist vorbei.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/sheins-boersengang-sky-xu-verliert-milliarden-durch-fehler-201177940.html",
+        "title": "Nachhaltige Abkühlung: Münchens Fernkältenetz ist ein Vorreiter",
+        "summary": "Klimaanlagen sorgen für Abwärme und Emissionen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/fernkaeltenetz-muenchen-stadtwerke-als-vorreiter-der-kuehlung-accg-201159941.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Arbeitsmarkt: Teilzeitquote in Deutschland erreicht mit 40,3 Prozent neuen Höchststand",
-        "summary": "Trotz der Debatte über längere Arbeitszeiten erreicht die Teilzeitquote laut IAB in Deutschland einen Höchststand.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/arbeitsmarkt-teilzeitquote-in-deutschland-erreicht-mit-403-prozent-neuen-hoechststand/100251104.html",
+        "title": "Heizungsgesetz: Wärmewende mit Geothermie – Zahl der Projekte hat sich verfünffacht",
+        "summary": "Wärme aus tiefen Gesteinsschichten zu nutzen, findet immer mehr Zuspruch.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/heizungsgesetz-zahl-der-geothermie-projekte-hat-sich-verfuenffacht/100249260.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
-        "summary": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
-        "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
+        "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
+        "summary": "Booking.com said the \"limited test\" was \"not a true reflection of the experience of millions of listings or reviews\".",
+        "link": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Exchange Online: Weltweite Störung von Microsoft Outlook – Systeme laufen wieder an",
-        "summary": "Ein Fehler in der Cloud-Infrastruktur von Exchange Online legte weltweit den E-Mail-Verkehr der Microsoft-Systeme lahm.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/microsoft-cloud-fehler-blockierte-zugriff-auf-outlook-postfaecher-systeme-laufen-wieder-an-201176989.html",
+        "title": "Probleme in der Ausbildung: Warum fast jeder dritte Azubi hinwirft",
+        "summary": "Die Zahl der abgebrochenen Ausbildungen erreicht einen Höchststand.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/ausbildungsabbruch-warum-fast-jeder-dritte-azubi-aufgibt-accg-201178795.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Inflation: 3,3 Prozent – Teuerung im Euro-Raum zieht deutlich an",
-        "summary": "﻿Die Inflation entfernt sich deutlich vom Zielwert der Notenbank.",
-        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/inflation-33-prozent-teuerung-im-euro-raum-zieht-deutlich-an/100248647.html",
+        "title": "+++ Iran-Krieg +++: Iran meldet weitere sieben Todesopfer nach US-Angriffen",
+        "summary": "USA und Iran kämpfen um Kontrolle über Straße von Hormus +++ Pakistan führt weiter Gespräche mit USA und Iran +++ Hisbollah und Israel greifen sich gegenseitig im Libanon an +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-meldet-weitere-sieben-todesopfer-nach-us-angriffen/100136895.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
-        "summary": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
+        "title": "Kids eat free and loyalty points - six ways to eat out but not break the bank",
+        "summary": "The cost of dining out is getting increasingly hard to swallow - but clever planning can get you cheaper deals.",
+        "link": "https://www.bbc.co.uk/news/articles/c2dy8kz867go?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -174,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": "Quellen nicht erreichbar: NASA Breaking News",
+    "error": null,
     "data": [
       {
-        "title": "Hundreds of hidden earthquakes found at Antarctica’s Doomsday Glacier",
-        "summary": "Hundreds of previously overlooked seismic events have been detected beneath Antarctica, including 245 near the marine edge of the Thwaites Glacier.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260829035328.htm",
-        "source": "ScienceDaily – Geowissenschaften",
+        "title": "Goodbye CPAP? New sleep apnea pill cuts breathing events by 44%",
+        "summary": "A once-nightly pill cut breathing interruptions by about 44% in a major phase 3 sleep apnea trial, while improving oxygen levels and disease severity.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260831015203.htm",
+        "source": "ScienceDaily – Gesundheit",
         "publisher": "ScienceDaily",
-        "category": "Erde"
+        "category": "Medizin"
       },
       {
-        "title": "Timothy Dexter’s William Pitt Statue in Newburyport, Massachusetts",
-        "summary": "Newburyport is one of the most well-known and vibrant coastal communities in Massachusetts.",
-        "link": "https://www.atlasobscura.com/places/timothy-dexters-william-pitt-statue",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
+        "title": "Say hello to the next generation of lobsters — August’s best science images",
+        "summary": "Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02597-z The month’s sharpest science shots, selected by Nature’s photo team.",
+        "link": "https://www.nature.com/articles/d41586-026-02597-z",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
       },
       {
-        "title": "These Enchanting and Colorful Photos of Seashells and the Mollusks That Create Them Will Have You Marveling at the Natural World",
-        "summary": "Before they become sandy souvenirs, the baubles in the bubbles of the shoreline serve as a veritable fortress for creatures like clams, mussels and conchs",
-        "link": "https://www.smithsonianmag.com/science-nature/enchanting-colorful-photos-seashells-mollusks-who-create-them-have-you-marveling-at-natural-world-180989291/",
-        "source": "Smithsonian",
-        "publisher": "Smithsonian",
-        "category": "Wissenschaft"
+        "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+        "link": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+        "source": "MIT Technology Review",
+        "publisher": "MIT",
+        "category": "Technologie"
       }
     ]
   }

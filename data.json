@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T09:21:35+00:00",
-  "date_label": "Wednesday, 02. September 2026",
+  "generated_at": "2026-09-03T09:31:11+00:00",
+  "date_label": "Thursday, 03. September 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25841.3105,
-        "change_pct": -0.5
+        "price": 25888.7207,
+        "change_pct": 0.19
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7631.4702,
-        "change_pct": -0.71
+        "price": 7666.6001,
+        "change_pct": 0.46
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26099.7695,
-        "change_pct": -1.03
+        "price": 26217.8301,
+        "change_pct": 0.45
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6352.79,
-        "change_pct": -0.25
+        "price": 6367.48,
+        "change_pct": 0.08
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 64325.6406,
-        "change_pct": -2.85
+        "price": 64214.4805,
+        "change_pct": -0.17
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 66428,
-        "usd": 76889,
-        "change_24h_pct": -1.03
+        "eur": 66998,
+        "usd": 77742,
+        "change_24h_pct": 1.0
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2067.15,
-        "usd": 2392.66,
-        "change_24h_pct": -1.95
+        "eur": 2067.78,
+        "usd": 2399.38,
+        "change_24h_pct": 0.44
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1579,
-        "change_pct": -0.33
+        "price": 1.1606,
+        "change_pct": 0.09
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8574,
-        "change_pct": -0.01
+        "price": 0.8599,
+        "change_pct": 0.27
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9431,
-        "change_pct": 0.43
+        "price": 0.9396,
+        "change_pct": -0.15
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 159.802,
-        "change_pct": 0.03
+        "price": 156.516,
+        "change_pct": -2.3
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 184.96,
-        "change_pct": -0.34
+        "price": 181.627,
+        "change_pct": -2.18
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
         "price": 4.796,
-        "change_pct": 0.8,
+        "change_pct": 0.0,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Bill Gates Warnt: Das turbulente Zeitalter der Künstlichen Intelligenz hat begonnen",
-        "summary": "Wir erleben einen epochalen Umbruch.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/bill-gates-warnt-wir-sind-auf-die-kuenstliche-intelligenz-nicht-vorbereitet-accg-201170877.html",
+        "title": "Altern in Sachsen-Anhalt: Wer soll denn dann die Leute im Osten pflegen, Herr Siegmund?",
+        "summary": "Im Schnitt sind die Menschen nirgends älter als in Sachsen-Anhalt.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/wahl-sachsen-anhalt-2026-wer-pflegt-die-alten-ohne-fachkraefte-201180017.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Thüringen: Drei Abgeordnete verlassen Thüringer BSW-Fraktion",
-        "summary": "Mit dem Austritt von drei Abgeordneten verschärft sich die Regierungskrise in Thüringen.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/thueringen-drei-abgeordnete-verlassen-thueringer-bsw-fraktion/100251457.html",
+        "title": "Niedrigwasser: Wasserpegel im Rhein könnte erneut sinken",
+        "summary": "Auf dem Rhein sind wieder mehr Schiffe unterwegs.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/niedrigwasser-wasserpegel-im-rhein-koennte-erneut-sinken/100251751.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
-        "summary": "Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget.",
-        "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
+        "title": "B&Q and Five Guys among firms that paid staff below minimum wage",
+        "summary": "More than 600 companies underpaid staff, with £4m returned to workers, according to the government.",
+        "link": "https://www.bbc.co.uk/news/articles/c39mv4vm7exo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Nachhaltige Abkühlung: Münchens Fernkältenetz ist ein Vorreiter",
-        "summary": "Klimaanlagen sorgen für Abwärme und Emissionen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/fernkaeltenetz-muenchen-stadtwerke-als-vorreiter-der-kuehlung-accg-201159941.html",
+        "title": "Einkommensteuer: Regierung beschließt Steuerreform: Wer mehr zahlt – und wer weniger",
+        "summary": "Schwarz-Rot bringt die umstrittene Reform der Einkommensteuer auf den Weg.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/einkommensteuerreform-klingbeil-lobt-beschluss-reiche-uebt-kritik-201182317.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Heizungsgesetz: Wärmewende mit Geothermie – Zahl der Projekte hat sich verfünffacht",
-        "summary": "Wärme aus tiefen Gesteinsschichten zu nutzen, findet immer mehr Zuspruch.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/heizungsgesetz-zahl-der-geothermie-projekte-hat-sich-verfuenffacht/100249260.html",
+        "title": "Autobranche: Boom bei E-Autos und Privatkunden stützt Pkw-Markt im August",
+        "summary": "Privatkunden kaufen wieder mehr Neuwagen, während sich Gewerbekunden zurückhalten.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/autobranche-boom-bei-e-autos-und-privatkunden-stuetzt-pkw-markt-im-august/100251754.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
-        "summary": "Booking.com said the \"limited test\" was \"not a true reflection of the experience of millions of listings or reviews\".",
-        "link": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss",
+        "title": "Almost half of households do not see benefits of economic growth, report says",
+        "summary": "Analysis has found a \"stark\" gap in the spending power of households in the north and south of England on average.",
+        "link": "https://www.bbc.co.uk/news/articles/crerw510gdzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Probleme in der Ausbildung: Warum fast jeder dritte Azubi hinwirft",
-        "summary": "Die Zahl der abgebrochenen Ausbildungen erreicht einen Höchststand.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/ausbildungsabbruch-warum-fast-jeder-dritte-azubi-aufgibt-accg-201178795.html",
+        "title": "Anschläge auf Stromnetz: „Leichtes Ziel für Terror- oder Sabotageaktionen“",
+        "summary": "Schon wieder ist das Stromnetz angegriffen worden.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/stromnetz-als-leichtes-ziel-branche-fordert-besseren-schutz-201182533.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "+++ Iran-Krieg +++: Iran meldet weitere sieben Todesopfer nach US-Angriffen",
-        "summary": "USA und Iran kämpfen um Kontrolle über Straße von Hormus +++ Pakistan führt weiter Gespräche mit USA und Iran +++ Hisbollah und Israel greifen sich gegenseitig im Libanon an +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-meldet-weitere-sieben-todesopfer-nach-us-angriffen/100136895.html",
+        "title": "Landtagswahl: Rechte Streamer und Millionenbudget: Ein Blick hinter die Kulissen der AfD-Kampagne in Sachsen-Anhalt",
+        "summary": "Wenige Tage vor der Landtagswahl hat die AfD in Sachsen-Anhalt Umfragewerte von mehr als 40 Prozent.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahl-ein-blick-hinter-die-kulissen-der-afd-kampagne-in-sachsen-anhalt/100250392.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Kids eat free and loyalty points - six ways to eat out but not break the bank",
-        "summary": "The cost of dining out is getting increasingly hard to swallow - but clever planning can get you cheaper deals.",
-        "link": "https://www.bbc.co.uk/news/articles/c2dy8kz867go?at_medium=RSS&at_campaign=rss",
+        "title": "Stingy bosses and spare change: How much should you give to the office whip-round?",
+        "summary": "Office whip-rounds are a staple of working life but they can raise a lot of awkward questions.",
+        "link": "https://www.bbc.co.uk/news/articles/c2el0v48v0xo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": null,
+    "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "Goodbye CPAP? New sleep apnea pill cuts breathing events by 44%",
-        "summary": "A once-nightly pill cut breathing interruptions by about 44% in a major phase 3 sleep apnea trial, while improving oxygen levels and disease severity.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260831015203.htm",
-        "source": "ScienceDaily – Gesundheit",
+        "title": "The perks and pitfalls of laughing at yourself",
+        "summary": "Poking fun at ourselves can be good for us, though it's not always a good idea",
+        "link": "https://www.bbc.com/future/article/20260828-laughing-at-ourselves-can-be-good-for-us-heres-how-to-harness-the-benefits?ocid=global_future_rss",
+        "source": "BBC Future",
+        "publisher": "BBC",
+        "category": "Zukunft"
+      },
+      {
+        "title": "Reaching 90 without dementia doesn’t mean you’re in the clear",
+        "summary": "A study of people over 90 found that dementia risk remains strongly shaped by sex, race and genetics, with women and black participants facing notably higher risks.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260829235953.htm",
+        "source": "ScienceDaily – Neurowissenschaft",
         "publisher": "ScienceDaily",
-        "category": "Medizin"
+        "category": "Neurowissenschaft"
       },
       {
-        "title": "Say hello to the next generation of lobsters — August’s best science images",
-        "summary": "Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02597-z The month’s sharpest science shots, selected by Nature’s photo team.",
-        "link": "https://www.nature.com/articles/d41586-026-02597-z",
-        "source": "Nature News",
-        "publisher": "Nature",
-        "category": "Forschung"
-      },
-      {
-        "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
-        "link": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
-        "source": "MIT Technology Review",
-        "publisher": "MIT",
-        "category": "Technologie"
+        "title": "Ahuehuete del Centenario in Monterrey, Mexico",
+        "summary": "On 20 September 1596, Spanish colonist Don Diego de Montemayor founded the city of Nuestra Señora (Our Lady) of Monterrey, in honor of Gaspar de Zúñiga y Acevedo, Viceroy of Mexico at the time and who was also the Count…",
+        "link": "https://www.atlasobscura.com/places/ahuehuete-del-centenario",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
       }
     ]
   }

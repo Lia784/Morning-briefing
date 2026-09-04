@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T09:31:11+00:00",
-  "date_label": "Thursday, 03. September 2026",
+  "generated_at": "2026-09-04T09:23:22+00:00",
+  "date_label": "Friday, 04. September 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25888.7207,
-        "change_pct": 0.19
+        "price": 26017.3398,
+        "change_pct": 0.05
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7666.6001,
-        "change_pct": 0.46
+        "price": 7747.71,
+        "change_pct": 1.06
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26217.8301,
-        "change_pct": 0.45
+        "price": 26584.0605,
+        "change_pct": 1.4
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6367.48,
-        "change_pct": 0.08
+        "price": 6380.2998,
+        "change_pct": -0.04
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 64214.4805,
-        "change_pct": -0.17
+        "price": 65020.9414,
+        "change_pct": 1.26
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 66998,
-        "usd": 77742,
-        "change_24h_pct": 1.0
+        "eur": 69710,
+        "usd": 81028,
+        "change_24h_pct": 3.95
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2067.78,
-        "usd": 2399.38,
-        "change_24h_pct": 0.44
+        "eur": 2175.47,
+        "usd": 2528.66,
+        "change_24h_pct": 5.12
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1606,
-        "change_pct": 0.09
+        "price": 1.1627,
+        "change_pct": 0.36
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8599,
-        "change_pct": 0.27
+        "price": 0.8591,
+        "change_pct": -0.0
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9396,
-        "change_pct": -0.15
+        "price": 0.9399,
+        "change_pct": -0.2
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 156.516,
-        "change_pct": -2.3
+        "price": 156.324,
+        "change_pct": -1.64
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 181.627,
-        "change_pct": -2.18
+        "price": 181.697,
+        "change_pct": -1.31
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.796,
-        "change_pct": 0.0,
+        "price": 4.762,
+        "change_pct": -0.71,
         "unit": "%"
       }
     ]
@@ -113,65 +113,65 @@
         "category": ""
       },
       {
-        "title": "Niedrigwasser: Wasserpegel im Rhein könnte erneut sinken",
-        "summary": "Auf dem Rhein sind wieder mehr Schiffe unterwegs.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/niedrigwasser-wasserpegel-im-rhein-koennte-erneut-sinken/100251751.html",
+        "title": "UN-Organisation: Weltweite Lebensmittelpreise auf höchstem Stand seit 2022",
+        "summary": "Schlechte Ernten und politische Konflikte sorgen für steigende Preise an den Lebensmittelmärkten.",
+        "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/un-organisation-weltweite-lebensmittelpreise-auf-hoechstem-stand-seit-2022/100252056.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "B&Q and Five Guys among firms that paid staff below minimum wage",
-        "summary": "More than 600 companies underpaid staff, with £4m returned to workers, according to the government.",
-        "link": "https://www.bbc.co.uk/news/articles/c39mv4vm7exo?at_medium=RSS&at_campaign=rss",
+        "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
+        "summary": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
+        "link": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Einkommensteuer: Regierung beschließt Steuerreform: Wer mehr zahlt – und wer weniger",
-        "summary": "Schwarz-Rot bringt die umstrittene Reform der Einkommensteuer auf den Weg.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/einkommensteuerreform-klingbeil-lobt-beschluss-reiche-uebt-kritik-201182317.html",
+        "title": "Markt der Zukunft: Aufmarsch der Roboter",
+        "summary": "Menschenähnliche Roboter sind in der Wirklichkeit angekommen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/robotertechnologie-chancen-und-risiken-der-physical-ai-201188229.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Autobranche: Boom bei E-Autos und Privatkunden stützt Pkw-Markt im August",
-        "summary": "Privatkunden kaufen wieder mehr Neuwagen, während sich Gewerbekunden zurückhalten.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/autobranche-boom-bei-e-autos-und-privatkunden-stuetzt-pkw-markt-im-august/100251754.html",
+        "title": "Ukraine-Krieg: Putin gibt sich siegessicher – trotz neuer Milliardenschäden durch ukrainische Drohnen",
+        "summary": "Russischer Aufklärer vor Polen abgefangen +++ Russland hat Energieanlagen in Odessa angegriffen +++ Selenskyj will US-Gesandte in Kiew treffen +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-putin-gibt-sich-siegessicher-trotz-neuer-milliardenschaeden/27982126.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Almost half of households do not see benefits of economic growth, report says",
-        "summary": "Analysis has found a \"stark\" gap in the spending power of households in the north and south of England on average.",
-        "link": "https://www.bbc.co.uk/news/articles/crerw510gdzo?at_medium=RSS&at_campaign=rss",
+        "title": "Volkswagen board approves plan to cut another 50,000 jobs",
+        "summary": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 posts by 2030.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Anschläge auf Stromnetz: „Leichtes Ziel für Terror- oder Sabotageaktionen“",
-        "summary": "Schon wieder ist das Stromnetz angegriffen worden.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/stromnetz-als-leichtes-ziel-branche-fordert-besseren-schutz-201182533.html",
+        "title": "Leere Büros: „Unternehmen reduzieren weiter ihre Mietfläche“",
+        "summary": "Abseits der Innenstädte stehen immer öfter Büros leer.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/buero-gewerbe/pierre-nolte-warum-leere-bueros-investoren-vor-dilemmata-stellen-accg-201134231.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Landtagswahl: Rechte Streamer und Millionenbudget: Ein Blick hinter die Kulissen der AfD-Kampagne in Sachsen-Anhalt",
-        "summary": "Wenige Tage vor der Landtagswahl hat die AfD in Sachsen-Anhalt Umfragewerte von mehr als 40 Prozent.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahl-ein-blick-hinter-die-kulissen-der-afd-kampagne-in-sachsen-anhalt/100250392.html",
+        "title": "Landtag: Großteil der BSW-Fraktion in Erfurt verlässt Partei – Zukunft der Landesregierung unklar",
+        "summary": "Die BSW-Fraktion in Erfurt sagt sich von der Bundespartei los.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/thueringen-bsw-fraktion-in-erfurt-zerfaellt-zukunft-der-landesregierung-unklar/100252041.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Stingy bosses and spare change: How much should you give to the office whip-round?",
-        "summary": "Office whip-rounds are a staple of working life but they can raise a lot of awkward questions.",
-        "link": "https://www.bbc.co.uk/news/articles/c2el0v48v0xo?at_medium=RSS&at_campaign=rss",
+        "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
+        "summary": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
+        "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,28 +183,28 @@
     "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "The perks and pitfalls of laughing at yourself",
-        "summary": "Poking fun at ourselves can be good for us, though it's not always a good idea",
-        "link": "https://www.bbc.com/future/article/20260828-laughing-at-ourselves-can-be-good-for-us-heres-how-to-harness-the-benefits?ocid=global_future_rss",
+        "title": "Interstellar solar sails hit a strange problem at 75% of light speed",
+        "summary": "Solar sails pushed by powerful lasers could reach incredible speeds, but relativity may eventually make the light itself work against them.",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260831015157.htm",
+        "source": "ScienceDaily – Physik",
+        "publisher": "ScienceDaily",
+        "category": "Physik"
+      },
+      {
+        "title": "The Pacific warming patterns warping US weather",
+        "summary": "El Niño and Pacific marine heatwaves are set to have a profound impact",
+        "link": "https://www.bbc.com/future/article/20260828-two-giant-warming-patterns-are-brewing-in-the-pacific-and-warping-us-weather?ocid=global_future_rss",
         "source": "BBC Future",
         "publisher": "BBC",
         "category": "Zukunft"
       },
       {
-        "title": "Reaching 90 without dementia doesn’t mean you’re in the clear",
-        "summary": "A study of people over 90 found that dementia risk remains strongly shaped by sex, race and genetics, with women and black participants facing notably higher risks.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260829235953.htm",
-        "source": "ScienceDaily – Neurowissenschaft",
-        "publisher": "ScienceDaily",
-        "category": "Neurowissenschaft"
-      },
-      {
-        "title": "Ahuehuete del Centenario in Monterrey, Mexico",
-        "summary": "On 20 September 1596, Spanish colonist Don Diego de Montemayor founded the city of Nuestra Señora (Our Lady) of Monterrey, in honor of Gaspar de Zúñiga y Acevedo, Viceroy of Mexico at the time and who was also the Count…",
-        "link": "https://www.atlasobscura.com/places/ahuehuete-del-centenario",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
+        "title": "Scaling agentic AI pilots across the enterprise",
+        "summary": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that…",
+        "link": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+        "source": "MIT Technology Review",
+        "publisher": "MIT",
+        "category": "Technologie"
       }
     ]
   }

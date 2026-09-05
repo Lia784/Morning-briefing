@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T09:23:22+00:00",
-  "date_label": "Friday, 04. September 2026",
+  "generated_at": "2026-09-05T08:52:09+00:00",
+  "date_label": "Saturday, 05. September 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,26 +8,26 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 26017.3398,
-        "change_pct": 0.05
+        "price": 26046.4004,
+        "change_pct": 0.17
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7747.71,
-        "change_pct": 1.06
+        "price": 7718.6001,
+        "change_pct": -0.38
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26584.0605,
-        "change_pct": 1.4
+        "price": 26506.9902,
+        "change_pct": -0.29
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6380.2998,
-        "change_pct": -0.04
+        "price": 6392.9302,
+        "change_pct": 0.16
       },
       {
         "name": "Nikkei 225",
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 69710,
-        "usd": 81028,
-        "change_24h_pct": 3.95
+        "eur": 68542,
+        "usd": 79604,
+        "change_24h_pct": -1.78
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2175.47,
-        "usd": 2528.66,
-        "change_24h_pct": 5.12
+        "eur": 2113.27,
+        "usd": 2454.35,
+        "change_24h_pct": -2.77
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1627,
-        "change_pct": 0.36
+        "price": 1.1621,
+        "change_pct": 0.31
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8591,
-        "change_pct": -0.0
+        "price": 0.8587,
+        "change_pct": -0.05
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9399,
-        "change_pct": -0.2
+        "price": 0.9401,
+        "change_pct": 0.12
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 156.324,
-        "change_pct": -1.64
+        "price": 156.221,
+        "change_pct": -1.7
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 181.697,
-        "change_pct": -1.31
+        "price": 181.462,
+        "change_pct": -1.44
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.762,
-        "change_pct": -0.71,
+        "price": 4.784,
+        "change_pct": 0.46,
         "unit": "%"
       }
     ]
@@ -105,17 +105,65 @@
     "error": null,
     "data": [
       {
-        "title": "Altern in Sachsen-Anhalt: Wer soll denn dann die Leute im Osten pflegen, Herr Siegmund?",
-        "summary": "Im Schnitt sind die Menschen nirgends älter als in Sachsen-Anhalt.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/wahl-sachsen-anhalt-2026-wer-pflegt-die-alten-ohne-fachkraefte-201180017.html",
+        "title": "Volkswagen: Das Wunder von Wolfsburg - und was es für Deutschland bedeutet",
+        "summary": "Bei VW schien ein epochaler Konflikt um die Konzernsanierung unausweichlich.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/das-wunder-von-wolfsburg-was-die-einigung-zu-vw-fuer-deutschland-bedeutet-accg-201194462.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "UN-Organisation: Weltweite Lebensmittelpreise auf höchstem Stand seit 2022",
-        "summary": "Schlechte Ernten und politische Konflikte sorgen für steigende Preise an den Lebensmittelmärkten.",
-        "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/un-organisation-weltweite-lebensmittelpreise-auf-hoechstem-stand-seit-2022/100252056.html",
+        "title": "Nach Daten-Leak: Bundessicherheitsamt warnt vor höherer Cyber-Bedrohung",
+        "summary": "Nach dem Hackerangriff in Berlin warnt das Bundesamt für Sicherheit vor gezielten Phishing-Angriffen.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/nach-daten-leak-bundessicherheitsamt-warnt-vor-hoeherer-cyber-bedrohung/100252244.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "Stock up on food to prepare for extreme weather, minister says",
+        "summary": "Dame Angela Eagle warns the weather event could lead to extreme storms this winter.",
+        "link": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
+        "title": "Tödliche Katastrophe: Nepal träumte vom Reichtum durch Wasserkraft. Dann kam die Flut",
+        "summary": "Mit in den Flüssen des Himalajas produziertem Strom wollte das Land ganz Südasien beliefern.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/nepals-wasserkraft-flutkatastrophe-zerstoert-den-traum-accg-201179320.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "Konsumgüter: Henkel-Chef Knobel stellt weitere Unternehmenskäufe in Aussicht",
+        "summary": "Die Konsumgüterfirma hält Ausschau nach weiteren Übernahmen und will damit seine Geschäfte stärken.",
+        "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/konsumgueter-henkel-chef-knobel-stellt-weitere-unternehmenskaeufe-in-aussicht/100252243.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "Trump calls for interest rate cut after jobs figures raise hike bets",
+        "summary": "The president's remarks came as stronger-than-expected jobs figures added to growing expectations that rates could be increased.",
+        "link": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
+        "title": "Open AI: Forscher: KI-Agenten hinterlassen 18.000 Beiträge auf deutscher Website",
+        "summary": "Autonome KI-Agenten hinterlassen auf der Plattform DSEwiki Beiträge mit Testantworten und Tricks zum Umgehen von Sicherheitsbarrieren.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/openai-ki-agenten-kapern-deutsche-website-dsewiki-201196616.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "Gerald Knaus im Interview: „Die AfD ist heute die gefährlichste Partei innerhalb der EU“",
+        "summary": "Der Migrationsforscher erklärt, warum die AfD keine Angst vor selbst verursachten Wirtschaftskrisen hat – und die Folgen ihrer völkischen Ideologie verheerend wären.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/interview-die-afd-ist-heute-die-gefaehrlichste-partei-innerhalb-der-eu/100251482.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -127,84 +175,36 @@
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
-      },
-      {
-        "title": "Markt der Zukunft: Aufmarsch der Roboter",
-        "summary": "Menschenähnliche Roboter sind in der Wirklichkeit angekommen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/robotertechnologie-chancen-und-risiken-der-physical-ai-201188229.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "Ukraine-Krieg: Putin gibt sich siegessicher – trotz neuer Milliardenschäden durch ukrainische Drohnen",
-        "summary": "Russischer Aufklärer vor Polen abgefangen +++ Russland hat Energieanlagen in Odessa angegriffen +++ Selenskyj will US-Gesandte in Kiew treffen +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-putin-gibt-sich-siegessicher-trotz-neuer-milliardenschaeden/27982126.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "Volkswagen board approves plan to cut another 50,000 jobs",
-        "summary": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 posts by 2030.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
-      },
-      {
-        "title": "Leere Büros: „Unternehmen reduzieren weiter ihre Mietfläche“",
-        "summary": "Abseits der Innenstädte stehen immer öfter Büros leer.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/buero-gewerbe/pierre-nolte-warum-leere-bueros-investoren-vor-dilemmata-stellen-accg-201134231.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "Landtag: Großteil der BSW-Fraktion in Erfurt verlässt Partei – Zukunft der Landesregierung unklar",
-        "summary": "Die BSW-Fraktion in Erfurt sagt sich von der Bundespartei los.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/thueringen-bsw-fraktion-in-erfurt-zerfaellt-zukunft-der-landesregierung-unklar/100252041.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
-        "summary": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
-        "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
       }
     ]
   },
   "niche_news": {
     "status": "ok",
-    "error": "Quellen nicht erreichbar: NASA Breaking News",
+    "error": null,
     "data": [
       {
-        "title": "Interstellar solar sails hit a strange problem at 75% of light speed",
-        "summary": "Solar sails pushed by powerful lasers could reach incredible speeds, but relativity may eventually make the light itself work against them.",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260831015157.htm",
-        "source": "ScienceDaily – Physik",
+        "title": "A longer exhale may push your brain toward bolder decisions",
+        "summary": "Slow breathing with a prolonged exhale made people more willing to take risks by changing heart activity and increasing the brain’s sensitivity to rewards.",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260904000320.htm",
+        "source": "ScienceDaily – Neurowissenschaft",
         "publisher": "ScienceDaily",
-        "category": "Physik"
+        "category": "Neurowissenschaft"
       },
       {
-        "title": "The Pacific warming patterns warping US weather",
-        "summary": "El Niño and Pacific marine heatwaves are set to have a profound impact",
-        "link": "https://www.bbc.com/future/article/20260828-two-giant-warming-patterns-are-brewing-in-the-pacific-and-warping-us-weather?ocid=global_future_rss",
+        "title": "Briefing Chat: How 1,000 pairs of buried underpants helped measure soil health",
+        "summary": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02800-1 Nature staff discuss the winners of the 2026 Ig Nobel prizes — plus, the isolated energy flash that could be the first glimpse of dark matter.",
+        "link": "https://www.nature.com/articles/d41586-026-02800-1",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
+      },
+      {
+        "title": "Inside Earth's biggest telescope",
+        "summary": "A dry desert view into the cosmos",
+        "link": "https://www.bbc.com/future/article/20260827-the-biggest-telescope-of-all-time-is-nearly-ready-could-it-reveal-alien-life?ocid=global_future_rss",
         "source": "BBC Future",
         "publisher": "BBC",
         "category": "Zukunft"
-      },
-      {
-        "title": "Scaling agentic AI pilots across the enterprise",
-        "summary": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that…",
-        "link": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
-        "source": "MIT Technology Review",
-        "publisher": "MIT",
-        "category": "Technologie"
       }
     ]
   }

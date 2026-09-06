@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T08:52:09+00:00",
-  "date_label": "Saturday, 05. September 2026",
+  "generated_at": "2026-09-06T09:12:07+00:00",
+  "date_label": "Sunday, 06. September 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 68542,
-        "usd": 79604,
-        "change_24h_pct": -1.78
+        "eur": 68763,
+        "usd": 79861,
+        "change_24h_pct": 0.2
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2113.27,
-        "usd": 2454.35,
-        "change_24h_pct": -2.77
+        "eur": 2149.92,
+        "usd": 2496.92,
+        "change_24h_pct": 1.57
       }
     ]
   },
@@ -105,17 +105,17 @@
     "error": null,
     "data": [
       {
-        "title": "Volkswagen: Das Wunder von Wolfsburg - und was es für Deutschland bedeutet",
-        "summary": "Bei VW schien ein epochaler Konflikt um die Konzernsanierung unausweichlich.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/das-wunder-von-wolfsburg-was-die-einigung-zu-vw-fuer-deutschland-bedeutet-accg-201194462.html",
+        "title": "Dirk Rossmann: „Zocken würde ich das nicht nennen“",
+        "summary": "Dirk Roßmann war Pionier im Drogeriegeschäft und ist damit reich geworden.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/dirk-rossmann-was-der-drogerie-pionier-ueber-die-boerse-verraet-accg-201187920.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Nach Daten-Leak: Bundessicherheitsamt warnt vor höherer Cyber-Bedrohung",
-        "summary": "Nach dem Hackerangriff in Berlin warnt das Bundesamt für Sicherheit vor gezielten Phishing-Angriffen.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/nach-daten-leak-bundessicherheitsamt-warnt-vor-hoeherer-cyber-bedrohung/100252244.html",
+        "title": "Irankrieg: 95 statt 200 Dollar: Warum der große Öl-Schock bisher ausbleibt",
+        "summary": "Ölpreise von bis zu 200 Dollar pro Barrel prophezeiten Experten wegen des Irankriegs.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/rohstoffe-95-statt-200-dollar-warum-der-grosse-oel-schock-bisher-ausbleibt/100249647.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -129,49 +129,49 @@
         "category": ""
       },
       {
-        "title": "Tödliche Katastrophe: Nepal träumte vom Reichtum durch Wasserkraft. Dann kam die Flut",
-        "summary": "Mit in den Flüssen des Himalajas produziertem Strom wollte das Land ganz Südasien beliefern.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/nepals-wasserkraft-flutkatastrophe-zerstoert-den-traum-accg-201179320.html",
+        "title": "Singapur: Kein Schlüssel ohne Trauschein",
+        "summary": "Bei den Eltern ausziehen können Singles im teuren Singapur oft erst ab 35.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/singapur-warum-singles-erst-ab-35-eine-wohnung-kaufen-duerfen-accg-201122799.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Konsumgüter: Henkel-Chef Knobel stellt weitere Unternehmenskäufe in Aussicht",
-        "summary": "Die Konsumgüterfirma hält Ausschau nach weiteren Übernahmen und will damit seine Geschäfte stärken.",
-        "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/konsumgueter-henkel-chef-knobel-stellt-weitere-unternehmenskaeufe-in-aussicht/100252243.html",
+        "title": "Immobilien: Extreme Unterschiede zwischen den Städten: Wo die Wohnnebenkosten stärker steigen als die Inflation",
+        "summary": "Die Kosten für Trink-, Abwasser und Müllabfuhr steigen vielerorts rasant.",
+        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/immobilien-wo-die-wohnnebenkosten-staerker-steigen-als-die-inflation/100250924.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Trump calls for interest rate cut after jobs figures raise hike bets",
-        "summary": "The president's remarks came as stronger-than-expected jobs figures added to growing expectations that rates could be increased.",
-        "link": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
+        "title": "Jaguar Land Rover confirms planned job cuts",
+        "summary": "The firm says it needs to save about £1.7bn over the next two years.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Open AI: Forscher: KI-Agenten hinterlassen 18.000 Beiträge auf deutscher Website",
-        "summary": "Autonome KI-Agenten hinterlassen auf der Plattform DSEwiki Beiträge mit Testantworten und Tricks zum Umgehen von Sicherheitsbarrieren.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/openai-ki-agenten-kapern-deutsche-website-dsewiki-201196616.html",
+        "title": "Steuerreform: Haushalt sanieren. Jetzt!",
+        "summary": "Wer die gerade beschlossene Steuerentlastung mickrig findet, der hat zwar recht – wird sich aber in den nächsten Jahren noch umgucken.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/bundeshaushalt-sanieren-warum-klingbeil-jetzt-handeln-muss-201194679.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Gerald Knaus im Interview: „Die AfD ist heute die gefährlichste Partei innerhalb der EU“",
-        "summary": "Der Migrationsforscher erklärt, warum die AfD keine Angst vor selbst verursachten Wirtschaftskrisen hat – und die Folgen ihrer völkischen Ideologie verheerend wären.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/interview-die-afd-ist-heute-die-gefaehrlichste-partei-innerhalb-der-eu/100251482.html",
+        "title": "Radikalisierung: Warum Rechtsextremismus gerade junge Männer anzieht",
+        "summary": "Der Anteil junger Männer, die sich als „rechts“ verorten, steigt.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/radikalisierung-warum-rechtsextremismus-gerade-junge-maenner-anzieht/100252051.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
-        "summary": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
-        "link": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
+        "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
+        "summary": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
+        "link": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,28 +183,28 @@
     "error": null,
     "data": [
       {
-        "title": "A longer exhale may push your brain toward bolder decisions",
-        "summary": "Slow breathing with a prolonged exhale made people more willing to take risks by changing heart activity and increasing the brain’s sensitivity to rewards.",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260904000320.htm",
-        "source": "ScienceDaily – Neurowissenschaft",
-        "publisher": "ScienceDaily",
-        "category": "Neurowissenschaft"
+        "title": "Marine Biologists Solved a Wildlife Mystery From the Walkway of the Golden Gate Bridge: How the Harbor Porpoise Mates",
+        "summary": "The dolphin-like marine mammals returned to San Francisco Bay in 2008 after a decades-long absence from the area.",
+        "link": "https://www.smithsonianmag.com/science-nature/marine-biologists-solved-a-wildlife-mystery-from-the-walkway-of-the-golden-gate-bridge-how-the-harbor-porpoise-mates-180989163/",
+        "source": "Smithsonian",
+        "publisher": "Smithsonian",
+        "category": "Wissenschaft"
       },
       {
-        "title": "Briefing Chat: How 1,000 pairs of buried underpants helped measure soil health",
-        "summary": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02800-1 Nature staff discuss the winners of the 2026 Ig Nobel prizes — plus, the isolated energy flash that could be the first glimpse of dark matter.",
-        "link": "https://www.nature.com/articles/d41586-026-02800-1",
+        "title": "Ada Yonath obituary: Crystallographer who overcame ‘impossible’ challenge of mapping the ribosome",
+        "summary": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02801-0 Nobel laureate persisted despite widespread derision and revolutionized structural biology by protecting fragile crystals.",
+        "link": "https://www.nature.com/articles/d41586-026-02801-0",
         "source": "Nature News",
         "publisher": "Nature",
         "category": "Forschung"
       },
       {
-        "title": "Inside Earth's biggest telescope",
-        "summary": "A dry desert view into the cosmos",
-        "link": "https://www.bbc.com/future/article/20260827-the-biggest-telescope-of-all-time-is-nearly-ready-could-it-reveal-alien-life?ocid=global_future_rss",
-        "source": "BBC Future",
-        "publisher": "BBC",
-        "category": "Zukunft"
+        "title": "NASA Ames Fire Department Aircraft Firefighting Training",
+        "summary": "The fire department at NASA’s Ames Research Center in California’s Silicon Valley will perform training on the Moffett Federal Airfield beginning Tuesday, Sept.",
+        "link": "https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/",
+        "source": "NASA Breaking News",
+        "publisher": "NASA",
+        "category": "Raumfahrt"
       }
     ]
   }

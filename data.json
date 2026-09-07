@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T09:12:07+00:00",
-  "date_label": "Sunday, 06. September 2026",
+  "generated_at": "2026-09-07T10:00:12+00:00",
+  "date_label": "Monday, 07. September 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,8 +8,8 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 26046.4004,
-        "change_pct": 0.17
+        "price": 25972.75,
+        "change_pct": -0.28
       },
       {
         "name": "S&P 500",
@@ -26,14 +26,14 @@
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6392.9302,
-        "change_pct": 0.16
+        "price": 6386.4302,
+        "change_pct": -0.1
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 65020.9414,
-        "change_pct": 1.26
+        "price": 66399.8438,
+        "change_pct": 2.12
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 68763,
-        "usd": 79861,
-        "change_24h_pct": 0.2
+        "eur": 68269,
+        "usd": 79332,
+        "change_24h_pct": -0.74
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2149.92,
-        "usd": 2496.92,
-        "change_24h_pct": 1.57
+        "eur": 2139.33,
+        "usd": 2486.0,
+        "change_24h_pct": -0.57
       }
     ]
   },
@@ -64,14 +64,14 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1621,
-        "change_pct": 0.31
+        "price": 1.1624,
+        "change_pct": -0.04
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8587,
-        "change_pct": -0.05
+        "price": 0.8584,
+        "change_pct": -0.12
       },
       {
         "name": "EUR/CHF",
@@ -82,14 +82,14 @@
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 156.221,
-        "change_pct": -1.7
+        "price": 154.492,
+        "change_pct": -0.75
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 181.462,
-        "change_pct": -1.44
+        "price": 179.525,
+        "change_pct": -0.82
       },
       {
         "name": "US 10Y Rendite",
@@ -107,71 +107,71 @@
       {
         "title": "Dirk Rossmann: „Zocken würde ich das nicht nennen“",
         "summary": "Dirk Roßmann war Pionier im Drogeriegeschäft und ist damit reich geworden.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/dirk-rossmann-was-der-drogerie-pionier-ueber-die-boerse-verraet-accg-201187920.html",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/zocken-wuerde-ich-das-nicht-nennen-dirk-rossmann-ueber-seinen-spass-und-erfolg-an-der-boerse-accg-201187920.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Irankrieg: 95 statt 200 Dollar: Warum der große Öl-Schock bisher ausbleibt",
-        "summary": "Ölpreise von bis zu 200 Dollar pro Barrel prophezeiten Experten wegen des Irankriegs.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/rohstoffe-95-statt-200-dollar-warum-der-grosse-oel-schock-bisher-ausbleibt/100249647.html",
+        "title": "Anschläge: 21 Sprengsätze an Stromleitungen in Sachsen entdeckt und entschärft",
+        "summary": "Bereits am Samstag wurden zwölf Sprengvorrichtungen in Sachsen gefunden.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/anschlaege-21-sprengsaetze-an-stromleitungen-in-sachsen-entdeckt-und-entschaerft/100252548.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Stock up on food to prepare for extreme weather, minister says",
-        "summary": "Dame Angela Eagle warns the weather event could lead to extreme storms this winter.",
-        "link": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss",
+        "title": "Jaguar Land Rover to cut 4,000 jobs",
+        "summary": "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.",
+        "link": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Singapur: Kein Schlüssel ohne Trauschein",
-        "summary": "Bei den Eltern ausziehen können Singles im teuren Singapur oft erst ab 35.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/singapur-warum-singles-erst-ab-35-eine-wohnung-kaufen-duerfen-accg-201122799.html",
+        "title": "Bill Gates Warnt: Das turbulente Zeitalter der Künstlichen Intelligenz hat begonnen",
+        "summary": "Wir erleben einen epochalen Umbruch.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/bill-gates-warnt-wir-sind-auf-die-kuenstliche-intelligenz-nicht-vorbereitet-accg-201170877.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Immobilien: Extreme Unterschiede zwischen den Städten: Wo die Wohnnebenkosten stärker steigen als die Inflation",
-        "summary": "Die Kosten für Trink-, Abwasser und Müllabfuhr steigen vielerorts rasant.",
-        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/immobilien-wo-die-wohnnebenkosten-staerker-steigen-als-die-inflation/100250924.html",
+        "title": "Industrie: Deutsche Unternehmen drosseln Produktion überraschend",
+        "summary": "Die deutsche Industrie produziert im Juli weniger als erwartet.",
+        "link": "https://www.handelsblatt.com/politik/konjunktur/industrie-deutsche-unternehmen-drosseln-produktion-ueberraschend/100252485.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Jaguar Land Rover confirms planned job cuts",
-        "summary": "The firm says it needs to save about £1.7bn over the next two years.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&at_campaign=rss",
+        "title": "The £70 refund letter that isn't a scam",
+        "summary": "About one million people - mostly women - are owed pension tax relief and will be contacted by HMRC.",
+        "link": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Steuerreform: Haushalt sanieren. Jetzt!",
-        "summary": "Wer die gerade beschlossene Steuerentlastung mickrig findet, der hat zwar recht – wird sich aber in den nächsten Jahren noch umgucken.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/bundeshaushalt-sanieren-warum-klingbeil-jetzt-handeln-muss-201194679.html",
+        "title": "Munich Re: Die Hitze ist eine schleichende Gefahr",
+        "summary": "Welche Risiken bringen Klimawandel, Hitzesommer, Extremwetter und Cyberangriffe mit sich?",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/munich-re-vorstand-thomas-blunck-zur-lage-des-rueckversicherers-in-zeiten-des-klimawandels-accg-201184056.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Radikalisierung: Warum Rechtsextremismus gerade junge Männer anzieht",
-        "summary": "Der Anteil junger Männer, die sich als „rechts“ verorten, steigt.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/radikalisierung-warum-rechtsextremismus-gerade-junge-maenner-anzieht/100252051.html",
+        "title": "Automobilindustrie: Volkswagen will Werk in Osnabrück verkaufen",
+        "summary": "Der Automobilkonzern will das Werk an einen Finanzinvestor und das Land Niedersachsen verkaufen.",
+        "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/automobilindustrie-volkswagen-will-werk-in-osnabrueck-verkaufen/100252542.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
-        "summary": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
-        "link": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+        "title": "Officials investigating cause of deadly cargo plane crash at Miami airport",
+        "summary": "Five people are dead and five others injured after an aircraft overran the runway, hit vehicles and caught fire.",
+        "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": null,
+    "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "Marine Biologists Solved a Wildlife Mystery From the Walkway of the Golden Gate Bridge: How the Harbor Porpoise Mates",
-        "summary": "The dolphin-like marine mammals returned to San Francisco Bay in 2008 after a decades-long absence from the area.",
-        "link": "https://www.smithsonianmag.com/science-nature/marine-biologists-solved-a-wildlife-mystery-from-the-walkway-of-the-golden-gate-bridge-how-the-harbor-porpoise-mates-180989163/",
-        "source": "Smithsonian",
-        "publisher": "Smithsonian",
-        "category": "Wissenschaft"
+        "title": "A longer exhale may push your brain toward bolder decisions",
+        "summary": "Slow breathing with a prolonged exhale made people more willing to take risks by changing heart activity and increasing the brain’s sensitivity to rewards.",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260904000320.htm",
+        "source": "ScienceDaily – Neurowissenschaft",
+        "publisher": "ScienceDaily",
+        "category": "Neurowissenschaft"
       },
       {
-        "title": "Ada Yonath obituary: Crystallographer who overcame ‘impossible’ challenge of mapping the ribosome",
-        "summary": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02801-0 Nobel laureate persisted despite widespread derision and revolutionized structural biology by protecting fragile crystals.",
-        "link": "https://www.nature.com/articles/d41586-026-02801-0",
+        "title": "Briefing Chat: How 1,000 pairs of buried underpants helped measure soil health",
+        "summary": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02800-1 Nature staff discuss the winners of the 2026 Ig Nobel prizes — plus, the isolated energy flash that could be the first glimpse of dark matter.",
+        "link": "https://www.nature.com/articles/d41586-026-02800-1",
         "source": "Nature News",
         "publisher": "Nature",
         "category": "Forschung"
       },
       {
-        "title": "NASA Ames Fire Department Aircraft Firefighting Training",
-        "summary": "The fire department at NASA’s Ames Research Center in California’s Silicon Valley will perform training on the Moffett Federal Airfield beginning Tuesday, Sept.",
-        "link": "https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/",
-        "source": "NASA Breaking News",
-        "publisher": "NASA",
-        "category": "Raumfahrt"
+        "title": "The Download: selling battlefield drone data and AI reshaping language",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+        "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+        "source": "MIT Technology Review",
+        "publisher": "MIT",
+        "category": "Technologie"
       }
     ]
   }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T10:00:12+00:00",
-  "date_label": "Monday, 07. September 2026",
+  "generated_at": "2026-09-08T09:25:52+00:00",
+  "date_label": "Tuesday, 08. September 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,8 +8,8 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25972.75,
-        "change_pct": -0.28
+        "price": 25870.8398,
+        "change_pct": -0.52
       },
       {
         "name": "S&P 500",
@@ -26,14 +26,14 @@
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6386.4302,
-        "change_pct": -0.1
+        "price": 6378.46,
+        "change_pct": -0.4
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 66399.8438,
-        "change_pct": 2.12
+        "price": 65269.3281,
+        "change_pct": -1.7
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 68269,
-        "usd": 79332,
-        "change_24h_pct": -0.74
+        "eur": 67528,
+        "usd": 78411,
+        "change_24h_pct": -1.2
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2139.33,
-        "usd": 2486.0,
-        "change_24h_pct": -0.57
+        "eur": 2133.94,
+        "usd": 2477.83,
+        "change_24h_pct": -0.53
       }
     ]
   },
@@ -64,32 +64,32 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1624,
-        "change_pct": -0.04
+        "price": 1.1614,
+        "change_pct": 0.0
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8584,
-        "change_pct": -0.12
+        "price": 0.8585,
+        "change_pct": -0.07
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9401,
-        "change_pct": 0.12
+        "price": 0.9424,
+        "change_pct": 0.19
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 154.492,
-        "change_pct": -0.75
+        "price": 154.052,
+        "change_pct": -1.37
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 179.525,
-        "change_pct": -0.82
+        "price": 178.876,
+        "change_pct": -1.39
       },
       {
         "name": "US 10Y Rendite",
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Dirk Rossmann: „Zocken würde ich das nicht nennen“",
-        "summary": "Dirk Roßmann war Pionier im Drogeriegeschäft und ist damit reich geworden.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/zocken-wuerde-ich-das-nicht-nennen-dirk-rossmann-ueber-seinen-spass-und-erfolg-an-der-boerse-accg-201187920.html",
+        "title": "IT-Forscher Waidner: „Der Kreis derer, die einen solchen Angriff durchführen können, wächst“",
+        "summary": "Kurz vor der Wahl zum Abgeordnetenhaus haben Hacker Berlin angegriffen und ein riesiges Datenpaket im Darknet veröffentlicht.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/waidner-zum-hacker-angriff-auf-berlin-die-ganze-oeffentliche-it-ist-gefaehrdet-accg-201204927.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Anschläge: 21 Sprengsätze an Stromleitungen in Sachsen entdeckt und entschärft",
-        "summary": "Bereits am Samstag wurden zwölf Sprengvorrichtungen in Sachsen gefunden.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/anschlaege-21-sprengsaetze-an-stromleitungen-in-sachsen-entdeckt-und-entschaerft/100252548.html",
+        "title": "Ukraine-Krieg: Russland greift Kiew an – Polen sichert seinen Luftraum",
+        "summary": "Russland will Prämien von straffälligen Soldaten zurückfordern +++ Großbritannien sagt Luftabwehrpaket zu +++ Ukrainischer Generalstaatsanwalt kündigt Rücktritt an +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Jaguar Land Rover to cut 4,000 jobs",
-        "summary": "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.",
-        "link": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
+        "title": "The firms turning recruitment into X Factor-style competitions",
+        "summary": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience.",
+        "link": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Bill Gates Warnt: Das turbulente Zeitalter der Künstlichen Intelligenz hat begonnen",
-        "summary": "Wir erleben einen epochalen Umbruch.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/bill-gates-warnt-wir-sind-auf-die-kuenstliche-intelligenz-nicht-vorbereitet-accg-201170877.html",
+        "title": "Erfolg der Alpenrepublik: Warum geht es der Schweiz besser als Deutschland?",
+        "summary": "Die Schweizer Wirtschaft wächst.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/warum-geht-es-der-schweiz-wirtschaftlich-besser-als-deutschland-das-sind-die-antworten-accg-201180209.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Industrie: Deutsche Unternehmen drosseln Produktion überraschend",
-        "summary": "Die deutsche Industrie produziert im Juli weniger als erwartet.",
-        "link": "https://www.handelsblatt.com/politik/konjunktur/industrie-deutsche-unternehmen-drosseln-produktion-ueberraschend/100252485.html",
+        "title": "+++ USA +++: Trump taucht Island in US-Flagge – Reykjavík bestellt US-Botschafter ein",
+        "summary": "Amazon-Frachtjet-Unfall: Ermittler sichern Flugschreiber +++ Mindestens fünf Tote +++ Trump will Verkauf von Bombardier-Flugzeugen in den USA verbieten +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/international/trump-taucht-island-in-us-flagge-reykjavik-bestellt-us-botschafter-ein/29669594.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "The £70 refund letter that isn't a scam",
-        "summary": "About one million people - mostly women - are owed pension tax relief and will be contacted by HMRC.",
-        "link": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
+        "title": "UK's third-biggest taxpayer to leave for Greece",
+        "summary": "Chris Rokos plans to open an office in Athens, reports say, and was ranked third in the Sunday Times's list of the UK's top taxpayers.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Munich Re: Die Hitze ist eine schleichende Gefahr",
-        "summary": "Welche Risiken bringen Klimawandel, Hitzesommer, Extremwetter und Cyberangriffe mit sich?",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/munich-re-vorstand-thomas-blunck-zur-lage-des-rueckversicherers-in-zeiten-des-klimawandels-accg-201184056.html",
+        "title": "Deutscher Gründerpreis: Neue Ideen für Deutschland",
+        "summary": "Diese jungen Unternehmer haben das Zeug, die Welt zu verändern.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/deutscher-gruenderpreis-die-besten-start-ups-accg-201140162.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Automobilindustrie: Volkswagen will Werk in Osnabrück verkaufen",
-        "summary": "Der Automobilkonzern will das Werk an einen Finanzinvestor und das Land Niedersachsen verkaufen.",
-        "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/automobilindustrie-volkswagen-will-werk-in-osnabrueck-verkaufen/100252542.html",
+        "title": "Vermögen: Getrennt, aber nicht geschieden – die unterschätzten Risiken",
+        "summary": "Einige getrennte Paare schieben eine Scheidung jahrelang auf, ob aus Bequemlichkeit, Scham oder Kalkül.",
+        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/vermoegen-getrennt-aber-nicht-geschieden-die-unterschaetzten-risiken1234567/100249391.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Officials investigating cause of deadly cargo plane crash at Miami airport",
-        "summary": "Five people are dead and five others injured after an aircraft overran the runway, hit vehicles and caught fire.",
-        "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+        "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
+        "summary": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
+        "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": "Quellen nicht erreichbar: NASA Breaking News",
+    "error": null,
     "data": [
       {
-        "title": "A longer exhale may push your brain toward bolder decisions",
-        "summary": "Slow breathing with a prolonged exhale made people more willing to take risks by changing heart activity and increasing the brain’s sensitivity to rewards.",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260904000320.htm",
-        "source": "ScienceDaily – Neurowissenschaft",
-        "publisher": "ScienceDaily",
-        "category": "Neurowissenschaft"
+        "title": "Who Knew Illinois Had This Many Spooky Places?",
+        "summary": "Illinois is known for its haunted houses and Halloween extravaganzas: the kinds of places that draw lines out the door and attract visitors from all over the country.",
+        "link": "https://www.atlasobscura.com/articles/illinois-spooky-places",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
       },
       {
-        "title": "Briefing Chat: How 1,000 pairs of buried underpants helped measure soil health",
-        "summary": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02800-1 Nature staff discuss the winners of the 2026 Ig Nobel prizes — plus, the isolated energy flash that could be the first glimpse of dark matter.",
-        "link": "https://www.nature.com/articles/d41586-026-02800-1",
-        "source": "Nature News",
-        "publisher": "Nature",
-        "category": "Forschung"
-      },
-      {
-        "title": "The Download: selling battlefield drone data and AI reshaping language",
+        "title": "The Download: rethinking child safety and fossil-fueled farming",
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
-        "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+        "link": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
         "source": "MIT Technology Review",
         "publisher": "MIT",
         "category": "Technologie"
+      },
+      {
+        "title": "MIT turns bacteria into living transistors",
+        "summary": "MIT researchers have created bacterial “transistors” that can be wired together into living circuits capable of performing calculations and directing chemical signals.",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260901070526.htm",
+        "source": "ScienceDaily – Tiere",
+        "publisher": "ScienceDaily",
+        "category": "Biologie"
       }
     ]
   }

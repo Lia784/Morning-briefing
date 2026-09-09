@@ -1,39 +1,33 @@
 {
-  "generated_at": "2026-09-08T09:25:52+00:00",
-  "date_label": "Tuesday, 08. September 2026",
+  "generated_at": "2026-09-09T09:27:03+00:00",
+  "date_label": "Wednesday, 09. September 2026",
   "indices": {
     "status": "ok",
-    "error": null,
+    "error": "Teilweise nicht verfügbar: ^IXIC",
     "data": [
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25870.8398,
-        "change_pct": -0.52
+        "price": 25779.0605,
+        "change_pct": -0.88
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7718.6001,
-        "change_pct": -0.38
-      },
-      {
-        "name": "Nasdaq",
-        "symbol": "^IXIC",
-        "price": 26506.9902,
-        "change_pct": -0.29
+        "price": 7673.52,
+        "change_pct": -0.58
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6378.46,
-        "change_pct": -0.4
+        "price": 6343.0698,
+        "change_pct": -1.09
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 65269.3281,
-        "change_pct": -1.7
+        "price": 65142.7812,
+        "change_pct": -0.19
       }
     ]
   },
@@ -44,16 +38,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 67528,
-        "usd": 78411,
-        "change_24h_pct": -1.2
+        "eur": 68302,
+        "usd": 79458,
+        "change_24h_pct": 1.15
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2133.94,
-        "usd": 2477.83,
-        "change_24h_pct": -0.53
+        "eur": 2156.66,
+        "usd": 2508.93,
+        "change_24h_pct": 0.99
       }
     ]
   },
@@ -64,37 +58,37 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1614,
-        "change_pct": 0.0
+        "price": 1.1637,
+        "change_pct": 0.08
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8585,
-        "change_pct": -0.07
+        "price": 0.8587,
+        "change_pct": 0.05
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9424,
-        "change_pct": 0.19
+        "price": 0.9419,
+        "change_pct": 0.14
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 154.052,
-        "change_pct": -1.37
+        "price": 153.494,
+        "change_pct": -0.23
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 178.876,
-        "change_pct": -1.39
+        "price": 178.571,
+        "change_pct": -0.18
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.784,
+        "price": 4.806,
         "change_pct": 0.46,
         "unit": "%"
       }
@@ -105,6 +99,54 @@
     "error": null,
     "data": [
       {
+        "title": "Erfolg der Alpenrepublik: Warum geht es der Schweiz besser als Deutschland?",
+        "summary": "Die Schweizer Wirtschaft wächst, Deutschland wird nach unten durchgereicht.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/warum-geht-es-der-schweiz-wirtschaftlich-besser-als-deutschland-das-sind-die-antworten-accg-201180209.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "Flugchaos: Flugausfälle in Großbritannien – Airlines fordern Konsequenzen",
+        "summary": "Eine technische Panne bei NATS hat an mehreren britischen Flughäfen für Verspätungen und Ausfälle gesorgt.",
+        "link": "https://www.handelsblatt.com/politik/international/flugchaos-flugausfaelle-in-grossbritannien-airlines-fordern-konsequenzen/100253032.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "Learner drivers still waiting 20 weeks to book tests",
+        "summary": "The Driver and Vehicle Standards Agency had been given a target to reduce average wait times to seven weeks.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
+        "title": "F.A.Z.-Europakonferenz: Künstliche Intelligenz, Trump und der Ukrainekrieg: Wie schlägt sich Europa?",
+        "summary": "KI, Konflikte mit den USA und China und der Krieg in der Ukraine: Europa steht unter Druck wie lange nicht mehr.",
+        "link": "https://www.faz.net/video/kuenstliche-intelligenz-trump-und-der-ukrainekrieg-wie-schlaegt-sich-europa-201180182.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "Großbank: HSBC löst Sparte in Deutschland auf – 300 Jobs fallen weg",
+        "summary": "Die britische Bank HSBC möchte sich auf Geschäfte in Asien fokussieren.",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/bank-hsbc-loest-sparte-in-deutschland-auf-300-jobs-fallen-weg/100253172.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "What are my rights if my flight is cancelled or delayed?",
+        "summary": "Flights are cancelled owing to air traffic control problems, so what are your rights if you're affected?",
+        "link": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
         "title": "IT-Forscher Waidner: „Der Kreis derer, die einen solchen Angriff durchführen können, wächst“",
         "summary": "Kurz vor der Wahl zum Abgeordnetenhaus haben Hacker Berlin angegriffen und ein riesiges Datenpaket im Darknet veröffentlicht.",
         "link": "https://www.faz.net/aktuell/wirtschaft/waidner-zum-hacker-angriff-auf-berlin-die-ganze-oeffentliche-it-ist-gefaehrdet-accg-201204927.html",
@@ -113,65 +155,17 @@
         "category": ""
       },
       {
-        "title": "Ukraine-Krieg: Russland greift Kiew an – Polen sichert seinen Luftraum",
-        "summary": "Russland will Prämien von straffälligen Soldaten zurückfordern +++ Großbritannien sagt Luftabwehrpaket zu +++ Ukrainischer Generalstaatsanwalt kündigt Rücktritt an +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
+        "title": "+++ Iran-Krieg +++: USA zerstören fünf iranische Öltanker – einer wird versenkt",
+        "summary": "Iranische Medien melden Raketenangriffe auf Jordanien +++ Großbritannien sanktioniert Siedlungen im Westjordanland +++ Lufthansa-Gruppe fliegt ab Ende Oktober wieder nach Dubai +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/international/iran-krieg-usa-zerstoeren-fuenf-iranische-oeltanker-einer-wird-versenkt/100136895.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "The firms turning recruitment into X Factor-style competitions",
-        "summary": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience.",
-        "link": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
-      },
-      {
-        "title": "Erfolg der Alpenrepublik: Warum geht es der Schweiz besser als Deutschland?",
-        "summary": "Die Schweizer Wirtschaft wächst.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/warum-geht-es-der-schweiz-wirtschaftlich-besser-als-deutschland-das-sind-die-antworten-accg-201180209.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "+++ USA +++: Trump taucht Island in US-Flagge – Reykjavík bestellt US-Botschafter ein",
-        "summary": "Amazon-Frachtjet-Unfall: Ermittler sichern Flugschreiber +++ Mindestens fünf Tote +++ Trump will Verkauf von Bombardier-Flugzeugen in den USA verbieten +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/international/trump-taucht-island-in-us-flagge-reykjavik-bestellt-us-botschafter-ein/29669594.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "UK's third-biggest taxpayer to leave for Greece",
-        "summary": "Chris Rokos plans to open an office in Athens, reports say, and was ranked third in the Sunday Times's list of the UK's top taxpayers.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
-      },
-      {
-        "title": "Deutscher Gründerpreis: Neue Ideen für Deutschland",
-        "summary": "Diese jungen Unternehmer haben das Zeug, die Welt zu verändern.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/deutscher-gruenderpreis-die-besten-start-ups-accg-201140162.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "Vermögen: Getrennt, aber nicht geschieden – die unterschätzten Risiken",
-        "summary": "Einige getrennte Paare schieben eine Scheidung jahrelang auf, ob aus Bequemlichkeit, Scham oder Kalkül.",
-        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/vermoegen-getrennt-aber-nicht-geschieden-die-unterschaetzten-risiken1234567/100249391.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
-        "summary": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
-        "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+        "title": "Anthropic safety researcher says more than 10% chance AI 'could kill all humans'",
+        "summary": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
+        "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,28 +177,28 @@
     "error": null,
     "data": [
       {
-        "title": "Who Knew Illinois Had This Many Spooky Places?",
-        "summary": "Illinois is known for its haunted houses and Halloween extravaganzas: the kinds of places that draw lines out the door and attract visitors from all over the country.",
-        "link": "https://www.atlasobscura.com/articles/illinois-spooky-places",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
+        "title": "Marine Biologists Solved a Wildlife Mystery From the Walkway of the Golden Gate Bridge: How the Harbor Porpoise Mates",
+        "summary": "The dolphin-like marine mammals returned to San Francisco Bay in 2008 after a decades-long absence from the area.",
+        "link": "https://www.smithsonianmag.com/science-nature/marine-biologists-solved-a-wildlife-mystery-from-the-walkway-of-the-golden-gate-bridge-how-the-harbor-porpoise-mates-180989163/",
+        "source": "Smithsonian",
+        "publisher": "Smithsonian",
+        "category": "Wissenschaft"
       },
       {
-        "title": "The Download: rethinking child safety and fossil-fueled farming",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
-        "link": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
-        "source": "MIT Technology Review",
-        "publisher": "MIT",
-        "category": "Technologie"
+        "title": "Author Correction: Contrasting roles of histone 3 lysine 27 demethylases in acute lymphoblastic leukaemia",
+        "summary": "Nature, Published online: 08 September 2026; doi:10.1038/s41586-026-11081-7 Author Correction: Contrasting roles of histone 3 lysine 27 demethylases in acute lymphoblastic leukaemia",
+        "link": "https://www.nature.com/articles/s41586-026-11081-7",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
       },
       {
-        "title": "MIT turns bacteria into living transistors",
-        "summary": "MIT researchers have created bacterial “transistors” that can be wired together into living circuits capable of performing calculations and directing chemical signals.",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260901070526.htm",
-        "source": "ScienceDaily – Tiere",
-        "publisher": "ScienceDaily",
-        "category": "Biologie"
+        "title": "Curiosity Blog, Sols 4995-5001: 5,000 (Martian) Days on Mars",
+        "summary": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Aug.",
+        "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4995-5001-5000-martian-days-on-mars/",
+        "source": "NASA Breaking News",
+        "publisher": "NASA",
+        "category": "Raumfahrt"
       }
     ]
   }

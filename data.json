@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-09-09T09:27:03+00:00",
-  "date_label": "Wednesday, 09. September 2026",
+  "generated_at": "2026-09-10T09:26:07+00:00",
+  "date_label": "Thursday, 10. September 2026",
   "indices": {
     "status": "ok",
-    "error": "Teilweise nicht verfügbar: ^IXIC",
+    "error": "Teilweise nicht verfügbar: ^GSPC",
     "data": [
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25779.0605,
-        "change_pct": -0.88
+        "price": 25518.6992,
+        "change_pct": -0.23
       },
       {
-        "name": "S&P 500",
-        "symbol": "^GSPC",
-        "price": 7673.52,
-        "change_pct": -0.58
+        "name": "Nasdaq",
+        "symbol": "^IXIC",
+        "price": 26253.3398,
+        "change_pct": -0.64
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6343.0698,
-        "change_pct": -1.09
+        "price": 6300.4902,
+        "change_pct": -0.18
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 65142.7812,
-        "change_pct": -0.19
+        "price": 65270.9492,
+        "change_pct": 0.2
       }
     ]
   },
@@ -38,16 +38,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 68302,
-        "usd": 79458,
-        "change_24h_pct": 1.15
+        "eur": 67157,
+        "usd": 78164,
+        "change_24h_pct": -1.66
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2156.66,
-        "usd": 2508.93,
-        "change_24h_pct": 0.99
+        "eur": 2127.32,
+        "usd": 2476.01,
+        "change_24h_pct": -1.35
       }
     ]
   },
@@ -58,38 +58,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1637,
-        "change_pct": 0.08
+        "price": 1.1639,
+        "change_pct": 0.1
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
         "price": 0.8587,
-        "change_pct": 0.05
+        "change_pct": 0.02
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9419,
-        "change_pct": 0.14
+        "price": 0.9431,
+        "change_pct": 0.26
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 153.494,
-        "change_pct": -0.23
+        "price": 153.729,
+        "change_pct": 0.16
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 178.571,
-        "change_pct": -0.18
+        "price": 178.867,
+        "change_pct": 0.23
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.806,
-        "change_pct": 0.46,
+        "price": 4.837,
+        "change_pct": 0.65,
         "unit": "%"
       }
     ]
@@ -99,73 +99,73 @@
     "error": null,
     "data": [
       {
-        "title": "Erfolg der Alpenrepublik: Warum geht es der Schweiz besser als Deutschland?",
-        "summary": "Die Schweizer Wirtschaft wächst, Deutschland wird nach unten durchgereicht.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/warum-geht-es-der-schweiz-wirtschaftlich-besser-als-deutschland-das-sind-die-antworten-accg-201180209.html",
+        "title": "Streit um 40-Stunden-Woche: Mercedes droht mit Schließung eines deutschen Werks",
+        "summary": "Um die Kosten in den deutschen Werken zu senken, will der Autohersteller die Wochenarbeitszeit auf 40 Stunden verlängern.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/mercedes-droht-mit-werksschliessung-in-deutschland-201209705.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Flugchaos: Flugausfälle in Großbritannien – Airlines fordern Konsequenzen",
-        "summary": "Eine technische Panne bei NATS hat an mehreren britischen Flughäfen für Verspätungen und Ausfälle gesorgt.",
-        "link": "https://www.handelsblatt.com/politik/international/flugchaos-flugausfaelle-in-grossbritannien-airlines-fordern-konsequenzen/100253032.html",
+        "title": "Bundeshaushalt 2027: Dobrindt plant mehr Geld für Polizei und Cyberschutz",
+        "summary": "Das Parlament debattiert über den Bundeshaushalt 2027.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/bundeshaushalt-2027-mehr-geld-fuer-polizei-und-cyberschutz-geplant/100253501.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Learner drivers still waiting 20 weeks to book tests",
-        "summary": "The Driver and Vehicle Standards Agency had been given a target to reduce average wait times to seven weeks.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
+        "title": "Primark finally set to launch home deliveries",
+        "summary": "The retailer launches the service four years after making its first foray into internet shopping.",
+        "link": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "F.A.Z.-Europakonferenz: Künstliche Intelligenz, Trump und der Ukrainekrieg: Wie schlägt sich Europa?",
+        "title": "F.A.Z.-Europakonferenz: KI, Trump und Europas Souveränität: Jetzt spricht Wildberger",
         "summary": "KI, Konflikte mit den USA und China und der Krieg in der Ukraine: Europa steht unter Druck wie lange nicht mehr.",
-        "link": "https://www.faz.net/video/kuenstliche-intelligenz-trump-und-der-ukrainekrieg-wie-schlaegt-sich-europa-201180182.html",
+        "link": "https://www.faz.net/video/ki-trump-und-europas-souveraenitaet-jetzt-spricht-wildberger-201180182.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Großbank: HSBC löst Sparte in Deutschland auf – 300 Jobs fallen weg",
-        "summary": "Die britische Bank HSBC möchte sich auf Geschäfte in Asien fokussieren.",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/bank-hsbc-loest-sparte-in-deutschland-auf-300-jobs-fallen-weg/100253172.html",
+        "title": "Chemiekonzern: Dow erwägt Ausstieg aus Chemie-Joint-Venture mit Saudi-Arabiens Aramco",
+        "summary": "Der Chemiekonzern Dow steht vor einer Neuausrichtung.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/chemiekonzern-dow-erwaegt-ausstieg-aus-chemie-joint-venture-mit-saudi-arabiens-aramco/100253490.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "What are my rights if my flight is cancelled or delayed?",
-        "summary": "Flights are cancelled owing to air traffic control problems, so what are your rights if you're affected?",
-        "link": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
+        "title": "The one thing you need to do to succeed - according to top bosses",
+        "summary": "What makes someone stand out in a crowded workplace?",
+        "link": "https://www.bbc.co.uk/news/articles/cn5dew594n6o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "IT-Forscher Waidner: „Der Kreis derer, die einen solchen Angriff durchführen können, wächst“",
-        "summary": "Kurz vor der Wahl zum Abgeordnetenhaus haben Hacker Berlin angegriffen und ein riesiges Datenpaket im Darknet veröffentlicht.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/waidner-zum-hacker-angriff-auf-berlin-die-ganze-oeffentliche-it-ist-gefaehrdet-accg-201204927.html",
+        "title": "Neue iPhones: Apple macht sein iPhone faltbar und teurer",
+        "summary": "Faltbare Smartphones waren bisher ein Nischenprodukt.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/iphone-duo-apples-erstes-faltbares-smartphone-ab-2299-euro-accg-201212097.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "+++ Iran-Krieg +++: USA zerstören fünf iranische Öltanker – einer wird versenkt",
-        "summary": "Iranische Medien melden Raketenangriffe auf Jordanien +++ Großbritannien sanktioniert Siedlungen im Westjordanland +++ Lufthansa-Gruppe fliegt ab Ende Oktober wieder nach Dubai +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/international/iran-krieg-usa-zerstoeren-fuenf-iranische-oeltanker-einer-wird-versenkt/100136895.html",
+        "title": "Autobranche: Was hinter dem Verkauf von Anteilen bei Porsche steckt",
+        "summary": "Der Verkauf von Anteilen an Bugatti und Rimac bringt Porsche rund eine Milliarde Euro ein.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/autobranche-was-hinter-dem-verkauf-von-anteilen-bei-porsche-steckt/100253507.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Anthropic safety researcher says more than 10% chance AI 'could kill all humans'",
-        "summary": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
-        "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
+        "title": "Air traffic failure was avoidable, says transport secretary",
+        "summary": "Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.",
+        "link": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -177,28 +177,28 @@
     "error": null,
     "data": [
       {
-        "title": "Marine Biologists Solved a Wildlife Mystery From the Walkway of the Golden Gate Bridge: How the Harbor Porpoise Mates",
-        "summary": "The dolphin-like marine mammals returned to San Francisco Bay in 2008 after a decades-long absence from the area.",
-        "link": "https://www.smithsonianmag.com/science-nature/marine-biologists-solved-a-wildlife-mystery-from-the-walkway-of-the-golden-gate-bridge-how-the-harbor-porpoise-mates-180989163/",
-        "source": "Smithsonian",
-        "publisher": "Smithsonian",
-        "category": "Wissenschaft"
+        "title": "“Parachute science” is failing the tropics, home to more than 80% of insect species",
+        "summary": "Insects quietly hold much of the natural world together, yet conservation efforts are overlooking the tropical regions where more than 80 percent of insect species live.",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260909005145.htm",
+        "source": "ScienceDaily – Tiere",
+        "publisher": "ScienceDaily",
+        "category": "Biologie"
       },
       {
-        "title": "Author Correction: Contrasting roles of histone 3 lysine 27 demethylases in acute lymphoblastic leukaemia",
-        "summary": "Nature, Published online: 08 September 2026; doi:10.1038/s41586-026-11081-7 Author Correction: Contrasting roles of histone 3 lysine 27 demethylases in acute lymphoblastic leukaemia",
-        "link": "https://www.nature.com/articles/s41586-026-11081-7",
+        "title": "How AI is changing PhD programmes: join our free webinar",
+        "summary": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02751-7 Learn how artificial intelligence can hone your research skills as well as the potential pitfalls of relying too heavily on it.",
+        "link": "https://www.nature.com/articles/d41586-026-02751-7",
         "source": "Nature News",
         "publisher": "Nature",
         "category": "Forschung"
       },
       {
-        "title": "Curiosity Blog, Sols 4995-5001: 5,000 (Martian) Days on Mars",
-        "summary": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Aug.",
-        "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4995-5001-5000-martian-days-on-mars/",
-        "source": "NASA Breaking News",
-        "publisher": "NASA",
-        "category": "Raumfahrt"
+        "title": "September 11th Garden Braemar Stone in New York, New York",
+        "summary": "Following the tragic September 11, 2001, attacks that destroyed the World Trade Center in Manhattan, a series of memorials were created around the New York City area to remember the people who died in the attack.",
+        "link": "https://www.atlasobscura.com/places/queen-elizabeth-ii-september-11th-garden-braemar-stone",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
       }
     ]
   }

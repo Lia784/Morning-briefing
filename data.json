@@ -1,33 +1,39 @@
 {
-  "generated_at": "2026-09-10T09:26:07+00:00",
-  "date_label": "Thursday, 10. September 2026",
+  "generated_at": "2026-09-11T09:24:45+00:00",
+  "date_label": "Friday, 11. September 2026",
   "indices": {
     "status": "ok",
-    "error": "Teilweise nicht verfügbar: ^GSPC",
+    "error": null,
     "data": [
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25518.6992,
-        "change_pct": -0.23
+        "price": 25484.7402,
+        "change_pct": 0.49
+      },
+      {
+        "name": "S&P 500",
+        "symbol": "^GSPC",
+        "price": 7591.7002,
+        "change_pct": -0.58
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26253.3398,
-        "change_pct": -0.64
+        "price": 26081.7207,
+        "change_pct": -0.65
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6300.4902,
-        "change_pct": -0.18
+        "price": 6304.46,
+        "change_pct": 0.57
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 65270.9492,
-        "change_pct": 0.2
+        "price": 64011.3398,
+        "change_pct": -1.93
       }
     ]
   },
@@ -38,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 67157,
-        "usd": 78164,
-        "change_24h_pct": -1.66
+        "eur": 66595,
+        "usd": 77248,
+        "change_24h_pct": -0.83
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2127.32,
-        "usd": 2476.01,
-        "change_24h_pct": -1.35
+        "eur": 2132.65,
+        "usd": 2473.81,
+        "change_24h_pct": 0.25
       }
     ]
   },
@@ -58,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1639,
-        "change_pct": 0.1
+        "price": 1.1604,
+        "change_pct": -0.26
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
         "price": 0.8587,
-        "change_pct": 0.02
+        "change_pct": 0.01
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9431,
-        "change_pct": 0.26
+        "price": 0.9444,
+        "change_pct": 0.22
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 153.729,
-        "change_pct": 0.16
+        "price": 154.13,
+        "change_pct": 0.36
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 178.867,
-        "change_pct": 0.23
+        "price": 178.804,
+        "change_pct": 0.09
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.837,
-        "change_pct": 0.65,
+        "price": 4.944,
+        "change_pct": 2.21,
         "unit": "%"
       }
     ]
@@ -99,25 +105,25 @@
     "error": null,
     "data": [
       {
-        "title": "Streit um 40-Stunden-Woche: Mercedes droht mit Schließung eines deutschen Werks",
-        "summary": "Um die Kosten in den deutschen Werken zu senken, will der Autohersteller die Wochenarbeitszeit auf 40 Stunden verlängern.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/mercedes-droht-mit-werksschliessung-in-deutschland-201209705.html",
+        "title": "Carsten Linnemann: „Wenn wir nicht schnell umsteuern, dann stellt sich für die Union die Existenzfrage“",
+        "summary": "Gesundheitsminister Carsten Linnemann will eine Kommission einsetzen, die grundlegende Änderungen im Pflegesystem erarbeiten soll.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/gesundheitsminister-linnemann-im-interview-warum-ohne-reform-ein-pflege-kollaps-droht-201212912.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Bundeshaushalt 2027: Dobrindt plant mehr Geld für Polizei und Cyberschutz",
-        "summary": "Das Parlament debattiert über den Bundeshaushalt 2027.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/bundeshaushalt-2027-mehr-geld-fuer-polizei-und-cyberschutz-geplant/100253501.html",
+        "title": "Wahl-O-Mat: Welche Parteien bei der Berlin-Wahl 2026 am besten zu Ihnen passen",
+        "summary": "Am 20.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/berlin-wahl-2026-welche-partei-passt-zu-ihnen-der-wahl-o-mat-hilft/100246416.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Primark finally set to launch home deliveries",
-        "summary": "The retailer launches the service four years after making its first foray into internet shopping.",
-        "link": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
+        "title": "AI boom helps drive surprise UK growth in July",
+        "summary": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
+        "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -131,41 +137,41 @@
         "category": ""
       },
       {
-        "title": "Chemiekonzern: Dow erwägt Ausstieg aus Chemie-Joint-Venture mit Saudi-Arabiens Aramco",
-        "summary": "Der Chemiekonzern Dow steht vor einer Neuausrichtung.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/chemiekonzern-dow-erwaegt-ausstieg-aus-chemie-joint-venture-mit-saudi-arabiens-aramco/100253490.html",
+        "title": "AfD: Siegmund sieht Rüstung als mögliche Hilfe für „Remigration“",
+        "summary": "Bei seinem Wahlkampf versprach AfD-Spitzenkandidat Ulrich Siegmund eine Abschiebeoffensive.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/afd-siegmund-sieht-ruestung-als-moegliche-hilfe-fuer-remigration/100253840.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "The one thing you need to do to succeed - according to top bosses",
-        "summary": "What makes someone stand out in a crowded workplace?",
-        "link": "https://www.bbc.co.uk/news/articles/cn5dew594n6o?at_medium=RSS&at_campaign=rss",
+        "title": "I asked my husband to pay into my pension when we had a child - here's why",
+        "summary": "Molly and Taylor Haylett explain the changes to how they managed their finances when they started a family.",
+        "link": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Neue iPhones: Apple macht sein iPhone faltbar und teurer",
-        "summary": "Faltbare Smartphones waren bisher ein Nischenprodukt.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/iphone-duo-apples-erstes-faltbares-smartphone-ab-2299-euro-accg-201212097.html",
+        "title": "China und Indien: Xi reist zu Modi – Die größte Wachstumsgeschichte der Weltwirtschaft?",
+        "summary": "Lange lagen die Beziehungen zwischen Indien und China auf Eis.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/indien-und-china-beginn-der-groessten-wachstumsgeschichte-accg-201209594.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Autobranche: Was hinter dem Verkauf von Anteilen bei Porsche steckt",
-        "summary": "Der Verkauf von Anteilen an Bugatti und Rimac bringt Porsche rund eine Milliarde Euro ein.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/autobranche-was-hinter-dem-verkauf-von-anteilen-bei-porsche-steckt/100253507.html",
+        "title": "+++ Iran-Krieg +++: Huthi-Miliz erobert Küstenstädte und Inseln an der Meerenge Bab al-Mandab",
+        "summary": "Golf-Staaten und Iran planen offenbar Treffen zu Straße von Hormus +++ UN-Gesandter warnt vor Gefahr für Schifffahrt durch Huthi-Vormarsch +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/international/iran-krieg-huthi-miliz-kontrolliert-weite-teile-der-jemenitischen-kueste/100136895.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Air traffic failure was avoidable, says transport secretary",
-        "summary": "Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.",
-        "link": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
+        "title": "Interest rates could rise again across the world – here's why",
+        "summary": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
+        "link": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -177,25 +183,25 @@
     "error": null,
     "data": [
       {
-        "title": "“Parachute science” is failing the tropics, home to more than 80% of insect species",
-        "summary": "Insects quietly hold much of the natural world together, yet conservation efforts are overlooking the tropical regions where more than 80 percent of insect species live.",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260909005145.htm",
-        "source": "ScienceDaily – Tiere",
+        "title": "These Enchanting and Colorful Photos of Seashells and the Mollusks That Create Them Will Have You Marveling at the Natural World",
+        "summary": "Before they become sandy souvenirs, the baubles in the bubbles of the shoreline serve as a veritable fortress for creatures like clams, mussels and conchs",
+        "link": "https://www.smithsonianmag.com/science-nature/enchanting-colorful-photos-seashells-mollusks-who-create-them-have-you-marveling-at-natural-world-180989291/",
+        "source": "Smithsonian",
+        "publisher": "Smithsonian",
+        "category": "Wissenschaft"
+      },
+      {
+        "title": "Scientists find a way to slash computer memory energy use by orders of magnitude",
+        "summary": "Scientists have devised a new way to switch magnetic computer memory while using far less energy than today's leading technologies.",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260906170132.htm",
+        "source": "ScienceDaily – Physik",
         "publisher": "ScienceDaily",
-        "category": "Biologie"
+        "category": "Physik"
       },
       {
-        "title": "How AI is changing PhD programmes: join our free webinar",
-        "summary": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02751-7 Learn how artificial intelligence can hone your research skills as well as the potential pitfalls of relying too heavily on it.",
-        "link": "https://www.nature.com/articles/d41586-026-02751-7",
-        "source": "Nature News",
-        "publisher": "Nature",
-        "category": "Forschung"
-      },
-      {
-        "title": "September 11th Garden Braemar Stone in New York, New York",
-        "summary": "Following the tragic September 11, 2001, attacks that destroyed the World Trade Center in Manhattan, a series of memorials were created around the New York City area to remember the people who died in the attack.",
-        "link": "https://www.atlasobscura.com/places/queen-elizabeth-ii-september-11th-garden-braemar-stone",
+        "title": "Moaning Caverns in Vallecito, California",
+        "summary": "Hidden beneath the Sierra Nevada foothills of California, Moaning Caverns is an enormous limestone cave with a history as unusual as its name.",
+        "link": "https://www.atlasobscura.com/places/moaning-caverns",
         "source": "Atlas Obscura",
         "publisher": "Atlas Obscura",
         "category": "Entdeckung"

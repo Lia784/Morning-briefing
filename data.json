@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T09:24:45+00:00",
-  "date_label": "Friday, 11. September 2026",
+  "generated_at": "2026-09-12T09:05:05+00:00",
+  "date_label": "Saturday, 12. September 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,26 +8,26 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25484.7402,
-        "change_pct": 0.49
+        "price": 25568.5605,
+        "change_pct": 0.82
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7591.7002,
-        "change_pct": -0.58
+        "price": 7656.98,
+        "change_pct": 0.86
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26081.7207,
-        "change_pct": -0.65
+        "price": 26333.0391,
+        "change_pct": 0.96
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6304.46,
-        "change_pct": 0.57
+        "price": 6325.1299,
+        "change_pct": 0.9
       },
       {
         "name": "Nikkei 225",
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 66595,
-        "usd": 77248,
-        "change_24h_pct": -0.83
+        "eur": 66661,
+        "usd": 77340,
+        "change_24h_pct": 0.01
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2132.65,
-        "usd": 2473.81,
-        "change_24h_pct": 0.25
+        "eur": 2184.25,
+        "usd": 2534.17,
+        "change_24h_pct": 2.36
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1604,
-        "change_pct": -0.26
+        "price": 1.1602,
+        "change_pct": -0.27
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8587,
-        "change_pct": 0.01
+        "price": 0.8579,
+        "change_pct": -0.17
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9444,
-        "change_pct": 0.22
+        "price": 0.9467,
+        "change_pct": 0.28
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 154.13,
-        "change_pct": 0.36
+        "price": 153.554,
+        "change_pct": -0.01
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 178.804,
-        "change_pct": 0.09
+        "price": 178.142,
+        "change_pct": -0.29
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.944,
-        "change_pct": 2.21,
+        "price": 4.975,
+        "change_pct": 0.63,
         "unit": "%"
       }
     ]
@@ -105,25 +105,25 @@
     "error": null,
     "data": [
       {
-        "title": "Carsten Linnemann: „Wenn wir nicht schnell umsteuern, dann stellt sich für die Union die Existenzfrage“",
-        "summary": "Gesundheitsminister Carsten Linnemann will eine Kommission einsetzen, die grundlegende Änderungen im Pflegesystem erarbeiten soll.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/gesundheitsminister-linnemann-im-interview-warum-ohne-reform-ein-pflege-kollaps-droht-201212912.html",
+        "title": "Indische Gründerinnen: „Erben ist das Privileg von Männern“",
+        "summary": "Indien will zu einer der größten Industrienationen aufsteigen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/menschen-wirtschaft/indien-mit-feminismus-auf-dem-weg-zur-wirtschaftsmacht-accg-201085753.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Wahl-O-Mat: Welche Parteien bei der Berlin-Wahl 2026 am besten zu Ihnen passen",
-        "summary": "Am 20.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/berlin-wahl-2026-welche-partei-passt-zu-ihnen-der-wahl-o-mat-hilft/100246416.html",
+        "title": "Umfrage: Beschäftigte würden mehr arbeiten – Anreize wichtig",
+        "summary": "Die Beschäftigten in Deutschland müssen mehr arbeiten – so lautet vielfach die Forderung.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/umfrage-beschaeftigte-wuerden-mehr-arbeiten-anreize-wichtig/100254049.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "AI boom helps drive surprise UK growth in July",
-        "summary": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
-        "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+        "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
+        "summary": "O'Leary has said airline passengers \"can't afford to fly with the high-fare rapists around Europe\".",
+        "link": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -137,33 +137,33 @@
         "category": ""
       },
       {
-        "title": "AfD: Siegmund sieht Rüstung als mögliche Hilfe für „Remigration“",
-        "summary": "Bei seinem Wahlkampf versprach AfD-Spitzenkandidat Ulrich Siegmund eine Abschiebeoffensive.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/afd-siegmund-sieht-ruestung-als-moegliche-hilfe-fuer-remigration/100253840.html",
+        "title": "Finanzpolitik: Vergessenes Geld – Grüne wollen Milliarden mobilisieren",
+        "summary": "Wenn Geld auf Konten liegt, um die sich niemand mehr kümmern kann, ist es fraglich, wie man damit umgeht.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/finanzpolitik-vergessenes-geld-gruene-wollen-milliarden-mobilisieren/100254047.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "I asked my husband to pay into my pension when we had a child - here's why",
-        "summary": "Molly and Taylor Haylett explain the changes to how they managed their finances when they started a family.",
-        "link": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss",
+        "title": "US prices remain high as fuel costs squeeze household budgets",
+        "summary": "Prices in the US rose 3.4% in the 12 months to August, according to the latest official report on inflation.",
+        "link": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "China und Indien: Xi reist zu Modi – Die größte Wachstumsgeschichte der Weltwirtschaft?",
-        "summary": "Lange lagen die Beziehungen zwischen Indien und China auf Eis.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/indien-und-china-beginn-der-groessten-wachstumsgeschichte-accg-201209594.html",
+        "title": "Wirtschaftsprüfer Eckart Ebner: Gründer der Wirtschaftsprüfung Ebner Stolz verstorben",
+        "summary": "Seine Ein-Mann-Kanzlei wurde zur fünftgrößten Prüfungs- und Beratungsgesellschaft in Deutschland.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/gruender-der-wirtschaftspruefung-ebner-stolz-verstorben-accg-201213858.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "+++ Iran-Krieg +++: Huthi-Miliz erobert Küstenstädte und Inseln an der Meerenge Bab al-Mandab",
-        "summary": "Golf-Staaten und Iran planen offenbar Treffen zu Straße von Hormus +++ UN-Gesandter warnt vor Gefahr für Schifffahrt durch Huthi-Vormarsch +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/international/iran-krieg-huthi-miliz-kontrolliert-weite-teile-der-jemenitischen-kueste/100136895.html",
+        "title": "EU-Richtlinie: Bekommen Deutsche bald kein Schweizer Bankkonto mehr?",
+        "summary": "Wollen Schweizer Banken Kunden in Deutschland ansprechen, brauchen sie dafür ab 2027 eine Filiale vor Ort.",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/schweizer-bankkonto-ab-2027-das-aendert-die-neue-eu-richtlinie-crd-vi/100252937.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": null,
+    "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "These Enchanting and Colorful Photos of Seashells and the Mollusks That Create Them Will Have You Marveling at the Natural World",
-        "summary": "Before they become sandy souvenirs, the baubles in the bubbles of the shoreline serve as a veritable fortress for creatures like clams, mussels and conchs",
-        "link": "https://www.smithsonianmag.com/science-nature/enchanting-colorful-photos-seashells-mollusks-who-create-them-have-you-marveling-at-natural-world-180989291/",
-        "source": "Smithsonian",
-        "publisher": "Smithsonian",
-        "category": "Wissenschaft"
-      },
-      {
-        "title": "Scientists find a way to slash computer memory energy use by orders of magnitude",
-        "summary": "Scientists have devised a new way to switch magnetic computer memory while using far less energy than today's leading technologies.",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260906170132.htm",
-        "source": "ScienceDaily – Physik",
+        "title": "Scientists reveal the hidden instructions that build the human brain",
+        "summary": "UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth.",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260904000308.htm",
+        "source": "ScienceDaily – Neurowissenschaft",
         "publisher": "ScienceDaily",
-        "category": "Physik"
+        "category": "Neurowissenschaft"
       },
       {
-        "title": "Moaning Caverns in Vallecito, California",
-        "summary": "Hidden beneath the Sierra Nevada foothills of California, Moaning Caverns is an enormous limestone cave with a history as unusual as its name.",
-        "link": "https://www.atlasobscura.com/places/moaning-caverns",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
+        "title": "This road map could help us decide whether to deploy solar geoengineering",
+        "summary": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineering, MIT Technology R…",
+        "link": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
+        "source": "MIT Technology Review",
+        "publisher": "MIT",
+        "category": "Technologie"
+      },
+      {
+        "title": "Osteoporosis affects millions: could modified cells rebuild their bones?",
+        "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02828-3 Small trial hints at regenerative potential of bone-seeking marrow cells.",
+        "link": "https://www.nature.com/articles/d41586-026-02828-3",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
       }
     ]
   }

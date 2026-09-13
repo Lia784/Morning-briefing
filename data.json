@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T09:05:05+00:00",
-  "date_label": "Saturday, 12. September 2026",
+  "generated_at": "2026-09-13T10:03:27+00:00",
+  "date_label": "Sunday, 13. September 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 66661,
-        "usd": 77340,
-        "change_24h_pct": 0.01
+        "eur": 66177,
+        "usd": 76778,
+        "change_24h_pct": -0.75
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2184.25,
-        "usd": 2534.17,
-        "change_24h_pct": 2.36
+        "eur": 2141.18,
+        "usd": 2484.2,
+        "change_24h_pct": -1.94
       }
     ]
   },
@@ -64,8 +64,8 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1602,
-        "change_pct": -0.27
+        "price": 1.1601,
+        "change_pct": -0.28
       },
       {
         "name": "EUR/GBP",
@@ -88,8 +88,8 @@
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 178.142,
-        "change_pct": -0.29
+        "price": 177.25,
+        "change_pct": -1.17
       },
       {
         "name": "US 10Y Rendite",
@@ -105,25 +105,25 @@
     "error": null,
     "data": [
       {
-        "title": "Indische Gründerinnen: „Erben ist das Privileg von Männern“",
-        "summary": "Indien will zu einer der größten Industrienationen aufsteigen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/menschen-wirtschaft/indien-mit-feminismus-auf-dem-weg-zur-wirtschaftsmacht-accg-201085753.html",
+        "title": "Biontech-Gründer Thomas Strüngmann: „Die Abnehmspritze wird bald viel günstiger“",
+        "summary": "Pharma-Unternehmer Thomas Strüngmann über den Siegeszug der Appetitzügler, die Zukunft von Biontech und das Gedicht, das er jeden Tag aufsagt.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/abnehmspritze-thomas-struengmann-ueber-zukunft-und-preise-accg-201205382.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Umfrage: Beschäftigte würden mehr arbeiten – Anreize wichtig",
-        "summary": "Die Beschäftigten in Deutschland müssen mehr arbeiten – so lautet vielfach die Forderung.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/umfrage-beschaeftigte-wuerden-mehr-arbeiten-anreize-wichtig/100254049.html",
+        "title": "Irland-Besuch: Wiedervereinigung und Golf – Trumps kontroverse Irland-Reise",
+        "summary": "Nebenbei wirft US-Präsident Donald Trump während seiner Irland-Reise die Frage nach einer Wiedervereinigung der irischen Insel auf.",
+        "link": "https://www.handelsblatt.com/politik/international/irland-besuch-wiedervereinigung-und-golf-trumps-kontroverse-irland-reise/100254158.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
-        "summary": "O'Leary has said airline passengers \"can't afford to fly with the high-fare rapists around Europe\".",
-        "link": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss",
+        "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+        "summary": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
+        "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -137,41 +137,41 @@
         "category": ""
       },
       {
-        "title": "Finanzpolitik: Vergessenes Geld – Grüne wollen Milliarden mobilisieren",
-        "summary": "Wenn Geld auf Konten liegt, um die sich niemand mehr kümmern kann, ist es fraglich, wie man damit umgeht.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/finanzpolitik-vergessenes-geld-gruene-wollen-milliarden-mobilisieren/100254047.html",
+        "title": "IW-Studie: Deutsche China-Investitionen steigen im ersten Halbjahr um ein Drittel",
+        "summary": "Deutsche Firmen investieren wieder mehr in China.",
+        "link": "https://www.handelsblatt.com/politik/konjunktur/iw-studie-deutsche-china-investitionen-steigen-im-ersten-halbjahr-um-ein-drittel/100254151.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "US prices remain high as fuel costs squeeze household budgets",
-        "summary": "Prices in the US rose 3.4% in the 12 months to August, according to the latest official report on inflation.",
-        "link": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
+        "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+        "summary": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
+        "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Wirtschaftsprüfer Eckart Ebner: Gründer der Wirtschaftsprüfung Ebner Stolz verstorben",
-        "summary": "Seine Ein-Mann-Kanzlei wurde zur fünftgrößten Prüfungs- und Beratungsgesellschaft in Deutschland.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/gruender-der-wirtschaftspruefung-ebner-stolz-verstorben-accg-201213858.html",
+        "title": "Der Kampf der Großen: Wie Toyota und Hyundai Volkswagen hinter sich lassen",
+        "summary": "Während der größte deutsche Automobilkonzern die nächste Sparrunde einläutet, investieren die Rivalen aus Japan und Südkorea in neue Werke und Technologien.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/volkswagen-vs-toyota-und-hyundai-wer-macht-es-besser-accg-201209216.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "EU-Richtlinie: Bekommen Deutsche bald kein Schweizer Bankkonto mehr?",
-        "summary": "Wollen Schweizer Banken Kunden in Deutschland ansprechen, brauchen sie dafür ab 2027 eine Filiale vor Ort.",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/schweizer-bankkonto-ab-2027-das-aendert-die-neue-eu-richtlinie-crd-vi/100252937.html",
+        "title": "Kosmetik: Nivea-Chef warnt vor zu viel Regulierung in Europa",
+        "summary": "Nach Einschätzung des Beiersdorf-Managers Warnery setzen EU-Vorgaben Unternehmen zu stark unter Druck.",
+        "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/kosmetik-nivea-chef-warnt-vor-zu-viel-regulierung-in-europa/100254149.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Interest rates could rise again across the world – here's why",
-        "summary": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
-        "link": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
+        "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+        "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+        "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,15 +180,23 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": "Quellen nicht erreichbar: NASA Breaking News",
+    "error": null,
     "data": [
       {
-        "title": "Scientists reveal the hidden instructions that build the human brain",
-        "summary": "UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth.",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260904000308.htm",
-        "source": "ScienceDaily – Neurowissenschaft",
+        "title": "Devil’s Arrows: Ancient builders hauled 55,000-pound stones 11 miles for Britain’s tallest stone row",
+        "summary": "Britain’s towering Devil’s Arrows were built from 25-tonne stones hauled at least 18 kilometers from Brimham Rocks around 4,000 years ago.",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
+        "source": "ScienceDaily – Archäologie",
         "publisher": "ScienceDaily",
-        "category": "Neurowissenschaft"
+        "category": "Archäologie"
+      },
+      {
+        "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
+        "summary": "How do scientists studying space with data from a telescope hundreds of thousands of miles away know that what they are seeing is real?",
+        "link": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/",
+        "source": "NASA Breaking News",
+        "publisher": "NASA",
+        "category": "Raumfahrt"
       },
       {
         "title": "This road map could help us decide whether to deploy solar geoengineering",
@@ -197,14 +205,6 @@
         "source": "MIT Technology Review",
         "publisher": "MIT",
         "category": "Technologie"
-      },
-      {
-        "title": "Osteoporosis affects millions: could modified cells rebuild their bones?",
-        "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02828-3 Small trial hints at regenerative potential of bone-seeking marrow cells.",
-        "link": "https://www.nature.com/articles/d41586-026-02828-3",
-        "source": "Nature News",
-        "publisher": "Nature",
-        "category": "Forschung"
       }
     ]
   }

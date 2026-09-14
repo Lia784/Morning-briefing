@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T10:03:27+00:00",
-  "date_label": "Sunday, 13. September 2026",
+  "generated_at": "2026-09-14T10:23:24+00:00",
+  "date_label": "Monday, 14. September 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,8 +8,8 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25568.5605,
-        "change_pct": 0.82
+        "price": 25424.9395,
+        "change_pct": -0.56
       },
       {
         "name": "S&P 500",
@@ -26,14 +26,14 @@
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6325.1299,
-        "change_pct": 0.9
+        "price": 6258.4502,
+        "change_pct": -1.05
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 64011.3398,
-        "change_pct": -1.93
+        "price": 63492.9883,
+        "change_pct": -0.81
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 66177,
-        "usd": 76778,
-        "change_24h_pct": -0.75
+        "eur": 67554,
+        "usd": 77970,
+        "change_24h_pct": 2.14
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2141.18,
-        "usd": 2484.2,
-        "change_24h_pct": -1.94
+        "eur": 2180.5,
+        "usd": 2516.7,
+        "change_24h_pct": 2.0
       }
     ]
   },
@@ -64,32 +64,32 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1601,
-        "change_pct": -0.28
+        "price": 1.1541,
+        "change_pct": -0.6
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8579,
-        "change_pct": -0.17
+        "price": 0.8559,
+        "change_pct": -0.41
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9467,
-        "change_pct": 0.28
+        "price": 0.9428,
+        "change_pct": -0.14
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 153.554,
-        "change_pct": -0.01
+        "price": 154.634,
+        "change_pct": 0.1
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 177.25,
-        "change_pct": -1.17
+        "price": 178.412,
+        "change_pct": -0.52
       },
       {
         "name": "US 10Y Rendite",
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Biontech-Gründer Thomas Strüngmann: „Die Abnehmspritze wird bald viel günstiger“",
-        "summary": "Pharma-Unternehmer Thomas Strüngmann über den Siegeszug der Appetitzügler, die Zukunft von Biontech und das Gedicht, das er jeden Tag aufsagt.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/abnehmspritze-thomas-struengmann-ueber-zukunft-und-preise-accg-201205382.html",
+        "title": "Hanks Welt: So inhaltsleer reden Politiker",
+        "summary": "Die Sprache der Politik ist auf den Hund gekommen, nur Ricarda Lang spricht am Wahlabend Klartext.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/hanks-welt/nach-der-wahl-in-sachsen-anhalt-so-inhaltsleer-reden-politiker-accg-201214804.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Irland-Besuch: Wiedervereinigung und Golf – Trumps kontroverse Irland-Reise",
-        "summary": "Nebenbei wirft US-Präsident Donald Trump während seiner Irland-Reise die Frage nach einer Wiedervereinigung der irischen Insel auf.",
-        "link": "https://www.handelsblatt.com/politik/international/irland-besuch-wiedervereinigung-und-golf-trumps-kontroverse-irland-reise/100254158.html",
+        "title": "Gewerkschaft: IG Metall fordert mehr Unterstützung durch die Politik",
+        "summary": "Die deutsche Automobilbranche steckt in der Krise: 40.000 Menschen haben in den ersten sechs Monaten dieses Jahres ihren Job verloren.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/gewerkschaft-ig-metall-fordert-mehr-unterstuetzung-durch-die-politik/100254348.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-        "summary": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
-        "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+        "title": "'Culture shift' needed in how UK does business, PM urges",
+        "summary": "Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
+        "link": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "F.A.Z.-Europakonferenz: KI, Trump und Europas Souveränität: Jetzt spricht Wildberger",
-        "summary": "KI, Konflikte mit den USA und China und der Krieg in der Ukraine: Europa steht unter Druck wie lange nicht mehr.",
-        "link": "https://www.faz.net/video/ki-trump-und-europas-souveraenitaet-jetzt-spricht-wildberger-201180182.html",
+        "title": "Künstliche Intelligenz: Spiel mit dem KI-Feuer",
+        "summary": "Es gibt gute Gründe, die düsteren Warnungen aus KI-Unternehmen ernst zu nehmen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/warnung-vor-gefahren-der-ki-spiel-mit-dem-feuer-201223073.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "IW-Studie: Deutsche China-Investitionen steigen im ersten Halbjahr um ein Drittel",
-        "summary": "Deutsche Firmen investieren wieder mehr in China.",
-        "link": "https://www.handelsblatt.com/politik/konjunktur/iw-studie-deutsche-china-investitionen-steigen-im-ersten-halbjahr-um-ein-drittel/100254151.html",
+        "title": "Spionage: Mutmaßliche Spionin Russlands in Berlin angeklagt",
+        "summary": "Die Bundesanwaltschaft geht gegen eine mutmaßliche russische Spionin vor.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/spionage-mutmassliche-spionin-russlands-in-berlin-angeklagt/100254355.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-        "summary": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
-        "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+        "title": "Rent rises set to speed up in gloomy forecast for tenants",
+        "summary": "The cost of renting is expected to rise by 4% or 5% a year by December, says property website Zoopla.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Der Kampf der Großen: Wie Toyota und Hyundai Volkswagen hinter sich lassen",
-        "summary": "Während der größte deutsche Automobilkonzern die nächste Sparrunde einläutet, investieren die Rivalen aus Japan und Südkorea in neue Werke und Technologien.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/volkswagen-vs-toyota-und-hyundai-wer-macht-es-besser-accg-201209216.html",
+        "title": "Wirtschaftswissenschaft: Mehr Wachstum durch einen Steuertausch?",
+        "summary": "Die geplante Steuerreform setzt wenig Wachstumsimpulse.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/hoehere-mehrwertsteuer-fuer-mehr-wachstum-diese-rechnung-geht-nicht-auf-accg-201174983.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Kosmetik: Nivea-Chef warnt vor zu viel Regulierung in Europa",
-        "summary": "Nach Einschätzung des Beiersdorf-Managers Warnery setzen EU-Vorgaben Unternehmen zu stark unter Druck.",
-        "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/kosmetik-nivea-chef-warnt-vor-zu-viel-regulierung-in-europa/100254149.html",
+        "title": "Geldanlage: Wer den MSCI World kauft, schließt derzeit drei Wetten ab",
+        "summary": "Nach wie vor performt der Index MSCI World übers Jahr gesehen stark mit 20 Prozent Kursgewinn.",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/geldanlage-welche-risiken-birgt-der-msci-world-aktuell/100244938.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-        "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-        "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+        "title": "Heading off to uni? Here's what to insure against theft",
+        "summary": "What should new students consider to keep your belongings safe and covered by insurance?",
+        "link": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": null,
+    "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "Devil’s Arrows: Ancient builders hauled 55,000-pound stones 11 miles for Britain’s tallest stone row",
-        "summary": "Britain’s towering Devil’s Arrows were built from 25-tonne stones hauled at least 18 kilometers from Brimham Rocks around 4,000 years ago.",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
-        "source": "ScienceDaily – Archäologie",
-        "publisher": "ScienceDaily",
-        "category": "Archäologie"
-      },
-      {
-        "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
-        "summary": "How do scientists studying space with data from a telescope hundreds of thousands of miles away know that what they are seeing is real?",
-        "link": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/",
-        "source": "NASA Breaking News",
-        "publisher": "NASA",
-        "category": "Raumfahrt"
-      },
-      {
-        "title": "This road map could help us decide whether to deploy solar geoengineering",
-        "summary": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineering, MIT Technology R…",
-        "link": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
+        "title": "Powering AI is an architecture problem",
+        "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&#8217;s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds.",
+        "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
         "source": "MIT Technology Review",
         "publisher": "MIT",
         "category": "Technologie"
+      },
+      {
+        "title": "How to future-proof your wrists",
+        "summary": "A few simple workouts can help to prevent long-term damage",
+        "link": "https://www.bbc.com/future/article/20260904-how-to-future-proof-your-wrists?ocid=global_future_rss",
+        "source": "BBC Future",
+        "publisher": "BBC",
+        "category": "Zukunft"
+      },
+      {
+        "title": "Scientists discover a powerful new antivenom hidden in rattlesnake blood",
+        "summary": "Researchers discovered that combinations of toxin-blocking proteins naturally found in rattlesnake blood can powerfully neutralize venom from several dangerous snake species.",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260907201605.htm",
+        "source": "ScienceDaily – Tiere",
+        "publisher": "ScienceDaily",
+        "category": "Biologie"
       }
     ]
   }

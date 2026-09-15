@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T10:23:24+00:00",
-  "date_label": "Monday, 14. September 2026",
+  "generated_at": "2026-09-15T09:49:38+00:00",
+  "date_label": "Tuesday, 15. September 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25424.9395,
-        "change_pct": -0.56
+        "price": 25276.6699,
+        "change_pct": -0.65
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7656.98,
-        "change_pct": 0.86
+        "price": 7619.98,
+        "change_pct": -0.48
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26333.0391,
-        "change_pct": 0.96
+        "price": 26186.4102,
+        "change_pct": -0.56
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6258.4502,
-        "change_pct": -1.05
+        "price": 6218.5898,
+        "change_pct": -0.67
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 63492.9883,
-        "change_pct": -0.81
+        "price": 63484.1016,
+        "change_pct": -0.01
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 67554,
-        "usd": 77970,
-        "change_24h_pct": 2.14
+        "eur": 66726,
+        "usd": 76962,
+        "change_24h_pct": -1.18
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2180.5,
-        "usd": 2516.7,
-        "change_24h_pct": 2.0
+        "eur": 2145.98,
+        "usd": 2475.18,
+        "change_24h_pct": -1.82
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1541,
-        "change_pct": -0.6
+        "price": 1.1539,
+        "change_pct": -0.47
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
         "price": 0.8559,
-        "change_pct": -0.41
+        "change_pct": -0.15
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9428,
-        "change_pct": -0.14
+        "price": 0.9435,
+        "change_pct": -0.34
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 154.634,
-        "change_pct": 0.1
+        "price": 154.954,
+        "change_pct": 1.0
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 178.412,
-        "change_pct": -0.52
+        "price": 178.758,
+        "change_pct": 0.5
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.975,
-        "change_pct": 0.63,
+        "price": 4.961,
+        "change_pct": -0.28,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Hanks Welt: So inhaltsleer reden Politiker",
-        "summary": "Die Sprache der Politik ist auf den Hund gekommen, nur Ricarda Lang spricht am Wahlabend Klartext.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/hanks-welt/nach-der-wahl-in-sachsen-anhalt-so-inhaltsleer-reden-politiker-accg-201214804.html",
+        "title": "Streit um KI: Nein, eine KI-Superintelligenz ist keine ausgemachte Sache",
+        "summary": "Sind Computer bald so kompetent wie unsere Gehirne?",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ralf-otte-ueber-die-ki-debatte-von-amodei-altman-und-musk-nein-superintelligenz-steht-nicht-fest-accg-201213101.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Gewerkschaft: IG Metall fordert mehr Unterstützung durch die Politik",
-        "summary": "Die deutsche Automobilbranche steckt in der Krise: 40.000 Menschen haben in den ersten sechs Monaten dieses Jahres ihren Job verloren.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/gewerkschaft-ig-metall-fordert-mehr-unterstuetzung-durch-die-politik/100254348.html",
+        "title": "+++ Bundespolitik +++: „Es reicht endgültig“ – Klüssendorf kritisiert Reiche wegen überhöhter Spritpreise",
+        "summary": "AfD-Spitze beschließt Auflagen für Streamer +++ Söder und Kretschmer warnen vor Scheitern der Regierung +++ Spekulationen über Minderheitsregierung zurückgewiesen +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/hohe-spritpreise-kluessendorf-kritisiert-reiche-scharf/100137034.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "'Culture shift' needed in how UK does business, PM urges",
-        "summary": "Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
-        "link": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
+        "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
+        "summary": "The rise has reignited the debate about the state pension's long-term affordability and generational fairness.",
+        "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Künstliche Intelligenz: Spiel mit dem KI-Feuer",
-        "summary": "Es gibt gute Gründe, die düsteren Warnungen aus KI-Unternehmen ernst zu nehmen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/warnung-vor-gefahren-der-ki-spiel-mit-dem-feuer-201223073.html",
+        "title": "Restnutzungsdauer-Gutachten: Wenn Immobilien einen doppelten Steuervorteil erhalten",
+        "summary": "Steuerzahler können mit einer kurzen Restnutzungsdauer vermieteter Häuser ihre Steuerlast senken.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/restnutzungsdauer-wie-vermieter-legal-steuern-sparen-accg-201148108.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Spionage: Mutmaßliche Spionin Russlands in Berlin angeklagt",
-        "summary": "Die Bundesanwaltschaft geht gegen eine mutmaßliche russische Spionin vor.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/spionage-mutmassliche-spionin-russlands-in-berlin-angeklagt/100254355.html",
+        "title": "Russland: Frankreich will russischen Oligarchen Usmanow von EU-Sanktionsliste streichen",
+        "summary": "Französische Diplomaten wollen die Freilassung von Inhaftierten in Aserbaidschan erreichen und ein Gegengeschäft machen.",
+        "link": "https://www.handelsblatt.com/politik/international/russland-frankreich-will-oligarch-usmanow-von-eu-sanktionsliste-streichen/100254614.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Rent rises set to speed up in gloomy forecast for tenants",
-        "summary": "The cost of renting is expected to rise by 4% or 5% a year by December, says property website Zoopla.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+        "summary": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
+        "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Wirtschaftswissenschaft: Mehr Wachstum durch einen Steuertausch?",
-        "summary": "Die geplante Steuerreform setzt wenig Wachstumsimpulse.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/hoehere-mehrwertsteuer-fuer-mehr-wachstum-diese-rechnung-geht-nicht-auf-accg-201174983.html",
+        "title": "Durch Russland-Hilfe: Nordkorea erlebt einen Smartphone-Boom",
+        "summary": "Lange Zeit lebten die Menschen im Land abgeschottet von technischen Neuerungen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/warum-nordkorea-einen-smartphone-boom-erlebt-accg-201223634.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Geldanlage: Wer den MSCI World kauft, schließt derzeit drei Wetten ab",
-        "summary": "Nach wie vor performt der Index MSCI World übers Jahr gesehen stark mit 20 Prozent Kursgewinn.",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/geldanlage-welche-risiken-birgt-der-msci-world-aktuell/100244938.html",
+        "title": "Benzin und Diesel: „Ein weiterer Preisanstieg wäre fatal“ – Spritpreis-Schock schreckt die Politik auf",
+        "summary": "Benzin und Diesel werden wegen des Iran-Krieges immer teurer.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/benzin-und-diesel-spritpreis-schock-schreckt-die-politik-auf/100254306.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Heading off to uni? Here's what to insure against theft",
-        "summary": "What should new students consider to keep your belongings safe and covered by insurance?",
-        "link": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss",
+        "title": "I got paid $5,000 to move to a place I'd never heard of",
+        "summary": "Relocation schemes offer support for people who want to swap big cities for a cheaper, quieter life.",
+        "link": "https://www.bbc.co.uk/news/articles/c3eq7485kewo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": "Quellen nicht erreichbar: NASA Breaking News",
+    "error": null,
     "data": [
       {
-        "title": "Powering AI is an architecture problem",
-        "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&#8217;s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds.",
-        "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-        "source": "MIT Technology Review",
-        "publisher": "MIT",
-        "category": "Technologie"
-      },
-      {
-        "title": "How to future-proof your wrists",
-        "summary": "A few simple workouts can help to prevent long-term damage",
-        "link": "https://www.bbc.com/future/article/20260904-how-to-future-proof-your-wrists?ocid=global_future_rss",
-        "source": "BBC Future",
-        "publisher": "BBC",
-        "category": "Zukunft"
-      },
-      {
-        "title": "Scientists discover a powerful new antivenom hidden in rattlesnake blood",
-        "summary": "Researchers discovered that combinations of toxin-blocking proteins naturally found in rattlesnake blood can powerfully neutralize venom from several dangerous snake species.",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260907201605.htm",
+        "title": "The secret to longer life may be hidden in bat DNA",
+        "summary": "Long-lived bats appear to combine powerful immune defenses with unusual strategies for eliminating damaged cells, potentially helping them avoid cancer and disease for decades.",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260911003852.htm",
         "source": "ScienceDaily – Tiere",
         "publisher": "ScienceDaily",
         "category": "Biologie"
+      },
+      {
+        "title": "NASA Kicks Off Inspiration Tour with Steelers vs. Falcons Game",
+        "summary": "Fans pose for a photo with an astronaut in the NASA Experience Zone at an NFL game between the Pittsburgh Steelers and the Atlanta Falcons at Acrisure Stadium, Sunday, Sept.",
+        "link": "https://www.nasa.gov/image-article/nasa-kicks-off-inspiration-tour-with-steelers-vs-falcons-game/",
+        "source": "NASA Breaking News",
+        "publisher": "NASA",
+        "category": "Raumfahrt"
+      },
+      {
+        "title": "Make AI traceable before it shapes global climate assessments",
+        "summary": "Nature, Published online: 15 September 2026; doi:10.1038/d41586-026-02905-7 Make AI traceable before it shapes global climate assessments",
+        "link": "https://www.nature.com/articles/d41586-026-02905-7",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
       }
     ]
   }

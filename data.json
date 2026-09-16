@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T09:49:38+00:00",
-  "date_label": "Tuesday, 15. September 2026",
+  "generated_at": "2026-09-16T09:44:58+00:00",
+  "date_label": "Wednesday, 16. September 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25276.6699,
-        "change_pct": -0.65
+        "price": 25408.1504,
+        "change_pct": 0.02
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7619.98,
-        "change_pct": -0.48
+        "price": 7585.73,
+        "change_pct": -0.45
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26186.4102,
-        "change_pct": -0.56
+        "price": 25981.5703,
+        "change_pct": -0.78
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6218.5898,
-        "change_pct": -0.67
+        "price": 6250.7598,
+        "change_pct": 0.23
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 63484.1016,
-        "change_pct": -0.01
+        "price": 63923.0,
+        "change_pct": 0.69
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 66726,
-        "usd": 76962,
-        "change_24h_pct": -1.18
+        "eur": 65741,
+        "usd": 75869,
+        "change_24h_pct": -1.44
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2145.98,
-        "usd": 2475.18,
-        "change_24h_pct": -1.82
+        "eur": 2081.19,
+        "usd": 2401.8,
+        "change_24h_pct": -2.97
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1539,
-        "change_pct": -0.47
+        "price": 1.1545,
+        "change_pct": -0.03
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8559,
-        "change_pct": -0.15
+        "price": 0.8567,
+        "change_pct": 0.16
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9435,
-        "change_pct": -0.34
+        "price": 0.9449,
+        "change_pct": 0.12
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 154.954,
-        "change_pct": 1.0
+        "price": 155.049,
+        "change_pct": 0.43
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 178.758,
-        "change_pct": 0.5
+        "price": 178.941,
+        "change_pct": 0.37
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.961,
-        "change_pct": -0.28,
+        "price": 4.996,
+        "change_pct": 0.71,
         "unit": "%"
       }
     ]
@@ -105,6 +105,30 @@
     "error": null,
     "data": [
       {
+        "title": "Konflikt bei Mercedes: Die 35-Stunden-Woche wird fallen",
+        "summary": "Die Produktion in Deutschland ist zu teuer, sagt nicht nur der Autohersteller Mercedes.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/mercedes-und-die-35-stunden-woche-droht-das-ende-201222681.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "Oktoberfest: Maß Bier auf der Wiesn kostet fünfmal so viel wie 1985",
+        "summary": "Inflation auf der Wiesn?",
+        "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/muenchener-oktoberfest-mass-bier-kostet-fuenfmal-so-viel-wie-1985/100254962.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "Petrol and diesel price rises push UK inflation higher",
+        "summary": "Summer holidays and disruption to global oil supplies by the Middle East conflict stoked price growth.",
+        "link": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
         "title": "Streit um KI: Nein, eine KI-Superintelligenz ist keine ausgemachte Sache",
         "summary": "Sind Computer bald so kompetent wie unsere Gehirne?",
         "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ralf-otte-ueber-die-ki-debatte-von-amodei-altman-und-musk-nein-superintelligenz-steht-nicht-fest-accg-201213101.html",
@@ -113,65 +137,41 @@
         "category": ""
       },
       {
-        "title": "+++ Bundespolitik +++: „Es reicht endgültig“ – Klüssendorf kritisiert Reiche wegen überhöhter Spritpreise",
-        "summary": "AfD-Spitze beschließt Auflagen für Streamer +++ Söder und Kretschmer warnen vor Scheitern der Regierung +++ Spekulationen über Minderheitsregierung zurückgewiesen +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/hohe-spritpreise-kluessendorf-kritisiert-reiche-scharf/100137034.html",
+        "title": "Führung und KI: „So einen Abbau hat es in der deutschen Wirtschaft noch nie gegeben“: Das Ende des Managers als Massenberuf",
+        "summary": "Überall im Land bauen Unternehmen historisch gewachsene Strukturen ab.",
+        "link": "https://www.handelsblatt.com/unternehmen/management/fuehrungskraefte-durch-ki-koennen-aus-zehn-managementebenen-vier-werden/100243656.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
-        "summary": "The rise has reignited the debate about the state pension's long-term affordability and generational fairness.",
-        "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
+        "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+        "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+        "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Restnutzungsdauer-Gutachten: Wenn Immobilien einen doppelten Steuervorteil erhalten",
-        "summary": "Steuerzahler können mit einer kurzen Restnutzungsdauer vermieteter Häuser ihre Steuerlast senken.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/restnutzungsdauer-wie-vermieter-legal-steuern-sparen-accg-201148108.html",
+        "title": "Biontech-Gründer Thomas Strüngmann: „Die Abnehmspritze wird bald viel günstiger“",
+        "summary": "Pharma-Unternehmer Thomas Strüngmann über den Siegeszug der Appetitzügler, die Zukunft von Biontech und das Gedicht, das er jeden Tag aufsagt.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/abnehmspritze-thomas-struengmann-ueber-zukunft-und-preise-accg-201205382.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Russland: Frankreich will russischen Oligarchen Usmanow von EU-Sanktionsliste streichen",
-        "summary": "Französische Diplomaten wollen die Freilassung von Inhaftierten in Aserbaidschan erreichen und ein Gegengeschäft machen.",
-        "link": "https://www.handelsblatt.com/politik/international/russland-frankreich-will-oligarch-usmanow-von-eu-sanktionsliste-streichen/100254614.html",
+        "title": "Geldanlage: Auf diese zehn Aktien setzen viele Vermögensverwalter – wie Analysten die Titel einschätzen",
+        "summary": "Die Auswertung von 50.000 Depots zeigt, dass Anlageprofis bei ihren Favoriten deutlich von Weltindizes abweichen.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/geldanlage-auf-diese-zehn-aktien-setzen-viele-vermoegensverwalter-01/100252791.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-        "summary": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
-        "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
-      },
-      {
-        "title": "Durch Russland-Hilfe: Nordkorea erlebt einen Smartphone-Boom",
-        "summary": "Lange Zeit lebten die Menschen im Land abgeschottet von technischen Neuerungen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/warum-nordkorea-einen-smartphone-boom-erlebt-accg-201223634.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "Benzin und Diesel: „Ein weiterer Preisanstieg wäre fatal“ – Spritpreis-Schock schreckt die Politik auf",
-        "summary": "Benzin und Diesel werden wegen des Iran-Krieges immer teurer.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/benzin-und-diesel-spritpreis-schock-schreckt-die-politik-auf/100254306.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "I got paid $5,000 to move to a place I'd never heard of",
-        "summary": "Relocation schemes offer support for people who want to swap big cities for a cheaper, quieter life.",
-        "link": "https://www.bbc.co.uk/news/articles/c3eq7485kewo?at_medium=RSS&at_campaign=rss",
+        "title": "New job fresh out of uni? Here's how we survived the first few days",
+        "summary": "Four recent job starters share their tips on what helped them have a smooth transition and survive their first few days.",
+        "link": "https://www.bbc.co.uk/news/articles/cm2qn163053o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,25 +183,25 @@
     "error": null,
     "data": [
       {
-        "title": "The secret to longer life may be hidden in bat DNA",
-        "summary": "Long-lived bats appear to combine powerful immune defenses with unusual strategies for eliminating damaged cells, potentially helping them avoid cancer and disease for decades.",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260911003852.htm",
-        "source": "ScienceDaily – Tiere",
+        "title": "Plague was killing entire families thousands of years before the Black Death",
+        "summary": "Ancient DNA reveals that plague was already killing hunter-gatherers in Siberia 5,500 years ago, long before cities and flea-driven epidemics.",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260913082203.htm",
+        "source": "ScienceDaily – Gesundheit",
         "publisher": "ScienceDaily",
-        "category": "Biologie"
+        "category": "Medizin"
       },
       {
-        "title": "NASA Kicks Off Inspiration Tour with Steelers vs. Falcons Game",
-        "summary": "Fans pose for a photo with an astronaut in the NASA Experience Zone at an NFL game between the Pittsburgh Steelers and the Atlanta Falcons at Acrisure Stadium, Sunday, Sept.",
-        "link": "https://www.nasa.gov/image-article/nasa-kicks-off-inspiration-tour-with-steelers-vs-falcons-game/",
-        "source": "NASA Breaking News",
-        "publisher": "NASA",
-        "category": "Raumfahrt"
+        "title": "Cryptid Tourism: The Best Museums, Destinations & Festivals Across America",
+        "summary": "What is a cryptid?",
+        "link": "https://www.atlasobscura.com/articles/cryptid-tourism-across-america",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
       },
       {
-        "title": "Make AI traceable before it shapes global climate assessments",
-        "summary": "Nature, Published online: 15 September 2026; doi:10.1038/d41586-026-02905-7 Make AI traceable before it shapes global climate assessments",
-        "link": "https://www.nature.com/articles/d41586-026-02905-7",
+        "title": "Map of brain ‘microproteins’ could offer new clues to Alzheimer’s disease",
+        "summary": "Nature, Published online: 16 September 2026; doi:10.1038/d41586-026-02914-6 Researchers detect more than 1,000 overlooked microproteins in human brain tissue, including some that are altered in Alzheimer’s disease.",
+        "link": "https://www.nature.com/articles/d41586-026-02914-6",
         "source": "Nature News",
         "publisher": "Nature",
         "category": "Forschung"

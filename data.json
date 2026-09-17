@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T09:44:58+00:00",
-  "date_label": "Wednesday, 16. September 2026",
+  "generated_at": "2026-09-17T09:52:39+00:00",
+  "date_label": "Thursday, 17. September 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25408.1504,
-        "change_pct": 0.02
+        "price": 25701.8691,
+        "change_pct": 0.64
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7585.73,
+        "price": 7551.8101,
         "change_pct": -0.45
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25981.5703,
-        "change_pct": -0.78
+        "price": 25978.4297,
+        "change_pct": -0.01
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6250.7598,
-        "change_pct": 0.23
+        "price": 6309.4502,
+        "change_pct": 0.69
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 63923.0,
-        "change_pct": 0.69
+        "price": 64136.25,
+        "change_pct": 0.33
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 65741,
-        "usd": 75869,
-        "change_24h_pct": -1.44
+        "eur": 66658,
+        "usd": 76495,
+        "change_24h_pct": 1.39
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2081.19,
-        "usd": 2401.8,
-        "change_24h_pct": -2.97
+        "eur": 2125.39,
+        "usd": 2439.05,
+        "change_24h_pct": 2.13
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1545,
-        "change_pct": -0.03
+        "price": 1.1478,
+        "change_pct": -0.51
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8567,
-        "change_pct": 0.16
+        "price": 0.8565,
+        "change_pct": 0.02
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9449,
-        "change_pct": 0.12
+        "price": 0.9476,
+        "change_pct": 0.28
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 155.049,
-        "change_pct": 0.43
+        "price": 155.694,
+        "change_pct": 0.28
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 178.941,
-        "change_pct": 0.37
+        "price": 178.66,
+        "change_pct": -0.27
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.996,
-        "change_pct": 0.71,
+        "price": 5.006,
+        "change_pct": 0.2,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Konflikt bei Mercedes: Die 35-Stunden-Woche wird fallen",
-        "summary": "Die Produktion in Deutschland ist zu teuer, sagt nicht nur der Autohersteller Mercedes.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/mercedes-und-die-35-stunden-woche-droht-das-ende-201222681.html",
+        "title": "Serpentone: Europas längstes Wohnhaus",
+        "summary": "Am Rande von Rom hat man vor Jahren auf einer Länge von einem Kilometer Sozialwohnungen in einem einzigen Gebäude untergebracht.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/serpentone-in-rom-europas-laengstes-wohnhaus-in-der-krise-accg-201196849.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Oktoberfest: Maß Bier auf der Wiesn kostet fünfmal so viel wie 1985",
-        "summary": "Inflation auf der Wiesn?",
-        "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/muenchener-oktoberfest-mass-bier-kostet-fuenfmal-so-viel-wie-1985/100254962.html",
+        "title": "Vermögen: Diese sieben Fehler sollten Vermögende im Testament vermeiden",
+        "summary": "Rund um den letzten Willen gibt es viele Missverständnisse.",
+        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/vermoegen-diese-sieben-fehler-sollten-vermoegende-im-testament-vermeiden-01/100228330.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Petrol and diesel price rises push UK inflation higher",
-        "summary": "Summer holidays and disruption to global oil supplies by the Middle East conflict stoked price growth.",
-        "link": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss",
+        "title": "Interest rates hold expected but Bank of England facing tough choices",
+        "summary": "Forecasts of further rises in the inflation rate mean some analysts expect the Bank to act by the end of the year.",
+        "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Streit um KI: Nein, eine KI-Superintelligenz ist keine ausgemachte Sache",
-        "summary": "Sind Computer bald so kompetent wie unsere Gehirne?",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ralf-otte-ueber-die-ki-debatte-von-amodei-altman-und-musk-nein-superintelligenz-steht-nicht-fest-accg-201213101.html",
+        "title": "Umwelthaftung: PFAS – Ewigkeitschemikalien mit ewiger Verantwortung?",
+        "summary": "PFAS sind allgegenwärtig.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/pfas-ewigkeitschemikalien-mit-ewiger-verantwortung-accg-201221088.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Führung und KI: „So einen Abbau hat es in der deutschen Wirtschaft noch nie gegeben“: Das Ende des Managers als Massenberuf",
-        "summary": "Überall im Land bauen Unternehmen historisch gewachsene Strukturen ab.",
-        "link": "https://www.handelsblatt.com/unternehmen/management/fuehrungskraefte-durch-ki-koennen-aus-zehn-managementebenen-vier-werden/100243656.html",
+        "title": "Zweite Schätzung: Inflation im Euroraum bei 3,2 Prozent",
+        "summary": "Die Preise sind im August etwas geringer gestiegen als zunächst geschätzt.",
+        "link": "https://www.handelsblatt.com/politik/konjunktur/zweite-schaetzung-inflation-im-euroraum-bei-32-prozent/100255326.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
-        "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
-        "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+        "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+        "summary": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
+        "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Biontech-Gründer Thomas Strüngmann: „Die Abnehmspritze wird bald viel günstiger“",
-        "summary": "Pharma-Unternehmer Thomas Strüngmann über den Siegeszug der Appetitzügler, die Zukunft von Biontech und das Gedicht, das er jeden Tag aufsagt.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/abnehmspritze-thomas-struengmann-ueber-zukunft-und-preise-accg-201205382.html",
+        "title": "Ernährungsdebatten: Wie Zucker zum Sündenbock wurde",
+        "summary": "Einst war Zucker ein kostbares Symbol des Wohlstands.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/suendenboecke-zucker-fleisch-alkohol-warum-ernaehrungsdebatten-so-einseitig-gefuehrt-werden-accg-201217355.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Geldanlage: Auf diese zehn Aktien setzen viele Vermögensverwalter – wie Analysten die Titel einschätzen",
-        "summary": "Die Auswertung von 50.000 Depots zeigt, dass Anlageprofis bei ihren Favoriten deutlich von Weltindizes abweichen.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/geldanlage-auf-diese-zehn-aktien-setzen-viele-vermoegensverwalter-01/100252791.html",
+        "title": "Industrie: Bilfinger gibt Aufholjagd auf und streicht 1500 Stellen – Aktie bricht ein",
+        "summary": "Der Iran-Krieg belastet das Industrieunternehmen länger als erwartet.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/industrie-bilfinger-gibt-aufholjagd-auf-und-streicht-1500-stellen/100255252.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "New job fresh out of uni? Here's how we survived the first few days",
-        "summary": "Four recent job starters share their tips on what helped them have a smooth transition and survive their first few days.",
-        "link": "https://www.bbc.co.uk/news/articles/cm2qn163053o?at_medium=RSS&at_campaign=rss",
+        "title": "US interest rates raised for first time in three years",
+        "summary": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+        "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": null,
+    "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "Plague was killing entire families thousands of years before the Black Death",
-        "summary": "Ancient DNA reveals that plague was already killing hunter-gatherers in Siberia 5,500 years ago, long before cities and flea-driven epidemics.",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260913082203.htm",
-        "source": "ScienceDaily – Gesundheit",
+        "title": "30-second habits to improve your mood",
+        "summary": "These exercises can help us find more calm and connection",
+        "link": "https://www.bbc.com/future/article/20260911-four-30-second-habits-that-could-make-you-calmer?ocid=global_future_rss",
+        "source": "BBC Future",
+        "publisher": "BBC",
+        "category": "Zukunft"
+      },
+      {
+        "title": "Some Fish in the Great Lakes Might Be More Than 400 Years Old, a Study Suggests, Outliving Around 15 Generations of Humans",
+        "summary": "Lake sturgeon may be among the longest-living vertebrates, second only to Greenland sharks, according to recent research.",
+        "link": "https://www.smithsonianmag.com/science-nature/some-fish-in-the-great-lakes-might-be-more-than-400-years-old-a-study-suggests-outliving-around-15-generations-of-humans-180989500/",
+        "source": "Smithsonian",
+        "publisher": "Smithsonian",
+        "category": "Wissenschaft"
+      },
+      {
+        "title": "Study of 1.9 million people finds a striking link between ADHD and gut problems",
+        "summary": "Researchers analyzing data from more than 1.9 million people found that ADHD is associated with substantially higher rates of digestive problems.",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260911003840.htm",
+        "source": "ScienceDaily – Neurowissenschaft",
         "publisher": "ScienceDaily",
-        "category": "Medizin"
-      },
-      {
-        "title": "Cryptid Tourism: The Best Museums, Destinations & Festivals Across America",
-        "summary": "What is a cryptid?",
-        "link": "https://www.atlasobscura.com/articles/cryptid-tourism-across-america",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
-      },
-      {
-        "title": "Map of brain ‘microproteins’ could offer new clues to Alzheimer’s disease",
-        "summary": "Nature, Published online: 16 September 2026; doi:10.1038/d41586-026-02914-6 Researchers detect more than 1,000 overlooked microproteins in human brain tissue, including some that are altered in Alzheimer’s disease.",
-        "link": "https://www.nature.com/articles/d41586-026-02914-6",
-        "source": "Nature News",
-        "publisher": "Nature",
-        "category": "Forschung"
+        "category": "Neurowissenschaft"
       }
     ]
   }

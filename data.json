@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T09:52:39+00:00",
-  "date_label": "Thursday, 17. September 2026",
+  "generated_at": "2026-09-18T09:28:19+00:00",
+  "date_label": "Friday, 18. September 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25701.8691,
-        "change_pct": 0.64
+        "price": 25608.9492,
+        "change_pct": -0.42
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7551.8101,
-        "change_pct": -0.45
+        "price": 7637.7598,
+        "change_pct": 1.14
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25978.4297,
-        "change_pct": -0.01
+        "price": 26418.3008,
+        "change_pct": 1.69
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6309.4502,
-        "change_pct": 0.69
+        "price": 6297.8501,
+        "change_pct": -0.4
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 64136.25,
-        "change_pct": 0.33
+        "price": 65018.9492,
+        "change_pct": 1.38
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 66658,
-        "usd": 76495,
-        "change_24h_pct": 1.39
+        "eur": 68110,
+        "usd": 78204,
+        "change_24h_pct": 1.96
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2125.39,
-        "usd": 2439.05,
-        "change_24h_pct": 2.13
+        "eur": 2186.97,
+        "usd": 2511.11,
+        "change_24h_pct": 2.62
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1478,
-        "change_pct": -0.51
+        "price": 1.1485,
+        "change_pct": 0.13
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8565,
-        "change_pct": 0.02
+        "price": 0.859,
+        "change_pct": 0.23
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9476,
-        "change_pct": 0.28
+        "price": 0.9473,
+        "change_pct": 0.08
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 155.694,
-        "change_pct": 0.28
+        "price": 157.871,
+        "change_pct": 1.19
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 178.66,
-        "change_pct": -0.27
+        "price": 181.284,
+        "change_pct": 1.29
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 5.006,
-        "change_pct": 0.2,
+        "price": 4.947,
+        "change_pct": -1.18,
         "unit": "%"
       }
     ]
@@ -105,9 +105,9 @@
     "error": null,
     "data": [
       {
-        "title": "Serpentone: Europas längstes Wohnhaus",
-        "summary": "Am Rande von Rom hat man vor Jahren auf einer Länge von einem Kilometer Sozialwohnungen in einem einzigen Gebäude untergebracht.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/serpentone-in-rom-europas-laengstes-wohnhaus-in-der-krise-accg-201196849.html",
+        "title": "Wettbewerbsnachteil: Europa ist auf die rasante KI-Entwicklung nicht vorbereitet",
+        "summary": "Künstliche Intelligenz könnte schon bald einen gesellschaftlichen und ökonomischen Bruch einleiten, der die industrielle Revolution übertrifft.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/fuest-und-schnitzer-warnen-europa-ist-auf-die-rasante-ki-entwicklung-nicht-vorbereitet-accg-201218653.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
@@ -121,57 +121,57 @@
         "category": ""
       },
       {
-        "title": "Interest rates hold expected but Bank of England facing tough choices",
-        "summary": "Forecasts of further rises in the inflation rate mean some analysts expect the Bank to act by the end of the year.",
-        "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+        "title": "We bought our £242,000 home without a deposit - here's how",
+        "summary": "The share of UK mortgages with smaller deposits is the highest it's been since 2008.",
+        "link": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Umwelthaftung: PFAS – Ewigkeitschemikalien mit ewiger Verantwortung?",
-        "summary": "PFAS sind allgegenwärtig.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/pfas-ewigkeitschemikalien-mit-ewiger-verantwortung-accg-201221088.html",
+        "title": "Erfolg der Alpenrepublik: Warum geht es der Schweiz besser als Deutschland?",
+        "summary": "Die Schweizer Wirtschaft wächst, Deutschland wird nach unten durchgereicht.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/warum-geht-es-der-schweiz-wirtschaftlich-besser-als-deutschland-der-oekonom-lars-feld-gibt-antworten-accg-201180209.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Zweite Schätzung: Inflation im Euroraum bei 3,2 Prozent",
-        "summary": "Die Preise sind im August etwas geringer gestiegen als zunächst geschätzt.",
-        "link": "https://www.handelsblatt.com/politik/konjunktur/zweite-schaetzung-inflation-im-euroraum-bei-32-prozent/100255326.html",
+        "title": "Dax aktuell: Dax notiert leicht schwächer – Tech-Aktie legt zu",
+        "summary": "Nach der US-Notenbank Fed hat nun auch die Bank of Japan den Leitzins erhöht.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-leicht-schwaecher-tech-aktie-legt-zu/100255551.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
-        "summary": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-        "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+        "title": "Healey to ask EU finance ministers to let UK into Made in Europe scheme",
+        "summary": "The chancellor wants the Made in Europe programme to deepen ties with the UK \"rather than erecting new barriers\".",
+        "link": "https://www.bbc.co.uk/news/articles/cr6240ej07ejo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Ernährungsdebatten: Wie Zucker zum Sündenbock wurde",
-        "summary": "Einst war Zucker ein kostbares Symbol des Wohlstands.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/suendenboecke-zucker-fleisch-alkohol-warum-ernaehrungsdebatten-so-einseitig-gefuehrt-werden-accg-201217355.html",
+        "title": "Frances Haugen: „Verbote sozialer Medien sind tragisch, aber notwendig“",
+        "summary": "Frances Haugen wurde als Facebook-Whistleblowerin bekannt, jetzt kommt ihre Geschichte in die Kinos.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/verbote-sozialer-medien-sind-tragisch-aber-notwendig-frances-haugen-kommt-ins-kino-accg-201232355.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Industrie: Bilfinger gibt Aufholjagd auf und streicht 1500 Stellen – Aktie bricht ein",
-        "summary": "Der Iran-Krieg belastet das Industrieunternehmen länger als erwartet.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/industrie-bilfinger-gibt-aufholjagd-auf-und-streicht-1500-stellen/100255252.html",
+        "title": "Reisen: „Wir wollen hier kein Sylt 2.0 schaffen“",
+        "summary": "Für Urlauber ist Carolinensiel häufig nur Durchgangsstation.",
+        "link": "https://www.handelsblatt.com/unternehmen/dienstleister/tourismus-wir-wollen-hier-kein-sylt-2.0-schaffen/100241855.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "US interest rates raised for first time in three years",
-        "summary": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
-        "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+        "title": "Thames Water rescue deal should be rejected - MPs",
+        "summary": "A report on the future of Thames Water, urging the government to take action, has been published.",
+        "link": "https://www.bbc.co.uk/news/articles/c6qjk9q1wpqeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": "Quellen nicht erreichbar: NASA Breaking News",
+    "error": null,
     "data": [
       {
-        "title": "30-second habits to improve your mood",
-        "summary": "These exercises can help us find more calm and connection",
-        "link": "https://www.bbc.com/future/article/20260911-four-30-second-habits-that-could-make-you-calmer?ocid=global_future_rss",
-        "source": "BBC Future",
-        "publisher": "BBC",
-        "category": "Zukunft"
-      },
-      {
-        "title": "Some Fish in the Great Lakes Might Be More Than 400 Years Old, a Study Suggests, Outliving Around 15 Generations of Humans",
-        "summary": "Lake sturgeon may be among the longest-living vertebrates, second only to Greenland sharks, according to recent research.",
-        "link": "https://www.smithsonianmag.com/science-nature/some-fish-in-the-great-lakes-might-be-more-than-400-years-old-a-study-suggests-outliving-around-15-generations-of-humans-180989500/",
-        "source": "Smithsonian",
-        "publisher": "Smithsonian",
-        "category": "Wissenschaft"
-      },
-      {
-        "title": "Study of 1.9 million people finds a striking link between ADHD and gut problems",
-        "summary": "Researchers analyzing data from more than 1.9 million people found that ADHD is associated with substantially higher rates of digestive problems.",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260911003840.htm",
-        "source": "ScienceDaily – Neurowissenschaft",
+        "title": "A coral reef thought dead for 60 years is teeming with life",
+        "summary": "More than 60 years after surveys suggested a deep coral reef off Benin was probably dead, scientists have found it alive.",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260913081927.htm",
+        "source": "ScienceDaily – Geowissenschaften",
         "publisher": "ScienceDaily",
-        "category": "Neurowissenschaft"
+        "category": "Erde"
+      },
+      {
+        "title": "Larz Anderson Auto Museum in Brookline, Massachusetts",
+        "summary": "Located slightly northwest of Harvard's Arnold Arboretum and within a residential area is Larz Anderson Park.",
+        "link": "https://www.atlasobscura.com/places/larz-anderson-auto-museum",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
+      },
+      {
+        "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+        "link": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
+        "source": "MIT Technology Review",
+        "publisher": "MIT",
+        "category": "Technologie"
       }
     ]
   }

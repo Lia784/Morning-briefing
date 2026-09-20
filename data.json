@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T09:15:28+00:00",
-  "date_label": "Saturday, 19. September 2026",
+  "generated_at": "2026-09-20T09:38:43+00:00",
+  "date_label": "Sunday, 20. September 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 70874,
-        "usd": 81388,
-        "change_24h_pct": 3.94
+        "eur": 70085,
+        "usd": 80451,
+        "change_24h_pct": -0.96
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2306.98,
-        "usd": 2649.22,
-        "change_24h_pct": 5.57
+        "eur": 2247.83,
+        "usd": 2580.29,
+        "change_24h_pct": -2.01
       }
     ]
   },
@@ -64,8 +64,8 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1489,
-        "change_pct": 0.17
+        "price": 1.149,
+        "change_pct": 0.18
       },
       {
         "name": "EUR/GBP",
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Serpentone: Europas längstes Wohnhaus",
-        "summary": "Am Rande von Rom hat man vor Jahren auf einer Länge von einem Kilometer Sozialwohnungen in einem einzigen Gebäude untergebracht.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/europas-laengstes-wohnhaus-ist-1000-meter-lang-accg-201196849.html",
+        "title": "Wirtschaftsstandort Ostdeutschland: Was bringt eine Sonderwirtschaftszone Ost?",
+        "summary": "Zwischen den Wahlen in Sachsen-Anhalt und in Mecklenburg-Vorpommern ist die Diskussion über Sonderwirtschaftszonen in Ostdeutschland neu entflammt.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/wuerde-eine-sonderwirtschaftszone-ostdeutschland-helfen-accg-201238474.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "+++ Ukraine-Krieg +++: Putin wirft Ukraine Störung russischer Parlamentswahl vor",
-        "summary": "Polen beendet Luftraumkontrolle +++ Polen lässt präventiv Kampfjets aufsteigen +++ Trump unterzeichnet Paket mit Sanktionen gegen Russland +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
+        "title": "Krankenkassen: Informationspflicht bei Beitragserhöhung soll zurückkommen",
+        "summary": "Mit dem letzten Sparpaket hatte die Regierung auch die Pflicht für die Krankenkassen gestrichen, Versicherte über höhere Beiträge zu informieren.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/krankenkassen-informationspflicht-bei-beitragserhoehung-soll-zurueckkommen/100255918.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
-        "summary": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
-        "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
+        "title": "Ed Davey calls for immediate 10p cut to fuel duty",
+        "summary": "Sir Ed blamed Donald Trump's war with Iran for damaging the UK economy and pushing fuel prices up.",
+        "link": "https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "F.A.S. Exklusiv: Ein Deutsches Haus für Davos",
-        "summary": "Auf dem Weltwirtschaftsforum will die Bundesregierung mehr Präsenz zeigen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/deutsches-haus-in-davos-bundesregierung-plant-wef-auftritt-accg-201238548.html",
+        "title": "Yoshua Bengio: Warum lügen, betrügen und koordinieren sich KI-Agenten?",
+        "summary": "Künstliche Intelligenz hat Maßnahmen ergriffen, die als Verbrechen gelten würden, wenn ein Mensch sie beginge.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/yoshua-bengio-erklaert-warum-luegt-betruegt-und-koordiniert-sich-die-ki-accg-201242795.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Porsche: VW hält bei Porsche weitere 4000 Stellen für entbehrlich",
-        "summary": "Porsche-Boss Leiters plant seine neue Strategie mit weniger Autos.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/porsche-vw-haelt-bei-porsche-weitere-4000-stellen-fuer-entbehrlich/100254633.html",
+        "title": "Steuern: Finanzämter füllen Steuererklärungen für Bürger aus – jeder zweite lehnt ab",
+        "summary": "Hessen verschickt in einem Pilotprojekt vorausgefüllte Steuerunterlagen.",
+        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/steuern-so-reagierten-212.000-hessen-auf-die-vorausgefuellte-steuererklaerung/100252838.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Flight chaos caused by 'millisecond' software defect, report says",
-        "summary": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.",
-        "link": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
+        "title": "Not all AI workers think the tech could kill everyone",
+        "summary": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
+        "link": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Tarnkappenjet: Pistorius: „Danke für die Gänsehaut“",
-        "summary": "Der Verteidigungsminister nimmt in Texas den ersten Kampfjet des Typs F-35 für die Bundeswehr in Empfang.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/verteidigungsminister-pistorius-nimmt-in-texas-kampfjet-des-typs-f-35-in-empfang-201240597.html",
+        "title": "Umbruch in Duisburg: Wenn die Stahlschmelzer ihren Ofen für immer abschalten",
+        "summary": "Aus nach 53 Produktionsjahren: Das zweitgrößte integrierte deutsche Stahlwerk hat am Wochenende einen seiner Hochöfen außer Betrieb genommen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/hkm-in-duisburg-wenn-die-stahlschmelzer-ihren-ofen-fuer-immer-abschalten-accg-201239189.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Insight Innovation: Europas Abschreckung: Wie gut können Frankreichs Atomwaffen Deutschland schützen?",
-        "summary": "Erstmals beteiligt sich die Bundeswehr an Frankreichs streng geheimer Nuklearübung.",
-        "link": "https://www.handelsblatt.com/unternehmen/verteidigung-wie-gut-koennen-frankreichs-atomwaffen-deutschland-schuetzen/100252135.html",
+        "title": "Energie: Hoffnung für den Standort Deutschland: Experten rechnen mit sinkenden Strompreisen",
+        "summary": "Die hohen Energiepreise sind in Deutschland ein großes Problem.",
+        "link": "https://www.handelsblatt.com/unternehmen/energie/energie-experten-rechnen-mit-sinkenden-strompreisen/100254364.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
-        "summary": "O'Leary described his choice of language as \"careless\" and said \"it won't happen again\".",
-        "link": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
+        "title": "Billionaire Man United owner says he has lost confidence in the UK",
+        "summary": "Ineos founder Sir Jim Ratcliffe tells the BBC he thinks the country is \"on the slide\" and calls for more investment in the North Sea.",
+        "link": "https://www.bbc.co.uk/news/articles/cm0463619r1no?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,28 +183,28 @@
     "error": null,
     "data": [
       {
-        "title": "Textbooks may have misdrawn this basic brain structure for 100 years",
-        "summary": "Scientists discovered that brain-cell axons may not be smooth tubes as textbooks have shown for more than a century, but instead naturally resemble strings of tiny pearls.",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260915232138.htm",
-        "source": "ScienceDaily – Neurowissenschaft",
+        "title": "These blood thinners may have an unexpected benefit for Alzheimer’s patients",
+        "summary": "Newer blood thinners may do more than prevent strokes in people with Alzheimer’s disease and atrial fibrillation.",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260917003732.htm",
+        "source": "ScienceDaily – Gesundheit",
         "publisher": "ScienceDaily",
-        "category": "Neurowissenschaft"
+        "category": "Medizin"
       },
       {
-        "title": "The Academy of Natural Sciences in Philadelphia, Pennsylvania",
-        "summary": "The Academy of Natural Sciences is the oldest natural history museum in the country (and the Americas).",
-        "link": "https://www.atlasobscura.com/places/the-academy-of-natural-sciences",
+        "title": "Where to Find the World’s Best Soup",
+        "summary": "20,000 BC was a monumental year in history.",
+        "link": "https://www.atlasobscura.com/articles/worlds-best-soup",
         "source": "Atlas Obscura",
         "publisher": "Atlas Obscura",
         "category": "Entdeckung"
       },
       {
-        "title": "How research funding took me out of the lab and into leadership",
-        "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02184-2 Landing two large grants caused Anna Sandak to take on a managerial role in her team and made her reflect on what it means to contribute to res…",
-        "link": "https://www.nature.com/articles/d41586-026-02184-2",
-        "source": "Nature News",
-        "publisher": "Nature",
-        "category": "Forschung"
+        "title": "The lost species that live on in Irish place names",
+        "summary": "These old names are piquing the interest of nature-lovers and ecologists.",
+        "link": "https://www.bbc.com/future/article/20260910-the-long-lost-animals-that-live-on-in-irish-place-names?ocid=global_future_rss",
+        "source": "BBC Future",
+        "publisher": "BBC",
+        "category": "Zukunft"
       }
     ]
   }

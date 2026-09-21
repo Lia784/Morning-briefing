@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20T09:38:43+00:00",
-  "date_label": "Sunday, 20. September 2026",
+  "generated_at": "2026-09-21T10:28:36+00:00",
+  "date_label": "Monday, 21. September 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,8 +8,8 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25304.0605,
-        "change_pct": -1.6
+        "price": 25573.0195,
+        "change_pct": 1.06
       },
       {
         "name": "S&P 500",
@@ -26,8 +26,8 @@
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6236.2002,
-        "change_pct": -1.37
+        "price": 6316.46,
+        "change_pct": 1.29
       },
       {
         "name": "Nikkei 225",
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 70085,
-        "usd": 80451,
-        "change_24h_pct": -0.96
+        "eur": 73641,
+        "usd": 84544,
+        "change_24h_pct": 5.25
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2247.83,
-        "usd": 2580.29,
-        "change_24h_pct": -2.01
+        "eur": 2367.23,
+        "usd": 2717.71,
+        "change_24h_pct": 5.57
       }
     ]
   },
@@ -64,32 +64,32 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.149,
-        "change_pct": 0.18
+        "price": 1.1485,
+        "change_pct": 0.08
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8573,
-        "change_pct": 0.03
+        "price": 0.8578,
+        "change_pct": -0.15
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9437,
-        "change_pct": -0.31
+        "price": 0.9441,
+        "change_pct": -0.26
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 156.855,
-        "change_pct": 0.46
+        "price": 157.222,
+        "change_pct": 0.7
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 179.53,
-        "change_pct": 0.19
+        "price": 180.533,
+        "change_pct": 0.74
       },
       {
         "name": "US 10Y Rendite",
@@ -105,25 +105,25 @@
     "error": null,
     "data": [
       {
-        "title": "Wirtschaftsstandort Ostdeutschland: Was bringt eine Sonderwirtschaftszone Ost?",
-        "summary": "Zwischen den Wahlen in Sachsen-Anhalt und in Mecklenburg-Vorpommern ist die Diskussion über Sonderwirtschaftszonen in Ostdeutschland neu entflammt.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/wuerde-eine-sonderwirtschaftszone-ostdeutschland-helfen-accg-201238474.html",
+        "title": "Heinrich August Winkler: „Es könnte sein, dass die AfD gerade ihren Höhepunkt überschreitet“",
+        "summary": "Der Historiker Heinrich August Winkler hält die AfD für besiegbar.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/heinrich-august-winkler-vielleicht-hat-die-afd-ihren-hoehepunkt-gerade-ueberschritten-accg-201237588.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Krankenkassen: Informationspflicht bei Beitragserhöhung soll zurückkommen",
-        "summary": "Mit dem letzten Sparpaket hatte die Regierung auch die Pflicht für die Krankenkassen gestrichen, Versicherte über höhere Beiträge zu informieren.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/krankenkassen-informationspflicht-bei-beitragserhoehung-soll-zurueckkommen/100255918.html",
+        "title": "Geldanlage: Bis zu 14 Prozent Jahresrendite: Welche Robo-Advisor am besten performen",
+        "summary": "Digitale Vermögensverwalter erzielten 2025 teils zweistellige Renditen, wie eine neue Auswertung zeigt.",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/etfs-fuer-diese-zwei-anlegertypen-koennen-sich-robo-advisor-lohnen/100224417.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Ed Davey calls for immediate 10p cut to fuel duty",
-        "summary": "Sir Ed blamed Donald Trump's war with Iran for damaging the UK economy and pushing fuel prices up.",
-        "link": "https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss",
+        "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
+        "summary": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
+        "link": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -137,41 +137,41 @@
         "category": ""
       },
       {
-        "title": "Steuern: Finanzämter füllen Steuererklärungen für Bürger aus – jeder zweite lehnt ab",
-        "summary": "Hessen verschickt in einem Pilotprojekt vorausgefüllte Steuerunterlagen.",
-        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/steuern-so-reagierten-212.000-hessen-auf-die-vorausgefuellte-steuererklaerung/100252838.html",
+        "title": "Krypto-Technik: Europas Währungshüter digitalisieren den Wertpapierhandel",
+        "summary": "Die EZB macht den Wertpapierhandel fit für das Digitalzeitalter.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/krypto-technik-europas-waehrungshueter-digitalisieren-den-wertpapierhandel/100256180.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Not all AI workers think the tech could kill everyone",
-        "summary": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
-        "link": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
+        "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
+        "summary": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
+        "link": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Umbruch in Duisburg: Wenn die Stahlschmelzer ihren Ofen für immer abschalten",
-        "summary": "Aus nach 53 Produktionsjahren: Das zweitgrößte integrierte deutsche Stahlwerk hat am Wochenende einen seiner Hochöfen außer Betrieb genommen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/hkm-in-duisburg-wenn-die-stahlschmelzer-ihren-ofen-fuer-immer-abschalten-accg-201239189.html",
+        "title": "Inspiration aus der Antike: Olympische Spiele treiben den Städtebau an",
+        "summary": "Welche Region aus Deutschland soll sich um Olympische und Paralympische Spiele bewerben?",
+        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/olympische-spiele-ein-stadion-formt-den-neuen-stadtteil-accg-201196121.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Energie: Hoffnung für den Standort Deutschland: Experten rechnen mit sinkenden Strompreisen",
-        "summary": "Die hohen Energiepreise sind in Deutschland ein großes Problem.",
-        "link": "https://www.handelsblatt.com/unternehmen/energie/energie-experten-rechnen-mit-sinkenden-strompreisen/100254364.html",
+        "title": "Chemieindustrie: BASF prüft Bau neuer Produktionsanlage in Indien",
+        "summary": "Der Chemiekonzern würde mit diesem Projekt sein Netzwerk für Kunststoff-Vorprodukte weiter ausbauen.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/chemieindustrie-basf-prueft-bau-neuer-produktionsanlage-in-indien/100256165.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Billionaire Man United owner says he has lost confidence in the UK",
-        "summary": "Ineos founder Sir Jim Ratcliffe tells the BBC he thinks the country is \"on the slide\" and calls for more investment in the North Sea.",
-        "link": "https://www.bbc.co.uk/news/articles/cm0463619r1no?at_medium=RSS&at_campaign=rss",
+        "title": "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
+        "summary": "Jensen Huang's comments come after warnings from AI researchers that the technology could lead to human extinction.",
+        "link": "https://www.bbc.co.uk/news/articles/cr5ye7p13jg7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": null,
+    "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "These blood thinners may have an unexpected benefit for Alzheimer’s patients",
-        "summary": "Newer blood thinners may do more than prevent strokes in people with Alzheimer’s disease and atrial fibrillation.",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260917003732.htm",
-        "source": "ScienceDaily – Gesundheit",
-        "publisher": "ScienceDaily",
-        "category": "Medizin"
-      },
-      {
-        "title": "Where to Find the World’s Best Soup",
-        "summary": "20,000 BC was a monumental year in history.",
-        "link": "https://www.atlasobscura.com/articles/worlds-best-soup",
+        "title": "The Academy of Natural Sciences in Philadelphia, Pennsylvania",
+        "summary": "The Academy of Natural Sciences is the oldest natural history museum in the country (and the Americas).",
+        "link": "https://www.atlasobscura.com/places/the-academy-of-natural-sciences",
         "source": "Atlas Obscura",
         "publisher": "Atlas Obscura",
         "category": "Entdeckung"
       },
       {
-        "title": "The lost species that live on in Irish place names",
-        "summary": "These old names are piquing the interest of nature-lovers and ecologists.",
-        "link": "https://www.bbc.com/future/article/20260910-the-long-lost-animals-that-live-on-in-irish-place-names?ocid=global_future_rss",
-        "source": "BBC Future",
-        "publisher": "BBC",
-        "category": "Zukunft"
+        "title": "Hidden gut defect that may explain why IBD keeps coming back",
+        "summary": "Researchers have uncovered a hidden molecular warning sign of inflammatory bowel disease (IBD) that can linger even when patients feel well and appear to be in remission.",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260918024814.htm",
+        "source": "ScienceDaily – Gesundheit",
+        "publisher": "ScienceDaily",
+        "category": "Medizin"
+      },
+      {
+        "title": "How research funding took me out of the lab and into leadership",
+        "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02184-2 Landing two large grants caused Anna Sandak to take on a managerial role in her team and made her reflect on what it means to contribute to res…",
+        "link": "https://www.nature.com/articles/d41586-026-02184-2",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
       }
     ]
   }

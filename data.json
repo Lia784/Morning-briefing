@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T10:28:36+00:00",
-  "date_label": "Monday, 21. September 2026",
+  "generated_at": "2026-09-22T09:41:07+00:00",
+  "date_label": "Tuesday, 22. September 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,26 +8,26 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25573.0195,
-        "change_pct": 1.06
+        "price": 25609.8691,
+        "change_pct": 0.14
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7650.5,
-        "change_pct": 0.17
+        "price": 7764.7002,
+        "change_pct": 1.49
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26522.5391,
-        "change_pct": 0.39
+        "price": 27122.0898,
+        "change_pct": 2.26
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6316.46,
-        "change_pct": 1.29
+        "price": 6326.6499,
+        "change_pct": 0.13
       },
       {
         "name": "Nikkei 225",
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 73641,
-        "usd": 84544,
-        "change_24h_pct": 5.25
+        "eur": 75035,
+        "usd": 85964,
+        "change_24h_pct": 1.44
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2367.23,
-        "usd": 2717.71,
-        "change_24h_pct": 5.57
+        "eur": 2393.98,
+        "usd": 2742.69,
+        "change_24h_pct": 0.27
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1485,
-        "change_pct": 0.08
+        "price": 1.1463,
+        "change_pct": -0.15
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
         "price": 0.8578,
-        "change_pct": -0.15
+        "change_pct": 0.07
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9441,
-        "change_pct": -0.26
+        "price": 0.9387,
+        "change_pct": -0.59
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 157.222,
-        "change_pct": 0.7
+        "price": 157.096,
+        "change_pct": 0.03
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 180.533,
-        "change_pct": 0.74
+        "price": 180.033,
+        "change_pct": -0.14
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.998,
-        "change_pct": 1.03,
+        "price": 4.963,
+        "change_pct": -0.7,
         "unit": "%"
       }
     ]
@@ -113,65 +113,65 @@
         "category": ""
       },
       {
-        "title": "Geldanlage: Bis zu 14 Prozent Jahresrendite: Welche Robo-Advisor am besten performen",
-        "summary": "Digitale Vermögensverwalter erzielten 2025 teils zweistellige Renditen, wie eine neue Auswertung zeigt.",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/etfs-fuer-diese-zwei-anlegertypen-koennen-sich-robo-advisor-lohnen/100224417.html",
+        "title": "Taiwan: Taiwans Auslandsaufträge übertreffen erstmals 100-Milliarden-Dollar-Marke",
+        "summary": "Die taiwanischen Auftragsbücher gelten als Frühindikator für die weltweite Nachfrage nach Technologieprodukten.",
+        "link": "https://www.handelsblatt.com/politik/konjunktur/taiwan-taiwans-auslandsauftraege-uebertreffen-100-milliarden-dollar-marke/100256527.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
-        "summary": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
-        "link": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
+        "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
+        "summary": "Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget.",
+        "link": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Yoshua Bengio: Warum lügen, betrügen und koordinieren sich KI-Agenten?",
-        "summary": "Künstliche Intelligenz hat Maßnahmen ergriffen, die als Verbrechen gelten würden, wenn ein Mensch sie beginge.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/yoshua-bengio-erklaert-warum-luegt-betruegt-und-koordiniert-sich-die-ki-accg-201242795.html",
+        "title": "Nach den Wahlen: Deutschland braucht eine neue bürgerliche Partei",
+        "summary": "Der Niedergang von Union und FDP ist selbstverschuldet.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/nach-den-wahlen-in-mv-und-berlin-deutschland-braucht-eine-neue-buergerliche-partei-accg-201246870.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Krypto-Technik: Europas Währungshüter digitalisieren den Wertpapierhandel",
-        "summary": "Die EZB macht den Wertpapierhandel fit für das Digitalzeitalter.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/krypto-technik-europas-waehrungshueter-digitalisieren-den-wertpapierhandel/100256180.html",
+        "title": "Ukraine: DHL dient sich als Logistiker für ukrainische Waffenexporte an",
+        "summary": "Die Ukraine will über den eigenen Bedarf hinaus produzierte Rüstungsgüter exportieren.",
+        "link": "https://www.handelsblatt.com/politik/international/ukraine-dhl-dient-sich-als-logistiker-fuer-ukrainische-waffenexporte-an/100256248.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-        "summary": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
-        "link": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
+        "title": "Vet prescription fees capped under rule changes",
+        "summary": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.",
+        "link": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Inspiration aus der Antike: Olympische Spiele treiben den Städtebau an",
-        "summary": "Welche Region aus Deutschland soll sich um Olympische und Paralympische Spiele bewerben?",
-        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/olympische-spiele-ein-stadion-formt-den-neuen-stadtteil-accg-201196121.html",
+        "title": "Neuer BMW-Chef im Interview: „Fakt ist: Die Arbeitskosten in Deutschland sind zu hoch“",
+        "summary": "BMW schaltet unter dem neuen Vorstandsvorsitzenden in den Krisenmodus.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/bmw-in-der-krise-milan-nedeljkovi-ueber-arbeitsplaetze-und-wahlergebnisse-accg-201247372.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Chemieindustrie: BASF prüft Bau neuer Produktionsanlage in Indien",
-        "summary": "Der Chemiekonzern würde mit diesem Projekt sein Netzwerk für Kunststoff-Vorprodukte weiter ausbauen.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/chemieindustrie-basf-prueft-bau-neuer-produktionsanlage-in-indien/100256165.html",
+        "title": "Luftfahrt: Interne Kritik bei Lufthansa: „Die Gruppe weiß noch nicht, was sie sein will“",
+        "summary": "Zu viel oder zu wenig Zentralisierung – die neue Organisationsstruktur sorgt neun Monate nach Einführung für Verunsicherung und in einigen Teilen des Konzerns für Unmut.",
+        "link": "https://www.handelsblatt.com/unternehmen/dienstleister/luftfahrt-umbau-im-lufthansa-konzern-sorgt-fuer-interne-kritik/100252810.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
-        "summary": "Jensen Huang's comments come after warnings from AI researchers that the technology could lead to human extinction.",
-        "link": "https://www.bbc.co.uk/news/articles/cr5ye7p13jg7o?at_medium=RSS&at_campaign=rss",
+        "title": "Canadian province sues OpenAI over Tumbler Ridge school shooting",
+        "summary": "British Columbia has accused the company of failing to report the shooter's troubling interactions with ChatGPT to law enforcement.",
+        "link": "https://www.bbc.co.uk/news/articles/c3wyz2rkgrx0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": "Quellen nicht erreichbar: NASA Breaking News",
+    "error": null,
     "data": [
       {
-        "title": "The Academy of Natural Sciences in Philadelphia, Pennsylvania",
-        "summary": "The Academy of Natural Sciences is the oldest natural history museum in the country (and the Americas).",
-        "link": "https://www.atlasobscura.com/places/the-academy-of-natural-sciences",
+        "title": "Scientists discover a hidden “ID card” in cat urine",
+        "summary": "Cats may identify one another through a surprisingly durable chemical “calling card” made from 13 unusual fatty acids in their urine.",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260919031033.htm",
+        "source": "ScienceDaily – Tiere",
+        "publisher": "ScienceDaily",
+        "category": "Biologie"
+      },
+      {
+        "title": "Roman Baths of Slovenia (Rimski Terma) in Slovenia",
+        "summary": "In a valley surrounded by forested mountains is a mineral spring and baths in use since the Roman Empire.",
+        "link": "https://www.atlasobscura.com/places/roman-baths-of-slovenia-rimski-terma",
         "source": "Atlas Obscura",
         "publisher": "Atlas Obscura",
         "category": "Entdeckung"
       },
       {
-        "title": "Hidden gut defect that may explain why IBD keeps coming back",
-        "summary": "Researchers have uncovered a hidden molecular warning sign of inflammatory bowel disease (IBD) that can linger even when patients feel well and appear to be in remission.",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260918024814.htm",
-        "source": "ScienceDaily – Gesundheit",
-        "publisher": "ScienceDaily",
-        "category": "Medizin"
-      },
-      {
-        "title": "How research funding took me out of the lab and into leadership",
-        "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02184-2 Landing two large grants caused Anna Sandak to take on a managerial role in her team and made her reflect on what it means to contribute to res…",
-        "link": "https://www.nature.com/articles/d41586-026-02184-2",
-        "source": "Nature News",
-        "publisher": "Nature",
-        "category": "Forschung"
+        "title": "Five Ways the World of the Dinosaurs Looked Different From Ours, Beyond the Presence of the 'Terrible Lizards'",
+        "summary": "Earth has changed dramatically since the Age of Dinosaurs, from its climate to geography and animal life",
+        "link": "https://www.smithsonianmag.com/science-nature/five-ways-the-world-of-the-dinosaurs-looked-different-from-ours-beyond-the-presence-of-the-terrible-lizards-180989521/",
+        "source": "Smithsonian",
+        "publisher": "Smithsonian",
+        "category": "Wissenschaft"
       }
     ]
   }

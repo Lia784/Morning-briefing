@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T09:48:31+00:00",
-  "date_label": "Wednesday, 23. September 2026",
+  "generated_at": "2026-09-24T09:45:25+00:00",
+  "date_label": "Thursday, 24. September 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25488.2207,
-        "change_pct": -0.34
+        "price": 25287.4902,
+        "change_pct": -0.48
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": NaN,
-        "change_pct": NaN
+        "price": 7706.0298,
+        "change_pct": -0.76
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": NaN,
-        "change_pct": NaN
+        "price": 26936.0391,
+        "change_pct": -0.69
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6319.2598,
-        "change_pct": 0.02
+        "price": 6273.3198,
+        "change_pct": -0.42
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 65018.9492,
-        "change_pct": 1.38
+        "price": 65513.9883,
+        "change_pct": 0.76
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 75209,
-        "usd": 85817,
-        "change_24h_pct": 0.2
+        "eur": 73128,
+        "usd": 83171,
+        "change_24h_pct": -2.75
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2397.93,
-        "usd": 2736.16,
-        "change_24h_pct": 0.17
+        "eur": 2323.14,
+        "usd": 2642.21,
+        "change_24h_pct": -3.13
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1412,
-        "change_pct": -0.46
+        "price": 1.1378,
+        "change_pct": -0.61
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.859,
-        "change_pct": 0.19
+        "price": 0.86,
+        "change_pct": 0.24
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9391,
-        "change_pct": -0.21
+        "price": 0.9412,
+        "change_pct": 0.18
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 157.89,
-        "change_pct": 0.33
+        "price": 158.752,
+        "change_pct": 0.82
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 180.142,
-        "change_pct": -0.14
+        "price": 180.58,
+        "change_pct": 0.17
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.963,
-        "change_pct": -0.7,
+        "price": 5.114,
+        "change_pct": 3.04,
         "unit": "%"
       }
     ]
@@ -105,57 +105,57 @@
     "error": null,
     "data": [
       {
-        "title": "Neuer BMW-Chef: Ein BMW in China ist bis zu 30.000 Euro günstiger – woran liegt das, Herr Nedeljković?",
-        "summary": "BMW schaltet unter dem neuen Vorstandsvorsitzenden in den Krisenmodus.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/bmw-in-der-krise-milan-nedeljkovi-ueber-arbeitsplaetze-und-wahlergebnisse-accg-201247372.html",
+        "title": "Audi-Standort Neckarsulm: Zu Besuch im Zentrum der Autokrise",
+        "summary": "Für die Stadt Neckarsulm ist das Audi-Werk mehr als ein Arbeitgeber.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vw-strauchelt-so-kaempft-audi-in-neckarsulm-ums-ueberleben-201252049.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Ranking 2026: Schutz für den Ernstfall: Das sind die besten Unfallversicherungen",
-        "summary": "Ein Unfall kann das Leben dauerhaft verändern.",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/ranking-2026-das-sind-die-besten-unfallversicherungen/100252250.html",
+        "title": "Energie: Plus 28 Prozent: Heizen wird dieses Jahr für viele Haushalte deutlich teurer",
+        "summary": "Eine bundesweite Analyse zeigt, wie sich die Kosten 2026 für die verschiedenen Heizarten entwickeln.",
+        "link": "https://www.handelsblatt.com/unternehmen/energie/energie-so-stark-steigen-die-heizkosten-fuer-haushalte-dieses-jahr/100253833.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "UK economy will grow by less than expected next year, OECD says",
-        "summary": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
-        "link": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
+        "title": "£170 a bag? Protein users squeezed as prices soar",
+        "summary": "Consumers are feeling the pinch from the rising cost of protein.",
+        "link": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Wärmewende: Genossenschaften ärgern sich über Sanierungsauflagen",
-        "summary": "Der Wohnungsbedarf wächst: Kleinere Baugenossenschaften wollen mehr bauen und sanieren.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/baugenossenschaften-sanierungsauflagen-als-hindernis-accg-201183976.html",
+        "title": "Sanierungsprojekte: Warum die Opern so viele Milliarden kosten",
+        "summary": "Am Donnerstag wird die Kölner Oper wiedereröffnet, nach 14 Jahren Sanierung und 1,5 Milliarden Euro Baukosten.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/warum-die-opern-so-viele-milliarden-kosten-accg-201238516.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Tarifrunde: IG Metall fordert fünf Prozent mehr Geld für Beschäftigte",
-        "summary": "Die Preise steigen, nun sollen die Löhne folgen: Die IG Metall will deutlich mehr Geld für 3,7 Millionen Beschäftigte durchsetzen.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/tarifrunde-ig-metall-fordert-fuenf-prozent-mehr-geld-fuer-beschaeftigte/100256830.html",
+        "title": "Zukunftsgestalter: Weltspitze in der Provinz: Wie der größte Pharmakonzern Deutschlands seine Führungskräfte entwickelt",
+        "summary": "Deutschlands größter Pharmakonzern lockt erfolgreich Führungskräfte nach Ingelheim – und die bleiben dank spezieller Programme lange.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/pharma-wie-boehringer-talente-fuer-das-unternehmen-gewinnt-testen-sie-sich/100251886.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
-        "summary": "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more.",
-        "link": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+        "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
+        "summary": "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash over privacy.",
+        "link": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Aufrüstung und Politik: Kampf um die Rüstungsmessen",
-        "summary": "Mit der Aufrüstung nimmt auch das Interesse an Rüstungsmessen zu.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kampf-um-die-ruestungsmessen-in-deutschen-staedten-accg-201251500.html",
+        "title": "Deutsche Konjunktur: Wirtschaftsforscher verdoppeln ihre Wachstumsprognose für dieses Jahr",
+        "summary": "Die großen deutschen Wirtschaftsforschungsinstitute erwarten, dass das BIP in diesem Jahr um 1,3 Prozent zulegt.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/deutschland-im-aufschwung-institute-heben-wachstumsprognose-accg-201258083.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
@@ -163,15 +163,15 @@
       {
         "title": "Migration: Warum wandern immer mehr Deutsche nach Polen aus?",
         "summary": "Unser osteuropäischer Nachbar zieht so viele Deutsche an wie lange nicht mehr.",
-        "link": "https://www.handelsblatt.com/politik/international/migration-warum-wandern-so-viele-deutsche-nach-polen-aus/100249315.html",
+        "link": "https://www.handelsblatt.com/politik/international/migration-was-polen-fuer-deutsche-auswanderer-attraktiv-macht/100249315.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Trump wants AI to be called 'super intelligence'. Will it work?",
-        "summary": "Some people close to the president have started to use the term but experts say it is unlikely to catch on.",
-        "link": "https://www.bbc.co.uk/news/articles/cqy4z9pv4w0po?at_medium=RSS&at_campaign=rss",
+        "title": "Lidl banned from selling copycat Birkenstock sandals, Dutch court rules",
+        "summary": "Lidl must also compensate Birkenstock and pay its legal fees, according to the court ruling",
+        "link": "https://www.bbc.co.uk/news/articles/cqrm90m2g1dzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,25 +183,25 @@
     "error": null,
     "data": [
       {
-        "title": "Einstein’s “spooky action” just survived one of physics’ most extreme tests",
-        "summary": "Physicists have detected strong evidence that heavy, fleeting Z bosons can become quantum entangled during Higgs boson decays at CERN’s Large Hadron Collider.",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260919031023.htm",
-        "source": "ScienceDaily – Physik",
-        "publisher": "ScienceDaily",
-        "category": "Physik"
+        "title": "Bank accounts reveal the fingerprints of abusive financial control",
+        "summary": "Nature, Published online: 23 September 2026; doi:10.1038/d41586-026-03021-2 Analysis of anonymized banking data could help inform strategies to support victim-survivors of financial abuse — plus, how opposing forces wit…",
+        "link": "https://www.nature.com/articles/d41586-026-03021-2",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
       },
       {
-        "title": "The Nick Weerts Memorial Phone Booth in Madison, Wisconsin",
-        "summary": "There is a phone booth on Madison’s East Side where picking up the receiver connects the caller to no one—and, in a way, to quite a lot of people.",
-        "link": "https://www.atlasobscura.com/places/the-nick-weerts-memorial-phone-booth-nwmpb",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
+        "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+        "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives.",
+        "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+        "source": "MIT Technology Review",
+        "publisher": "MIT",
+        "category": "Technologie"
       },
       {
-        "title": "APOD: 2026 September 22 – Chance Triple Alignment: Plane, Space Station, Sun",
-        "summary": "APOD Science APOD APOD: 2026 September 22 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-        "link": "https://science.nasa.gov/image-article/apod-2026-september-22-chance-triple-alignment-plane-space-station-sun/",
+        "title": "NASA Welcomes Croatia as Newest Artemis Accords Signatory",
+        "summary": "The Republic of Croatia became the 74th signatory to the Artemis Accords on Wednesday during a ceremony in the capital city of Zagreb with NASA and U.S.",
+        "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-croatia-as-newest-artemis-accords-signatory/",
         "source": "NASA Breaking News",
         "publisher": "NASA",
         "category": "Raumfahrt"

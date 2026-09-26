@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T10:03:25+00:00",
-  "date_label": "Friday, 25. September 2026",
+  "generated_at": "2026-09-26T09:44:42+00:00",
+  "date_label": "Saturday, 26. September 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,26 +8,26 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25460.3398,
-        "change_pct": 0.77
+        "price": 25408.6406,
+        "change_pct": 0.56
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7704.1299,
-        "change_pct": -0.02
+        "price": 7743.4102,
+        "change_pct": 0.51
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26939.3691,
-        "change_pct": 0.01
+        "price": 27068.7207,
+        "change_pct": 0.48
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6321.3701,
-        "change_pct": 0.78
+        "price": 6302.8198,
+        "change_pct": 0.48
       },
       {
         "name": "Nikkei 225",
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 74213,
-        "usd": 84537,
-        "change_24h_pct": 1.32
+        "eur": 73738,
+        "usd": 83995,
+        "change_24h_pct": -0.74
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2372.41,
-        "usd": 2702.44,
-        "change_24h_pct": 2.13
+        "eur": 2353.33,
+        "usd": 2680.68,
+        "change_24h_pct": -0.91
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1396,
-        "change_pct": 0.12
+        "price": 1.14,
+        "change_pct": 0.22
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8603,
-        "change_pct": 0.07
+        "price": 0.8595,
+        "change_pct": -0.17
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9449,
-        "change_pct": 0.62
+        "price": 0.9432,
+        "change_pct": 0.43
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 158.018,
-        "change_pct": -0.16
+        "price": 157.185,
+        "change_pct": -1.02
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 180.036,
-        "change_pct": -0.05
+        "price": 179.117,
+        "change_pct": -0.56
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 5.162,
-        "change_pct": 0.94,
+        "price": 5.184,
+        "change_pct": 0.43,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Yoshua Bengio: Warum lügen, betrügen und koordinieren sich KI-Agenten?",
-        "summary": "Künstliche Intelligenz hat Maßnahmen ergriffen, die als Verbrechen gelten würden, wenn ein Mensch sie beginge.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-forscher-yoshua-bengio-warum-die-ki-agenten-ausarten-accg-201242795.html",
+        "title": "Abschied vom Wohlstand: Die Deutschen haben ihre Marktwirtschaft abgewählt",
+        "summary": "Links und rechts verweigern Reformen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/soziale-marktwirtschaft-warum-afd-und-linke-dagegen-sind-accg-201256661.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Cyberbetrug: „Operation Herakles“: Behörden gelingt massiver Schlag gegen Anlagebetrüger",
-        "summary": "Deutsche und österreichische Behörden haben Tausende Rufnummern mutmaßlicher Anlagebetrüger abgeschaltet.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/cyberbetrug-behoerden-gelingt-massiver-schlag-gegen-anlagebetrueger/100257386.html",
+        "title": "Management: Das Erfolgsprinzip von Amazon – und was andere Unternehmen davon lernen können",
+        "summary": "Um die Managementtechniken des Konzerns ranken sich viele Legenden.",
+        "link": "https://www.handelsblatt.com/unternehmen/management/fuehrungskraefte-was-ehemalige-top-manager-ueber-den-erfolg-von-amazon-verraten-02/100244278.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
-        "summary": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
-        "link": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
+        "title": "OpenAI bots meddled with multiple US government agency sites",
+        "summary": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
+        "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Tauziehen um EU-Finanzrahmen: 15 Milliarden Euro Differenz: Deutschland will mehr Geld als bisher von der EU erhalten",
-        "summary": "Wie viel EU-Geld fließt bisher nach Bayern und Sachsen?",
-        "link": "https://www.faz.net/aktuell/wirtschaft/eu-finanzrahmen-15-milliarden-euro-differenz-deutschland-will-mehr-geld-als-bisher-von-der-eu-erhalten-accg-201258506.html",
+        "title": "Cambridge Analytica: Drohende Milliardenstrafe für Meta nach verlorenem Prozess",
+        "summary": "In New Mexico verliert der Konzern Meta einen Prozess im Zusammenhang mit dem Cambridge-Analytica-Skandal.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/cambridge-analytica-skandal-drohende-milliardenstrafe-fuer-meta-nach-verlorenem-prozess-201264202.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Geldanlage: Bis zu 14 Prozent Jahresrendite: Welche Robo-Advisor am besten performen",
-        "summary": "Digitale Vermögensverwalter erzielten 2025 teils zweistellige Renditen, wie eine neue Auswertung zeigt.",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/robo-advisor-diese-anbieter-erzielten-2025-die-hoechsten-renditen/100224417.html",
+        "title": "Stützungsfall: Bankhaus RSA hat fast 450 Millionen Euro an Garantien erhalten",
+        "summary": "Das oberbayerische Kreditinstitut benötigt eine deutlich höhere Unterstützung der BVR-Sicherungseinrichtung als bisher bekannt.",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/stuetzungsfall-bankhaus-rsa-hat-fast-450-millionen-euro-an-garantien-erhalten/100257511.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "'We're all broke': Would you chase a friend for £5?",
-        "summary": "What's the smallest amount of money you would ask a friend to pay you back?",
-        "link": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
+        "title": "Could an iced coffee freeze you out of the job market?",
+        "summary": "Employees and recruiters weigh into the online debate around interview etiquette.",
+        "link": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Autohersteller: VW und Audi rufen fast 900.000 Autos wegen Lenkungsausfall zurück",
-        "summary": "Ein Schraubenabriss kann bei mehreren Modellen des Konzerns zum Ausfall der Lenkung führen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vw-ruft-fast-900-000-autos-wegen-lenkungsausfall-zurueck-accg-201261944.html",
+        "title": "Medizin, Essen, Haushalt: Kann die KI mehr als nur Kosten sparen?",
+        "summary": "Tech-Unternehmer betonen, dass KI trotz aller Gefahren lange undenkbare Innovationen hervorbringen kann.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kuenstliche-intelligenz-kann-ki-mehr-als-kosten-sparen-201251373.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Clemens Fuest: „Das ist ein teuer erkaufter Aufschwung“",
-        "summary": "Die führenden Ökonomen haben ihre Wachstumsprognose für Deutschland mehr als verdoppelt.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/ifo-chef-clemens-fuest-das-ist-ein-teuer-erkaufter-aufschwung/100257240.html",
+        "title": "Pflegeversicherung: SPD will bei Pflegereform Leistungskürzung verhindern",
+        "summary": "Der Pflegeversicherung drohen Milliardendefizite, CDU-Gesundheitsminister Linnemann will nächste Woche im Kabinett eine Kehrtwende einleiten.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/pflegeversicherung-spd-will-bei-pflegereform-leistungskuerzung-verhindern/100257586.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Farmers down 240 million litres of milk after heat",
-        "summary": "Milk yield was affected by a series of extreme heatwaves which led to poor grazing conditions, researchers say.",
-        "link": "https://www.bbc.co.uk/news/articles/cjvgy7qd20wgo?at_medium=RSS&at_campaign=rss",
+        "title": "Clubs seek legal advice over Man City charges compensation",
+        "summary": "Premier League clubs are seeking legal advice as to whether they would have a compensation claim over the Manchester City 115 charges case.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": null,
+    "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "Aging muscles may be losing strength for a reason scientists missed",
-        "summary": "A newly identified breakdown in communication between nerves and muscles could help explain why people lose strength as they age.",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260923035924.htm",
-        "source": "ScienceDaily – Gesundheit",
+        "title": "The LHC just ruled out another hiding place for quantum black holes",
+        "summary": "Physicists searching through Large Hadron Collider data found no evidence that the machine has been producing microscopic quantum black holes, but the result sharply narrows where such exotic physics could still be hidi…",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260922005649.htm",
+        "source": "ScienceDaily – Physik",
         "publisher": "ScienceDaily",
-        "category": "Medizin"
+        "category": "Physik"
       },
       {
-        "title": "Explosive Intensification for Hurricane Polo",
-        "summary": "Several ingredients came together off the Pacific coast of Mexico to generate one of the strongest storms the eastern Pacific basin has ever seen.",
-        "link": "https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/",
-        "source": "NASA Breaking News",
-        "publisher": "NASA",
-        "category": "Raumfahrt"
+        "title": "AI bots are flooding researchers with requests for money and time",
+        "summary": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03005-2 Many scientists use artificial intelligence in their work, but agents are increasingly soliciting researchers for collaborations.",
+        "link": "https://www.nature.com/articles/d41586-026-03005-2",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
       },
       {
-        "title": "A congressional representative just proposed killing America’s border tower program",
-        "summary": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern border.&#160; The announcement comes just…",
-        "link": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
-        "source": "MIT Technology Review",
-        "publisher": "MIT",
-        "category": "Technologie"
+        "title": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age, From Rope to Thread and Twine",
+        "summary": "Largely missing from the archaeological record, fiber innovations played a huge role in the lives of early humans.",
+        "link": "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/",
+        "source": "Smithsonian",
+        "publisher": "Smithsonian",
+        "category": "Wissenschaft"
       }
     ]
   }

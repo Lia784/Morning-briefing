@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T10:24:59+00:00",
-  "date_label": "Sunday, 27. September 2026",
+  "generated_at": "2026-09-28T11:31:37+00:00",
+  "date_label": "Monday, 28. September 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,8 +8,8 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25408.6406,
-        "change_pct": 0.56
+        "price": 25395.1895,
+        "change_pct": -0.05
       },
       {
         "name": "S&P 500",
@@ -26,14 +26,14 @@
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6302.8198,
-        "change_pct": 0.48
+        "price": 6300.8901,
+        "change_pct": -0.03
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 66364.2031,
-        "change_pct": 1.3
+        "price": 65877.6172,
+        "change_pct": -0.73
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 74605,
-        "usd": 84983,
-        "change_24h_pct": 1.01
+        "eur": 72967,
+        "usd": 82990,
+        "change_24h_pct": -1.8
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2382.85,
-        "usd": 2714.31,
-        "change_24h_pct": 0.96
+        "eur": 2341.71,
+        "usd": 2663.37,
+        "change_24h_pct": -1.25
       }
     ]
   },
@@ -64,32 +64,32 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1401,
-        "change_pct": 0.23
+        "price": 1.1378,
+        "change_pct": 0.03
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8595,
-        "change_pct": -0.17
+        "price": 0.8575,
+        "change_pct": -0.41
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9432,
-        "change_pct": 0.43
+        "price": 0.9459,
+        "change_pct": 0.42
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 157.185,
-        "change_pct": -1.02
+        "price": 156.865,
+        "change_pct": -1.23
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 179.117,
-        "change_pct": -0.56
+        "price": 178.436,
+        "change_pct": -1.22
       },
       {
         "name": "US 10Y Rendite",
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Bundesverfassungsgericht: Die Unternehmerfreiheit kommt zu kurz",
-        "summary": "Zum Jubiläum des Bundesverfassungsgerichts ist eine umfangreiche Festschrift erschienen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/bundesverfassungsgericht-die-unternehmerfreiheit-kommt-zu-kurz-201244109.html",
+        "title": "Abschied vom Wohlstand: Die Deutschen haben ihre Marktwirtschaft abgewählt",
+        "summary": "Links und rechts verweigern Reformen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/soziale-marktwirtschaft-warum-afd-und-linke-dagegen-sind-accg-201256661.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Italien: Wieso Giorgia Meloni plötzlich weiter nach rechts rückt",
-        "summary": "Italien wählt 2027 ein neues Parlament.",
-        "link": "https://www.handelsblatt.com/politik/international/italien-wieso-giorgia-meloni-ploetzlich-weiter-nach-rechts-rueckt/100256230.html",
+        "title": "Geldanlage: Kann eine 150 Jahre alte Grafik die Börsenkurse vorhersagen?",
+        "summary": "Aus dem Handelsblatt-Archiv: Eine Kurve aus dem 19.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/aktienmarkt-wie-verlaesslich-ist-eine-boersenprognose-aus-dem-19.-jahrhundert/100189715.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Faisal Islam: The two big decisions the chancellor must make",
-        "summary": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
-        "link": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
+        "title": "Why the PM could finally drop the triple lock pension pledge",
+        "summary": "Andy Burnham said that he would make tough decisions to fund a new national care service.",
+        "link": "https://www.bbc.co.uk/news/articles/c6jdvmy1287yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Reformkurs der Partei: Das Gespenst der Gerechtigkeit treibt die CDU um",
-        "summary": "Nach ihren Wahlniederlagen hat die CDU ein neues Thema entdeckt: Mehr Gerechtigkeit soll die Partei jetzt retten.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/cdu-und-gerechtigkeit-was-steckt-hinter-dem-neuen-kurs-accg-201260708.html",
+        "title": "Als Peugeot und Jeep: Chinas Roboterautos kommen nach Europa",
+        "summary": "Wer Peugeot, Citroën oder Jeep kauft, ist bald mit chinesischer Technik unterwegs.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/chinas-autonome-fahrsoftware-kommt-in-peugeot-und-jeep-accg-201268970.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "USA und China: Trump und Xi bleiben vage – Details zum Handel am Montag?",
-        "summary": "Viel Show, wenig Substanzielles: Nach dem Gipfel zwischen US-Präsident Trump und Chinas Staatschef Xi liegen wenige konkrete Ergebnisse vor.",
-        "link": "https://www.handelsblatt.com/politik/international/usa-und-china-trump-und-xi-bleiben-vage-details-zum-handel-am-montag/100257398.html",
+        "title": "Einkommensteuer: Hier schaut das Finanzamt in der Steuererklärung für 2025 ganz genau hin",
+        "summary": "Viele Steuererklärungen werden automatisch bearbeitet.",
+        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/finanzamt-welche-belege-duerfen-bei-der-steuererklaerung-nicht-fehlen/100105886.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Heathrow Airport warns third runway could be delayed by four years",
-        "summary": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\".",
-        "link": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
+        "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
+        "summary": "The chancellor will unveil policies aimed at boosting British shipbuilding in his speech to Labour's annual conference on Monday.",
+        "link": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Neue britische Regierung: Gute Inszenierung, wenig Substanz",
-        "summary": "Der neue Premierminister Andy Burnham hat „den größten Wandel seit Jahrzehnten“ versprochen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/andy-burnham-als-premier-gute-inszenierung-wenig-substanz-201252805.html",
+        "title": "Vergütungsmodelle: Mitarbeiterbeteiligungen haben noch zu enge Grenzen",
+        "summary": "Mitarbeiterbeteiligungen sind steuerlich attraktiv.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/nur-fuer-start-ups-mitarbeiterbeteiligungen-haben-noch-zu-enge-grenzen-accg-201257638.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Sprengstoff: Festnahmen nahe US-genutzter Militärbasis in Großbritannien",
-        "summary": "Mehrere Personen sollen nahe der Militärbasis gegen das Sprengstoffgesetz verstoßen haben.",
-        "link": "https://www.handelsblatt.com/politik/international/sprengstoff-festnahmen-nahe-us-genutzter-militaerbasis-in-grossbritannien/100257706.html",
+        "title": "Dax aktuell: Dax notiert kaum verändert – Steigende Ölpreise machen Anleger vorsichtig",
+        "summary": "Der deutsche Leitindex notiert am Montag unverändert.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-kaum-veraendert-steigende-oelpreise-machen-anleger-vorsichtig/100257824.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "OpenAI bots meddled with multiple US government agency sites",
-        "summary": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
-        "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+        "title": "My hometown shows that high streets have to change or die",
+        "summary": "Aberdeen is launching an ambitious bid to revive its struggling centre.",
+        "link": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": "Quellen nicht erreichbar: NASA Breaking News",
+    "error": null,
     "data": [
       {
-        "title": "When what you see doesn’t make sense, your brain does something remarkable",
-        "summary": "The brain may have a built-in way to quickly settle disagreements between regions processing the same scene.",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260923035929.htm",
-        "source": "ScienceDaily – Neurowissenschaft",
-        "publisher": "ScienceDaily",
-        "category": "Neurowissenschaft"
+        "title": "NASA Welcomes San Marino Signing the Artemis Accords",
+        "summary": "The Republic of San Marino became the 76th signatory to the Artemis Accords during a ceremony in the city of Rimini on Friday with NASA and U.S.",
+        "link": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/",
+        "source": "NASA Breaking News",
+        "publisher": "NASA",
+        "category": "Raumfahrt"
       },
       {
-        "title": "WWI Pillbox in Southwold, England",
-        "summary": "For decades this rare 100 year-old 'Pillbox' or defensive bunker had been neglected and vandalised, until it was about to be demolished in 2023.",
-        "link": "https://www.atlasobscura.com/places/the-ww1-pillbox-reydon-suffolk-england",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
+        "title": "'Powerful and beautiful': Why we all need body fat",
+        "summary": "Here's why extreme fat loss goals are so bad for our health",
+        "link": "https://www.bbc.com/future/article/20260925-its-bad-for-our-health-to-have-too-little-fat?ocid=global_future_rss",
+        "source": "BBC Future",
+        "publisher": "BBC",
+        "category": "Zukunft"
       },
       {
-        "title": "Nepal’s floods expose issues with climate-disaster funding — firmer policies are needed fast",
-        "summary": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03016-z The UN’s climate loss and damage fund needs to consider how to make decisions about finance fairly and quickly, without disadvantaging low-reso…",
-        "link": "https://www.nature.com/articles/d41586-026-03016-z",
-        "source": "Nature News",
-        "publisher": "Nature",
-        "category": "Forschung"
+        "title": "Some Fish in the Great Lakes Might Be More Than 400 Years Old, a Study Suggests, Outliving Around 15 Generations of Humans",
+        "summary": "Lake sturgeon may be among the longest-living vertebrates, second only to Greenland sharks, according to recent research.",
+        "link": "https://www.smithsonianmag.com/science-nature/some-fish-in-the-great-lakes-might-be-more-than-400-years-old-a-study-suggests-outliving-around-15-generations-of-humans-180989500/",
+        "source": "Smithsonian",
+        "publisher": "Smithsonian",
+        "category": "Wissenschaft"
       }
     ]
   }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T11:31:37+00:00",
-  "date_label": "Monday, 28. September 2026",
+  "generated_at": "2026-09-29T11:11:29+00:00",
+  "date_label": "Tuesday, 29. September 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,54 +8,39 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25395.1895,
-        "change_pct": -0.05
+        "price": 25541.8301,
+        "change_pct": 0.66
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7743.4102,
-        "change_pct": 0.51
+        "price": 7683.6899,
+        "change_pct": -0.77
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 27068.7207,
-        "change_pct": 0.48
+        "price": 26820.3809,
+        "change_pct": -0.92
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6300.8901,
-        "change_pct": -0.03
+        "price": 6358.1899,
+        "change_pct": 0.9
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 65877.6172,
-        "change_pct": -0.73
+        "price": 65481.2695,
+        "change_pct": -0.6
       }
     ]
   },
   "crypto": {
-    "status": "ok",
-    "error": null,
-    "data": [
-      {
-        "name": "Bitcoin",
-        "symbol": "BTC",
-        "eur": 72967,
-        "usd": 82990,
-        "change_24h_pct": -1.8
-      },
-      {
-        "name": "Ethereum",
-        "symbol": "ETH",
-        "eur": 2341.71,
-        "usd": 2663.37,
-        "change_24h_pct": -1.25
-      }
-    ]
+    "status": "error",
+    "error": "CoinGecko nicht erreichbar",
+    "data": null
   },
   "markets": {
     "status": "ok",
@@ -64,38 +49,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1378,
-        "change_pct": 0.03
+        "price": 1.1348,
+        "change_pct": -0.26
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8575,
-        "change_pct": -0.41
+        "price": 0.8573,
+        "change_pct": -0.32
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9459,
-        "change_pct": 0.42
+        "price": 0.9456,
+        "change_pct": 0.17
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 156.865,
-        "change_pct": -1.23
+        "price": 157.273,
+        "change_pct": -0.12
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 178.436,
-        "change_pct": -1.22
+        "price": 178.441,
+        "change_pct": -0.4
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 5.184,
-        "change_pct": 0.43,
+        "price": 5.24,
+        "change_pct": 1.08,
         "unit": "%"
       }
     ]
@@ -105,6 +90,30 @@
     "error": null,
     "data": [
       {
+        "title": "Wachsende Schulden: Die französische Malaise",
+        "summary": "Der Politik in Paris fällt es schwer, die Kontrolle über die Staatsverschuldung zu behalten.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/frankreich-droht-die-ueberschuldung-accg-201255877.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "Geldanlage: Aktien, Anleihen, ETFs, Optionen: So klappt es mit dem Nebenverdienst ohne Arbeit",
+        "summary": "Nichts tun und das Geld fließt trotzdem: Damit die Verheißung vom passiven Einkommen wahr werden kann, gilt es, häufige Fehler zu vermeiden – und sich von einer Illusion zu verabschieden.",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/passives-einkommen-so-schaffen-sie-sich-ein-gefuehl-finanzieller-sicherheit/100188789.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "Burnham to unveil public body to invest in electricity grid",
+        "summary": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader.",
+        "link": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
         "title": "Abschied vom Wohlstand: Die Deutschen haben ihre Marktwirtschaft abgewählt",
         "summary": "Links und rechts verweigern Reformen.",
         "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/soziale-marktwirtschaft-warum-afd-und-linke-dagegen-sind-accg-201256661.html",
@@ -113,65 +122,41 @@
         "category": ""
       },
       {
-        "title": "Geldanlage: Kann eine 150 Jahre alte Grafik die Börsenkurse vorhersagen?",
-        "summary": "Aus dem Handelsblatt-Archiv: Eine Kurve aus dem 19.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/aktienmarkt-wie-verlaesslich-ist-eine-boersenprognose-aus-dem-19.-jahrhundert/100189715.html",
+        "title": "Industrie: Schott verliert seinen Chef – Der Nachfolger kennt den Glasspezialisten bestens",
+        "summary": "Torsten Derr gibt seinen Posten unerwartet nach weniger als zwei Jahren an der Spitze des Stiftungsunternehmens aus privaten Gründen auf.",
+        "link": "https://www.handelsblatt.com/unternehmen/mittelstand/familienunternehmer/industrie-glasspezialist-schott-verliert-den-chef/100258174.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Why the PM could finally drop the triple lock pension pledge",
-        "summary": "Andy Burnham said that he would make tough decisions to fund a new national care service.",
-        "link": "https://www.bbc.co.uk/news/articles/c6jdvmy1287yo?at_medium=RSS&at_campaign=rss",
+        "title": "Warning more homes will be uninsurable due to flood risk",
+        "summary": "Aviva boss Amanda Blanc said England was \"for sure\" building homes that might be uninsurable at some point in the future.",
+        "link": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Als Peugeot und Jeep: Chinas Roboterautos kommen nach Europa",
-        "summary": "Wer Peugeot, Citroën oder Jeep kauft, ist bald mit chinesischer Technik unterwegs.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/chinas-autonome-fahrsoftware-kommt-in-peugeot-und-jeep-accg-201268970.html",
+        "title": "Ein Jahr Vollsperrung: Bahnstrecke Berlin–Hannover wird saniert – so werden die Züge umgeleitet",
+        "summary": "Die wichtigste Verbindung von Berlin in den Westen wird bis Ende 2027 für den Fernverkehr voll gesperrt.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/vollsperrung-fuer-mehr-als-ein-jahr-bahnstrecke-berlin-hannover-wird-saniert-accg-201271492.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Einkommensteuer: Hier schaut das Finanzamt in der Steuererklärung für 2025 ganz genau hin",
-        "summary": "Viele Steuererklärungen werden automatisch bearbeitet.",
-        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/finanzamt-welche-belege-duerfen-bei-der-steuererklaerung-nicht-fehlen/100105886.html",
+        "title": "Vermögenssteuer: Grüne schlagen neue Steuer für „Extremvermögen“ vor",
+        "summary": "Die Grünen im Bundestag wollen eine Steuer für Vermögen ab 500 Millionen Euro einführen und erwarten damit Milliardeneinnahmen.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/vermoegenssteuer-gruene-schlagen-neue-steuer-fuer-extremvermoegen-vor/100258276.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
-        "summary": "The chancellor will unveil policies aimed at boosting British shipbuilding in his speech to Labour's annual conference on Monday.",
-        "link": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
-      },
-      {
-        "title": "Vergütungsmodelle: Mitarbeiterbeteiligungen haben noch zu enge Grenzen",
-        "summary": "Mitarbeiterbeteiligungen sind steuerlich attraktiv.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/nur-fuer-start-ups-mitarbeiterbeteiligungen-haben-noch-zu-enge-grenzen-accg-201257638.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "Dax aktuell: Dax notiert kaum verändert – Steigende Ölpreise machen Anleger vorsichtig",
-        "summary": "Der deutsche Leitindex notiert am Montag unverändert.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-kaum-veraendert-steigende-oelpreise-machen-anleger-vorsichtig/100257824.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "My hometown shows that high streets have to change or die",
-        "summary": "Aberdeen is launching an ambitious bid to revive its struggling centre.",
-        "link": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+        "title": "OpenAI scraps rollout of new model over safety concerns",
+        "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+        "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,25 +168,25 @@
     "error": null,
     "data": [
       {
-        "title": "NASA Welcomes San Marino Signing the Artemis Accords",
-        "summary": "The Republic of San Marino became the 76th signatory to the Artemis Accords during a ceremony in the city of Rimini on Friday with NASA and U.S.",
-        "link": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/",
-        "source": "NASA Breaking News",
-        "publisher": "NASA",
-        "category": "Raumfahrt"
+        "title": "These medieval graves looked like family burials. DNA told a different story",
+        "summary": "Ancient DNA shows that adults and children buried together in medieval Sweden were often not members of the same immediate family, suggesting that burial choices reflected more than biological kinship.",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260925005444.htm",
+        "source": "ScienceDaily – Archäologie",
+        "publisher": "ScienceDaily",
+        "category": "Archäologie"
       },
       {
-        "title": "'Powerful and beautiful': Why we all need body fat",
-        "summary": "Here's why extreme fat loss goals are so bad for our health",
-        "link": "https://www.bbc.com/future/article/20260925-its-bad-for-our-health-to-have-too-little-fat?ocid=global_future_rss",
-        "source": "BBC Future",
-        "publisher": "BBC",
-        "category": "Zukunft"
+        "title": "Hood River Pumping Station and Pipeline Trail in Hood River, Oregon",
+        "summary": "This is a place with two unique and magical places to see.",
+        "link": "https://www.atlasobscura.com/places/hood-river-pumping-station-and-pipeline-trail",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
       },
       {
-        "title": "Some Fish in the Great Lakes Might Be More Than 400 Years Old, a Study Suggests, Outliving Around 15 Generations of Humans",
-        "summary": "Lake sturgeon may be among the longest-living vertebrates, second only to Greenland sharks, according to recent research.",
-        "link": "https://www.smithsonianmag.com/science-nature/some-fish-in-the-great-lakes-might-be-more-than-400-years-old-a-study-suggests-outliving-around-15-generations-of-humans-180989500/",
+        "title": "Five Ways the World of the Dinosaurs Looked Different From Ours, Beyond the Presence of the 'Terrible Lizards'",
+        "summary": "Earth has changed dramatically since the Age of Dinosaurs, from its climate to geography and animal life",
+        "link": "https://www.smithsonianmag.com/science-nature/five-ways-the-world-of-the-dinosaurs-looked-different-from-ours-beyond-the-presence-of-the-terrible-lizards-180989521/",
         "source": "Smithsonian",
         "publisher": "Smithsonian",
         "category": "Wissenschaft"

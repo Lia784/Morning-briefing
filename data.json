@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T11:11:29+00:00",
-  "date_label": "Tuesday, 29. September 2026",
+  "generated_at": "2026-09-30T10:59:27+00:00",
+  "date_label": "Wednesday, 30. September 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,39 +8,54 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25541.8301,
-        "change_pct": 0.66
+        "price": 25360.9492,
+        "change_pct": -0.15
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7683.6899,
-        "change_pct": -0.77
+        "price": 7670.8398,
+        "change_pct": -0.17
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26820.3809,
-        "change_pct": -0.92
+        "price": 26797.5391,
+        "change_pct": -0.09
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6358.1899,
-        "change_pct": 0.9
+        "price": 6308.0801,
+        "change_pct": -0.19
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 65481.2695,
-        "change_pct": -0.6
+        "price": 66753.7188,
+        "change_pct": 1.94
       }
     ]
   },
   "crypto": {
-    "status": "error",
-    "error": "CoinGecko nicht erreichbar",
-    "data": null
+    "status": "ok",
+    "error": null,
+    "data": [
+      {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "eur": 73875,
+        "usd": 83897,
+        "change_24h_pct": -0.22
+      },
+      {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "eur": 2372.55,
+        "usd": 2694.41,
+        "change_24h_pct": -0.79
+      }
+    ]
   },
   "markets": {
     "status": "ok",
@@ -49,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1348,
-        "change_pct": -0.26
+        "price": 1.1361,
+        "change_pct": -0.1
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8573,
-        "change_pct": -0.32
+        "price": 0.8546,
+        "change_pct": -0.38
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9456,
-        "change_pct": 0.17
+        "price": 0.9471,
+        "change_pct": 0.14
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 157.273,
-        "change_pct": -0.12
+        "price": 157.034,
+        "change_pct": -0.21
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 178.441,
-        "change_pct": -0.4
+        "price": 178.383,
+        "change_pct": -0.3
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 5.24,
-        "change_pct": 1.08,
+        "price": 5.255,
+        "change_pct": 0.29,
         "unit": "%"
       }
     ]
@@ -90,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Wachsende Schulden: Die französische Malaise",
-        "summary": "Der Politik in Paris fällt es schwer, die Kontrolle über die Staatsverschuldung zu behalten.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/frankreich-droht-die-ueberschuldung-accg-201255877.html",
+        "title": "Energieversorgung: Reiche ordnet Befüllung der Gasspeicher an",
+        "summary": "Die Wirtschaftsministerin sorgt sich um eine sichere Versorgung mit Gas im kommenden Winter.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/reiche-ordnet-befuellung-der-gasspeicher-an-accg-201276210.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Geldanlage: Aktien, Anleihen, ETFs, Optionen: So klappt es mit dem Nebenverdienst ohne Arbeit",
-        "summary": "Nichts tun und das Geld fließt trotzdem: Damit die Verheißung vom passiven Einkommen wahr werden kann, gilt es, häufige Fehler zu vermeiden – und sich von einer Illusion zu verabschieden.",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/passives-einkommen-so-schaffen-sie-sich-ein-gefuehl-finanzieller-sicherheit/100188789.html",
+        "title": "Tickethandel: Finanzvorstand verlässt ﻿CTS Eventim nach nur neun Monaten",
+        "summary": "Schon wieder verlässt ein Finanzchef den Tickethändler nur wenige Monate nach seinem Amtsantritt.",
+        "link": "https://www.handelsblatt.com/unternehmen/dienstleister/cts-eventim-finanzvorstand-geht-nach-neun-monaten/100258637.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Burnham to unveil public body to invest in electricity grid",
-        "summary": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader.",
-        "link": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
+        "title": "Household energy bills forecast to see biggest rise in four years",
+        "summary": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
+        "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Abschied vom Wohlstand: Die Deutschen haben ihre Marktwirtschaft abgewählt",
-        "summary": "Links und rechts verweigern Reformen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/soziale-marktwirtschaft-warum-afd-und-linke-dagegen-sind-accg-201256661.html",
+        "title": "Konzernumbau: Wie Apple schneller und schlanker werden soll",
+        "summary": "Der neue Apple-Chef John Ternus will den Bereich der Produkte breiter aufstellen und die Organisation verschlanken.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/wie-der-neue-chef-john-ternus-apple-neu-aufstellen-will-accg-201275599.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Industrie: Schott verliert seinen Chef – Der Nachfolger kennt den Glasspezialisten bestens",
-        "summary": "Torsten Derr gibt seinen Posten unerwartet nach weniger als zwei Jahren an der Spitze des Stiftungsunternehmens aus privaten Gründen auf.",
-        "link": "https://www.handelsblatt.com/unternehmen/mittelstand/familienunternehmer/industrie-glasspezialist-schott-verliert-den-chef/100258174.html",
+        "title": "Geldanlage: Nvidia mit Rekordvolumen – was Aktienrückkäufe Anlegern wirklich bringen",
+        "summary": "An Rückkaufprogrammen kommt immer wieder Kritik auf.",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/geldanlage-nvidia-mit-rekord-bei-aktienrueckkauf-was-er-anlegern-bringt/100258206.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Warning more homes will be uninsurable due to flood risk",
-        "summary": "Aviva boss Amanda Blanc said England was \"for sure\" building homes that might be uninsurable at some point in the future.",
-        "link": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss",
+        "title": "Regulating AI 'not the right place to start' says Bailey",
+        "summary": "AI needs \"rigorous\" testing and safeguards to contain risk, Andrew Bailey says.",
+        "link": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Ein Jahr Vollsperrung: Bahnstrecke Berlin–Hannover wird saniert – so werden die Züge umgeleitet",
-        "summary": "Die wichtigste Verbindung von Berlin in den Westen wird bis Ende 2027 für den Fernverkehr voll gesperrt.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/vollsperrung-fuer-mehr-als-ein-jahr-bahnstrecke-berlin-hannover-wird-saniert-accg-201271492.html",
+        "title": "Nach langem Ringen: Kabinett beschließt Pflegereform",
+        "summary": "Bis kurz vor Schluss haben Union und SPD um einen Kompromiss gerungen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/kabinett-beschliesst-pflegereform-accg-201275731.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Vermögenssteuer: Grüne schlagen neue Steuer für „Extremvermögen“ vor",
-        "summary": "Die Grünen im Bundestag wollen eine Steuer für Vermögen ab 500 Millionen Euro einführen und erwarten damit Milliardeneinnahmen.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/vermoegenssteuer-gruene-schlagen-neue-steuer-fuer-extremvermoegen-vor/100258276.html",
+        "title": "Eberhard Bezner: Früher Chef von Hemdenhersteller Olymp tot",
+        "summary": "Eberhard Bezner prägte Olymp über Jahrzehnte und machte das Familienunternehmen international bekannt.",
+        "link": "https://www.handelsblatt.com/unternehmen/mittelstand/familienunternehmer/eberhard-bezner-frueher-chef-von-hemdenhersteller-olymp-tot/100258633.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "OpenAI scraps rollout of new model over safety concerns",
-        "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
-        "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+        "title": "Greggs to shut four factories and cut 740 jobs",
+        "summary": "The company says it needs to \"keep evolving alongside changing customer expectations\".",
+        "link": "https://www.bbc.co.uk/news/articles/cm7802ylq973o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -168,17 +183,9 @@
     "error": null,
     "data": [
       {
-        "title": "These medieval graves looked like family burials. DNA told a different story",
-        "summary": "Ancient DNA shows that adults and children buried together in medieval Sweden were often not members of the same immediate family, suggesting that burial choices reflected more than biological kinship.",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260925005444.htm",
-        "source": "ScienceDaily – Archäologie",
-        "publisher": "ScienceDaily",
-        "category": "Archäologie"
-      },
-      {
-        "title": "Hood River Pumping Station and Pipeline Trail in Hood River, Oregon",
-        "summary": "This is a place with two unique and magical places to see.",
-        "link": "https://www.atlasobscura.com/places/hood-river-pumping-station-and-pipeline-trail",
+        "title": "Dr. Bhau Daji Lad Museum in Mumbai, India",
+        "summary": "Within the premises of Veermata Jijabai Bhosale Udyan in Mumbai’s Byculla area stands an extremely stately turquoise building, reminiscent of old British mansions.",
+        "link": "https://www.atlasobscura.com/places/dr-bhau-daji-lad-museum",
         "source": "Atlas Obscura",
         "publisher": "Atlas Obscura",
         "category": "Entdeckung"
@@ -190,6 +197,14 @@
         "source": "Smithsonian",
         "publisher": "Smithsonian",
         "category": "Wissenschaft"
+      },
+      {
+        "title": "APOD: 2026 September 30 – Arp 78: Peculiar Galaxy in Aries",
+        "summary": "APOD Science APOD APOD: 2026 September 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+        "link": "https://science.nasa.gov/image-article/apod-2026-september-30-arp-78-peculiar-galaxy-in-aries/",
+        "source": "NASA Breaking News",
+        "publisher": "NASA",
+        "category": "Raumfahrt"
       }
     ]
   }

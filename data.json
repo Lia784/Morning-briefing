@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T10:59:27+00:00",
-  "date_label": "Wednesday, 30. September 2026",
+  "generated_at": "2026-10-01T11:26:35+00:00",
+  "date_label": "Thursday, 01. October 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25360.9492,
-        "change_pct": -0.15
+        "price": 25143.8594,
+        "change_pct": -0.22
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7670.8398,
-        "change_pct": -0.17
+        "price": 7651.54,
+        "change_pct": -0.25
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26797.5391,
-        "change_pct": -0.09
+        "price": 26861.0605,
+        "change_pct": 0.24
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6308.0801,
-        "change_pct": -0.19
+        "price": 6238.7798,
+        "change_pct": -0.48
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 66753.7188,
-        "change_pct": 1.94
+        "price": 68956.7188,
+        "change_pct": 3.3
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 73875,
-        "usd": 83897,
-        "change_24h_pct": -0.22
+        "eur": 74246,
+        "usd": 83784,
+        "change_24h_pct": 0.6
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2372.55,
-        "usd": 2694.41,
-        "change_24h_pct": -0.79
+        "eur": 2388.86,
+        "usd": 2695.75,
+        "change_24h_pct": 0.72
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1361,
-        "change_pct": -0.1
+        "price": 1.1285,
+        "change_pct": -0.49
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8546,
-        "change_pct": -0.38
+        "price": 0.8539,
+        "change_pct": -0.39
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9471,
-        "change_pct": 0.14
+        "price": 0.9428,
+        "change_pct": -0.34
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 157.034,
-        "change_pct": -0.21
+        "price": 158.189,
+        "change_pct": 0.5
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 178.383,
-        "change_pct": -0.3
+        "price": 178.468,
+        "change_pct": -0.02
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 5.255,
-        "change_pct": 0.29,
+        "price": 5.293,
+        "change_pct": 0.72,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Energieversorgung: Reiche ordnet Befüllung der Gasspeicher an",
-        "summary": "Die Wirtschaftsministerin sorgt sich um eine sichere Versorgung mit Gas im kommenden Winter.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/reiche-ordnet-befuellung-der-gasspeicher-an-accg-201276210.html",
+        "title": "Yoshua Bengio: Warum lügen, betrügen und koordinieren sich KI-Agenten?",
+        "summary": "Künstliche Intelligenz hat Maßnahmen ergriffen, die als Verbrechen gelten würden, wenn ein Mensch sie beginge.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-forscher-yoshua-bengio-warum-die-ki-agenten-ausarten-accg-201242795.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Tickethandel: Finanzvorstand verlässt ﻿CTS Eventim nach nur neun Monaten",
-        "summary": "Schon wieder verlässt ein Finanzchef den Tickethändler nur wenige Monate nach seinem Amtsantritt.",
-        "link": "https://www.handelsblatt.com/unternehmen/dienstleister/cts-eventim-finanzvorstand-geht-nach-neun-monaten/100258637.html",
+        "title": "Banken: Auch 70-Jährige kaufen jetzt Bitcoin: Wie Volksbanken und Sparkassen den Kryptomarkt verändern",
+        "summary": "Was lange Fintechs vorbehalten war, wird zum Massengeschäft: Etablierte Banken bieten jetzt Bitcoin an.",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/bitcoin-sparkassen-und-volksbanken-veraendern-kryptomarkt-fundamental/100257873.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Household energy bills forecast to see biggest rise in four years",
-        "summary": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
-        "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
+        "title": "AI boom could trigger market shocks, Bank of England boss warns",
+        "summary": "Andrew Bailey says the central bank is watching the waves of cash being invested in artificial intelligence \"very carefully\".",
+        "link": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Konzernumbau: Wie Apple schneller und schlanker werden soll",
-        "summary": "Der neue Apple-Chef John Ternus will den Bereich der Produkte breiter aufstellen und die Organisation verschlanken.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/wie-der-neue-chef-john-ternus-apple-neu-aufstellen-will-accg-201275599.html",
+        "title": "Abschied vom Wohlstand: Die Deutschen haben ihre Marktwirtschaft abgewählt",
+        "summary": "Links und rechts verweigern Reformen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/soziale-marktwirtschaft-warum-afd-und-linke-dagegen-sind-accg-201256661.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Geldanlage: Nvidia mit Rekordvolumen – was Aktienrückkäufe Anlegern wirklich bringen",
-        "summary": "An Rückkaufprogrammen kommt immer wieder Kritik auf.",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/geldanlage-nvidia-mit-rekord-bei-aktienrueckkauf-was-er-anlegern-bringt/100258206.html",
+        "title": "US-Zölle: Trump kündigt Milliardeninvestitionen an – Südkorea widerspricht doch",
+        "summary": "Trump spricht von einem Gaskraftwerk, acht AKWs und einer Gaspipeline, doch Südkorea schwächt die Ankündigung ab.",
+        "link": "https://www.handelsblatt.com/politik/international/200-milliarden-dollar-us-praesident-trump-kuendigt-suedkoreanische-investitionen-an/100258873.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Regulating AI 'not the right place to start' says Bailey",
-        "summary": "AI needs \"rigorous\" testing and safeguards to contain risk, Andrew Bailey says.",
-        "link": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
+        "title": "Employers should teach primary-age children about work, says Milburn",
+        "summary": "The author of a major report into youth activity in the UK says children as young as four should be learning about careers.",
+        "link": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Nach langem Ringen: Kabinett beschließt Pflegereform",
-        "summary": "Bis kurz vor Schluss haben Union und SPD um einen Kompromiss gerungen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/kabinett-beschliesst-pflegereform-accg-201275731.html",
+        "title": "Konflikt in der Koalition: Kanzleramt bremst Klingbeils Zuckersteuer aus",
+        "summary": "Der Finanzminister wollte mächtig an der Steuerschraube drehen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/zuckersteuer-kanzleramt-stoppt-lars-klingbeils-plan-accg-201279151.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Eberhard Bezner: Früher Chef von Hemdenhersteller Olymp tot",
-        "summary": "Eberhard Bezner prägte Olymp über Jahrzehnte und machte das Familienunternehmen international bekannt.",
-        "link": "https://www.handelsblatt.com/unternehmen/mittelstand/familienunternehmer/eberhard-bezner-frueher-chef-von-hemdenhersteller-olymp-tot/100258633.html",
+        "title": "Pflegereform: Löhne für Pflegekräfte steigen – und damit auch der Eigenanteil",
+        "summary": "Die Zahlen fallen mitten in die politische Debatte um die Pflegereform.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/pflegereform-loehne-fuer-pflegekraefte-steigen-und-damit-auch-der-eigenanteil/100258976.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Greggs to shut four factories and cut 740 jobs",
-        "summary": "The company says it needs to \"keep evolving alongside changing customer expectations\".",
-        "link": "https://www.bbc.co.uk/news/articles/cm7802ylq973o?at_medium=RSS&at_campaign=rss",
+        "title": "Vape tax comes into effect - but prices won't rise yet",
+        "summary": "Vaping is about to becoming more expensive due to a new tax on products.",
+        "link": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,6 +183,14 @@
     "error": null,
     "data": [
       {
+        "title": "Why rheumatoid arthritis pain may persist even when inflammation is under control",
+        "summary": "Pain and fatigue in rheumatoid arthritis can persist even after inflammation improves, with depression, poor sleep, obesity, smoking, and chronic pain potentially helping sustain symptoms.",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260925093208.htm",
+        "source": "ScienceDaily – Neurowissenschaft",
+        "publisher": "ScienceDaily",
+        "category": "Neurowissenschaft"
+      },
+      {
         "title": "Dr. Bhau Daji Lad Museum in Mumbai, India",
         "summary": "Within the premises of Veermata Jijabai Bhosale Udyan in Mumbai’s Byculla area stands an extremely stately turquoise building, reminiscent of old British mansions.",
         "link": "https://www.atlasobscura.com/places/dr-bhau-daji-lad-museum",
@@ -191,17 +199,9 @@
         "category": "Entdeckung"
       },
       {
-        "title": "Five Ways the World of the Dinosaurs Looked Different From Ours, Beyond the Presence of the 'Terrible Lizards'",
-        "summary": "Earth has changed dramatically since the Age of Dinosaurs, from its climate to geography and animal life",
-        "link": "https://www.smithsonianmag.com/science-nature/five-ways-the-world-of-the-dinosaurs-looked-different-from-ours-beyond-the-presence-of-the-terrible-lizards-180989521/",
-        "source": "Smithsonian",
-        "publisher": "Smithsonian",
-        "category": "Wissenschaft"
-      },
-      {
-        "title": "APOD: 2026 September 30 – Arp 78: Peculiar Galaxy in Aries",
-        "summary": "APOD Science APOD APOD: 2026 September 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-        "link": "https://science.nasa.gov/image-article/apod-2026-september-30-arp-78-peculiar-galaxy-in-aries/",
+        "title": "APOD: 2026 October 1 – Harvest Moon with Erupting Mount Etna",
+        "summary": "APOD Science APOD APOD: 2026 October 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+        "link": "https://science.nasa.gov/image-article/apod-2026-october-1-harvest-moon-with-belt-of-venus-and-erupting-mount-etna/",
         "source": "NASA Breaking News",
         "publisher": "NASA",
         "category": "Raumfahrt"

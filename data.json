@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T11:26:35+00:00",
-  "date_label": "Thursday, 01. October 2026",
+  "generated_at": "2026-10-02T10:56:42+00:00",
+  "date_label": "Friday, 02. October 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25143.8594,
-        "change_pct": -0.22
+        "price": 25210.7891,
+        "change_pct": 1.09
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7651.54,
-        "change_pct": -0.25
+        "price": 7666.4502,
+        "change_pct": 0.19
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26861.0605,
-        "change_pct": 0.24
+        "price": 26871.5996,
+        "change_pct": 0.04
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6238.7798,
-        "change_pct": -0.48
+        "price": 6235.04,
+        "change_pct": 0.96
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 68956.7188,
-        "change_pct": 3.3
+        "price": 68309.4609,
+        "change_pct": -0.94
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 74246,
-        "usd": 83784,
-        "change_24h_pct": 0.6
+        "eur": 76842,
+        "usd": 86356,
+        "change_24h_pct": 3.39
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2388.86,
-        "usd": 2695.75,
-        "change_24h_pct": 0.72
+        "eur": 2442.84,
+        "usd": 2745.31,
+        "change_24h_pct": 2.2
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1285,
-        "change_pct": -0.49
+        "price": 1.124,
+        "change_pct": -0.77
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8539,
-        "change_pct": -0.39
+        "price": 0.8505,
+        "change_pct": -0.4
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9428,
-        "change_pct": -0.34
+        "price": 0.9309,
+        "change_pct": -1.66
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 158.189,
-        "change_pct": 0.5
+        "price": 157.716,
+        "change_pct": 0.1
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 178.468,
-        "change_pct": -0.02
+        "price": 177.194,
+        "change_pct": -0.71
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 5.293,
-        "change_pct": 0.72,
+        "price": 5.237,
+        "change_pct": -1.06,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Yoshua Bengio: Warum lügen, betrügen und koordinieren sich KI-Agenten?",
-        "summary": "Künstliche Intelligenz hat Maßnahmen ergriffen, die als Verbrechen gelten würden, wenn ein Mensch sie beginge.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-forscher-yoshua-bengio-warum-die-ki-agenten-ausarten-accg-201242795.html",
+        "title": "Streit um KI: Nein, eine KI-Superintelligenz ist keine ausgemachte Sache",
+        "summary": "Sind Computer bald so kompetent wie unsere Gehirne?",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ralf-otte-ueber-die-ki-debatte-von-amodei-altman-und-musk-nein-superintelligenz-steht-nicht-fest-accg-201213101.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Banken: Auch 70-Jährige kaufen jetzt Bitcoin: Wie Volksbanken und Sparkassen den Kryptomarkt verändern",
-        "summary": "Was lange Fintechs vorbehalten war, wird zum Massengeschäft: Etablierte Banken bieten jetzt Bitcoin an.",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/bitcoin-sparkassen-und-volksbanken-veraendern-kryptomarkt-fundamental/100257873.html",
+        "title": "Landtagswahl: Wahlpanne in Berlin – AfD holt nach Nachzählung weiteres Direktmandat",
+        "summary": "In Spandau wurde ein Wahlergebnis falsch übermittelt.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/berlin-uebermittlungsfehler-kostet-fuenf-berliner-abgeordnete-das-mandat/100259303.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "AI boom could trigger market shocks, Bank of England boss warns",
-        "summary": "Andrew Bailey says the central bank is watching the waves of cash being invested in artificial intelligence \"very carefully\".",
-        "link": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
+        "title": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
+        "summary": "A growing number of people are opting out of these schemes due to cost-of-living pressures.",
+        "link": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Abschied vom Wohlstand: Die Deutschen haben ihre Marktwirtschaft abgewählt",
-        "summary": "Links und rechts verweigern Reformen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/soziale-marktwirtschaft-warum-afd-und-linke-dagegen-sind-accg-201256661.html",
+        "title": "Hugo Boss: „Meine Mission ist noch nicht beendet“",
+        "summary": "Der Metzinger Modekonzern Hugo Boss könnte bald britisch werden.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/hugo-boss-wird-der-modekonzern-bald-britisch-accg-201275762.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "US-Zölle: Trump kündigt Milliardeninvestitionen an – Südkorea widerspricht doch",
-        "summary": "Trump spricht von einem Gaskraftwerk, acht AKWs und einer Gaspipeline, doch Südkorea schwächt die Ankündigung ab.",
-        "link": "https://www.handelsblatt.com/politik/international/200-milliarden-dollar-us-praesident-trump-kuendigt-suedkoreanische-investitionen-an/100258873.html",
+        "title": "Mittelmeer: Kampfjets, Drohnen und Fregatten: Griechenlands Rüstungspläne alarmieren die Türkei",
+        "summary": "Die griechische Regierung verstärkt mit israelischen Waffensystemen die eigene Militärpräsenz auf den Ägäisinseln.",
+        "link": "https://www.handelsblatt.com/politik/international/mittelmeer-griechenlands-ruestungsplaene-alarmieren-die-tuerkei/100258005.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Employers should teach primary-age children about work, says Milburn",
-        "summary": "The author of a major report into youth activity in the UK says children as young as four should be learning about careers.",
-        "link": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
+        "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
+        "summary": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
+        "link": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Konflikt in der Koalition: Kanzleramt bremst Klingbeils Zuckersteuer aus",
-        "summary": "Der Finanzminister wollte mächtig an der Steuerschraube drehen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/zuckersteuer-kanzleramt-stoppt-lars-klingbeils-plan-accg-201279151.html",
+        "title": "Immobilien vor Gericht: Das Licht des Nachbarn blendet nachts",
+        "summary": "Die Außenlampen erleuchten nachts das Schlafzimmer des Nachbarn.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/immobilien-vor-gericht-aussenlampen-blenden-nachbarn-accg-201183117.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Pflegereform: Löhne für Pflegekräfte steigen – und damit auch der Eigenanteil",
-        "summary": "Die Zahlen fallen mitten in die politische Debatte um die Pflegereform.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/pflegereform-loehne-fuer-pflegekraefte-steigen-und-damit-auch-der-eigenanteil/100258976.html",
+        "title": "+++ Wahlen +++: Wahlpanne in Berlin – AfD holt nach Nachzählung weiteres Direktmandat",
+        "summary": "Krach und Caglar sind neue SPD-Fraktionsvorsitzende in Berlin +++ Siegmund will sich als Ministerpräsident zur Wahl stellen +++ Sondierungsgespräche in MV begonnen +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahlen-wahlpanne-in-berlin-afd-holt-nach-nachzaehlung-weiteres-direktmandat/100252039.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Vape tax comes into effect - but prices won't rise yet",
-        "summary": "Vaping is about to becoming more expensive due to a new tax on products.",
-        "link": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss",
+        "title": "UK diesel price hits £2 a litre for first time, RAC says",
+        "summary": "The motoring body says diesel price rises are showing no signs of slowing, \"heaping more misery\" onto drivers.",
+        "link": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,28 +183,28 @@
     "error": null,
     "data": [
       {
-        "title": "Why rheumatoid arthritis pain may persist even when inflammation is under control",
-        "summary": "Pain and fatigue in rheumatoid arthritis can persist even after inflammation improves, with depression, poor sleep, obesity, smoking, and chronic pain potentially helping sustain symptoms.",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260925093208.htm",
-        "source": "ScienceDaily – Neurowissenschaft",
-        "publisher": "ScienceDaily",
-        "category": "Neurowissenschaft"
+        "title": "Peptides Are All the Rage, Promising Miracle Cures and Makeovers Delivered by Injection. How Did We Get Here?",
+        "summary": "Experts say the peptide craze is part of a broader phenomenon, as patients look beyond the regulated health system to address problems that doctors have struggled to treat",
+        "link": "https://www.smithsonianmag.com/science-nature/peptides-are-all-the-rage-promising-miracle-cures-and-makeovers-delivered-by-injection-how-did-we-get-here-180989454/",
+        "source": "Smithsonian",
+        "publisher": "Smithsonian",
+        "category": "Wissenschaft"
       },
       {
-        "title": "Dr. Bhau Daji Lad Museum in Mumbai, India",
-        "summary": "Within the premises of Veermata Jijabai Bhosale Udyan in Mumbai’s Byculla area stands an extremely stately turquoise building, reminiscent of old British mansions.",
-        "link": "https://www.atlasobscura.com/places/dr-bhau-daji-lad-museum",
+        "title": "Queen’s Surf Beach in Honolulu, Hawaii",
+        "summary": "In the 1970s, Queen’s Surf Beach in Waikiki became a popular gathering and organizing space for members of Hawaiʻi’s diverse LGBTQ+ Māhū communities.",
+        "link": "https://www.atlasobscura.com/places/queens-surf-beach",
         "source": "Atlas Obscura",
         "publisher": "Atlas Obscura",
         "category": "Entdeckung"
       },
       {
-        "title": "APOD: 2026 October 1 – Harvest Moon with Erupting Mount Etna",
-        "summary": "APOD Science APOD APOD: 2026 October 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-        "link": "https://science.nasa.gov/image-article/apod-2026-october-1-harvest-moon-with-belt-of-venus-and-erupting-mount-etna/",
-        "source": "NASA Breaking News",
-        "publisher": "NASA",
-        "category": "Raumfahrt"
+        "title": "Earth’s day isn’t exactly 24 hours. The reason may lie deep inside the planet",
+        "summary": "Scientists may have solved why the length of Earth’s day changes by a few milliseconds over decades.",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260928100540.htm",
+        "source": "ScienceDaily – Geowissenschaften",
+        "publisher": "ScienceDaily",
+        "category": "Erde"
       }
     ]
   }

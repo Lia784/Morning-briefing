@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T10:56:42+00:00",
-  "date_label": "Friday, 02. October 2026",
+  "generated_at": "2026-10-03T10:16:12+00:00",
+  "date_label": "Saturday, 03. October 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,26 +8,26 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25210.7891,
-        "change_pct": 1.09
+        "price": 25231.1992,
+        "change_pct": 1.17
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7666.4502,
-        "change_pct": 0.19
+        "price": 7722.7202,
+        "change_pct": 0.73
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26871.5996,
-        "change_pct": 0.04
+        "price": 27190.8594,
+        "change_pct": 1.19
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6235.04,
-        "change_pct": 0.96
+        "price": 6238.5,
+        "change_pct": 1.02
       },
       {
         "name": "Nikkei 225",
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 76842,
-        "usd": 86356,
-        "change_24h_pct": 3.39
+        "eur": 75125,
+        "usd": 84572,
+        "change_24h_pct": -2.2
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2442.84,
-        "usd": 2745.31,
-        "change_24h_pct": 2.2
+        "eur": 2382.35,
+        "usd": 2681.93,
+        "change_24h_pct": -2.41
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.124,
-        "change_pct": -0.77
+        "price": 1.1257,
+        "change_pct": -0.62
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8505,
-        "change_pct": -0.4
+        "price": 0.8497,
+        "change_pct": -0.49
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9309,
-        "change_pct": -1.66
+        "price": 0.9321,
+        "change_pct": -1.53
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 157.716,
-        "change_pct": 0.1
+        "price": 157.83,
+        "change_pct": -0.06
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 177.194,
-        "change_pct": -0.71
+        "price": 177.25,
+        "change_pct": -0.21
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 5.237,
-        "change_pct": -1.06,
+        "price": 5.277,
+        "change_pct": 0.76,
         "unit": "%"
       }
     ]
@@ -105,72 +105,72 @@
     "error": null,
     "data": [
       {
-        "title": "Streit um KI: Nein, eine KI-Superintelligenz ist keine ausgemachte Sache",
-        "summary": "Sind Computer bald so kompetent wie unsere Gehirne?",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ralf-otte-ueber-die-ki-debatte-von-amodei-altman-und-musk-nein-superintelligenz-steht-nicht-fest-accg-201213101.html",
+        "title": "Tanken: Polens Spritpreisbremse drückt die Preise auf 1,54 Euro",
+        "summary": "In Polen tritt eine Spritpreisbremse in Kraft.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/spritpreisbremse-in-polen-benzin-ab-1-54-euro-accg-201285239.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Landtagswahl: Wahlpanne in Berlin – AfD holt nach Nachzählung weiteres Direktmandat",
-        "summary": "In Spandau wurde ein Wahlergebnis falsch übermittelt.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/berlin-uebermittlungsfehler-kostet-fuenf-berliner-abgeordnete-das-mandat/100259303.html",
+        "title": "Sozialreformen: Sozialabgaben-Rechner: So viel mehr müssen Sie 2027 zahlen",
+        "summary": "Gutverdienern bleibt bald weniger übrig: Ab 75.000 Euro brutto steigen die Sozialabgaben, ab 100.000 Euro besonders kräftig.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/reformen-so-viel-mehr-geht-vom-gehalt-ab-berechnen-sie-ihre-sozialabgaben/100258916.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
-        "summary": "A growing number of people are opting out of these schemes due to cost-of-living pressures.",
-        "link": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&at_campaign=rss",
+        "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+        "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+        "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Hugo Boss: „Meine Mission ist noch nicht beendet“",
-        "summary": "Der Metzinger Modekonzern Hugo Boss könnte bald britisch werden.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/hugo-boss-wird-der-modekonzern-bald-britisch-accg-201275762.html",
+        "title": "IW-Studie: Der Osten holt kaum noch auf",
+        "summary": "Die ostdeutsche Wirtschaft erreicht laut einer Studie nur knapp 79 Prozent des Westniveaus.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/studie-der-osten-holt-kaum-noch-auf-201284782.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Mittelmeer: Kampfjets, Drohnen und Fregatten: Griechenlands Rüstungspläne alarmieren die Türkei",
-        "summary": "Die griechische Regierung verstärkt mit israelischen Waffensystemen die eigene Militärpräsenz auf den Ägäisinseln.",
-        "link": "https://www.handelsblatt.com/politik/international/mittelmeer-griechenlands-ruestungsplaene-alarmieren-die-tuerkei/100258005.html",
+        "title": "Niedrigwasser: Frachtschiff schafft es wieder auf den Rhein",
+        "summary": "Die Trockenheit ist heftig, in den Flüssen ist sehr wenig Wasser.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/niedrigwasser-frachtschiff-schafft-es-wieder-auf-den-rhein/100259479.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
-        "summary": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
-        "link": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
+        "title": "Suppliers pile pressure on government over energy bills",
+        "summary": "Immediate action is needed to help households struggling with bills this winter, says trade body Energy UK.",
+        "link": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Immobilien vor Gericht: Das Licht des Nachbarn blendet nachts",
-        "summary": "Die Außenlampen erleuchten nachts das Schlafzimmer des Nachbarn.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/immobilien-vor-gericht-aussenlampen-blenden-nachbarn-accg-201183117.html",
+        "title": "Rechnungshof Alarmiert: Die Rente saugt den Bundeshaushalt aus",
+        "summary": "Womöglich muss die Bundesregierung bald die Hälfte ihrer Steuereinnahmen an die Rentenkasse überweisen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/bundesrechnungshof-die-rente-saugt-den-bundeshaushalt-aus-201283059.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "+++ Wahlen +++: Wahlpanne in Berlin – AfD holt nach Nachzählung weiteres Direktmandat",
-        "summary": "Krach und Caglar sind neue SPD-Fraktionsvorsitzende in Berlin +++ Siegmund will sich als Ministerpräsident zur Wahl stellen +++ Sondierungsgespräche in MV begonnen +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahlen-wahlpanne-in-berlin-afd-holt-nach-nachzaehlung-weiteres-direktmandat/100252039.html",
+        "title": "+++ Ukraine-Krieg +++: Flughafen Vilnius nach Drohnenalarm geschlossen",
+        "summary": "Sybiha: Russland hat Vorrat an ballistischen Raketen +++ EU zahlt Ukraine weitere Milliardensumme aus +++ Ukraine: Vier Vorschläge für Teil-Waffenruhe mit Russland bekommen +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "UK diesel price hits £2 a litre for first time, RAC says",
-        "summary": "The motoring body says diesel price rises are showing no signs of slowing, \"heaping more misery\" onto drivers.",
+        "title": "UK diesel prices top £2 a litre for first time, RAC says",
+        "summary": "The rise in global oil prices has been pushing up the pump prices of petrol and diesel in the UK.",
         "link": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
@@ -183,28 +183,28 @@
     "error": null,
     "data": [
       {
-        "title": "Peptides Are All the Rage, Promising Miracle Cures and Makeovers Delivered by Injection. How Did We Get Here?",
-        "summary": "Experts say the peptide craze is part of a broader phenomenon, as patients look beyond the regulated health system to address problems that doctors have struggled to treat",
-        "link": "https://www.smithsonianmag.com/science-nature/peptides-are-all-the-rage-promising-miracle-cures-and-makeovers-delivered-by-injection-how-did-we-get-here-180989454/",
-        "source": "Smithsonian",
-        "publisher": "Smithsonian",
-        "category": "Wissenschaft"
+        "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
+        "summary": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that image with remarkable precision.",
+        "link": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
+        "source": "MIT Technology Review",
+        "publisher": "MIT",
+        "category": "Technologie"
       },
       {
-        "title": "Queen’s Surf Beach in Honolulu, Hawaii",
-        "summary": "In the 1970s, Queen’s Surf Beach in Waikiki became a popular gathering and organizing space for members of Hawaiʻi’s diverse LGBTQ+ Māhū communities.",
-        "link": "https://www.atlasobscura.com/places/queens-surf-beach",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
-      },
-      {
-        "title": "Earth’s day isn’t exactly 24 hours. The reason may lie deep inside the planet",
-        "summary": "Scientists may have solved why the length of Earth’s day changes by a few milliseconds over decades.",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260928100540.htm",
-        "source": "ScienceDaily – Geowissenschaften",
+        "title": "Sharks can hear nearly 250 feet away and pinpoint the source",
+        "summary": "Wild blacktip sharks can detect low-frequency sounds from nearly 250 feet away, according to experiments conducted off the Florida coast.",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260929053536.htm",
+        "source": "ScienceDaily – Tiere",
         "publisher": "ScienceDaily",
-        "category": "Erde"
+        "category": "Biologie"
+      },
+      {
+        "title": "La NASA abre solicitudes para próxima promoción de directores de vuelo",
+        "summary": "Lee esta nota de prensa en inglés aquí.",
+        "link": "https://www.nasa.gov/news-release/la-nasa-abre-solicitudes-para-proxima-promocion-de-directores-de-vuelo/",
+        "source": "NASA Breaking News",
+        "publisher": "NASA",
+        "category": "Raumfahrt"
       }
     ]
   }

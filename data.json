@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T10:16:12+00:00",
-  "date_label": "Saturday, 03. October 2026",
+  "generated_at": "2026-10-04T11:00:11+00:00",
+  "date_label": "Sunday, 04. October 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 75125,
-        "usd": 84572,
-        "change_24h_pct": -2.2
+        "eur": 75735,
+        "usd": 85285,
+        "change_24h_pct": 0.75
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2382.35,
-        "usd": 2681.93,
-        "change_24h_pct": -2.41
+        "eur": 2399.56,
+        "usd": 2702.14,
+        "change_24h_pct": 0.66
       }
     ]
   },
@@ -105,17 +105,17 @@
     "error": null,
     "data": [
       {
-        "title": "Tanken: Polens Spritpreisbremse drückt die Preise auf 1,54 Euro",
-        "summary": "In Polen tritt eine Spritpreisbremse in Kraft.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/spritpreisbremse-in-polen-benzin-ab-1-54-euro-accg-201285239.html",
+        "title": "Neustart bei Porsche: Autos, die keiner braucht",
+        "summary": "Die Krise von Porsche zeigt: Sportwagenfans haben keine Lust auf Elektroautos.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/porsche-in-der-krise-michael-leiters-riskanter-verbrenner-kurs-accg-201268752.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Sozialreformen: Sozialabgaben-Rechner: So viel mehr müssen Sie 2027 zahlen",
-        "summary": "Gutverdienern bleibt bald weniger übrig: Ab 75.000 Euro brutto steigen die Sozialabgaben, ab 100.000 Euro besonders kräftig.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/reformen-so-viel-mehr-geht-vom-gehalt-ab-berechnen-sie-ihre-sozialabgaben/100258916.html",
+        "title": "+++ Iran-Krieg +++: Iran öffnet Straße von Hormus erst nach Erfüllung des Interimsabkommens",
+        "summary": "Tanker in der Straße von Hormus von Geschoss getroffen +++ Huthis haben nach eigenen Angaben Aramco-Anlage in Riad angegriffen +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-oeffnet-strasse-von-hormus-erst-nach-erfuellung-des-interimsabkommens/100136895.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -129,17 +129,17 @@
         "category": ""
       },
       {
-        "title": "IW-Studie: Der Osten holt kaum noch auf",
-        "summary": "Die ostdeutsche Wirtschaft erreicht laut einer Studie nur knapp 79 Prozent des Westniveaus.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/studie-der-osten-holt-kaum-noch-auf-201284782.html",
+        "title": "Videoüberwachung mit KI: „Sie da im grünen Pullover: Bitte unterlassen Sie dieses Verhalten“",
+        "summary": "Künstliche Intelligenz eröffnet in der Videoüberwachung öffentlicher Plätze ganz neue Möglichkeiten.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/ki-videoueberwachung-mehr-sicherheit-oder-ueberwachungsstaat-accg-201183304.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Niedrigwasser: Frachtschiff schafft es wieder auf den Rhein",
-        "summary": "Die Trockenheit ist heftig, in den Flüssen ist sehr wenig Wasser.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/niedrigwasser-frachtschiff-schafft-es-wieder-auf-den-rhein/100259479.html",
+        "title": "Heizung: Wärmepumpen sind in bis zu 90 Prozent der Mehrfamilienhäuser möglich",
+        "summary": "In Deutschland könnten mehr Wärmepumpen in Mietshäusern verbaut werden.",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/waermepumpe-im-mehrfamilienhaus-oft-reicht-ein-heizkoerpertausch-damit-es-machbar-wird/100259569.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -153,17 +153,17 @@
         "category": ""
       },
       {
-        "title": "Rechnungshof Alarmiert: Die Rente saugt den Bundeshaushalt aus",
-        "summary": "Womöglich muss die Bundesregierung bald die Hälfte ihrer Steuereinnahmen an die Rentenkasse überweisen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/bundesrechnungshof-die-rente-saugt-den-bundeshaushalt-aus-201283059.html",
+        "title": "Ostseebad: Das ewige Versprechen von Heiligendamm",
+        "summary": "Heiligendamm ist Deutschlands ältestes und ungewöhnlichstes Seebad.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/was-wurde-aus-heiligendamm-das-ein-investor-zum-zweiten-sylt-machen-wollte-accg-201270030.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "+++ Ukraine-Krieg +++: Flughafen Vilnius nach Drohnenalarm geschlossen",
-        "summary": "Sybiha: Russland hat Vorrat an ballistischen Raketen +++ EU zahlt Ukraine weitere Milliardensumme aus +++ Ukraine: Vier Vorschläge für Teil-Waffenruhe mit Russland bekommen +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
+        "title": "Galeria: Sie versprachen einen „Batzen Cash“ – und lieferten die vierte Insolvenz",
+        "summary": "Wie Missmanagement, Rabattschlachten und Begehrlichkeiten der Eigner Deutschlands letzte große Warenhauskette ruinierten.",
+        "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/galeria-sie-versprachen-batzen-cash-und-lieferten-die-vierte-insolvenz/100259572.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -183,28 +183,28 @@
     "error": null,
     "data": [
       {
-        "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
-        "summary": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that image with remarkable precision.",
-        "link": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
-        "source": "MIT Technology Review",
-        "publisher": "MIT",
-        "category": "Technologie"
-      },
-      {
-        "title": "Sharks can hear nearly 250 feet away and pinpoint the source",
-        "summary": "Wild blacktip sharks can detect low-frequency sounds from nearly 250 feet away, according to experiments conducted off the Florida coast.",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260929053536.htm",
-        "source": "ScienceDaily – Tiere",
+        "title": "1.7-billion-year-old fossils reveal a crucial clue to the rise of complex life",
+        "summary": "Scientists studying ancient Australian rocks uncovered more than 12,000 fossils from some of the oldest known eukaryotes on Earth.",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260925005447.htm",
+        "source": "ScienceDaily – Geowissenschaften",
         "publisher": "ScienceDaily",
-        "category": "Biologie"
+        "category": "Erde"
       },
       {
-        "title": "La NASA abre solicitudes para próxima promoción de directores de vuelo",
-        "summary": "Lee esta nota de prensa en inglés aquí.",
-        "link": "https://www.nasa.gov/news-release/la-nasa-abre-solicitudes-para-proxima-promocion-de-directores-de-vuelo/",
-        "source": "NASA Breaking News",
-        "publisher": "NASA",
-        "category": "Raumfahrt"
+        "title": "Stunning fossil shows dinosaurs’ distinctive path to flight",
+        "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03126-8 A fossil from a previously undiscovered species with feathery limbs, unearthed in China, adds to evidence that dinosaurs and birds evolved flight…",
+        "link": "https://www.nature.com/articles/d41586-026-03126-8",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
+      },
+      {
+        "title": "18th Century Pirate’s Jolly Roger in Portsmouth, England",
+        "summary": "The National Museum of the Royal Navy in Portsmouth displays a genuine Jolly Roger, captured from pirates off the North African coast in 1790 by Admiral Richard Curry.",
+        "link": "https://www.atlasobscura.com/places/18th-century-pirates-jolly-roger",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
       }
     ]
   }

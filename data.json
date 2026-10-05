@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-04T11:00:11+00:00",
-  "date_label": "Sunday, 04. October 2026",
+  "generated_at": "2026-10-05T12:06:56+00:00",
+  "date_label": "Monday, 05. October 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,8 +8,8 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25231.1992,
-        "change_pct": 1.17
+        "price": 25297.4902,
+        "change_pct": 0.26
       },
       {
         "name": "S&P 500",
@@ -26,14 +26,14 @@
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6238.5,
-        "change_pct": 1.02
+        "price": 6244.77,
+        "change_pct": 0.1
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 68309.4609,
-        "change_pct": -0.94
+        "price": 69946.8594,
+        "change_pct": 2.4
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 75735,
-        "usd": 85285,
-        "change_24h_pct": 0.75
+        "eur": 76872,
+        "usd": 86133,
+        "change_24h_pct": 1.43
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2399.56,
-        "usd": 2702.14,
-        "change_24h_pct": 0.66
+        "eur": 2423.91,
+        "usd": 2715.92,
+        "change_24h_pct": 1.07
       }
     ]
   },
@@ -64,31 +64,31 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1257,
-        "change_pct": -0.62
+        "price": 1.121,
+        "change_pct": -0.36
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8497,
-        "change_pct": -0.49
+        "price": 0.8472,
+        "change_pct": -0.59
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9321,
-        "change_pct": -1.53
+        "price": 0.9311,
+        "change_pct": -0.32
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 157.83,
-        "change_pct": -0.06
+        "price": 158.185,
+        "change_pct": 0.16
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 177.25,
+        "price": 177.253,
         "change_pct": -0.21
       },
       {
@@ -105,6 +105,30 @@
     "error": null,
     "data": [
       {
+        "title": "Inder im Osten: „Viele machen sich Sorgen um ihre Sicherheit“",
+        "summary": "Inder stellen in Deutschland die größte Gruppe von ausländischen Studenten und Fachkräften.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/inder-in-ostdeutschland-sorgen-wegen-afd-wahlerfolgen-accg-201274852.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "Dax aktuell: Dax hält 25.000-Punkte-Marke",
+        "summary": "Der Leitindex scheint vorerst seinen tiefsten Stand seit Juli überwunden zu haben.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-haelt-25.000punkte-marke-euro-faellt-deutlich/100259668.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "Average five-year mortgage rate hits 6% for first time in three years",
+        "summary": "The cost of a new fixed-rate mortgage has been rising in recent weeks as lenders face higher costs.",
+        "link": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
         "title": "Neustart bei Porsche: Autos, die keiner braucht",
         "summary": "Die Krise von Porsche zeigt: Sportwagenfans haben keine Lust auf Elektroautos.",
         "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/porsche-in-der-krise-michael-leiters-riskanter-verbrenner-kurs-accg-201268752.html",
@@ -113,65 +137,41 @@
         "category": ""
       },
       {
-        "title": "+++ Iran-Krieg +++: Iran öffnet Straße von Hormus erst nach Erfüllung des Interimsabkommens",
-        "summary": "Tanker in der Straße von Hormus von Geschoss getroffen +++ Huthis haben nach eigenen Angaben Aramco-Anlage in Riad angegriffen +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-oeffnet-strasse-von-hormus-erst-nach-erfuellung-des-interimsabkommens/100136895.html",
+        "title": "Geldanlage: Wo drei Manager flexibler Mischfonds jetzt Chancen sehen",
+        "summary": "Hohe Zinsen und geopolitische Risiken sorgen für Unsicherheit an den Börsen.",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-wo-drei-manager-flexibler-mischfonds-jetzt-chancen-sehen/100254690.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-        "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
-        "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+        "title": "BT agrees rescue deal to buy broadband operator TalkTalk",
+        "summary": "The takeover still needs to be approved by the regulator, but would give certainty to TalkTalk's millions of customers",
+        "link": "https://www.bbc.co.uk/news/articles/cvze4g06526ro?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Videoüberwachung mit KI: „Sie da im grünen Pullover: Bitte unterlassen Sie dieses Verhalten“",
-        "summary": "Künstliche Intelligenz eröffnet in der Videoüberwachung öffentlicher Plätze ganz neue Möglichkeiten.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/ki-videoueberwachung-mehr-sicherheit-oder-ueberwachungsstaat-accg-201183304.html",
+        "title": "Kolumne „Hanks Welt“: Autoritäre Sozialpolitik",
+        "summary": "In der Sozialversicherung macht der Staat den Bürger zum Untertan.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/hanks-welt/heddy-neumeister-sozialstaat-als-betreuerische-herrschsucht-accg-201276427.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Heizung: Wärmepumpen sind in bis zu 90 Prozent der Mehrfamilienhäuser möglich",
-        "summary": "In Deutschland könnten mehr Wärmepumpen in Mietshäusern verbaut werden.",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/waermepumpe-im-mehrfamilienhaus-oft-reicht-ein-heizkoerpertausch-damit-es-machbar-wird/100259569.html",
+        "title": "Regierungskrise: Sánchez ruft vorzeitige Neuwahlen in Spanien aus",
+        "summary": "Nach der gescheiterten Abstimmung über zwei Immobiliengesetze beendet Sánchez die Legislatur.",
+        "link": "https://www.handelsblatt.com/politik/international/regierungskrise-sanchez-ruft-vorzeitige-neuwahlen-in-spanien-aus/100259595.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Suppliers pile pressure on government over energy bills",
-        "summary": "Immediate action is needed to help households struggling with bills this winter, says trade body Energy UK.",
-        "link": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
-      },
-      {
-        "title": "Ostseebad: Das ewige Versprechen von Heiligendamm",
-        "summary": "Heiligendamm ist Deutschlands ältestes und ungewöhnlichstes Seebad.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/was-wurde-aus-heiligendamm-das-ein-investor-zum-zweiten-sylt-machen-wollte-accg-201270030.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "Galeria: Sie versprachen einen „Batzen Cash“ – und lieferten die vierte Insolvenz",
-        "summary": "Wie Missmanagement, Rabattschlachten und Begehrlichkeiten der Eigner Deutschlands letzte große Warenhauskette ruinierten.",
-        "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/galeria-sie-versprachen-batzen-cash-und-lieferten-die-vierte-insolvenz/100259572.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "UK diesel prices top £2 a litre for first time, RAC says",
-        "summary": "The rise in global oil prices has been pushing up the pump prices of petrol and diesel in the UK.",
-        "link": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss",
+        "title": "The job interview question you don't have to answer",
+        "summary": "Experts explain what you should do if you are asked for your current salary during a job interview.",
+        "link": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": null,
+    "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "1.7-billion-year-old fossils reveal a crucial clue to the rise of complex life",
-        "summary": "Scientists studying ancient Australian rocks uncovered more than 12,000 fossils from some of the oldest known eukaryotes on Earth.",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260925005447.htm",
-        "source": "ScienceDaily – Geowissenschaften",
-        "publisher": "ScienceDaily",
-        "category": "Erde"
+        "title": "EmTech Future 2026: When AI Meets Everything",
+        "summary": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other…",
+        "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+        "source": "MIT Technology Review",
+        "publisher": "MIT",
+        "category": "Technologie"
       },
       {
-        "title": "Stunning fossil shows dinosaurs’ distinctive path to flight",
-        "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03126-8 A fossil from a previously undiscovered species with feathery limbs, unearthed in China, adds to evidence that dinosaurs and birds evolved flight…",
-        "link": "https://www.nature.com/articles/d41586-026-03126-8",
+        "title": "Leucine does more than build muscle. It powers up your cells",
+        "summary": "The essential amino acid leucine can boost cellular energy production by protecting key proteins on mitochondria from being destroyed.",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261001095319.htm",
+        "source": "ScienceDaily – Gesundheit",
+        "publisher": "ScienceDaily",
+        "category": "Medizin"
+      },
+      {
+        "title": "AI biohazard hype must not divert attention from the real risks we face now",
+        "summary": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03135-7 Twenty-five years after the US anthrax attacks, fears around AI are distracting people from seeing what’s needed to stay safe: a strong, regulate…",
+        "link": "https://www.nature.com/articles/d41586-026-03135-7",
         "source": "Nature News",
         "publisher": "Nature",
         "category": "Forschung"
-      },
-      {
-        "title": "18th Century Pirate’s Jolly Roger in Portsmouth, England",
-        "summary": "The National Museum of the Royal Navy in Portsmouth displays a genuine Jolly Roger, captured from pirates off the North African coast in 1790 by Admiral Richard Curry.",
-        "link": "https://www.atlasobscura.com/places/18th-century-pirates-jolly-roger",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
       }
     ]
   }

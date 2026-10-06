@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T12:06:56+00:00",
-  "date_label": "Monday, 05. October 2026",
+  "generated_at": "2026-10-06T11:51:20+00:00",
+  "date_label": "Tuesday, 06. October 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25297.4902,
-        "change_pct": 0.26
+        "price": 25415.4707,
+        "change_pct": 0.64
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7722.7202,
-        "change_pct": 0.73
+        "price": 7773.9502,
+        "change_pct": 0.66
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 27190.8594,
-        "change_pct": 1.19
+        "price": 27477.3105,
+        "change_pct": 1.05
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6244.77,
-        "change_pct": 0.1
+        "price": 6280.3701,
+        "change_pct": 0.61
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 69946.8594,
-        "change_pct": 2.4
+        "price": 70683.9766,
+        "change_pct": 1.05
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 76872,
-        "usd": 86133,
-        "change_24h_pct": 1.43
+        "eur": 76574,
+        "usd": 86293,
+        "change_24h_pct": -0.24
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2423.91,
-        "usd": 2715.92,
-        "change_24h_pct": 1.07
+        "eur": 2409.01,
+        "usd": 2714.77,
+        "change_24h_pct": -0.56
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.121,
-        "change_pct": -0.36
+        "price": 1.1273,
+        "change_pct": 0.16
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8472,
-        "change_pct": -0.59
+        "price": 0.8487,
+        "change_pct": -0.12
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9311,
-        "change_pct": -0.32
+        "price": 0.9355,
+        "change_pct": 0.39
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 158.185,
-        "change_pct": 0.16
+        "price": 157.952,
+        "change_pct": 0.14
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 177.253,
-        "change_pct": -0.21
+        "price": 178.03,
+        "change_pct": 0.29
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 5.277,
-        "change_pct": 0.76,
+        "price": 5.311,
+        "change_pct": 0.64,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Inder im Osten: „Viele machen sich Sorgen um ihre Sicherheit“",
-        "summary": "Inder stellen in Deutschland die größte Gruppe von ausländischen Studenten und Fachkräften.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/inder-in-ostdeutschland-sorgen-wegen-afd-wahlerfolgen-accg-201274852.html",
+        "title": "Digitale Transformation: Geht doch! Von Stillstand kann keine Rede sein",
+        "summary": "Die Deutschen verschlafen gerade die digitale Transformation, weil sie dem Staat nichts mehr zutrauen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/digitale-transformation-in-deutschland-geht-doch-201276013.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Dax aktuell: Dax hält 25.000-Punkte-Marke",
-        "summary": "Der Leitindex scheint vorerst seinen tiefsten Stand seit Juli überwunden zu haben.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-haelt-25.000punkte-marke-euro-faellt-deutlich/100259668.html",
+        "title": "Verteidigung: Leipzig wird zum weltweit größten Standort einer US-Rüstungsfirma",
+        "summary": "Ein Lenkflugkörper-Produzent mit Sitz in den USA will in Leipzig seine Maschine „Anthem“ herstellen.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/ruestung-leipzig-wird-zum-weltweit-groessten-standort-einer-us-ruestungsfirma/100259878.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Average five-year mortgage rate hits 6% for first time in three years",
-        "summary": "The cost of a new fixed-rate mortgage has been rising in recent weeks as lenders face higher costs.",
-        "link": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
+        "title": "ASOS app users receive push notifications apparently sent by hackers",
+        "summary": "Dozens of people appear to have received a strange message from the clothing and beauty store's app.",
+        "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Neustart bei Porsche: Autos, die keiner braucht",
-        "summary": "Die Krise von Porsche zeigt: Sportwagenfans haben keine Lust auf Elektroautos.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/porsche-in-der-krise-michael-leiters-riskanter-verbrenner-kurs-accg-201268752.html",
+        "title": "Verarbeitendes Gewerbe: Auftragseingang der Industrie bricht ein",
+        "summary": "Weniger Militäraufträge, so vermuten Bankvolkswirte, haben die Auftragseingänge im verarbeitenden Gewerbe im August förmlich einbrechen lassen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/auftragseingang-im-august-drastischer-rueckgang-ohne-dramatik-accg-201292243.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Geldanlage: Wo drei Manager flexibler Mischfonds jetzt Chancen sehen",
-        "summary": "Hohe Zinsen und geopolitische Risiken sorgen für Unsicherheit an den Börsen.",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-wo-drei-manager-flexibler-mischfonds-jetzt-chancen-sehen/100254690.html",
+        "title": "Bundesnachrichtendienst: Ex-BND-Chef Hanning wegen Spionageverdachts festgenommen",
+        "summary": "Beamte des BKA nahmen den 80-Jährigen fest.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/august-hanning-ex-chef-des-bnd-wegen-spionageverdachts-festgenommen/100259997.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "BT agrees rescue deal to buy broadband operator TalkTalk",
-        "summary": "The takeover still needs to be approved by the regulator, but would give certainty to TalkTalk's millions of customers",
-        "link": "https://www.bbc.co.uk/news/articles/cvze4g06526ro?at_medium=RSS&at_campaign=rss",
+        "title": "We're saving £100 a month for our kids but they won't get it until they're 57",
+        "summary": "Why a growing number of parents are opening pensions for their children.",
+        "link": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Kolumne „Hanks Welt“: Autoritäre Sozialpolitik",
-        "summary": "In der Sozialversicherung macht der Staat den Bürger zum Untertan.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/hanks-welt/heddy-neumeister-sozialstaat-als-betreuerische-herrschsucht-accg-201276427.html",
+        "title": "Air Asia: Wie sich Asiens Billigflieger gegen die Staatsrettung stemmt",
+        "summary": "Deutsche Urlauber kennen Air Asia von ihren 20-Euro-Flügen von Insel zu Insel.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/air-asia-wie-sich-asiens-billigflieger-gegen-die-staatsrettung-stemmt-accg-201286102.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Regierungskrise: Sánchez ruft vorzeitige Neuwahlen in Spanien aus",
-        "summary": "Nach der gescheiterten Abstimmung über zwei Immobiliengesetze beendet Sánchez die Legislatur.",
-        "link": "https://www.handelsblatt.com/politik/international/regierungskrise-sanchez-ruft-vorzeitige-neuwahlen-in-spanien-aus/100259595.html",
+        "title": "Onlinehandel: Mutmaßlicher Hackerangriff auf Modehändler Asos – Aktie bricht ein",
+        "summary": "Eine mysteriöse Push-Nachricht deutet auf einen Cyberangriff beim Onlineversand mit mehr als 17 Millionen registrierten Kunden hin.",
+        "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/onlinehandel-mutmasslicher-hackerangriff-auf-modehaendler-asos/100260115.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "The job interview question you don't have to answer",
-        "summary": "Experts explain what you should do if you are asked for your current salary during a job interview.",
-        "link": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
+        "title": "Lego fraudster among last year's most high-profile insurance scammers",
+        "summary": "The person was sentenced to 28 months in prison after an investigation found the claims were made up, the insurance trade body, the ABI said.",
+        "link": "https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,28 +180,28 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": "Quellen nicht erreichbar: NASA Breaking News",
+    "error": null,
     "data": [
       {
-        "title": "EmTech Future 2026: When AI Meets Everything",
-        "summary": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other…",
-        "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+        "title": "The 'power plant' hidden inside Vermont homes",
+        "summary": "This intelligent network is quietly keeping the lights on during power outages",
+        "link": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms?ocid=global_future_rss",
+        "source": "BBC Future",
+        "publisher": "BBC",
+        "category": "Zukunft"
+      },
+      {
+        "title": "Brimstone and its one-stop process for making cleaner cement and critical minerals",
+        "summary": "Brimstone is making strides on two industrial problems, reducing the emissions from cement and providing a way to produce more critical minerals within the US.",
+        "link": "https://www.technologyreview.com/2026/10/06/1145172/2026-climate-tech-companies-to-watch-brimstone-one-stop-process-making-cleaner-cement-critical-minerals/",
         "source": "MIT Technology Review",
         "publisher": "MIT",
         "category": "Technologie"
       },
       {
-        "title": "Leucine does more than build muscle. It powers up your cells",
-        "summary": "The essential amino acid leucine can boost cellular energy production by protecting key proteins on mitochondria from being destroyed.",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261001095319.htm",
-        "source": "ScienceDaily – Gesundheit",
-        "publisher": "ScienceDaily",
-        "category": "Medizin"
-      },
-      {
-        "title": "AI biohazard hype must not divert attention from the real risks we face now",
-        "summary": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03135-7 Twenty-five years after the US anthrax attacks, fears around AI are distracting people from seeing what’s needed to stay safe: a strong, regulate…",
-        "link": "https://www.nature.com/articles/d41586-026-03135-7",
+        "title": "The Great Barrier Reef requires special attention in the developing super El Niño",
+        "summary": "Nature, Published online: 06 October 2026; doi:10.1038/d41586-026-03174-0 The Great Barrier Reef requires special attention in the developing super El Niño",
+        "link": "https://www.nature.com/articles/d41586-026-03174-0",
         "source": "Nature News",
         "publisher": "Nature",
         "category": "Forschung"

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T11:51:20+00:00",
-  "date_label": "Tuesday, 06. October 2026",
+  "generated_at": "2026-10-07T11:36:20+00:00",
+  "date_label": "Wednesday, 07. October 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25415.4707,
-        "change_pct": 0.64
+        "price": 25091.0801,
+        "change_pct": -1.41
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7773.9502,
-        "change_pct": 0.66
+        "price": 7818.9302,
+        "change_pct": 0.58
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 27477.3105,
-        "change_pct": 1.05
+        "price": 27599.7891,
+        "change_pct": 0.45
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6280.3701,
-        "change_pct": 0.61
+        "price": 6165.1602,
+        "change_pct": -1.71
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 70683.9766,
-        "change_pct": 1.05
+        "price": 70035.7109,
+        "change_pct": -0.92
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 76574,
-        "usd": 86293,
-        "change_24h_pct": -0.24
+        "eur": 74808,
+        "usd": 83682,
+        "change_24h_pct": -2.34
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2409.01,
-        "usd": 2714.77,
-        "change_24h_pct": -0.56
+        "eur": 2302.69,
+        "usd": 2575.83,
+        "change_24h_pct": -4.52
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1273,
-        "change_pct": 0.16
+        "price": 1.1188,
+        "change_pct": -0.26
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8487,
-        "change_pct": -0.12
+        "price": 0.8466,
+        "change_pct": -0.22
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9355,
-        "change_pct": 0.39
+        "price": 0.9311,
+        "change_pct": -0.15
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 157.952,
-        "change_pct": 0.14
+        "price": 158.388,
+        "change_pct": 0.27
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 178.03,
-        "change_pct": 0.29
+        "price": 177.101,
+        "change_pct": -0.05
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 5.311,
-        "change_pct": 0.64,
+        "price": 5.269,
+        "change_pct": -0.79,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Digitale Transformation: Geht doch! Von Stillstand kann keine Rede sein",
-        "summary": "Die Deutschen verschlafen gerade die digitale Transformation, weil sie dem Staat nichts mehr zutrauen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/digitale-transformation-in-deutschland-geht-doch-201276013.html",
+        "title": "Heinrich August Winkler: „Es könnte sein, dass die AfD gerade ihren Höhepunkt überschreitet“",
+        "summary": "Der Historiker Heinrich August Winkler hält die AfD für besiegbar.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/heinrich-august-winkler-vielleicht-hat-die-afd-ihren-hoehepunkt-gerade-ueberschritten-accg-201237588.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Verteidigung: Leipzig wird zum weltweit größten Standort einer US-Rüstungsfirma",
-        "summary": "Ein Lenkflugkörper-Produzent mit Sitz in den USA will in Leipzig seine Maschine „Anthem“ herstellen.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/ruestung-leipzig-wird-zum-weltweit-groessten-standort-einer-us-ruestungsfirma/100259878.html",
+        "title": "Südkorea: Milliardenschwere Initiative für Energiewende und Klimaschutz",
+        "summary": "Südkorea will mit rund 668 Milliarden Euro die Industrie klimafreundlicher machen und neue Wachstumsmärkte erschließen.",
+        "link": "https://www.handelsblatt.com/politik/international/suedkorea-milliardenschwere-initiative-fuer-energiewende-und-klimaschutz/100260438.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "ASOS app users receive push notifications apparently sent by hackers",
-        "summary": "Dozens of people appear to have received a strange message from the clothing and beauty store's app.",
-        "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
+        "title": "Royal Mail plans to cut 2,500 jobs",
+        "summary": "The postal service firm wants to cut head office and other non-frontline jobs by the end of 2027.",
+        "link": "https://www.bbc.co.uk/news/articles/cwvgdld13e3eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Verarbeitendes Gewerbe: Auftragseingang der Industrie bricht ein",
-        "summary": "Weniger Militäraufträge, so vermuten Bankvolkswirte, haben die Auftragseingänge im verarbeitenden Gewerbe im August förmlich einbrechen lassen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/auftragseingang-im-august-drastischer-rueckgang-ohne-dramatik-accg-201292243.html",
+        "title": "Kosten Für KI: Schon bei der Abrechnung fängt das Problem an",
+        "summary": "Deutsche Unternehmen geben Milliarden für Künstliche Intelligenz aus – Tendenz stark steigend.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/tokenverbrauch-ki-kosten-steigen-in-deutschen-unternehmen-rapide-accg-201280853.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Bundesnachrichtendienst: Ex-BND-Chef Hanning wegen Spionageverdachts festgenommen",
-        "summary": "Beamte des BKA nahmen den 80-Jährigen fest.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/august-hanning-ex-chef-des-bnd-wegen-spionageverdachts-festgenommen/100259997.html",
+        "title": "Thüringen: AfD scheitert mit Selbstauflösung des Landtags",
+        "summary": "Die AfD-Fraktion wollte den Thüringer Landtag auflösen, um Neuwahlen zu erreichen.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/thueringen-afd-scheitert-mit-selbstaufloesung-des-landtags/100260440.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "We're saving £100 a month for our kids but they won't get it until they're 57",
-        "summary": "Why a growing number of parents are opening pensions for their children.",
-        "link": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
+        "title": "Jaguar unveils new electric car after 'woke' ridicule",
+        "summary": "Two years after JLR relaunched Jaguar into a blizzard of controversy, it has launched its new EV.",
+        "link": "https://www.bbc.co.uk/news/articles/c6je50ydld31o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Air Asia: Wie sich Asiens Billigflieger gegen die Staatsrettung stemmt",
-        "summary": "Deutsche Urlauber kennen Air Asia von ihren 20-Euro-Flügen von Insel zu Insel.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/air-asia-wie-sich-asiens-billigflieger-gegen-die-staatsrettung-stemmt-accg-201286102.html",
+        "title": "Neue Porsche-Strategie: Riskanter Schrumpfkurs",
+        "summary": "Ob die neue Strategie von Porsche-Chef Michael Leiters den Hersteller stabilisieren kann, hängt davon ab, ob die Kunden die teureren Luxusautos wirklich kaufen werden.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/porsche-chef-michael-leiters-faehrt-einen-riskanten-schrumpfkurs-201295191.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Onlinehandel: Mutmaßlicher Hackerangriff auf Modehändler Asos – Aktie bricht ein",
-        "summary": "Eine mysteriöse Push-Nachricht deutet auf einen Cyberangriff beim Onlineversand mit mehr als 17 Millionen registrierten Kunden hin.",
-        "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/onlinehandel-mutmasslicher-hackerangriff-auf-modehaendler-asos/100260115.html",
+        "title": "Mario Voigt: Thüringens Regierungschef gibt Kampf um Doktortitel auf",
+        "summary": "Nach Monaten politischen Drucks beendet Ministerpräsident Voigt einen Rechtsstreit um seinen Doktortitel.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/mario-voigt-thueringens-regierungschef-gibt-kampf-um-doktortitel-auf/100260437.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Lego fraudster among last year's most high-profile insurance scammers",
-        "summary": "The person was sentenced to 28 months in prison after an investigation found the claims were made up, the insurance trade body, the ABI said.",
-        "link": "https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&at_campaign=rss",
+        "title": "Half the harvest, twice the bills: how drought hit farms",
+        "summary": "Farmers gathered much less wheat in 2026 and dairy farmers' costs rose.",
+        "link": "https://www.bbc.co.uk/news/articles/c5rm9mdm79neo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,28 +183,28 @@
     "error": null,
     "data": [
       {
-        "title": "The 'power plant' hidden inside Vermont homes",
-        "summary": "This intelligent network is quietly keeping the lights on during power outages",
-        "link": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms?ocid=global_future_rss",
-        "source": "BBC Future",
-        "publisher": "BBC",
-        "category": "Zukunft"
+        "title": "Scientists discover a human brain gene that can jump through DNA",
+        "summary": "Scientists have discovered a human gene with a remarkable double life: it appears to play an important role in brain cells while still retaining the ability to jump around the genome.",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261002080013.htm",
+        "source": "ScienceDaily – Tiere",
+        "publisher": "ScienceDaily",
+        "category": "Biologie"
       },
       {
-        "title": "Brimstone and its one-stop process for making cleaner cement and critical minerals",
-        "summary": "Brimstone is making strides on two industrial problems, reducing the emissions from cement and providing a way to produce more critical minerals within the US.",
-        "link": "https://www.technologyreview.com/2026/10/06/1145172/2026-climate-tech-companies-to-watch-brimstone-one-stop-process-making-cleaner-cement-critical-minerals/",
-        "source": "MIT Technology Review",
-        "publisher": "MIT",
-        "category": "Technologie"
-      },
-      {
-        "title": "The Great Barrier Reef requires special attention in the developing super El Niño",
-        "summary": "Nature, Published online: 06 October 2026; doi:10.1038/d41586-026-03174-0 The Great Barrier Reef requires special attention in the developing super El Niño",
-        "link": "https://www.nature.com/articles/d41586-026-03174-0",
+        "title": "Can your brain grow new neurons? How researchers are solving a century-old puzzle",
+        "summary": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03132-w Scientists have debated for decades whether the human brain sprouts new neurons throughout life.",
+        "link": "https://www.nature.com/articles/d41586-026-03132-w",
         "source": "Nature News",
         "publisher": "Nature",
         "category": "Forschung"
+      },
+      {
+        "title": "Is More Protein Always Better? Despite the Craze Around the Nutrient, Research-Backed Evidence About Its Benefits Is Complicated",
+        "summary": "It can be difficult to see through the array of flashy, protein-packed products and determine whether you need more of it—and which foods to consume to get it.",
+        "link": "https://www.smithsonianmag.com/science-nature/is-more-protein-always-better-despite-the-craze-around-the-nutrient-research-backed-evidence-about-its-benefits-is-complicated-180989584/",
+        "source": "Smithsonian",
+        "publisher": "Smithsonian",
+        "category": "Wissenschaft"
       }
     ]
   }

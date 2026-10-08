@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T11:36:20+00:00",
-  "date_label": "Wednesday, 07. October 2026",
+  "generated_at": "2026-10-08T11:50:51+00:00",
+  "date_label": "Thursday, 08. October 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25091.0801,
-        "change_pct": -1.41
+        "price": 24817.2695,
+        "change_pct": -1.14
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7818.9302,
-        "change_pct": 0.58
+        "price": 7801.77,
+        "change_pct": -0.22
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 27599.7891,
-        "change_pct": 0.45
+        "price": 27538.6895,
+        "change_pct": -0.22
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6165.1602,
-        "change_pct": -1.71
+        "price": 6104.3301,
+        "change_pct": -1.23
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 70035.7109,
-        "change_pct": -0.92
+        "price": 69042.1094,
+        "change_pct": -1.42
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 74808,
-        "usd": 83682,
-        "change_24h_pct": -2.34
+        "eur": 73772,
+        "usd": 82478,
+        "change_24h_pct": -1.31
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2302.69,
-        "usd": 2575.83,
-        "change_24h_pct": -4.52
+        "eur": 2269.83,
+        "usd": 2537.72,
+        "change_24h_pct": -1.42
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1188,
-        "change_pct": -0.26
+        "price": 1.1183,
+        "change_pct": -0.63
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8466,
-        "change_pct": -0.22
+        "price": 0.847,
+        "change_pct": -0.14
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9311,
-        "change_pct": -0.15
+        "price": 0.9318,
+        "change_pct": -0.5
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 158.388,
-        "change_pct": 0.27
+        "price": 158.242,
+        "change_pct": -0.03
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 177.101,
-        "change_pct": -0.05
+        "price": 176.921,
+        "change_pct": -0.68
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 5.269,
-        "change_pct": -0.79,
+        "price": 5.277,
+        "change_pct": 0.15,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Heinrich August Winkler: „Es könnte sein, dass die AfD gerade ihren Höhepunkt überschreitet“",
-        "summary": "Der Historiker Heinrich August Winkler hält die AfD für besiegbar.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/heinrich-august-winkler-vielleicht-hat-die-afd-ihren-hoehepunkt-gerade-ueberschritten-accg-201237588.html",
+        "title": "Machtverschiebung im Netz: Wenn es so weitergeht, werden die Menschen ein Rundungsfehler im Internet",
+        "summary": "Im Internet verdrängen KI-Agenten die Menschen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/ki-agenten-die-maschinen-sind-schon-in-der-mehrheit-201289113.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Südkorea: Milliardenschwere Initiative für Energiewende und Klimaschutz",
-        "summary": "Südkorea will mit rund 668 Milliarden Euro die Industrie klimafreundlicher machen und neue Wachstumsmärkte erschließen.",
-        "link": "https://www.handelsblatt.com/politik/international/suedkorea-milliardenschwere-initiative-fuer-energiewende-und-klimaschutz/100260438.html",
+        "title": "Helen Giza: Vorstandschefin von FMC geht abrupt – Aktie fällt deutlich",
+        "summary": "Nach knapp vier Jahren an der Spitze des Dialysekonzerns geht Helen Giza vorzeitig.",
+        "link": "https://www.handelsblatt.com/unternehmen/dienstleister/helen-giza-vorstandschefin-von-fmc-geht-abrupt/100260520.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Royal Mail plans to cut 2,500 jobs",
-        "summary": "The postal service firm wants to cut head office and other non-frontline jobs by the end of 2027.",
-        "link": "https://www.bbc.co.uk/news/articles/cwvgdld13e3eo?at_medium=RSS&at_campaign=rss",
+        "title": "'Come all the way' back to EU, French finance minister tells UK",
+        "summary": "Roland Lescure tells the BBC that being in the bloc enables members to better address the challenges facing the world.",
+        "link": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Kosten Für KI: Schon bei der Abrechnung fängt das Problem an",
-        "summary": "Deutsche Unternehmen geben Milliarden für Künstliche Intelligenz aus – Tendenz stark steigend.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/tokenverbrauch-ki-kosten-steigen-in-deutschen-unternehmen-rapide-accg-201280853.html",
+        "title": "Angebot für Evonik: Offene Fragen um das „Erbe der Bergleute“",
+        "summary": "Die finanzstarke RAG-Stiftung ist die größte Aktionärin von Evonik.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/rag-stiftung-und-basf-offene-fragen-um-evonik-accg-201298862.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Thüringen: AfD scheitert mit Selbstauflösung des Landtags",
-        "summary": "Die AfD-Fraktion wollte den Thüringer Landtag auflösen, um Neuwahlen zu erreichen.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/thueringen-afd-scheitert-mit-selbstaufloesung-des-landtags/100260440.html",
+        "title": "Nobelpreise: Literaturnobelpreis für Kanadierin Anne Carson",
+        "summary": "Mit Anne Carson ehrt die Schwedische Akademie in diesem Jahr eine kanadische Autorin mit dem Literaturnobelpreis.",
+        "link": "https://www.handelsblatt.com/politik/international/nobelpreise-literaturnobelpreis-fuer-kanadierin-anne-carson/100260744.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Jaguar unveils new electric car after 'woke' ridicule",
-        "summary": "Two years after JLR relaunched Jaguar into a blizzard of controversy, it has launched its new EV.",
-        "link": "https://www.bbc.co.uk/news/articles/c6je50ydld31o?at_medium=RSS&at_campaign=rss",
+        "title": "Asos hackers took more personal details than first revealed, BBC finds",
+        "summary": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
+        "link": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Neue Porsche-Strategie: Riskanter Schrumpfkurs",
-        "summary": "Ob die neue Strategie von Porsche-Chef Michael Leiters den Hersteller stabilisieren kann, hängt davon ab, ob die Kunden die teureren Luxusautos wirklich kaufen werden.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/porsche-chef-michael-leiters-faehrt-einen-riskanten-schrumpfkurs-201295191.html",
+        "title": "Musikmarkt: Kommt jetzt das CD-Revival?",
+        "summary": "Die Schallplatte erfreut sich schon länger wieder größerer Beliebtheit.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/umsatz-steigt-kommt-jetzt-das-cd-revival-accg-201273187.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Mario Voigt: Thüringens Regierungschef gibt Kampf um Doktortitel auf",
-        "summary": "Nach Monaten politischen Drucks beendet Ministerpräsident Voigt einen Rechtsstreit um seinen Doktortitel.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/mario-voigt-thueringens-regierungschef-gibt-kampf-um-doktortitel-auf/100260437.html",
+        "title": "Bund: 76,5 Milliarden Euro: Steuersubventionen sind noch höher als von der Regierung ausgewiesen",
+        "summary": "Eine Studie untersucht die Steuervergünstigungen in Deutschland.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/bund-steuersubventionen-sind-noch-hoeher-als-von-der-regierung-ausgewiesen-01/100259680.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Half the harvest, twice the bills: how drought hit farms",
-        "summary": "Farmers gathered much less wheat in 2026 and dairy farmers' costs rose.",
-        "link": "https://www.bbc.co.uk/news/articles/c5rm9mdm79neo?at_medium=RSS&at_campaign=rss",
+        "title": "We spent thousands on a Tui river cruise but ended up on coach trips",
+        "summary": "Passengers have described their anger after their itineraries changed to involve hours spent on coach trips instead.",
+        "link": "https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,28 +183,28 @@
     "error": null,
     "data": [
       {
-        "title": "Scientists discover a human brain gene that can jump through DNA",
-        "summary": "Scientists have discovered a human gene with a remarkable double life: it appears to play an important role in brain cells while still retaining the ability to jump around the genome.",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261002080013.htm",
-        "source": "ScienceDaily – Tiere",
-        "publisher": "ScienceDaily",
-        "category": "Biologie"
-      },
-      {
-        "title": "Can your brain grow new neurons? How researchers are solving a century-old puzzle",
-        "summary": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03132-w Scientists have debated for decades whether the human brain sprouts new neurons throughout life.",
-        "link": "https://www.nature.com/articles/d41586-026-03132-w",
+        "title": "Woody ‘blankets’ are being deployed on Arctic permafrost to reduce carbon emissions",
+        "summary": "Nature, Published online: 08 October 2026; doi:10.1038/d41586-026-03045-8 A start-up company is testing whether stabilizing areas of rapidly eroding permafrost can prevent greenhouse-gas emissions.",
+        "link": "https://www.nature.com/articles/d41586-026-03045-8",
         "source": "Nature News",
         "publisher": "Nature",
         "category": "Forschung"
       },
       {
-        "title": "Is More Protein Always Better? Despite the Craze Around the Nutrient, Research-Backed Evidence About Its Benefits Is Complicated",
-        "summary": "It can be difficult to see through the array of flashy, protein-packed products and determine whether you need more of it—and which foods to consume to get it.",
-        "link": "https://www.smithsonianmag.com/science-nature/is-more-protein-always-better-despite-the-craze-around-the-nutrient-research-backed-evidence-about-its-benefits-is-complicated-180989584/",
-        "source": "Smithsonian",
-        "publisher": "Smithsonian",
-        "category": "Wissenschaft"
+        "title": "Scientists say this simple habit could strengthen your marriage",
+        "summary": "Couples who exercise together report better communication, healthier conflict resolution, and lower marital stress than those who work out alone.",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261004001843.htm",
+        "source": "ScienceDaily – Neurowissenschaft",
+        "publisher": "ScienceDaily",
+        "category": "Neurowissenschaft"
+      },
+      {
+        "title": "NASA’s PRIMA Spacecraft (Artist’s Concept)",
+        "summary": "Description This artist’s concept depicts the proposed design for NASA’s PRobe far-Infrared Mission for Astrophysics (PRIMA), which was selected by the agency in September 2026.",
+        "link": "https://science.nasa.gov/photojournal/nasas-prima-spacecraft-artists-concept/",
+        "source": "NASA Breaking News",
+        "publisher": "NASA",
+        "category": "Raumfahrt"
       }
     ]
   }

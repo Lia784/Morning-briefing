@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T11:50:51+00:00",
-  "date_label": "Thursday, 08. October 2026",
+  "generated_at": "2026-10-09T11:42:46+00:00",
+  "date_label": "Friday, 09. October 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 24817.2695,
-        "change_pct": -1.14
+        "price": 25101.5098,
+        "change_pct": 1.19
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7801.77,
-        "change_pct": -0.22
+        "price": 7765.3599,
+        "change_pct": -0.47
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 27538.6895,
-        "change_pct": -0.22
+        "price": 27193.3398,
+        "change_pct": -1.25
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6104.3301,
-        "change_pct": -1.23
+        "price": 6186.2002,
+        "change_pct": 0.97
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 69042.1094,
-        "change_pct": -1.42
+        "price": 69030.9219,
+        "change_pct": -0.02
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 73772,
-        "usd": 82478,
-        "change_24h_pct": -1.31
+        "eur": 73976,
+        "usd": 82947,
+        "change_24h_pct": 0.15
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2269.83,
-        "usd": 2537.72,
-        "change_24h_pct": -1.42
+        "eur": 2230.5,
+        "usd": 2501.21,
+        "change_24h_pct": -1.9
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1183,
-        "change_pct": -0.63
+        "price": 1.1217,
+        "change_pct": 0.14
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.847,
-        "change_pct": -0.14
+        "price": 0.8476,
+        "change_pct": 0.01
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9318,
-        "change_pct": -0.5
+        "price": 0.9319,
+        "change_pct": -0.13
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 158.242,
-        "change_pct": -0.03
+        "price": 158.249,
+        "change_pct": 0.12
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 176.921,
-        "change_pct": -0.68
+        "price": 177.453,
+        "change_pct": 0.23
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 5.277,
-        "change_pct": 0.15,
+        "price": 5.231,
+        "change_pct": -0.87,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Machtverschiebung im Netz: Wenn es so weitergeht, werden die Menschen ein Rundungsfehler im Internet",
-        "summary": "Im Internet verdrängen KI-Agenten die Menschen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/ki-agenten-die-maschinen-sind-schon-in-der-mehrheit-201289113.html",
+        "title": "Vor der Automesse in Paris: Jetzt wollen auch die Autokonzerne vor China beschützt werden",
+        "summary": "Chinesische Elektroautos fluten Europa.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/autohersteller-schmieden-deutsch-franzoesische-allianz-gegen-china-201295536.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Helen Giza: Vorstandschefin von FMC geht abrupt – Aktie fällt deutlich",
-        "summary": "Nach knapp vier Jahren an der Spitze des Dialysekonzerns geht Helen Giza vorzeitig.",
-        "link": "https://www.handelsblatt.com/unternehmen/dienstleister/helen-giza-vorstandschefin-von-fmc-geht-abrupt/100260520.html",
+        "title": "+++ Ukraine-Krieg +++: Ukraine meldet schwere Schäden am Stromnetz nach russischen Angriffen",
+        "summary": "Chef des russischen Militärblogs Rybar festgenommen +++ Wadephul verschärft Tonlage gegenüber Putin +++ Sibirien: Ukrainischer Drohnenangriff auf Raffinerie in Omsk +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "'Come all the way' back to EU, French finance minister tells UK",
-        "summary": "Roland Lescure tells the BBC that being in the bloc enables members to better address the challenges facing the world.",
-        "link": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss",
+        "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
+        "summary": "The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.",
+        "link": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Angebot für Evonik: Offene Fragen um das „Erbe der Bergleute“",
-        "summary": "Die finanzstarke RAG-Stiftung ist die größte Aktionärin von Evonik.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/rag-stiftung-und-basf-offene-fragen-um-evonik-accg-201298862.html",
+        "title": "Neuer Berufswunsch: Wenn ich groß bin, werde ich Influencer",
+        "summary": "Der Werbemarkt rund um Influencer wächst und zieht junge Menschen auf die sozialen Plattformen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/berufswunsch-influencer-wie-werde-ich-content-creator-accg-201282409.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Nobelpreise: Literaturnobelpreis für Kanadierin Anne Carson",
-        "summary": "Mit Anne Carson ehrt die Schwedische Akademie in diesem Jahr eine kanadische Autorin mit dem Literaturnobelpreis.",
-        "link": "https://www.handelsblatt.com/politik/international/nobelpreise-literaturnobelpreis-fuer-kanadierin-anne-carson/100260744.html",
+        "title": "Zukunftsgestalter: Weltspitze in der Provinz: Wie der größte Pharmakonzern Deutschlands seine Führungskräfte entwickelt",
+        "summary": "Deutschlands größter Pharmakonzern lockt erfolgreich Führungskräfte nach Ingelheim – und die bleiben dank spezieller Programme lange.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/karriere-so-ueberzeugen-sie-als-fuehrungskraft-beim-pharmakonzern-boehringer/100251886.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Asos hackers took more personal details than first revealed, BBC finds",
-        "summary": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
-        "link": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
+        "title": "'Add me on WhatsApp' scam calls to be investigated",
+        "summary": "The UK's data watchdog is investigating a spike in complaints about \"robo calls\" that appear to lead to a recruitment scam.",
+        "link": "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Musikmarkt: Kommt jetzt das CD-Revival?",
-        "summary": "Die Schallplatte erfreut sich schon länger wieder größerer Beliebtheit.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/umsatz-steigt-kommt-jetzt-das-cd-revival-accg-201273187.html",
+        "title": "Immobilien: Wege aus der Krise",
+        "summary": "Immobilienunternehmen erleben weiter ein schweres Umfeld.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/expo-real-2026-immobilienkrise-dauert-weiter-an-201298406.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Bund: 76,5 Milliarden Euro: Steuersubventionen sind noch höher als von der Regierung ausgewiesen",
-        "summary": "Eine Studie untersucht die Steuervergünstigungen in Deutschland.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/bund-steuersubventionen-sind-noch-hoeher-als-von-der-regierung-ausgewiesen-01/100259680.html",
+        "title": "Reform: Wie viel Netto bleibt Ihnen 2027 vom Gehalt?",
+        "summary": "Profitieren Sie vom Reformpaket der Bundesregierung, oder stehen Sie schlechter da als vorher?",
+        "link": "https://www.handelsblatt.com/politik/deutschland/gehaltsrechner-was-das-reformpaket-fuer-ihr-nettogehalt-2027-bedeutet/100260104.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "We spent thousands on a Tui river cruise but ended up on coach trips",
-        "summary": "Passengers have described their anger after their itineraries changed to involve hours spent on coach trips instead.",
-        "link": "https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o?at_medium=RSS&at_campaign=rss",
+        "title": "I've been with my boyfriend for two years and don't know his salary",
+        "summary": "Talking about salary, spending habits and debt can be some of dating's trickier conversations.",
+        "link": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,28 +183,28 @@
     "error": null,
     "data": [
       {
-        "title": "Woody ‘blankets’ are being deployed on Arctic permafrost to reduce carbon emissions",
-        "summary": "Nature, Published online: 08 October 2026; doi:10.1038/d41586-026-03045-8 A start-up company is testing whether stabilizing areas of rapidly eroding permafrost can prevent greenhouse-gas emissions.",
-        "link": "https://www.nature.com/articles/d41586-026-03045-8",
+        "title": "Author Correction: Histone readers MLLT1 and MLLT3 concentrate AID to confer locus specificity",
+        "summary": "Nature, Published online: 08 October 2026; doi:10.1038/s41586-026-11266-0 Author Correction: Histone readers MLLT1 and MLLT3 concentrate AID to confer locus specificity",
+        "link": "https://www.nature.com/articles/s41586-026-11266-0",
         "source": "Nature News",
         "publisher": "Nature",
         "category": "Forschung"
       },
       {
-        "title": "Scientists say this simple habit could strengthen your marriage",
-        "summary": "Couples who exercise together report better communication, healthier conflict resolution, and lower marital stress than those who work out alone.",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261004001843.htm",
+        "title": "This common vitamin could help fight one of the deadliest brain cancers",
+        "summary": "High-dose vitamin B3 is showing intriguing early promise as an addition to standard glioblastoma treatment, with 82% of patients in a small trial remaining progression-free after six months.",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261001095423.htm",
         "source": "ScienceDaily – Neurowissenschaft",
         "publisher": "ScienceDaily",
         "category": "Neurowissenschaft"
       },
       {
-        "title": "NASA’s PRIMA Spacecraft (Artist’s Concept)",
-        "summary": "Description This artist’s concept depicts the proposed design for NASA’s PRobe far-Infrared Mission for Astrophysics (PRIMA), which was selected by the agency in September 2026.",
-        "link": "https://science.nasa.gov/photojournal/nasas-prima-spacecraft-artists-concept/",
-        "source": "NASA Breaking News",
-        "publisher": "NASA",
-        "category": "Raumfahrt"
+        "title": "Oculus Tower in Ferrara, Italy",
+        "summary": "At first glance, the Oculus Tower looks more like a futuristic arena than part of an old distillery.",
+        "link": "https://www.atlasobscura.com/places/oculus-tower",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
       }
     ]
   }

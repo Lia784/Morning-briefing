@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T11:42:46+00:00",
-  "date_label": "Friday, 09. October 2026",
+  "generated_at": "2026-10-10T11:01:08+00:00",
+  "date_label": "Saturday, 10. October 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,26 +8,26 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25101.5098,
-        "change_pct": 1.19
+        "price": 25087.2695,
+        "change_pct": 1.13
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7765.3599,
-        "change_pct": -0.47
+        "price": 7811.54,
+        "change_pct": 0.59
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 27193.3398,
-        "change_pct": -1.25
+        "price": 27366.1699,
+        "change_pct": 0.64
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6186.2002,
-        "change_pct": 0.97
+        "price": 6173.3701,
+        "change_pct": 0.76
       },
       {
         "name": "Nikkei 225",
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 73976,
-        "usd": 82947,
-        "change_24h_pct": 0.15
+        "eur": 73899,
+        "usd": 82789,
+        "change_24h_pct": 0.4
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2230.5,
-        "usd": 2501.21,
-        "change_24h_pct": -1.9
+        "eur": 2226.8,
+        "usd": 2494.69,
+        "change_24h_pct": 0.19
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1217,
-        "change_pct": 0.14
+        "price": 1.1206,
+        "change_pct": 0.04
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8476,
-        "change_pct": 0.01
+        "price": 0.8461,
+        "change_pct": -0.17
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9319,
-        "change_pct": -0.13
+        "price": 0.9295,
+        "change_pct": -0.38
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 158.249,
+        "price": 158.246,
         "change_pct": 0.12
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 177.453,
-        "change_pct": 0.23
+        "price": 177.1,
+        "change_pct": -0.07
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 5.231,
-        "change_pct": -0.87,
+        "price": 5.244,
+        "change_pct": 0.25,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Vor der Automesse in Paris: Jetzt wollen auch die Autokonzerne vor China beschützt werden",
-        "summary": "Chinesische Elektroautos fluten Europa.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/autohersteller-schmieden-deutsch-franzoesische-allianz-gegen-china-201295536.html",
+        "title": "Hilfen vom Staat: Woran die Auszahlung staatlicher Hilfen wirklich hakt",
+        "summary": "Die Bundesregierung beschließt einen Tankrabatt, angeblich weil Deutschland technisch nicht in der Lage ist, individuelle Hilfe auszuzahlen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/tankrabatt-warum-der-auszahlungsmechanismus-fehlt-accg-201287667.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "+++ Ukraine-Krieg +++: Ukraine meldet schwere Schäden am Stromnetz nach russischen Angriffen",
-        "summary": "Chef des russischen Militärblogs Rybar festgenommen +++ Wadephul verschärft Tonlage gegenüber Putin +++ Sibirien: Ukrainischer Drohnenangriff auf Raffinerie in Omsk +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
+        "title": "Unwetter: Sturm „Isaias“ trifft US-Golfküste – Hunderttausende ohne Strom",
+        "summary": "Der Sturm verliert auf seinem Weg an Kraft, dennoch warnen die Behörden vor Hochwasser und Sturmfluten.",
+        "link": "https://www.handelsblatt.com/politik/international/unwetter-sturm-isaias-trifft-us-golfkueste-hunderttausende-ohne-strom/100261219.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
-        "summary": "The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.",
-        "link": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss",
+        "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+        "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+        "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Neuer Berufswunsch: Wenn ich groß bin, werde ich Influencer",
-        "summary": "Der Werbemarkt rund um Influencer wächst und zieht junge Menschen auf die sozialen Plattformen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/berufswunsch-influencer-wie-werde-ich-content-creator-accg-201282409.html",
+        "title": "Blockiertes Land: Wie Frankreich uns warnt",
+        "summary": "Frankreich stagniert.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/frankreich-als-warnung-was-deutschland-daraus-lernen-muss-201299296.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Zukunftsgestalter: Weltspitze in der Provinz: Wie der größte Pharmakonzern Deutschlands seine Führungskräfte entwickelt",
-        "summary": "Deutschlands größter Pharmakonzern lockt erfolgreich Führungskräfte nach Ingelheim – und die bleiben dank spezieller Programme lange.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/karriere-so-ueberzeugen-sie-als-fuehrungskraft-beim-pharmakonzern-boehringer/100251886.html",
+        "title": "Straßenproteste: Zahlreiche Festnahmen bei Protesten in Neu-Delhi",
+        "summary": "Bei Protesten der indischen „Kakerlaken“-Jugendbewegung gegen Änderungen an Wählerverzeichnissen hat die Polizei Tausende Menschen festgenommen.",
+        "link": "https://www.handelsblatt.com/politik/international/strassenproteste-zahlreiche-festnahmen-bei-protesten-in-neu-delhi/100261218.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "'Add me on WhatsApp' scam calls to be investigated",
-        "summary": "The UK's data watchdog is investigating a spike in complaints about \"robo calls\" that appear to lead to a recruitment scam.",
-        "link": "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo?at_medium=RSS&at_campaign=rss",
+        "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+        "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+        "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Immobilien: Wege aus der Krise",
-        "summary": "Immobilienunternehmen erleben weiter ein schweres Umfeld.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/expo-real-2026-immobilienkrise-dauert-weiter-an-201298406.html",
+        "title": "Digitalisierung: Eine europäische Cloud für Deutschlands Mittelstand",
+        "summary": "Die Telekom-Austria-Gruppe baut ihr Deutschlandgeschäft mit eigener Cloud und Services aus.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/a1-digital-elisabetta-castiglioni-und-die-cloud-fuer-den-mittelstand-accg-201283281.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Reform: Wie viel Netto bleibt Ihnen 2027 vom Gehalt?",
-        "summary": "Profitieren Sie vom Reformpaket der Bundesregierung, oder stehen Sie schlechter da als vorher?",
-        "link": "https://www.handelsblatt.com/politik/deutschland/gehaltsrechner-was-das-reformpaket-fuer-ihr-nettogehalt-2027-bedeutet/100260104.html",
+        "title": "Haushalt: EU-Haushaltszoff –Vorsitz präsentiert neuen Vorschlag",
+        "summary": "Mit wie viel Geld soll der nächste langfristige EU-Haushalt ausgestattet werden?",
+        "link": "https://www.handelsblatt.com/politik/international/haushalt-eu-haushaltszoff-vorsitz-praesentiert-neuen-vorschlag/100261216.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "I've been with my boyfriend for two years and don't know his salary",
-        "summary": "Talking about salary, spending habits and debt can be some of dating's trickier conversations.",
-        "link": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
+        "title": "Boots has a new owner: Three ways it could affect you",
+        "summary": "The stalwart of Britain's High Street has been sold to a Canadian billionaire family.",
+        "link": "https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,28 +183,28 @@
     "error": null,
     "data": [
       {
-        "title": "Author Correction: Histone readers MLLT1 and MLLT3 concentrate AID to confer locus specificity",
-        "summary": "Nature, Published online: 08 October 2026; doi:10.1038/s41586-026-11266-0 Author Correction: Histone readers MLLT1 and MLLT3 concentrate AID to confer locus specificity",
-        "link": "https://www.nature.com/articles/s41586-026-11266-0",
+        "title": "Scientists tested 5 natural compounds on cancer cells. One stood out",
+        "summary": "Five natural compounds, including curcumin and berberine, were tested for their effects on cancer cells and healthy muscle cells.",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261006234531.htm",
+        "source": "ScienceDaily – Gesundheit",
+        "publisher": "ScienceDaily",
+        "category": "Medizin"
+      },
+      {
+        "title": "Publisher Correction: Sleep chart of biological ageing clocks in middle and late life",
+        "summary": "Nature, Published online: 09 October 2026; doi:10.1038/s41586-026-11273-1 Publisher Correction: Sleep chart of biological ageing clocks in middle and late life",
+        "link": "https://www.nature.com/articles/s41586-026-11273-1",
         "source": "Nature News",
         "publisher": "Nature",
         "category": "Forschung"
       },
       {
-        "title": "This common vitamin could help fight one of the deadliest brain cancers",
-        "summary": "High-dose vitamin B3 is showing intriguing early promise as an addition to standard glioblastoma treatment, with 82% of patients in a small trial remaining progression-free after six months.",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261001095423.htm",
-        "source": "ScienceDaily – Neurowissenschaft",
-        "publisher": "ScienceDaily",
-        "category": "Neurowissenschaft"
-      },
-      {
-        "title": "Oculus Tower in Ferrara, Italy",
-        "summary": "At first glance, the Oculus Tower looks more like a futuristic arena than part of an old distillery.",
-        "link": "https://www.atlasobscura.com/places/oculus-tower",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
+        "title": "APOD: 2026 October 9 – Stickney Crater",
+        "summary": "APOD Science APOD APOD: 2026 October 9… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+        "link": "https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/",
+        "source": "NASA Breaking News",
+        "publisher": "NASA",
+        "category": "Raumfahrt"
       }
     ]
   }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T11:01:08+00:00",
-  "date_label": "Saturday, 10. October 2026",
+  "generated_at": "2026-10-11T11:18:11+00:00",
+  "date_label": "Sunday, 11. October 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 73899,
-        "usd": 82789,
-        "change_24h_pct": 0.4
+        "eur": 74027,
+        "usd": 82932,
+        "change_24h_pct": 0.24
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2226.8,
-        "usd": 2494.69,
-        "change_24h_pct": 0.19
+        "eur": 2230.73,
+        "usd": 2499.09,
+        "change_24h_pct": 0.24
       }
     ]
   },
@@ -105,17 +105,17 @@
     "error": null,
     "data": [
       {
-        "title": "Hilfen vom Staat: Woran die Auszahlung staatlicher Hilfen wirklich hakt",
-        "summary": "Die Bundesregierung beschließt einen Tankrabatt, angeblich weil Deutschland technisch nicht in der Lage ist, individuelle Hilfe auszuzahlen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/tankrabatt-warum-der-auszahlungsmechanismus-fehlt-accg-201287667.html",
+        "title": "Koalition: Jetzt kommt der große Streit ums Erben",
+        "summary": "Wenn das Verfassungsgericht über die Erbschaftsteuer berät, droht der Regierung der nächste große Streit.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/erbschaftsteuer-spd-und-union-steuern-auf-koalitionsstreit-zu-accg-201301380.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Unwetter: Sturm „Isaias“ trifft US-Golfküste – Hunderttausende ohne Strom",
-        "summary": "Der Sturm verliert auf seinem Weg an Kraft, dennoch warnen die Behörden vor Hochwasser und Sturmfluten.",
-        "link": "https://www.handelsblatt.com/politik/international/unwetter-sturm-isaias-trifft-us-golfkueste-hunderttausende-ohne-strom/100261219.html",
+        "title": "Reformpläne: Deutsche-Bank-Chef Sewing fordert mehr Tempo bei Reformen",
+        "summary": "Christian Sewing mahnt schnellere und konsequentere Reformen an.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/reformplaene-deutsche-bank-chef-sewing-fordert-mehr-tempo-bei-reformen/100261335.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -129,17 +129,17 @@
         "category": ""
       },
       {
-        "title": "Blockiertes Land: Wie Frankreich uns warnt",
-        "summary": "Frankreich stagniert.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/frankreich-als-warnung-was-deutschland-daraus-lernen-muss-201299296.html",
+        "title": "Longevity: Das Geschäft mit der Langlebigkeit",
+        "summary": "Bluttests, Rotlicht und Kältekammern sollen Menschen helfen, länger gesund zu bleiben.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/longevity-wie-serioes-der-markt-fuer-langes-leben-ist-accg-201268797.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Straßenproteste: Zahlreiche Festnahmen bei Protesten in Neu-Delhi",
-        "summary": "Bei Protesten der indischen „Kakerlaken“-Jugendbewegung gegen Änderungen an Wählerverzeichnissen hat die Polizei Tausende Menschen festgenommen.",
-        "link": "https://www.handelsblatt.com/politik/international/strassenproteste-zahlreiche-festnahmen-bei-protesten-in-neu-delhi/100261218.html",
+        "title": "Altkanzler: Nach Besuch bei Putin – Forderungen nach SPD-Rauswurf von Schröder",
+        "summary": "Im Jahr 2023 scheiterte der Versuch, Gerhard Schröder aus der SPD auszuschließen.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/altkanzler-nach-besuch-bei-putin-forderungen-nach-spd-rauswurf-von-schroeder/100261321.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -153,17 +153,17 @@
         "category": ""
       },
       {
-        "title": "Digitalisierung: Eine europäische Cloud für Deutschlands Mittelstand",
-        "summary": "Die Telekom-Austria-Gruppe baut ihr Deutschlandgeschäft mit eigener Cloud und Services aus.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/a1-digital-elisabetta-castiglioni-und-die-cloud-fuer-den-mittelstand-accg-201283281.html",
+        "title": "Preis für Wirtschaftswissenschaften: So gewinnen Sie den Nobelpreis",
+        "summary": "Am Montag wird der Nobelgedächtnispreis für Wirtschaftswissenschaften verliehen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/preis-fuer-wirtschaftswissenschaften-so-gewinnen-sie-den-nobelpreis-accg-201302204.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Haushalt: EU-Haushaltszoff –Vorsitz präsentiert neuen Vorschlag",
-        "summary": "Mit wie viel Geld soll der nächste langfristige EU-Haushalt ausgestattet werden?",
-        "link": "https://www.handelsblatt.com/politik/international/haushalt-eu-haushaltszoff-vorsitz-praesentiert-neuen-vorschlag/100261216.html",
+        "title": "Polen: Ermittlungen wegen möglicher Anschlagspläne auf Regierungschef Tusk",
+        "summary": "Die polnischen Behörden sind nicht nur wegen einer Welle von Gewalt an Schulen angespannt.",
+        "link": "https://www.handelsblatt.com/politik/international/polen-ermittlungen-wegen-moeglicher-anschlagsplaene-auf-tusk/100261320.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": null,
+    "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "Scientists tested 5 natural compounds on cancer cells. One stood out",
-        "summary": "Five natural compounds, including curcumin and berberine, were tested for their effects on cancer cells and healthy muscle cells.",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261006234531.htm",
+        "title": "These 15 Adorable Photos of Pandas Will Make You Want to Visit the Zoo Immediately",
+        "summary": "Members of the fluffy and adorable but vulnerable species are often cared for in zoos and breeding centers around the world, and these snapshots may make you jealous of the caretakers’ jobs",
+        "link": "https://www.smithsonianmag.com/science-nature/these-15-adorable-photos-of-pandas-will-make-you-want-to-visit-the-zoo-immediately-180989606/",
+        "source": "Smithsonian",
+        "publisher": "Smithsonian",
+        "category": "Wissenschaft"
+      },
+      {
+        "title": "Scientists discover 5 hidden brain patterns behind depression",
+        "summary": "Depression may not be one biological condition, but several distinct patterns of brain activity hiding under the same diagnosis.",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261008005251.htm",
         "source": "ScienceDaily – Gesundheit",
         "publisher": "ScienceDaily",
         "category": "Medizin"
       },
       {
-        "title": "Publisher Correction: Sleep chart of biological ageing clocks in middle and late life",
-        "summary": "Nature, Published online: 09 October 2026; doi:10.1038/s41586-026-11273-1 Publisher Correction: Sleep chart of biological ageing clocks in middle and late life",
-        "link": "https://www.nature.com/articles/s41586-026-11273-1",
-        "source": "Nature News",
-        "publisher": "Nature",
-        "category": "Forschung"
-      },
-      {
-        "title": "APOD: 2026 October 9 – Stickney Crater",
-        "summary": "APOD Science APOD APOD: 2026 October 9… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-        "link": "https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/",
-        "source": "NASA Breaking News",
-        "publisher": "NASA",
-        "category": "Raumfahrt"
+        "title": "Atlas Obscura’s Guide to America’s Most Haunted Cemeteries",
+        "summary": "It’s nice to imagine death as an endless deep sleep, but not everyone is so lucky.",
+        "link": "https://www.atlasobscura.com/articles/america-haunted-cemeteries",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
       }
     ]
   }

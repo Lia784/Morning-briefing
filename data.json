@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T11:18:11+00:00",
-  "date_label": "Sunday, 11. October 2026",
+  "generated_at": "2026-10-12T12:53:00+00:00",
+  "date_label": "Monday, 12. October 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,8 +8,8 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25087.2695,
-        "change_pct": 1.13
+        "price": 25278.0391,
+        "change_pct": 0.76
       },
       {
         "name": "S&P 500",
@@ -26,8 +26,8 @@
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6173.3701,
-        "change_pct": 0.76
+        "price": 6209.2998,
+        "change_pct": 0.58
       },
       {
         "name": "Nikkei 225",
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 74027,
-        "usd": 82932,
-        "change_24h_pct": 0.24
+        "eur": 74132,
+        "usd": 82886,
+        "change_24h_pct": null
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2230.73,
-        "usd": 2499.09,
-        "change_24h_pct": 0.24
+        "eur": 2267.44,
+        "usd": 2535.18,
+        "change_24h_pct": 1.5
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1206,
-        "change_pct": 0.04
+        "price": 1.1181,
+        "change_pct": -0.29
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8461,
-        "change_pct": -0.17
+        "price": 0.8448,
+        "change_pct": -0.32
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9295,
-        "change_pct": -0.38
+        "price": 0.9311,
+        "change_pct": -0.12
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 158.246,
-        "change_pct": 0.12
+        "price": 158.632,
+        "change_pct": 0.36
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 177.1,
-        "change_pct": -0.07
+        "price": 177.32,
+        "change_pct": 0.05
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 5.244,
-        "change_pct": 0.25,
+        "price": 5.24,
+        "change_pct": -0.08,
         "unit": "%"
       }
     ]
@@ -113,65 +113,65 @@
         "category": ""
       },
       {
-        "title": "Reformpläne: Deutsche-Bank-Chef Sewing fordert mehr Tempo bei Reformen",
-        "summary": "Christian Sewing mahnt schnellere und konsequentere Reformen an.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/reformplaene-deutsche-bank-chef-sewing-fordert-mehr-tempo-bei-reformen/100261335.html",
+        "title": "Ukraine: „Verrat an der Ukraine“ – Europäer schließen die Reihen hinter Selenskyj",
+        "summary": "Nach Trumps Diesel-Deal antwortet Europa mit neuen Sanktionen und Solidaritätsbekundungen für die Ukraine.",
+        "link": "https://www.handelsblatt.com/politik/international/ukraine-europaeer-schliessen-die-reihen-hinter-selenskyj/100259839.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-        "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-        "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+        "title": "Healey faces £35bn Budget challenge to meet spending pledges, says think tank",
+        "summary": "The Institute for Fiscal Studies says the government will need a \"top-up\" of billions of pounds if it wants to meet its spending plans.",
+        "link": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Longevity: Das Geschäft mit der Langlebigkeit",
-        "summary": "Bluttests, Rotlicht und Kältekammern sollen Menschen helfen, länger gesund zu bleiben.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/longevity-wie-serioes-der-markt-fuer-langes-leben-ist-accg-201268797.html",
+        "title": "Auszeichnung: Wirtschaftsnobelpreis geht an zwei US-Ökonomen",
+        "summary": "Robert E.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/robert-e-hall-und-michael-woodford-erhalten-wirtschaftsnobelpreis-accg-201309288.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Altkanzler: Nach Besuch bei Putin – Forderungen nach SPD-Rauswurf von Schröder",
-        "summary": "Im Jahr 2023 scheiterte der Versuch, Gerhard Schröder aus der SPD auszuschließen.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/altkanzler-nach-besuch-bei-putin-forderungen-nach-spd-rauswurf-von-schroeder/100261321.html",
+        "title": "EU-Haushalt: EVP-Chef Manfred Weber stellt sich gegen Merz – Streit um EU-Haushalt",
+        "summary": "Im Ringen um das nächste langfristige EU-Budget geht Manfred Weber auf Konfrontationskurs zu Friedrich Merz.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/eu-haushalt-milliarden-streit-um-eu-etat-weber-stellt-sich-gegen-merz/100261581.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-        "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
-        "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+        "title": "How to avoid getting stung if you miss credit card payments",
+        "summary": "People are increasingly falling behind on credit card repayments, so here's the best way to get debt advice.",
+        "link": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Preis für Wirtschaftswissenschaften: So gewinnen Sie den Nobelpreis",
-        "summary": "Am Montag wird der Nobelgedächtnispreis für Wirtschaftswissenschaften verliehen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/preis-fuer-wirtschaftswissenschaften-so-gewinnen-sie-den-nobelpreis-accg-201302204.html",
+        "title": "Einigung mit Peking: Die Einfuhr von Hybridautos aus China wird auf 350.000 begrenzt",
+        "summary": "Gerade war der EU-Handelskommissar in Peking und hat eine wichtige Übereinkunft erzielt.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/eu-begrenzt-einfuhr-von-hybridautos-aus-china-auf-350-000-accg-201310085.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Polen: Ermittlungen wegen möglicher Anschlagspläne auf Regierungschef Tusk",
-        "summary": "Die polnischen Behörden sind nicht nur wegen einer Welle von Gewalt an Schulen angespannt.",
-        "link": "https://www.handelsblatt.com/politik/international/polen-ermittlungen-wegen-moeglicher-anschlagsplaene-auf-tusk/100261320.html",
+        "title": "Geldanlage: Aus dieser Branche ziehen viele Deutsche ihr Geld ab",
+        "summary": "Exklusive Daten des Brokers Flatex zeigen verschiedene Anlagetrends bei deutschen Anlegern.",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/aktien-wie-deutsche-anleger-im-september-ihr-geld-investiert-haben/100260026.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Boots has a new owner: Three ways it could affect you",
-        "summary": "The stalwart of Britain's High Street has been sold to a Canadian billionaire family.",
-        "link": "https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump faces growing backlash over plans to import diesel from Russia",
+        "summary": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
+        "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": "Quellen nicht erreichbar: NASA Breaking News",
+    "error": null,
     "data": [
       {
-        "title": "These 15 Adorable Photos of Pandas Will Make You Want to Visit the Zoo Immediately",
-        "summary": "Members of the fluffy and adorable but vulnerable species are often cared for in zoos and breeding centers around the world, and these snapshots may make you jealous of the caretakers’ jobs",
-        "link": "https://www.smithsonianmag.com/science-nature/these-15-adorable-photos-of-pandas-will-make-you-want-to-visit-the-zoo-immediately-180989606/",
-        "source": "Smithsonian",
-        "publisher": "Smithsonian",
-        "category": "Wissenschaft"
+        "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
+        "summary": "As part of the agency’s Inspiration Tour flyover, NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets to kick off the New York Jets vs.",
+        "link": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/",
+        "source": "NASA Breaking News",
+        "publisher": "NASA",
+        "category": "Raumfahrt"
       },
       {
-        "title": "Scientists discover 5 hidden brain patterns behind depression",
-        "summary": "Depression may not be one biological condition, but several distinct patterns of brain activity hiding under the same diagnosis.",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261008005251.htm",
-        "source": "ScienceDaily – Gesundheit",
-        "publisher": "ScienceDaily",
-        "category": "Medizin"
-      },
-      {
-        "title": "Atlas Obscura’s Guide to America’s Most Haunted Cemeteries",
-        "summary": "It’s nice to imagine death as an endless deep sleep, but not everyone is so lucky.",
-        "link": "https://www.atlasobscura.com/articles/america-haunted-cemeteries",
+        "title": "High Shoals Falls in Hiawassee, Georgia",
+        "summary": "High Shoals Falls is a secluded waterfall.",
+        "link": "https://www.atlasobscura.com/places/high-shoals-falls",
         "source": "Atlas Obscura",
         "publisher": "Atlas Obscura",
         "category": "Entdeckung"
+      },
+      {
+        "title": "Scientists find hidden materials that could improve batteries and solar fuels",
+        "summary": "Scientists have uncovered a hidden world of “in-between” materials that briefly form as chemical ingredients are heated, revealing structures that conventional methods can miss.",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261007042118.htm",
+        "source": "ScienceDaily – Physik",
+        "publisher": "ScienceDaily",
+        "category": "Physik"
       }
     ]
   }

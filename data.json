@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T12:53:00+00:00",
-  "date_label": "Monday, 12. October 2026",
+  "generated_at": "2026-10-13T12:31:03+00:00",
+  "date_label": "Tuesday, 13. October 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25278.0391,
-        "change_pct": 0.76
+        "price": 25290.1504,
+        "change_pct": 0.05
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7811.54,
-        "change_pct": 0.59
+        "price": 7807.2402,
+        "change_pct": -0.06
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 27366.1699,
-        "change_pct": 0.64
+        "price": 27245.9004,
+        "change_pct": -0.44
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6209.2998,
-        "change_pct": 0.58
+        "price": 6184.1201,
+        "change_pct": -0.28
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 69030.9219,
-        "change_pct": -0.02
+        "price": 67777.5234,
+        "change_pct": -1.82
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 74132,
-        "usd": 82886,
-        "change_24h_pct": null
+        "eur": 74448,
+        "usd": 83309,
+        "change_24h_pct": 0.13
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2267.44,
-        "usd": 2535.18,
-        "change_24h_pct": 1.5
+        "eur": 2234.27,
+        "usd": 2500.2,
+        "change_24h_pct": -1.63
       }
     ]
   },
@@ -64,32 +64,32 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1181,
-        "change_pct": -0.29
+        "price": 1.1193,
+        "change_pct": -0.18
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8448,
-        "change_pct": -0.32
+        "price": 0.8447,
+        "change_pct": -0.33
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9311,
+        "price": 0.9312,
         "change_pct": -0.12
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 158.632,
-        "change_pct": 0.36
+        "price": 158.106,
+        "change_pct": 0.03
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 177.32,
-        "change_pct": 0.05
+        "price": 176.926,
+        "change_pct": -0.17
       },
       {
         "name": "US 10Y Rendite",
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Koalition: Jetzt kommt der große Streit ums Erben",
-        "summary": "Wenn das Verfassungsgericht über die Erbschaftsteuer berät, droht der Regierung der nächste große Streit.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/erbschaftsteuer-spd-und-union-steuern-auf-koalitionsstreit-zu-accg-201301380.html",
+        "title": "Reformbilanz: „Wenn wir jetzt Jagd auf sogenannte Reiche machen, wird hier bald gar keine Maschine mehr montiert“",
+        "summary": "Arbeitgeberpräsident Rainer Dulger ärgert der Stillstand bei den großen Reformprojekten.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/rainer-dulger-sozialbeitraege-von-45-prozent-waeren-selbstmord-accg-201310397.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Ukraine: „Verrat an der Ukraine“ – Europäer schließen die Reihen hinter Selenskyj",
-        "summary": "Nach Trumps Diesel-Deal antwortet Europa mit neuen Sanktionen und Solidaritätsbekundungen für die Ukraine.",
-        "link": "https://www.handelsblatt.com/politik/international/ukraine-europaeer-schliessen-die-reihen-hinter-selenskyj/100259839.html",
+        "title": "Warenhäuser: 75 Millionen Euro Insolvenzgeld für Großteil der Galeria-Mitarbeiter bewilligt",
+        "summary": "Juristen hatten Zweifel, Insolvenzverwalter Frank Kebekus war zuversichtlich.",
+        "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/warenhaeuser-galeria-mitarbeiter-erhalten-insolvenzgeld/100260823.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Healey faces £35bn Budget challenge to meet spending pledges, says think tank",
-        "summary": "The Institute for Fiscal Studies says the government will need a \"top-up\" of billions of pounds if it wants to meet its spending plans.",
-        "link": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
+        "title": "Three things we've learnt about the UK economy from the IMF",
+        "summary": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
+        "link": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Auszeichnung: Wirtschaftsnobelpreis geht an zwei US-Ökonomen",
-        "summary": "Robert E.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/robert-e-hall-und-michael-woodford-erhalten-wirtschaftsnobelpreis-accg-201309288.html",
+        "title": "Welthandel: Der IWF rät China, dringend den Konsum anzukurbeln und weniger auf Exporte zu setzen",
+        "summary": "Chinas Industrie gewinnt weltweit Marktanteile, während die Bevölkerung sich nichts leistet.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/china-warum-die-bevoelkerung-wenig-konsumiert-und-die-exporte-boomen-201301393.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "EU-Haushalt: EVP-Chef Manfred Weber stellt sich gegen Merz – Streit um EU-Haushalt",
-        "summary": "Im Ringen um das nächste langfristige EU-Budget geht Manfred Weber auf Konfrontationskurs zu Friedrich Merz.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/eu-haushalt-milliarden-streit-um-eu-etat-weber-stellt-sich-gegen-merz/100261581.html",
+        "title": "Luftfahrt: Flugbetrieb in Nürnberg läuft nach Alarm wieder",
+        "summary": "Ein Flugzeug sendet einen Alarmcode für einen Entführungsfall, Spezialkräfte der Polizei rücken an.",
+        "link": "https://www.handelsblatt.com/unternehmen/dienstleister/nuernberg-flugbetrieb-in-nuernberg-laeuft-nach-alarm-wieder/100261869.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "How to avoid getting stung if you miss credit card payments",
-        "summary": "People are increasingly falling behind on credit card repayments, so here's the best way to get debt advice.",
-        "link": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss",
+        "title": "Poundland in rescue talks as owners seek buyer",
+        "summary": "The leadership team is attempting a buyout, but a union has warned the retailer could fall into administration instead.",
+        "link": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Einigung mit Peking: Die Einfuhr von Hybridautos aus China wird auf 350.000 begrenzt",
-        "summary": "Gerade war der EU-Handelskommissar in Peking und hat eine wichtige Übereinkunft erzielt.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/eu-begrenzt-einfuhr-von-hybridautos-aus-china-auf-350-000-accg-201310085.html",
+        "title": "Insolvenzgeld für Mitarbeiter: Galeria hangelt sich ins Weihnachtsgeschäft",
+        "summary": "Die Bundesagentur für Arbeit hat Insolvenzgeld für Tausende Galeria-Beschäftigte bewilligt.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/galeria-erhaelt-insolvenzgeld-betrieb-bis-weihnachten-gesichert-accg-201313222.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Geldanlage: Aus dieser Branche ziehen viele Deutsche ihr Geld ab",
-        "summary": "Exklusive Daten des Brokers Flatex zeigen verschiedene Anlagetrends bei deutschen Anlegern.",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/aktien-wie-deutsche-anleger-im-september-ihr-geld-investiert-haben/100260026.html",
+        "title": "Energie: Wirtschaftsministerium will Gasreserve über Umlage finanzieren",
+        "summary": "Einem Entwurf zufolge bleibt das Ministerium trotz Kritik bei dem bereits verfolgten Finanzierungsansatz.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/energie-wirtschaftsministerium-will-gasreserve-ueber-umlage-finanzieren/100261905.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Trump faces growing backlash over plans to import diesel from Russia",
-        "summary": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
-        "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+        "title": "BA flight forced to turn back over cracked window",
+        "summary": "British Airways said the plane landed safely at Gatwick and passengers were due to resume their journey.",
+        "link": "https://www.bbc.co.uk/news/articles/cj1dwrxq1wndo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": null,
+    "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
-        "summary": "As part of the agency’s Inspiration Tour flyover, NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets to kick off the New York Jets vs.",
-        "link": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/",
-        "source": "NASA Breaking News",
-        "publisher": "NASA",
-        "category": "Raumfahrt"
+        "title": "James Webb reveals a massive cosmic structure that challenges our understanding of the Universe",
+        "summary": "NASA’s James Webb Space Telescope has revealed an ancient galaxy cluster with an unexpectedly dense concentration of dark matter, challenging theories about how the universe developed.",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261012185021.htm",
+        "source": "ScienceDaily – Physik",
+        "publisher": "ScienceDaily",
+        "category": "Physik"
       },
       {
-        "title": "High Shoals Falls in Hiawassee, Georgia",
-        "summary": "High Shoals Falls is a secluded waterfall.",
-        "link": "https://www.atlasobscura.com/places/high-shoals-falls",
+        "title": "Wood Street Steps in Philadelphia, Pennsylvania",
+        "summary": "The Wood Street Steps are the last surviving examples of 10 or more stairways Philadelphia founder William Penn commissioned along the original Delaware Riverbank.",
+        "link": "https://www.atlasobscura.com/places/the-william-penn-wood-street-steps",
         "source": "Atlas Obscura",
         "publisher": "Atlas Obscura",
         "category": "Entdeckung"
       },
       {
-        "title": "Scientists find hidden materials that could improve batteries and solar fuels",
-        "summary": "Scientists have uncovered a hidden world of “in-between” materials that briefly form as chemical ingredients are heated, revealing structures that conventional methods can miss.",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261007042118.htm",
-        "source": "ScienceDaily – Physik",
-        "publisher": "ScienceDaily",
-        "category": "Physik"
+        "title": "Is More Protein Always Better? Despite the Craze Around the Nutrient, Research-Backed Evidence About Its Benefits Is Complicated",
+        "summary": "It can be difficult to see through the array of flashy, protein-packed products and determine whether you need more of it—and which foods to consume to get it.",
+        "link": "https://www.smithsonianmag.com/science-nature/is-more-protein-always-better-despite-the-craze-around-the-nutrient-research-backed-evidence-about-its-benefits-is-complicated-180989584/",
+        "source": "Smithsonian",
+        "publisher": "Smithsonian",
+        "category": "Wissenschaft"
       }
     ]
   }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T12:31:03+00:00",
-  "date_label": "Tuesday, 13. October 2026",
+  "generated_at": "2026-10-14T09:58:51+00:00",
+  "date_label": "Wednesday, 14. October 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25290.1504,
-        "change_pct": 0.05
+        "price": 25405.7305,
+        "change_pct": 0.58
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7807.2402,
-        "change_pct": -0.06
+        "price": 7805.4502,
+        "change_pct": -0.02
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 27245.9004,
-        "change_pct": -0.44
+        "price": 27204.3809,
+        "change_pct": -0.15
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6184.1201,
-        "change_pct": -0.28
+        "price": 6207.6401,
+        "change_pct": 0.66
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 67777.5234,
-        "change_pct": -1.82
+        "price": 67744.2891,
+        "change_pct": -0.05
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 74448,
-        "usd": 83309,
-        "change_24h_pct": 0.13
+        "eur": 74348,
+        "usd": 83216,
+        "change_24h_pct": -0.52
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2234.27,
-        "usd": 2500.2,
-        "change_24h_pct": -1.63
+        "eur": 2231.28,
+        "usd": 2497.44,
+        "change_24h_pct": -0.69
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1193,
-        "change_pct": -0.18
+        "price": 1.1197,
+        "change_pct": 0.33
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8447,
-        "change_pct": -0.33
+        "price": 0.8437,
+        "change_pct": -0.13
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9312,
-        "change_pct": -0.12
+        "price": 0.9329,
+        "change_pct": 0.22
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 158.106,
-        "change_pct": 0.03
+        "price": 158.441,
+        "change_pct": -0.05
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 176.926,
-        "change_pct": -0.17
+        "price": 177.347,
+        "change_pct": 0.25
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 5.24,
-        "change_pct": -0.08,
+        "price": 5.217,
+        "change_pct": -0.44,
         "unit": "%"
       }
     ]
@@ -113,65 +113,65 @@
         "category": ""
       },
       {
-        "title": "Warenhäuser: 75 Millionen Euro Insolvenzgeld für Großteil der Galeria-Mitarbeiter bewilligt",
-        "summary": "Juristen hatten Zweifel, Insolvenzverwalter Frank Kebekus war zuversichtlich.",
-        "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/warenhaeuser-galeria-mitarbeiter-erhalten-insolvenzgeld/100260823.html",
+        "title": "Steuerpolitik: Frankreichs Parteien streiten über die Erbschaftsteuer",
+        "summary": "In der französischen Nationalversammlung starten die Beratungen über den kommenden Haushalt.",
+        "link": "https://www.handelsblatt.com/politik/international/frankreich-parteien-streiten-ueber-reformen-der-erbschaftsteuer/100261585.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Three things we've learnt about the UK economy from the IMF",
-        "summary": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
-        "link": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
+        "title": "Wayfair among firms fined millions for misleading sales tactics",
+        "summary": "The Competition and Markets Authority has fined Wayfair, Appliances Direct, and Gold's Gym £6m in total.",
+        "link": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Welthandel: Der IWF rät China, dringend den Konsum anzukurbeln und weniger auf Exporte zu setzen",
-        "summary": "Chinas Industrie gewinnt weltweit Marktanteile, während die Bevölkerung sich nichts leistet.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/china-warum-die-bevoelkerung-wenig-konsumiert-und-die-exporte-boomen-201301393.html",
+        "title": "Künstliche Intelligenz: Nächste KI-Generation: Die Gefahr sind wir",
+        "summary": "Bill Gates warnt, der Missbrauch Künstlicher Intelligenz könne eine Milliarde Menschenleben fordern.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/peter-buxmann-ueber-openai-anthropic-und-agenten-was-ki-teams-koennen-accg-201296697.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Luftfahrt: Flugbetrieb in Nürnberg läuft nach Alarm wieder",
-        "summary": "Ein Flugzeug sendet einen Alarmcode für einen Entführungsfall, Spezialkräfte der Polizei rücken an.",
-        "link": "https://www.handelsblatt.com/unternehmen/dienstleister/nuernberg-flugbetrieb-in-nuernberg-laeuft-nach-alarm-wieder/100261869.html",
+        "title": "Rauchen: Zigaretten werden teurer – Steuerpläne nehmen wichtige Hürde",
+        "summary": "Der Bund sucht händeringend nach Geld, um seine knappen Kassen zu füllen.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/rauchen-zigaretten-werden-teurer-steuerplaene-nehmen-wichtige-huerde/100262195.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Poundland in rescue talks as owners seek buyer",
-        "summary": "The leadership team is attempting a buyout, but a union has warned the retailer could fall into administration instead.",
-        "link": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss",
+        "title": "Not building third runway would be 'huge missed opportunity', warns Heathrow boss",
+        "summary": "Thomas Woldbye tells the Today progamme it would be \"good to know\" the government's position on the project, after comments made by the prime minister.",
+        "link": "https://www.bbc.co.uk/news/articles/ckdd8egder5ro?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Insolvenzgeld für Mitarbeiter: Galeria hangelt sich ins Weihnachtsgeschäft",
-        "summary": "Die Bundesagentur für Arbeit hat Insolvenzgeld für Tausende Galeria-Beschäftigte bewilligt.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/galeria-erhaelt-insolvenzgeld-betrieb-bis-weihnachten-gesichert-accg-201313222.html",
+        "title": "Chipkonzern ASML: Die größte Gefahr für Europas teuersten Konzern lauert in den USA",
+        "summary": "Der niederländische Chipmaschinenhersteller ASML meldet glänzende Geschäfte.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/asml-die-groesste-gefahr-fuer-europas-teuersten-konzern-lauert-in-den-usa-accg-201314899.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Energie: Wirtschaftsministerium will Gasreserve über Umlage finanzieren",
-        "summary": "Einem Entwurf zufolge bleibt das Ministerium trotz Kritik bei dem bereits verfolgten Finanzierungsansatz.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/energie-wirtschaftsministerium-will-gasreserve-ueber-umlage-finanzieren/100261905.html",
+        "title": "Studie: So würden Haushalte von einer Stromsteuersenkung profitieren",
+        "summary": "Die Bundesregierung denkt darüber nach, die Stromsteuer für alle zu senken.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/studie-so-viel-geld-wuerden-deutsche-haushalte-bei-der-neuen-stromsteuer-sparen/100261846.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "BA flight forced to turn back over cracked window",
-        "summary": "British Airways said the plane landed safely at Gatwick and passengers were due to resume their journey.",
-        "link": "https://www.bbc.co.uk/news/articles/cj1dwrxq1wndo?at_medium=RSS&at_campaign=rss",
+        "title": "Hundreds of Royal Mail staff quitting each week under new efficiency plans",
+        "summary": "The CWU says more posties are leaving since a new delivery system was brought in that it claims is not working in hundreds of offices.",
+        "link": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,28 +183,28 @@
     "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "James Webb reveals a massive cosmic structure that challenges our understanding of the Universe",
-        "summary": "NASA’s James Webb Space Telescope has revealed an ancient galaxy cluster with an unexpectedly dense concentration of dark matter, challenging theories about how the universe developed.",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261012185021.htm",
-        "source": "ScienceDaily – Physik",
-        "publisher": "ScienceDaily",
-        "category": "Physik"
-      },
-      {
-        "title": "Wood Street Steps in Philadelphia, Pennsylvania",
-        "summary": "The Wood Street Steps are the last surviving examples of 10 or more stairways Philadelphia founder William Penn commissioned along the original Delaware Riverbank.",
-        "link": "https://www.atlasobscura.com/places/the-william-penn-wood-street-steps",
+        "title": "Macedonian Tomb of Agios Athanasios in Agios Athanasios, Greece",
+        "summary": "Encased safely inside a concrete protective shell beneath a 12-metre-high burial mound (tumulus) is a late 4th-century BC Macedonian tomb holding a breathtaking secret: flawlessly preserved, 2,400-year-old fresco painti…",
+        "link": "https://www.atlasobscura.com/places/macedonian-tomb-of-agios-athanasios",
         "source": "Atlas Obscura",
         "publisher": "Atlas Obscura",
         "category": "Entdeckung"
       },
       {
-        "title": "Is More Protein Always Better? Despite the Craze Around the Nutrient, Research-Backed Evidence About Its Benefits Is Complicated",
-        "summary": "It can be difficult to see through the array of flashy, protein-packed products and determine whether you need more of it—and which foods to consume to get it.",
-        "link": "https://www.smithsonianmag.com/science-nature/is-more-protein-always-better-despite-the-craze-around-the-nutrient-research-backed-evidence-about-its-benefits-is-complicated-180989584/",
+        "title": "These 15 Adorable Photos of Pandas Will Make You Want to Visit the Zoo Immediately",
+        "summary": "Members of the fluffy and adorable but vulnerable species are often cared for in zoos and breeding centers around the world, and these snapshots may make you jealous of the caretakers’ jobs",
+        "link": "https://www.smithsonianmag.com/science-nature/these-15-adorable-photos-of-pandas-will-make-you-want-to-visit-the-zoo-immediately-180989606/",
         "source": "Smithsonian",
         "publisher": "Smithsonian",
         "category": "Wissenschaft"
+      },
+      {
+        "title": "Scientists discover a surprising paradox in how our cells age",
+        "summary": "Scientists have discovered that the body's cellular recycling system behaves very differently during aging than previously believed, with higher activity sometimes linked to worse physical health.",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261012185009.htm",
+        "source": "ScienceDaily – Gesundheit",
+        "publisher": "ScienceDaily",
+        "category": "Medizin"
       }
     ]
   }

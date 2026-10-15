@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T09:58:51+00:00",
-  "date_label": "Wednesday, 14. October 2026",
+  "generated_at": "2026-10-15T09:40:26+00:00",
+  "date_label": "Thursday, 15. October 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25405.7305,
-        "change_pct": 0.58
+        "price": 25232.9297,
+        "change_pct": -0.26
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7805.4502,
-        "change_pct": -0.02
+        "price": 7718.9399,
+        "change_pct": -1.11
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 27204.3809,
-        "change_pct": -0.15
+        "price": 26692.8691,
+        "change_pct": -1.88
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6207.6401,
-        "change_pct": 0.66
+        "price": 6153.98,
+        "change_pct": -0.59
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 67744.2891,
-        "change_pct": -0.05
+        "price": 64425.9492,
+        "change_pct": -4.9
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 74348,
-        "usd": 83216,
-        "change_24h_pct": -0.52
+        "eur": 72371,
+        "usd": 81243,
+        "change_24h_pct": -2.7
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2231.28,
-        "usd": 2497.44,
-        "change_24h_pct": -0.69
+        "eur": 2110.87,
+        "usd": 2369.66,
+        "change_24h_pct": -5.47
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1197,
-        "change_pct": 0.33
+        "price": 1.1228,
+        "change_pct": 0.21
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8437,
-        "change_pct": -0.13
+        "price": 0.8458,
+        "change_pct": 0.11
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9329,
-        "change_pct": 0.22
+        "price": 0.9306,
+        "change_pct": -0.23
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 158.441,
-        "change_pct": -0.05
+        "price": 157.71,
+        "change_pct": -0.39
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 177.347,
-        "change_pct": 0.25
+        "price": 177.047,
+        "change_pct": -0.15
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 5.217,
-        "change_pct": -0.44,
+        "price": 5.19,
+        "change_pct": -0.52,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Reformbilanz: „Wenn wir jetzt Jagd auf sogenannte Reiche machen, wird hier bald gar keine Maschine mehr montiert“",
-        "summary": "Arbeitgeberpräsident Rainer Dulger ärgert der Stillstand bei den großen Reformprojekten.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/rainer-dulger-sozialbeitraege-von-45-prozent-waeren-selbstmord-accg-201310397.html",
+        "title": "KI-forscherin Zweig: „Platzt die Blase um die KI-Sprachmodelle, könnte ein neuer KI-Winter folgen“",
+        "summary": "Katharina Zweig ist Deutschlands wohl bekannteste KI-Forscherin.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/katharina-zweig-ueber-ki-open-ai-co-wir-lassen-eine-unsichere-software-auf-die-menschheit-los-accg-201317495.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Steuerpolitik: Frankreichs Parteien streiten über die Erbschaftsteuer",
-        "summary": "In der französischen Nationalversammlung starten die Beratungen über den kommenden Haushalt.",
-        "link": "https://www.handelsblatt.com/politik/international/frankreich-parteien-streiten-ueber-reformen-der-erbschaftsteuer/100261585.html",
+        "title": "Bahn: Niedersachsen bestellt bei Siemens Batteriezüge im Milliardenwert",
+        "summary": "Das Land vergibt einen der weltweit größten Aufträge für Batteriezüge an Siemens.",
+        "link": "https://www.handelsblatt.com/unternehmen/dienstleister/bahn-niedersachsen-bestellt-bei-siemens-batteriezuege-im-milliardenwert/100262482.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Wayfair among firms fined millions for misleading sales tactics",
-        "summary": "The Competition and Markets Authority has fined Wayfair, Appliances Direct, and Gold's Gym £6m in total.",
-        "link": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
+        "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
+        "summary": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
+        "link": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Künstliche Intelligenz: Nächste KI-Generation: Die Gefahr sind wir",
-        "summary": "Bill Gates warnt, der Missbrauch Künstlicher Intelligenz könne eine Milliarde Menschenleben fordern.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/peter-buxmann-ueber-openai-anthropic-und-agenten-was-ki-teams-koennen-accg-201296697.html",
+        "title": "Kontrollverlust: Die Deutschen fürchten KI-Waffen",
+        "summary": "Autonome Waffensysteme werden verstärkt in Kriegen eingesetzt.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-waffen-87-prozent-der-deutschen-fordern-internationalen-vertrag-accg-201317583.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Rauchen: Zigaretten werden teurer – Steuerpläne nehmen wichtige Hürde",
-        "summary": "Der Bund sucht händeringend nach Geld, um seine knappen Kassen zu füllen.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/rauchen-zigaretten-werden-teurer-steuerplaene-nehmen-wichtige-huerde/100262195.html",
+        "title": "Energie: Uniper verlängert Vertrag von Vorstandschef Lewis um fünf Jahre",
+        "summary": "Kontinuität an der Unternehmensspitze: Michael Lewis führt Uniper seit 2023.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/uniper-vertrag-von-vorstandschef-wird-um-fuenf-jahre-verlaengert/100262474.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Not building third runway would be 'huge missed opportunity', warns Heathrow boss",
-        "summary": "Thomas Woldbye tells the Today progamme it would be \"good to know\" the government's position on the project, after comments made by the prime minister.",
-        "link": "https://www.bbc.co.uk/news/articles/ckdd8egder5ro?at_medium=RSS&at_campaign=rss",
+        "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
+        "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+        "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Chipkonzern ASML: Die größte Gefahr für Europas teuersten Konzern lauert in den USA",
-        "summary": "Der niederländische Chipmaschinenhersteller ASML meldet glänzende Geschäfte.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/asml-die-groesste-gefahr-fuer-europas-teuersten-konzern-lauert-in-den-usa-accg-201314899.html",
+        "title": "Bezahlbares Wohnen: 330 Euro warm in Berlin – echt jetzt?",
+        "summary": "Schöner Wohnen für 330 Euro warm?",
+        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/schoener-wohnen-fuer-330-euro-warm-in-berlin-geht-das-accg-201276175.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Studie: So würden Haushalte von einer Stromsteuersenkung profitieren",
-        "summary": "Die Bundesregierung denkt darüber nach, die Stromsteuer für alle zu senken.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/studie-so-viel-geld-wuerden-deutsche-haushalte-bei-der-neuen-stromsteuer-sparen/100261846.html",
+        "title": "Ranking 2026: Bewährte Überflieger: Diese Fondsmanager zählen zu den renommiertesten der Branche",
+        "summary": "Zum siebten Mal hat das Handelsblatt Research Institute die renommiertesten Fondsmanager in fünf Kategorien ermittelt.",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/ranking-2026-diese-fondsmanager-zaehlen-zu-den-renommiertesten-der-branche/100246770.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Hundreds of Royal Mail staff quitting each week under new efficiency plans",
-        "summary": "The CWU says more posties are leaving since a new delivery system was brought in that it claims is not working in hundreds of offices.",
-        "link": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
+        "title": "How backlash against data centres could shape the US midterm elections",
+        "summary": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
+        "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": "Quellen nicht erreichbar: NASA Breaking News",
+    "error": null,
     "data": [
       {
-        "title": "Macedonian Tomb of Agios Athanasios in Agios Athanasios, Greece",
-        "summary": "Encased safely inside a concrete protective shell beneath a 12-metre-high burial mound (tumulus) is a late 4th-century BC Macedonian tomb holding a breathtaking secret: flawlessly preserved, 2,400-year-old fresco painti…",
-        "link": "https://www.atlasobscura.com/places/macedonian-tomb-of-agios-athanasios",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
+        "title": "NASA to Host News Conference Previewing US Spacewalks 100, 101",
+        "summary": "NASA will preview two upcoming spacewalks to complete solar array installation and power augmentation of the International Space Station during a news conference at 2 p.m.",
+        "link": "https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/",
+        "source": "NASA Breaking News",
+        "publisher": "NASA",
+        "category": "Raumfahrt"
       },
       {
-        "title": "These 15 Adorable Photos of Pandas Will Make You Want to Visit the Zoo Immediately",
-        "summary": "Members of the fluffy and adorable but vulnerable species are often cared for in zoos and breeding centers around the world, and these snapshots may make you jealous of the caretakers’ jobs",
-        "link": "https://www.smithsonianmag.com/science-nature/these-15-adorable-photos-of-pandas-will-make-you-want-to-visit-the-zoo-immediately-180989606/",
-        "source": "Smithsonian",
-        "publisher": "Smithsonian",
-        "category": "Wissenschaft"
+        "title": "The Download: moon city problems and drone traffic controllers",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+        "link": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
+        "source": "MIT Technology Review",
+        "publisher": "MIT",
+        "category": "Technologie"
       },
       {
-        "title": "Scientists discover a surprising paradox in how our cells age",
-        "summary": "Scientists have discovered that the body's cellular recycling system behaves very differently during aging than previously believed, with higher activity sometimes linked to worse physical health.",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261012185009.htm",
-        "source": "ScienceDaily – Gesundheit",
-        "publisher": "ScienceDaily",
-        "category": "Medizin"
+        "title": "The real history behind the philosophers' stone",
+        "summary": "The myth of 'alchemist' Nicolas Flamel sparked a centuries-long obsession",
+        "link": "https://www.bbc.com/future/article/20261008-the-true-story-of-alchemist-nicholas-flamel-and-the-philosophers-stone?ocid=global_future_rss",
+        "source": "BBC Future",
+        "publisher": "BBC",
+        "category": "Zukunft"
       }
     ]
   }

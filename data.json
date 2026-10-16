@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T09:40:26+00:00",
-  "date_label": "Thursday, 15. October 2026",
+  "generated_at": "2026-10-16T09:33:36+00:00",
+  "date_label": "Friday, 16. October 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25232.9297,
-        "change_pct": -0.26
+        "price": 25632.8496,
+        "change_pct": 0.99
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7718.9399,
-        "change_pct": -1.11
+        "price": 7744.0601,
+        "change_pct": 0.33
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26692.8691,
-        "change_pct": -1.88
+        "price": 26713.0293,
+        "change_pct": 0.08
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6153.98,
-        "change_pct": -0.59
+        "price": 6213.1099,
+        "change_pct": 0.73
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 64425.9492,
-        "change_pct": -4.9
+        "price": 65324.2891,
+        "change_pct": 1.39
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 72371,
-        "usd": 81243,
-        "change_24h_pct": -2.7
+        "eur": 72962,
+        "usd": 82099,
+        "change_24h_pct": 0.88
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2110.87,
-        "usd": 2369.66,
-        "change_24h_pct": -5.47
+        "eur": 2178.05,
+        "usd": 2450.8,
+        "change_24h_pct": 3.21
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1228,
-        "change_pct": 0.21
+        "price": 1.1257,
+        "change_pct": 0.56
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8458,
-        "change_pct": 0.11
+        "price": 0.8439,
+        "change_pct": -0.26
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9306,
-        "change_pct": -0.23
+        "price": 0.9271,
+        "change_pct": -0.42
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 157.71,
-        "change_pct": -0.39
+        "price": 157.927,
+        "change_pct": -0.02
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 177.047,
-        "change_pct": -0.15
+        "price": 177.716,
+        "change_pct": 0.5
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 5.19,
-        "change_pct": -0.52,
+        "price": 5.089,
+        "change_pct": -1.95,
         "unit": "%"
       }
     ]
@@ -105,7 +105,31 @@
     "error": null,
     "data": [
       {
-        "title": "KI-forscherin Zweig: „Platzt die Blase um die KI-Sprachmodelle, könnte ein neuer KI-Winter folgen“",
+        "title": "Immobilienkrise auf Sylt: Auf dieser Insel ist die Party vorbei",
+        "summary": "Angestachelt durch eine schier endlose Nachfrage wurden Häuser und Wohnungen auf Sylt auf Pump gebaut.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/sylt-hat-die-immobilienkrise-kaeufer-wittern-ihre-chance-accg-201154663.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "Trend-Food: Was ist eigentlich aus der Dubai-Schokolade geworden?",
+        "summary": "Im Herbst 2024 stellte sich Deutschland wegen einer teuren Süßigkeit in langen Schlangen an.",
+        "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/deutschland-wo-ist-eigentlich-die-dubai-schokolade-nach-dem-hype-heute/100259781.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "Banks expect to be hit with higher taxes in Budget",
+        "summary": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
+        "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
+        "title": "KI-forscherin Zweig: „Die Software ist nicht sicher, und das wissen die KI-Anbieter“",
         "summary": "Katharina Zweig ist Deutschlands wohl bekannteste KI-Forscherin.",
         "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/katharina-zweig-ueber-ki-open-ai-co-wir-lassen-eine-unsichere-software-auf-die-menschheit-los-accg-201317495.html",
         "source": "FAZ Wirtschaft",
@@ -113,65 +137,41 @@
         "category": ""
       },
       {
-        "title": "Bahn: Niedersachsen bestellt bei Siemens Batteriezüge im Milliardenwert",
-        "summary": "Das Land vergibt einen der weltweit größten Aufträge für Batteriezüge an Siemens.",
-        "link": "https://www.handelsblatt.com/unternehmen/dienstleister/bahn-niedersachsen-bestellt-bei-siemens-batteriezuege-im-milliardenwert/100262482.html",
+        "title": "US-Wahlen: Blaue Welle oder blaues Wunder – stehen die Demokraten sich selbst im Weg?",
+        "summary": "Donald Trump ist so unpopulär wie kaum ein Präsident vor ihm – und trotzdem ist ein Sieg der Demokraten alles andere als sicher.",
+        "link": "https://www.handelsblatt.com/politik/international/us-wahlen-stehen-die-demokraten-sich-selbst-im-weg-01/100261672.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
-        "summary": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
-        "link": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
+        "title": "I find it quite demoralising in store - why I do all my shopping online",
+        "summary": "After Primark announced plans for home delivery, we hear from women who never go into clothes stores.",
+        "link": "https://www.bbc.co.uk/news/articles/c36lk280kd1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Kontrollverlust: Die Deutschen fürchten KI-Waffen",
-        "summary": "Autonome Waffensysteme werden verstärkt in Kriegen eingesetzt.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-waffen-87-prozent-der-deutschen-fordern-internationalen-vertrag-accg-201317583.html",
+        "title": "Seefahrt: Weniger Piratenüberfälle auf den Weltmeeren",
+        "summary": "Die Internationale Handelskammer wertet regelmäßig aus, wie oft Schiffe von Seeräubern angegriffen werden.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/weniger-piratenueberfaelle-auf-den-weltmeeren-accg-201459043.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Energie: Uniper verlängert Vertrag von Vorstandschef Lewis um fünf Jahre",
-        "summary": "Kontinuität an der Unternehmensspitze: Michael Lewis führt Uniper seit 2023.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/uniper-vertrag-von-vorstandschef-wird-um-fuenf-jahre-verlaengert/100262474.html",
+        "title": "Anleihen: Letzte Rettung EZB: Mit umstrittenen Mitteln gegen eine neue Euro-Krise",
+        "summary": "Schon jetzt sind viele Euro-Länder in den Sog der französischen Schuldenkrise geraten.",
+        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/anleihen-die-umstrittenen-mittel-der-ezb-gegen-eine-neue-euro-krise/100260046.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
-        "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
-        "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
-      },
-      {
-        "title": "Bezahlbares Wohnen: 330 Euro warm in Berlin – echt jetzt?",
-        "summary": "Schöner Wohnen für 330 Euro warm?",
-        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/schoener-wohnen-fuer-330-euro-warm-in-berlin-geht-das-accg-201276175.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "Ranking 2026: Bewährte Überflieger: Diese Fondsmanager zählen zu den renommiertesten der Branche",
-        "summary": "Zum siebten Mal hat das Handelsblatt Research Institute die renommiertesten Fondsmanager in fünf Kategorien ermittelt.",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/ranking-2026-diese-fondsmanager-zaehlen-zu-den-renommiertesten-der-branche/100246770.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "How backlash against data centres could shape the US midterm elections",
-        "summary": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
-        "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
+        "title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
+        "summary": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape.",
+        "link": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": null,
+    "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "NASA to Host News Conference Previewing US Spacewalks 100, 101",
-        "summary": "NASA will preview two upcoming spacewalks to complete solar array installation and power augmentation of the International Space Station during a news conference at 2 p.m.",
-        "link": "https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/",
-        "source": "NASA Breaking News",
-        "publisher": "NASA",
-        "category": "Raumfahrt"
+        "title": "Ta Kon Citadel in Vinh Son, Vietnam",
+        "summary": "Hidden deep within the remote mountains of Vinh Son, Ta Kon Citadel looks at first glance like the forgotten ruins of a colossal ancient fortress swallowed by the primeval jungle.",
+        "link": "https://www.atlasobscura.com/places/ta-kon-citadel",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
       },
       {
-        "title": "The Download: moon city problems and drone traffic controllers",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
-        "link": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
-        "source": "MIT Technology Review",
-        "publisher": "MIT",
-        "category": "Technologie"
+        "title": "Rare study reveals a striking divide inside an Alzheimer’s patient’s brain",
+        "summary": "A rare examination of an Alzheimer’s patient’s brain revealed that regions cleared of amyloid plaques had remarkably little of the harmful tau buildup associated with memory loss, while neighboring areas showed extensiv…",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261013015814.htm",
+        "source": "ScienceDaily – Neurowissenschaft",
+        "publisher": "ScienceDaily",
+        "category": "Neurowissenschaft"
       },
       {
-        "title": "The real history behind the philosophers' stone",
-        "summary": "The myth of 'alchemist' Nicolas Flamel sparked a centuries-long obsession",
-        "link": "https://www.bbc.com/future/article/20261008-the-true-story-of-alchemist-nicholas-flamel-and-the-philosophers-stone?ocid=global_future_rss",
-        "source": "BBC Future",
-        "publisher": "BBC",
-        "category": "Zukunft"
+        "title": "Five Discoveries That Changed Our Understanding of T. Rex Forever, From Warm Blood to Lips",
+        "summary": "Paleontologists are still unraveling the secrets of the world’s most famous dinosaur, such as its outward appearance or the way that it hunted.",
+        "link": "https://www.smithsonianmag.com/science-nature/five-discoveries-that-changed-our-understanding-of-t-rex-forever-from-warm-blood-to-lips-180989634/",
+        "source": "Smithsonian",
+        "publisher": "Smithsonian",
+        "category": "Wissenschaft"
       }
     ]
   }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T09:33:36+00:00",
-  "date_label": "Friday, 16. October 2026",
+  "generated_at": "2026-10-17T09:04:08+00:00",
+  "date_label": "Saturday, 17. October 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,26 +8,26 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25632.8496,
-        "change_pct": 0.99
+        "price": 25622.6094,
+        "change_pct": 0.95
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7744.0601,
-        "change_pct": 0.33
+        "price": 7659.4399,
+        "change_pct": -1.09
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26713.0293,
-        "change_pct": 0.08
+        "price": 26140.0293,
+        "change_pct": -2.15
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6213.1099,
-        "change_pct": 0.73
+        "price": 6204.23,
+        "change_pct": 0.58
       },
       {
         "name": "Nikkei 225",
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 72962,
-        "usd": 82099,
-        "change_24h_pct": 0.88
+        "eur": 72642,
+        "usd": 81617,
+        "change_24h_pct": -0.56
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2178.05,
-        "usd": 2450.8,
-        "change_24h_pct": 3.21
+        "eur": 2165.5,
+        "usd": 2433.05,
+        "change_24h_pct": -0.75
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1257,
-        "change_pct": 0.56
+        "price": 1.1244,
+        "change_pct": 0.43
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8439,
-        "change_pct": -0.26
+        "price": 0.8432,
+        "change_pct": -0.34
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9271,
-        "change_pct": -0.42
+        "price": 0.9255,
+        "change_pct": -0.59
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 157.927,
-        "change_pct": -0.02
+        "price": 157.987,
+        "change_pct": 0.02
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 177.716,
-        "change_pct": 0.5
+        "price": 177.579,
+        "change_pct": 0.42
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 5.089,
-        "change_pct": -1.95,
+        "price": 5.098,
+        "change_pct": 0.18,
         "unit": "%"
       }
     ]
@@ -105,17 +105,17 @@
     "error": null,
     "data": [
       {
-        "title": "Immobilienkrise auf Sylt: Auf dieser Insel ist die Party vorbei",
-        "summary": "Angestachelt durch eine schier endlose Nachfrage wurden Häuser und Wohnungen auf Sylt auf Pump gebaut.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/sylt-hat-die-immobilienkrise-kaeufer-wittern-ihre-chance-accg-201154663.html",
+        "title": "Nachhaltigkeit: Die große Clean-Tech-Rally: Wachstum dank Umwelt- und Klimaschutz",
+        "summary": "Clean Tech ist mittlerweile eine Schlüsselindustrie.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/die-grosse-clean-tech-rally-wachstum-dank-umwelt-und-klimaschutz-accg-201274249.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Trend-Food: Was ist eigentlich aus der Dubai-Schokolade geworden?",
-        "summary": "Im Herbst 2024 stellte sich Deutschland wegen einer teuren Süßigkeit in langen Schlangen an.",
-        "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/deutschland-wo-ist-eigentlich-die-dubai-schokolade-nach-dem-hype-heute/100259781.html",
+        "title": "US-Wahlen: „Was für eine Show“ – Donald Trumps „Kampagnen-Blitz“ vor den Zwischenwahlen",
+        "summary": "Wer an einer Rally von Donald Trump teilnimmt, merkt, dass er seine Anhänger immer noch begeistern kann.",
+        "link": "https://www.handelsblatt.com/politik/international/us-wahlen-donald-trumps-kampagnen-blitz-vor-den-zwischenwahlen/100262722.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -129,17 +129,41 @@
         "category": ""
       },
       {
-        "title": "KI-forscherin Zweig: „Die Software ist nicht sicher, und das wissen die KI-Anbieter“",
-        "summary": "Katharina Zweig ist Deutschlands wohl bekannteste KI-Forscherin.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/katharina-zweig-ueber-ki-open-ai-co-wir-lassen-eine-unsichere-software-auf-die-menschheit-los-accg-201317495.html",
+        "title": "Nach Bas-Rücktritt: „Ein pragmatischer Sozialdemokrat, kein Ideologe“",
+        "summary": "Nach dem Rücktritt von Bärbel Bas fürchten viele den Stillstand.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/nach-baerbel-bas-warum-alexander-schweitzer-eine-chance-sein-koennte-accg-201458625.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "US-Wahlen: Blaue Welle oder blaues Wunder – stehen die Demokraten sich selbst im Weg?",
-        "summary": "Donald Trump ist so unpopulär wie kaum ein Präsident vor ihm – und trotzdem ist ein Sieg der Demokraten alles andere als sicher.",
-        "link": "https://www.handelsblatt.com/politik/international/us-wahlen-stehen-die-demokraten-sich-selbst-im-weg-01/100261672.html",
+        "title": "USA: US-Präsident Trump setzt neue Russland-Sanktionen per Dekret aus",
+        "summary": "Mitte September hatte US-Präsident Trump das Sanktionsgesetz gegen Russland unterzeichnet, nun setzt er es kurz vor Inkrafttreten aus.",
+        "link": "https://www.handelsblatt.com/politik/international/usa-trump-setzt-neue-russland-sanktionen-per-dekret-aus/100262955.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "Watch: Did Tesla really just unveil a flying car?",
+        "summary": "Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model.",
+        "link": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
+        "title": "LSE-Ökonom Jaravel: „Die Ungleichheit erklärt die Schülerproteste“",
+        "summary": "Die Probleme in Frankreichs Bildungssystem wiegen schwer – politisch wie wirtschaftlich.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/frankreich-die-ungleichheit-erklaert-die-schuelerproteste-accg-201528083.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "+++ Iran-Krieg +++: Iran: Supertanker fährt in Straße von Hormus auf Seemine",
+        "summary": "Saudischer Zivilschutz gibt Entwarnung für die Grenzregion+++ Raketen treffen Flughafen Aden – Angriff auf Saudi-Ölstadt abgewehrt +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-supertanker-faehrt-in-strasse-von-hormus-auf-seemine/100136895.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -151,60 +175,36 @@
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
-      },
-      {
-        "title": "Seefahrt: Weniger Piratenüberfälle auf den Weltmeeren",
-        "summary": "Die Internationale Handelskammer wertet regelmäßig aus, wie oft Schiffe von Seeräubern angegriffen werden.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/weniger-piratenueberfaelle-auf-den-weltmeeren-accg-201459043.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "Anleihen: Letzte Rettung EZB: Mit umstrittenen Mitteln gegen eine neue Euro-Krise",
-        "summary": "Schon jetzt sind viele Euro-Länder in den Sog der französischen Schuldenkrise geraten.",
-        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/anleihen-die-umstrittenen-mittel-der-ezb-gegen-eine-neue-euro-krise/100260046.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
-        "summary": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape.",
-        "link": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
       }
     ]
   },
   "niche_news": {
     "status": "ok",
-    "error": "Quellen nicht erreichbar: NASA Breaking News",
+    "error": null,
     "data": [
       {
-        "title": "Ta Kon Citadel in Vinh Son, Vietnam",
-        "summary": "Hidden deep within the remote mountains of Vinh Son, Ta Kon Citadel looks at first glance like the forgotten ruins of a colossal ancient fortress swallowed by the primeval jungle.",
-        "link": "https://www.atlasobscura.com/places/ta-kon-citadel",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
-      },
-      {
-        "title": "Rare study reveals a striking divide inside an Alzheimer’s patient’s brain",
-        "summary": "A rare examination of an Alzheimer’s patient’s brain revealed that regions cleared of amyloid plaques had remarkably little of the harmful tau buildup associated with memory loss, while neighboring areas showed extensiv…",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261013015814.htm",
-        "source": "ScienceDaily – Neurowissenschaft",
+        "title": "This tiny jurassic predator helped pave the way for the human brain",
+        "summary": "A 165-million-year-old fossil has revealed an extraordinary Jurassic predator that may help explain how mammals developed one of their most important evolutionary advantages.",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261012185005.htm",
+        "source": "ScienceDaily – Tiere",
         "publisher": "ScienceDaily",
-        "category": "Neurowissenschaft"
+        "category": "Biologie"
       },
       {
-        "title": "Five Discoveries That Changed Our Understanding of T. Rex Forever, From Warm Blood to Lips",
-        "summary": "Paleontologists are still unraveling the secrets of the world’s most famous dinosaur, such as its outward appearance or the way that it hunted.",
-        "link": "https://www.smithsonianmag.com/science-nature/five-discoveries-that-changed-our-understanding-of-t-rex-forever-from-warm-blood-to-lips-180989634/",
+        "title": "These 15 Adorable Photos of Pandas Will Make You Want to Visit the Zoo Immediately",
+        "summary": "Members of the fluffy and adorable but vulnerable species are often cared for in zoos and breeding centers around the world, and these snapshots may make you jealous of the caretakers’ jobs",
+        "link": "https://www.smithsonianmag.com/science-nature/these-15-adorable-photos-of-pandas-will-make-you-want-to-visit-the-zoo-immediately-180989606/",
         "source": "Smithsonian",
         "publisher": "Smithsonian",
         "category": "Wissenschaft"
+      },
+      {
+        "title": "Commercial Signage on the Façade of Gruta 77 in Madrid, Spain",
+        "summary": "For nearly three decades, Gruta 77 has been a haven for Madrid’s rock and roll faithful.",
+        "link": "https://www.atlasobscura.com/places/commercial-signage-on-the-facade-of-gruta-77",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
       }
     ]
   }

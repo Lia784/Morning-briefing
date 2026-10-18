@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T09:04:08+00:00",
-  "date_label": "Saturday, 17. October 2026",
+  "generated_at": "2026-10-18T09:22:43+00:00",
+  "date_label": "Sunday, 18. October 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 72642,
-        "usd": 81617,
-        "change_24h_pct": -0.56
+        "eur": 72872,
+        "usd": 81875,
+        "change_24h_pct": 0.32
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2165.5,
-        "usd": 2433.05,
-        "change_24h_pct": -0.75
+        "eur": 2150.83,
+        "usd": 2416.56,
+        "change_24h_pct": -0.65
       }
     ]
   },
@@ -64,14 +64,14 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1244,
-        "change_pct": 0.43
+        "price": 1.1242,
+        "change_pct": 0.26
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
         "price": 0.8432,
-        "change_pct": -0.34
+        "change_pct": -0.19
       },
       {
         "name": "EUR/CHF",
@@ -88,8 +88,8 @@
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 177.579,
-        "change_pct": 0.42
+        "price": 177.1,
+        "change_pct": -0.13
       },
       {
         "name": "US 10Y Rendite",
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Nachhaltigkeit: Die große Clean-Tech-Rally: Wachstum dank Umwelt- und Klimaschutz",
-        "summary": "Clean Tech ist mittlerweile eine Schlüsselindustrie.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/die-grosse-clean-tech-rally-wachstum-dank-umwelt-und-klimaschutz-accg-201274249.html",
+        "title": "Umweltschädlicher Wintersport?: Skischam ist nicht nötig",
+        "summary": "Umweltverbände beklagen große Schäden durch Skipisten.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/skischam-und-umweltschaeden-ist-skifahren-wirklich-schaedlich-accg-201302787.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "US-Wahlen: „Was für eine Show“ – Donald Trumps „Kampagnen-Blitz“ vor den Zwischenwahlen",
-        "summary": "Wer an einer Rally von Donald Trump teilnimmt, merkt, dass er seine Anhänger immer noch begeistern kann.",
-        "link": "https://www.handelsblatt.com/politik/international/us-wahlen-donald-trumps-kampagnen-blitz-vor-den-zwischenwahlen/100262722.html",
+        "title": "+++ Ukraine-Krieg +++: Drohnen-Alarm an Nato-Ostflanke – Flugobjekt kam offenbar über Polen",
+        "summary": "76 Angriffe auf Energiesektor binnen einer Woche +++ Bericht: Ukraine greift Ölhafen in St.",
+        "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-drohnen-alarm-an-nato-ostflanke-flugobjekt-kam-offenbar-ueber-polen/27982126.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Banks expect to be hit with higher taxes in Budget",
-        "summary": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
-        "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
+        "title": "There's a crackdown on sports piracy - but is it already out of control?",
+        "summary": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett.",
+        "link": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Nach Bas-Rücktritt: „Ein pragmatischer Sozialdemokrat, kein Ideologe“",
-        "summary": "Nach dem Rücktritt von Bärbel Bas fürchten viele den Stillstand.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/nach-baerbel-bas-warum-alexander-schweitzer-eine-chance-sein-koennte-accg-201458625.html",
+        "title": "Handel mit China: Deutschland ist ganz schön scheinheilig",
+        "summary": "Es ist nichts dagegen einzuwenden, wenn sich die EU dafür rüstet, in Handelskriegen zurückzuschlagen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/export-debatte-mit-china-deutschland-ist-ganz-schoen-scheinheilig-201339876.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "USA: US-Präsident Trump setzt neue Russland-Sanktionen per Dekret aus",
-        "summary": "Mitte September hatte US-Präsident Trump das Sanktionsgesetz gegen Russland unterzeichnet, nun setzt er es kurz vor Inkrafttreten aus.",
-        "link": "https://www.handelsblatt.com/politik/international/usa-trump-setzt-neue-russland-sanktionen-per-dekret-aus/100262955.html",
+        "title": "Modemarke: Seidensticker-Investorin: „Ich sehe mich nicht als Trümmerfrau“",
+        "summary": "Das Familienunternehmen sucht Geldgeber und findet einen in Geschäftsführerin Silvia Bentzinger.",
+        "link": "https://www.handelsblatt.com/unternehmen/mittelstand/familienunternehmer/modemarke-seidensticker-ich-sehe-mich-nicht-als-truemmerfrau/100261832.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Watch: Did Tesla really just unveil a flying car?",
-        "summary": "Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model.",
-        "link": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss",
+        "title": "Third runway at Heathrow Airport would drive growth, Healey says",
+        "summary": "It comes after the prime minister refused to say whether he backed expansion.",
+        "link": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "LSE-Ökonom Jaravel: „Die Ungleichheit erklärt die Schülerproteste“",
-        "summary": "Die Probleme in Frankreichs Bildungssystem wiegen schwer – politisch wie wirtschaftlich.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/frankreich-die-ungleichheit-erklaert-die-schuelerproteste-accg-201528083.html",
+        "title": "Von Meloni bis Le Pen: Fünf Köpfe, auf die Sie diese Woche achten sollten",
+        "summary": "Von Italiens Regierungschefin Giorgia Meloni bis zur französischen Präsidentschaftskandidatin Marine Le Pen: Wer in dieser Woche eine Rolle spielt – und warum.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/marine-le-pen-giorgia-meloni-und-co-fuenf-namen-der-woche-accg-201318576.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "+++ Iran-Krieg +++: Iran: Supertanker fährt in Straße von Hormus auf Seemine",
-        "summary": "Saudischer Zivilschutz gibt Entwarnung für die Grenzregion+++ Raketen treffen Flughafen Aden – Angriff auf Saudi-Ölstadt abgewehrt +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-supertanker-faehrt-in-strasse-von-hormus-auf-seemine/100136895.html",
+        "title": "Sozialkonflikte: Eskalationen in Frankreich – Vance sieht Einwanderungspolitik als Grund",
+        "summary": "Hunderttausende demonstrieren gegen hohe Lebenshaltungskosten und den Abbau öffentlicher Dienstleistungen.",
+        "link": "https://www.handelsblatt.com/politik/international/sozialkonflikte-eskalationen-in-frankreich-vance-sieht-einwanderungspolitik-als-grund/100262971.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "I find it quite demoralising in store - why I do all my shopping online",
-        "summary": "After Primark announced plans for home delivery, we hear from women who never go into clothes stores.",
-        "link": "https://www.bbc.co.uk/news/articles/c36lk280kd1o?at_medium=RSS&at_campaign=rss",
+        "title": "Faisal Islam: Why China and AI are worrying global finance bosses",
+        "summary": "At the IMF meeting in Bangkok this week finance and business leaders grappled with uncertainty.",
+        "link": "https://www.bbc.co.uk/news/articles/cm4g189jvnxjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,28 +183,28 @@
     "error": null,
     "data": [
       {
-        "title": "This tiny jurassic predator helped pave the way for the human brain",
-        "summary": "A 165-million-year-old fossil has revealed an extraordinary Jurassic predator that may help explain how mammals developed one of their most important evolutionary advantages.",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261012185005.htm",
-        "source": "ScienceDaily – Tiere",
-        "publisher": "ScienceDaily",
-        "category": "Biologie"
+        "title": "Why it's easy to eat 30 plants a week",
+        "summary": "In the end, I overshot my target and ate a grand total of 51 plants",
+        "link": "https://www.bbc.com/future/article/20261008-how-can-i-eat-30-plants-a-week?ocid=global_future_rss",
+        "source": "BBC Future",
+        "publisher": "BBC",
+        "category": "Zukunft"
       },
       {
-        "title": "These 15 Adorable Photos of Pandas Will Make You Want to Visit the Zoo Immediately",
-        "summary": "Members of the fluffy and adorable but vulnerable species are often cared for in zoos and breeding centers around the world, and these snapshots may make you jealous of the caretakers’ jobs",
-        "link": "https://www.smithsonianmag.com/science-nature/these-15-adorable-photos-of-pandas-will-make-you-want-to-visit-the-zoo-immediately-180989606/",
-        "source": "Smithsonian",
-        "publisher": "Smithsonian",
-        "category": "Wissenschaft"
+        "title": "The pianist who never played",
+        "summary": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03112-0 A note to self.",
+        "link": "https://www.nature.com/articles/d41586-026-03112-0",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
       },
       {
-        "title": "Commercial Signage on the Façade of Gruta 77 in Madrid, Spain",
-        "summary": "For nearly three decades, Gruta 77 has been a haven for Madrid’s rock and roll faithful.",
-        "link": "https://www.atlasobscura.com/places/commercial-signage-on-the-facade-of-gruta-77",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
+        "title": "I Am Artemis: Allison Mjoen",
+        "summary": "As the supercooled propellant flowed into the core stage, and NASA’s SLS (Space Launch System) rocket roared to life, Allison Mjoen and her family watched with awe and pride.",
+        "link": "https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/",
+        "source": "NASA Breaking News",
+        "publisher": "NASA",
+        "category": "Raumfahrt"
       }
     ]
   }

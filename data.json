@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T09:22:43+00:00",
-  "date_label": "Sunday, 18. October 2026",
+  "generated_at": "2026-10-19T10:34:41+00:00",
+  "date_label": "Monday, 19. October 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,8 +8,8 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25622.6094,
-        "change_pct": 0.95
+        "price": 25296.1191,
+        "change_pct": -1.27
       },
       {
         "name": "S&P 500",
@@ -26,14 +26,14 @@
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6204.23,
-        "change_pct": 0.58
+        "price": 6133.3799,
+        "change_pct": -1.14
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 65324.2891,
-        "change_pct": 1.39
+        "price": 64916.6992,
+        "change_pct": -0.62
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 72872,
-        "usd": 81875,
-        "change_24h_pct": 0.32
+        "eur": 73275,
+        "usd": 82126,
+        "change_24h_pct": 0.23
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2150.83,
-        "usd": 2416.56,
-        "change_24h_pct": -0.65
+        "eur": 2156.85,
+        "usd": 2417.37,
+        "change_24h_pct": 0.02
       }
     ]
   },
@@ -64,32 +64,32 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1242,
-        "change_pct": 0.26
+        "price": 1.121,
+        "change_pct": -0.03
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8432,
-        "change_pct": -0.19
+        "price": 0.841,
+        "change_pct": -0.45
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9255,
-        "change_pct": -0.59
+        "price": 0.9245,
+        "change_pct": -0.39
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 157.987,
-        "change_pct": 0.02
+        "price": 158.26,
+        "change_pct": 0.07
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 177.1,
-        "change_pct": -0.13
+        "price": 177.356,
+        "change_pct": 0.02
       },
       {
         "name": "US 10Y Rendite",
@@ -105,30 +105,6 @@
     "error": null,
     "data": [
       {
-        "title": "Umweltschädlicher Wintersport?: Skischam ist nicht nötig",
-        "summary": "Umweltverbände beklagen große Schäden durch Skipisten.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/skischam-und-umweltschaeden-ist-skifahren-wirklich-schaedlich-accg-201302787.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "+++ Ukraine-Krieg +++: Drohnen-Alarm an Nato-Ostflanke – Flugobjekt kam offenbar über Polen",
-        "summary": "76 Angriffe auf Energiesektor binnen einer Woche +++ Bericht: Ukraine greift Ölhafen in St.",
-        "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-drohnen-alarm-an-nato-ostflanke-flugobjekt-kam-offenbar-ueber-polen/27982126.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "There's a crackdown on sports piracy - but is it already out of control?",
-        "summary": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett.",
-        "link": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
-      },
-      {
         "title": "Handel mit China: Deutschland ist ganz schön scheinheilig",
         "summary": "Es ist nichts dagegen einzuwenden, wenn sich die EU dafür rüstet, in Handelskriegen zurückzuschlagen.",
         "link": "https://www.faz.net/aktuell/wirtschaft/export-debatte-mit-china-deutschland-ist-ganz-schoen-scheinheilig-201339876.html",
@@ -137,41 +113,65 @@
         "category": ""
       },
       {
-        "title": "Modemarke: Seidensticker-Investorin: „Ich sehe mich nicht als Trümmerfrau“",
-        "summary": "Das Familienunternehmen sucht Geldgeber und findet einen in Geschäftsführerin Silvia Bentzinger.",
-        "link": "https://www.handelsblatt.com/unternehmen/mittelstand/familienunternehmer/modemarke-seidensticker-ich-sehe-mich-nicht-als-truemmerfrau/100261832.html",
+        "title": "Migration: Warum wandern immer mehr Deutsche nach Polen aus?",
+        "summary": "Unser osteuropäischer Nachbar zieht so viele Deutsche an wie lange nicht mehr.",
+        "link": "https://www.handelsblatt.com/politik/international/migration-polen-wird-fuer-immer-mehr-deutsche-eine-zukunftsoption/100249315.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Third runway at Heathrow Airport would drive growth, Healey says",
-        "summary": "It comes after the prime minister refused to say whether he backed expansion.",
-        "link": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss",
+        "title": "Home sellers cut asking prices on 3,000 properties a day",
+        "summary": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
+        "link": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Von Meloni bis Le Pen: Fünf Köpfe, auf die Sie diese Woche achten sollten",
-        "summary": "Von Italiens Regierungschefin Giorgia Meloni bis zur französischen Präsidentschaftskandidatin Marine Le Pen: Wer in dieser Woche eine Rolle spielt – und warum.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/marine-le-pen-giorgia-meloni-und-co-fuenf-namen-der-woche-accg-201318576.html",
+        "title": "Abfindungsprogramme: Unter den Managern geht die Angst um",
+        "summary": "Ob BMW, Mercedes oder Siemens: In den besseren Jahren gab es eine regelrechte Chefinflation, jetzt wird im mittleren Management gespart.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/angst-im-management-bmw-mercedes-und-siemens-streichen-fuehrungsstellen-201528621.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Sozialkonflikte: Eskalationen in Frankreich – Vance sieht Einwanderungspolitik als Grund",
-        "summary": "Hunderttausende demonstrieren gegen hohe Lebenshaltungskosten und den Abbau öffentlicher Dienstleistungen.",
-        "link": "https://www.handelsblatt.com/politik/international/sozialkonflikte-eskalationen-in-frankreich-vance-sieht-einwanderungspolitik-als-grund/100262971.html",
+        "title": "Friendflation: Warum Geld in Beziehungen relevanter wird",
+        "summary": "Wer gute Freunde hat, kommt leichter durchs Leben, hat eine bessere Beziehung und verringert sein Sterberisiko.",
+        "link": "https://www.handelsblatt.com/finanzen/friendflation-was-passiert-wenn-freundschaft-zur-geldfrage-wird/100154689.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Faisal Islam: Why China and AI are worrying global finance bosses",
-        "summary": "At the IMF meeting in Bangkok this week finance and business leaders grappled with uncertainty.",
-        "link": "https://www.bbc.co.uk/news/articles/cm4g189jvnxjo?at_medium=RSS&at_campaign=rss",
+        "title": "Musk and Anthropic pledge public share giveaways",
+        "summary": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
+        "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
+        "title": "Ulrich Bettermann: Einer der letzten Unternehmer vom alten Schlag",
+        "summary": "Bekannter von Merz, Freund von Schröder, Pilot, Jäger und ein reicher Mann: Ulrich Bettermann sprüht auch mit achtzig Jahren nur vor Abenteuergeschichten.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/milliardaer-ulrich-bettermann-ein-patriarch-mit-maechtigen-freunden-201312041.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "+++ Ukraine-Krieg +++: Russland meldet schweren Angriff auf Kiew",
+        "summary": "Bericht: Putin schlägt Trump und Xi Ukraine-Gipfel vor +++ Trump will Moskau am Verhandlungstisch halten +++ Rubio verteidigt Aussetzung neuer Sanktionen gegen Russland +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-russland-meldet-schweren-angriff-auf-kiew/27982126.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "Don't fall for this - how to protect yourself from AI scams",
+        "summary": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
+        "link": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": null,
+    "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "Why it's easy to eat 30 plants a week",
-        "summary": "In the end, I overshot my target and ate a grand total of 51 plants",
-        "link": "https://www.bbc.com/future/article/20261008-how-can-i-eat-30-plants-a-week?ocid=global_future_rss",
-        "source": "BBC Future",
-        "publisher": "BBC",
-        "category": "Zukunft"
+        "title": "These 15 Adorable Photos of Pandas Will Make You Want to Visit the Zoo Immediately",
+        "summary": "Members of the fluffy and adorable but vulnerable species are often cared for in zoos and breeding centers around the world, and these snapshots may make you jealous of the caretakers’ jobs",
+        "link": "https://www.smithsonianmag.com/science-nature/these-15-adorable-photos-of-pandas-will-make-you-want-to-visit-the-zoo-immediately-180989606/",
+        "source": "Smithsonian",
+        "publisher": "Smithsonian",
+        "category": "Wissenschaft"
       },
       {
-        "title": "The pianist who never played",
-        "summary": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03112-0 A note to self.",
-        "link": "https://www.nature.com/articles/d41586-026-03112-0",
+        "title": "Commercial Signage on the Façade of Gruta 77 in Madrid, Spain",
+        "summary": "For nearly three decades, Gruta 77 has been a haven for Madrid’s rock and roll faithful.",
+        "link": "https://www.atlasobscura.com/places/commercial-signage-on-the-facade-of-gruta-77",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
+      },
+      {
+        "title": "Daily briefing: We’re close to reaching a 30% land-conservation target",
+        "summary": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03348-w More land for conservation is positive, but doesn’t necessarily protect biodiversity, say researchers.",
+        "link": "https://www.nature.com/articles/d41586-026-03348-w",
         "source": "Nature News",
         "publisher": "Nature",
         "category": "Forschung"
-      },
-      {
-        "title": "I Am Artemis: Allison Mjoen",
-        "summary": "As the supercooled propellant flowed into the core stage, and NASA’s SLS (Space Launch System) rocket roared to life, Allison Mjoen and her family watched with awe and pride.",
-        "link": "https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/",
-        "source": "NASA Breaking News",
-        "publisher": "NASA",
-        "category": "Raumfahrt"
       }
     ]
   }

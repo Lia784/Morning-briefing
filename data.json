@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T10:34:41+00:00",
-  "date_label": "Monday, 19. October 2026",
+  "generated_at": "2026-10-20T09:51:18+00:00",
+  "date_label": "Tuesday, 20. October 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25296.1191,
-        "change_pct": -1.27
+        "price": 25117.4297,
+        "change_pct": -0.8
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7659.4399,
-        "change_pct": -1.09
+        "price": 7690.73,
+        "change_pct": 0.41
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26140.0293,
-        "change_pct": -2.15
+        "price": 26430.8906,
+        "change_pct": 1.11
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6133.3799,
-        "change_pct": -1.14
+        "price": 6097.2598,
+        "change_pct": -0.77
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 64916.6992,
-        "change_pct": -0.62
+        "price": 64075.4219,
+        "change_pct": -1.3
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 73275,
-        "usd": 82126,
-        "change_24h_pct": 0.23
+        "eur": 72509,
+        "usd": 81326,
+        "change_24h_pct": -1.99
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2156.85,
-        "usd": 2417.37,
-        "change_24h_pct": 0.02
+        "eur": 2120.92,
+        "usd": 2378.83,
+        "change_24h_pct": -2.61
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.121,
-        "change_pct": -0.03
+        "price": 1.1218,
+        "change_pct": -0.06
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.841,
-        "change_pct": -0.45
+        "price": 0.8402,
+        "change_pct": -0.18
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9245,
-        "change_pct": -0.39
+        "price": 0.9247,
+        "change_pct": 0.0
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 158.26,
-        "change_pct": 0.07
+        "price": 158.125,
+        "change_pct": 0.2
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 177.356,
-        "change_pct": 0.02
+        "price": 177.326,
+        "change_pct": 0.11
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 5.098,
-        "change_pct": 0.18,
+        "price": 5.136,
+        "change_pct": 0.75,
         "unit": "%"
       }
     ]
@@ -105,9 +105,57 @@
     "error": null,
     "data": [
       {
-        "title": "Handel mit China: Deutschland ist ganz schön scheinheilig",
-        "summary": "Es ist nichts dagegen einzuwenden, wenn sich die EU dafür rüstet, in Handelskriegen zurückzuschlagen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/export-debatte-mit-china-deutschland-ist-ganz-schoen-scheinheilig-201339876.html",
+        "title": "Effizientere Fabriken: Wie Siemens mit Nvidia Produktion verändern will",
+        "summary": "Die beiden Partner wollen mit Künstlicher Intelligenz die Industrie verbessern.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/siemens-und-nvidia-ki-soll-fabriken-revolutionieren-accg-201602418.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "+++ Iran-Krieg +++: Hegseth in Israel – Gespräch mit Netanjahu über Iran",
+        "summary": "UN kürzen Nahrungsmittelhilfe für 700.000 Palästinenser +++ Medien: Iran bestellt deutschen Botschafter ein +++ Saudi-Arabien verschiebt Investorenkonferenz auf 2027 +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/international/iran-krieg-hegseth-in-israel-gespraech-mit-netanjahu-ueber-iran/100136895.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "Jobless rate falls but small firms cut back hiring",
+        "summary": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says.",
+        "link": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
+        "title": "Isabella Weber: Wie überzeugend ist diese „antifaschistische Wirtschaftspolitik“?",
+        "summary": "Aus einer Kleinstadt in Massachusetts katapultiert sich die Ökonomin Isabella Weber in die Berliner Politik.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/isabella-weber-ihre-thesen-zur-antifaschistischen-wirtschaftspolitik-im-check-accg-201313034.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "KKR-Chef Scott Nuttall: „In diesem Jahr gab es für die Private-Equity-Branche viel Gegenwind“",
+        "summary": "Der Co-CEO des US-Vermögensverwalters kündigt mehr Investitionen in Deutschland an und nennt eine konkrete Branche, in der KKR intensiv nach Partnern sucht.",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/kkr-chef-nuttall-dieses-jahr-gab-es-fuer-private-equity-viel-gegenwind/100261993.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+        "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
+        "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
+        "title": "Ingmar Hoerr: Der Curevac-Gründer wird zum Filmhelden",
+        "summary": "Ingmar Hoerr war nah dran, mit einem Corona-Impfstoff reich und berühmt zu werden.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ingmar-hoerr-curevac-gruender-wird-zum-dokumentarfilm-helden-accg-201306558.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
@@ -115,63 +163,15 @@
       {
         "title": "Migration: Warum wandern immer mehr Deutsche nach Polen aus?",
         "summary": "Unser osteuropäischer Nachbar zieht so viele Deutsche an wie lange nicht mehr.",
-        "link": "https://www.handelsblatt.com/politik/international/migration-polen-wird-fuer-immer-mehr-deutsche-eine-zukunftsoption/100249315.html",
+        "link": "https://www.handelsblatt.com/politik/international/migration-immer-mehr-deutsche-sehen-polen-als-zukunftsoption/100249315.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Home sellers cut asking prices on 3,000 properties a day",
-        "summary": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
-        "link": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
-      },
-      {
-        "title": "Abfindungsprogramme: Unter den Managern geht die Angst um",
-        "summary": "Ob BMW, Mercedes oder Siemens: In den besseren Jahren gab es eine regelrechte Chefinflation, jetzt wird im mittleren Management gespart.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/angst-im-management-bmw-mercedes-und-siemens-streichen-fuehrungsstellen-201528621.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "Friendflation: Warum Geld in Beziehungen relevanter wird",
-        "summary": "Wer gute Freunde hat, kommt leichter durchs Leben, hat eine bessere Beziehung und verringert sein Sterberisiko.",
-        "link": "https://www.handelsblatt.com/finanzen/friendflation-was-passiert-wenn-freundschaft-zur-geldfrage-wird/100154689.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "Musk and Anthropic pledge public share giveaways",
-        "summary": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
-        "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
-      },
-      {
-        "title": "Ulrich Bettermann: Einer der letzten Unternehmer vom alten Schlag",
-        "summary": "Bekannter von Merz, Freund von Schröder, Pilot, Jäger und ein reicher Mann: Ulrich Bettermann sprüht auch mit achtzig Jahren nur vor Abenteuergeschichten.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/milliardaer-ulrich-bettermann-ein-patriarch-mit-maechtigen-freunden-201312041.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "+++ Ukraine-Krieg +++: Russland meldet schweren Angriff auf Kiew",
-        "summary": "Bericht: Putin schlägt Trump und Xi Ukraine-Gipfel vor +++ Trump will Moskau am Verhandlungstisch halten +++ Rubio verteidigt Aussetzung neuer Sanktionen gegen Russland +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-russland-meldet-schweren-angriff-auf-kiew/27982126.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "Don't fall for this - how to protect yourself from AI scams",
-        "summary": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
-        "link": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
+        "title": "Burnham vows end to 'rip-off parking charges' under new rules",
+        "summary": "The changes come after concerns that penalties issued by private providers are too harsh and leave motorists unfairly punished.",
+        "link": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,28 +183,28 @@
     "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "These 15 Adorable Photos of Pandas Will Make You Want to Visit the Zoo Immediately",
-        "summary": "Members of the fluffy and adorable but vulnerable species are often cared for in zoos and breeding centers around the world, and these snapshots may make you jealous of the caretakers’ jobs",
-        "link": "https://www.smithsonianmag.com/science-nature/these-15-adorable-photos-of-pandas-will-make-you-want-to-visit-the-zoo-immediately-180989606/",
+        "title": "How far can we push computing?",
+        "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next.",
+        "link": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/",
+        "source": "MIT Technology Review",
+        "publisher": "MIT",
+        "category": "Technologie"
+      },
+      {
+        "title": "What to eat for younger skin",
+        "summary": "Plants, fats, and fermented foods will help keep your skin healthy.",
+        "link": "https://www.bbc.com/future/article/20261015-what-can-i-eat-for-younger-skin?ocid=global_future_rss",
+        "source": "BBC Future",
+        "publisher": "BBC",
+        "category": "Zukunft"
+      },
+      {
+        "title": "Ancient Pottery Reveals the Earliest Known Traces of Chocolate East of the Mississippi, Painting a Picture of Connection in the Americas",
+        "summary": "A new archaeological discovery suggests that people in present-day Georgia have feasted with cacao for 1,000 years",
+        "link": "https://www.smithsonianmag.com/science-nature/ancient-pottery-reveals-the-earliest-known-traces-of-chocolate-east-of-the-mississippi-painting-a-picture-of-connection-in-the-americas-180989559/",
         "source": "Smithsonian",
         "publisher": "Smithsonian",
         "category": "Wissenschaft"
-      },
-      {
-        "title": "Commercial Signage on the Façade of Gruta 77 in Madrid, Spain",
-        "summary": "For nearly three decades, Gruta 77 has been a haven for Madrid’s rock and roll faithful.",
-        "link": "https://www.atlasobscura.com/places/commercial-signage-on-the-facade-of-gruta-77",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
-      },
-      {
-        "title": "Daily briefing: We’re close to reaching a 30% land-conservation target",
-        "summary": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03348-w More land for conservation is positive, but doesn’t necessarily protect biodiversity, say researchers.",
-        "link": "https://www.nature.com/articles/d41586-026-03348-w",
-        "source": "Nature News",
-        "publisher": "Nature",
-        "category": "Forschung"
       }
     ]
   }

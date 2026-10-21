@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T09:51:18+00:00",
-  "date_label": "Tuesday, 20. October 2026",
+  "generated_at": "2026-10-21T09:53:14+00:00",
+  "date_label": "Wednesday, 21. October 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25117.4297,
-        "change_pct": -0.8
+        "price": 25453.4199,
+        "change_pct": 0.59
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7690.73,
-        "change_pct": 0.41
+        "price": 7712.5698,
+        "change_pct": 0.28
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26430.8906,
-        "change_pct": 1.11
+        "price": 26424.8203,
+        "change_pct": -0.02
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6097.2598,
-        "change_pct": -0.77
+        "price": 6165.6699,
+        "change_pct": 0.72
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 64075.4219,
-        "change_pct": -1.3
+        "price": 64621.2383,
+        "change_pct": 0.85
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 72509,
-        "usd": 81326,
-        "change_24h_pct": -1.99
+        "eur": 74272,
+        "usd": 83360,
+        "change_24h_pct": 2.4
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2120.92,
-        "usd": 2378.83,
-        "change_24h_pct": -2.61
+        "eur": 2189.57,
+        "usd": 2457.47,
+        "change_24h_pct": 3.24
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1218,
-        "change_pct": -0.06
+        "price": 1.1225,
+        "change_pct": 0.08
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8402,
-        "change_pct": -0.18
+        "price": 0.8375,
+        "change_pct": -0.6
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9247,
-        "change_pct": 0.0
+        "price": 0.9263,
+        "change_pct": -0.09
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 158.125,
-        "change_pct": 0.2
+        "price": 158.133,
+        "change_pct": -0.25
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 177.326,
-        "change_pct": 0.11
+        "price": 177.448,
+        "change_pct": -0.18
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 5.136,
-        "change_pct": 0.75,
+        "price": 5.117,
+        "change_pct": -0.37,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Effizientere Fabriken: Wie Siemens mit Nvidia Produktion verändern will",
-        "summary": "Die beiden Partner wollen mit Künstlicher Intelligenz die Industrie verbessern.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/siemens-und-nvidia-ki-soll-fabriken-revolutionieren-accg-201602418.html",
+        "title": "Zittern um Rentenreform: Was die „Rente mit 63“ so brisant macht",
+        "summary": "Die große Rentenreform hängt politisch am seidenen Faden.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/rente-mit-63-was-die-abschlagsfreiheit-kostet-und-warum-sie-die-koalition-spaltet-201601670.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "+++ Iran-Krieg +++: Hegseth in Israel – Gespräch mit Netanjahu über Iran",
-        "summary": "UN kürzen Nahrungsmittelhilfe für 700.000 Palästinenser +++ Medien: Iran bestellt deutschen Botschafter ein +++ Saudi-Arabien verschiebt Investorenkonferenz auf 2027 +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/international/iran-krieg-hegseth-in-israel-gespraech-mit-netanjahu-ueber-iran/100136895.html",
+        "title": "Energiekonzern: Wichtiger Schritt zur Repirvatisierung: Uniper plant Kapitalmarkttag in wenigen Wochen",
+        "summary": "Der Staat muss seine Anteile an dem Gasimporteur bald verkaufen.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/energiekonzern-uniper-plant-kapitalmarkttag-in-wenigen-wochen/100261649.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Jobless rate falls but small firms cut back hiring",
-        "summary": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says.",
-        "link": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
+        "title": "What is happening to UK prices?",
+        "summary": "UK inflation rose in September, pushed up by higher petrol and diesel prices.",
+        "link": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Isabella Weber: Wie überzeugend ist diese „antifaschistische Wirtschaftspolitik“?",
-        "summary": "Aus einer Kleinstadt in Massachusetts katapultiert sich die Ökonomin Isabella Weber in die Berliner Politik.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/isabella-weber-ihre-thesen-zur-antifaschistischen-wirtschaftspolitik-im-check-accg-201313034.html",
+        "title": "Exporterfolge: Wie Chinas Autohersteller die Märkte gewinnen",
+        "summary": "Der Autoaufschwung in China nimmt kein Ende.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/mit-byd-und-co-auf-weltreise-wie-chinas-autohersteller-die-maerkte-gewinnen-accg-201291481.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "KKR-Chef Scott Nuttall: „In diesem Jahr gab es für die Private-Equity-Branche viel Gegenwind“",
-        "summary": "Der Co-CEO des US-Vermögensverwalters kündigt mehr Investitionen in Deutschland an und nennt eine konkrete Branche, in der KKR intensiv nach Partnern sucht.",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/kkr-chef-nuttall-dieses-jahr-gab-es-fuer-private-equity-viel-gegenwind/100261993.html",
+        "title": "Zukunftsgestalter: Trumpf auf dem Weg zum Maschinen-Menschen",
+        "summary": "Für Trumpf reicht es nicht mehr, nur die besten Laser zu bauen.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/technologie-wie-trumpf-die-robotik-mit-ki-voranbringen-will/100248242.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
-        "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
-        "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+        "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
+        "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+        "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Ingmar Hoerr: Der Curevac-Gründer wird zum Filmhelden",
-        "summary": "Ingmar Hoerr war nah dran, mit einem Corona-Impfstoff reich und berühmt zu werden.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ingmar-hoerr-curevac-gruender-wird-zum-dokumentarfilm-helden-accg-201306558.html",
+        "title": "Ulrich Bettermann: Einer der letzten Unternehmer vom alten Schlag",
+        "summary": "Bekannter von Merz, Freund von Schröder, Pilot, Jäger und ein reicher Mann: Ulrich Bettermann sprüht auch mit achtzig Jahren nur vor Abenteuergeschichten.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/milliardaer-ulrich-bettermann-ein-patriarch-mit-maechtigen-freunden-201312041.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Migration: Warum wandern immer mehr Deutsche nach Polen aus?",
-        "summary": "Unser osteuropäischer Nachbar zieht so viele Deutsche an wie lange nicht mehr.",
-        "link": "https://www.handelsblatt.com/politik/international/migration-immer-mehr-deutsche-sehen-polen-als-zukunftsoption/100249315.html",
+        "title": "US-Wahlen: Blaue Welle oder blaues Wunder? Wie sich die Demokraten trotz guter Umfragewerte selbst im Weg stehen",
+        "summary": "Donald Trump ist so unpopulär wie kaum ein Präsident vor ihm – und trotzdem ist ein Sieg der Demokraten alles andere als sicher.",
+        "link": "https://www.handelsblatt.com/politik/international/us-wahlen-bremsen-sich-die-demokraten-selbst-aus/100261672.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Burnham vows end to 'rip-off parking charges' under new rules",
-        "summary": "The changes come after concerns that penalties issued by private providers are too harsh and leave motorists unfairly punished.",
-        "link": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
+        "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
+        "summary": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
+        "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": "Quellen nicht erreichbar: NASA Breaking News",
+    "error": null,
     "data": [
       {
-        "title": "How far can we push computing?",
-        "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next.",
-        "link": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/",
-        "source": "MIT Technology Review",
-        "publisher": "MIT",
-        "category": "Technologie"
+        "title": "Gigantic prehistoric snake discovered in India may have been one of the largest ever",
+        "summary": "A massive prehistoric snake discovered in India may have rivaled the largest snake ever known.",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261014001406.htm",
+        "source": "ScienceDaily – Archäologie",
+        "publisher": "ScienceDaily",
+        "category": "Archäologie"
       },
       {
-        "title": "What to eat for younger skin",
-        "summary": "Plants, fats, and fermented foods will help keep your skin healthy.",
-        "link": "https://www.bbc.com/future/article/20261015-what-can-i-eat-for-younger-skin?ocid=global_future_rss",
-        "source": "BBC Future",
-        "publisher": "BBC",
-        "category": "Zukunft"
-      },
-      {
-        "title": "Ancient Pottery Reveals the Earliest Known Traces of Chocolate East of the Mississippi, Painting a Picture of Connection in the Americas",
-        "summary": "A new archaeological discovery suggests that people in present-day Georgia have feasted with cacao for 1,000 years",
-        "link": "https://www.smithsonianmag.com/science-nature/ancient-pottery-reveals-the-earliest-known-traces-of-chocolate-east-of-the-mississippi-painting-a-picture-of-connection-in-the-americas-180989559/",
+        "title": "Is More Protein Always Better? Despite the Craze Around the Nutrient, Research-Backed Evidence About Its Benefits Is Complicated",
+        "summary": "It can be difficult to see through the array of flashy, protein-packed products and determine whether you need more of it—and which foods to consume to get it.",
+        "link": "https://www.smithsonianmag.com/science-nature/is-more-protein-always-better-despite-the-craze-around-the-nutrient-research-backed-evidence-about-its-benefits-is-complicated-180989584/",
         "source": "Smithsonian",
         "publisher": "Smithsonian",
         "category": "Wissenschaft"
+      },
+      {
+        "title": "Riga Ghetto and Latvian Holocaust Museum in Rīga, Latvia",
+        "summary": "Established and opened in 2010 by the Shamir religious community with assistance from the Riga City Council, the Riga Ghetto and Latvian Holocaust Museum is located in the district of Spīķeri, close to its border with L…",
+        "link": "https://www.atlasobscura.com/places/riga-ghetto-and-latvian-holocaust-museum",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
       }
     ]
   }

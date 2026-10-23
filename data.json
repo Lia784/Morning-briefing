@@ -1,33 +1,39 @@
 {
-  "generated_at": "2026-10-22T09:53:28+00:00",
-  "date_label": "Thursday, 22. October 2026",
+  "generated_at": "2026-10-23T09:47:28+00:00",
+  "date_label": "Friday, 23. October 2026",
   "indices": {
     "status": "ok",
-    "error": "Teilweise nicht verfügbar: ^IXIC",
+    "error": null,
     "data": [
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25353.5391,
-        "change_pct": -1.14
+        "price": 25179.2207,
+        "change_pct": -0.76
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7757.1699,
-        "change_pct": 0.58
+        "price": 7663.4302,
+        "change_pct": -1.21
+      },
+      {
+        "name": "Nasdaq",
+        "symbol": "^IXIC",
+        "price": 26008.8594,
+        "change_pct": -2.6
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6094.9902,
-        "change_pct": -1.81
+        "price": 6050.3999,
+        "change_pct": -0.6
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 62907.8398,
-        "change_pct": -2.65
+        "price": 62693.1602,
+        "change_pct": -0.34
       }
     ]
   },
@@ -38,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 72897,
-        "usd": 81827,
-        "change_24h_pct": -1.83
+        "eur": 72836,
+        "usd": 81567,
+        "change_24h_pct": 0.05
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2141.41,
-        "usd": 2403.72,
-        "change_24h_pct": -2.17
+        "eur": 2139.34,
+        "usd": 2395.78,
+        "change_24h_pct": 0.13
       }
     ]
   },
@@ -58,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1225,
-        "change_pct": -0.02
+        "price": 1.1203,
+        "change_pct": -0.28
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8374,
-        "change_pct": -0.24
+        "price": 0.837,
+        "change_pct": -0.2
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.92,
-        "change_pct": -0.74
+        "price": 0.9201,
+        "change_pct": -0.61
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 156.782,
-        "change_pct": -0.94
+        "price": 156.561,
+        "change_pct": -0.99
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 175.928,
-        "change_pct": -0.98
+        "price": 175.348,
+        "change_pct": -1.3
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 5.146,
-        "change_pct": 0.57,
+        "price": 4.953,
+        "change_pct": -3.75,
         "unit": "%"
       }
     ]
@@ -99,54 +105,6 @@
     "error": null,
     "data": [
       {
-        "title": "Ökonom Tom Krebs: „Der neoliberale Kapitalismus ist am Ende“",
-        "summary": "Der Ökonom Tom Krebs sieht Deutschland in der schwersten Wirtschaftskrise der Nachkriegszeit.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/oekonom-tom-krebs-wir-brauchen-einen-kompletten-richtungswechsel-inklusive-preiskontrollen-accg-201607336.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "Geld: Der Millionenerbe, der die Millionen nicht will",
-        "summary": "Kai Viehof hat den Großteil seines Erbes ausgeschlagen, auch vom Rest will der Enkel des Allkauf-Gründers das meiste weggeben.",
-        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/reichtum-fuer-welche-zwecke-dieser-millionenerbe-sein-vermoegen-verteilt/100204748.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-        "summary": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
-        "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
-      },
-      {
-        "title": "Neue Hausregeln: Diese Aufgaben müssen Airbnb-Mieter künftig nicht mehr erledigen",
-        "summary": "Geschirr spülen, Bett abziehen, Müll rausbringen: Viele Airbnb-Vermieter fordern von ihren Gästen vor dem Verlassen der Unterkunft noch einige Arbeiten.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/airbnb-mieter-muessen-kuenftig-vor-dem-auszug-nicht-mehr-geschirr-spuelen-oder-muell-rausbringen-accg-201611227.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "Aktien: Norwegens Staatsfonds verliert 0,5 Prozent – und will trotzdem mehr Risiko eingehen",
-        "summary": "Steigende Zinsen belasteten zuletzt die Anleihen des größten Staatsfonds der Welt.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/aktien-norwegens-staatsfonds-verliert-05-prozent-an-wert/100264164.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "The 'trillion pound' oil fund the government believes Britain could have built",
-        "summary": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
-        "link": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
-      },
-      {
         "title": "Auswanderungsziel: Die Schweiz ist aus guten Gründen das Sehnsuchtsland der Deutschen",
         "summary": "Das Nachbarland lockt mit attraktiven Jobs und hohen Löhnen viele Deutsche an.",
         "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/warum-die-schweiz-das-topauswanderungsziel-fuer-deutsche-ist-201290826.html",
@@ -155,17 +113,65 @@
         "category": ""
       },
       {
-        "title": "Immobilien: Generation Z: 80 Prozent wünschen sich ein Eigenheim",
-        "summary": "Eine Studie des Kreditvermittlers Interhyp zeigt: Junge Menschen streben besonders vehement ins Eigentum – wobei das durch die Zinsentwicklung immer schwerer wird.",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/generation-z-80-prozent-wuenschen-sich-eine-eigene-immobilie/100263873.html",
+        "title": "Banken: Verdi ruft zu bundesweiten Warnstreiks bei privaten Banken auf",
+        "summary": "Damit solle der Druck auf die Arbeitgeber vor der zweiten Verhandlungsrunde am 2.",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-verdi-ruft-zu-bundesweiten-warnstreiks-bei-privaten-banken-auf/100264474.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Is an 'AI war' complicating your job search?",
-        "summary": "How fair are AI recruitment tools that help decide our future, and what happens when we click \"apply\"?",
-        "link": "https://www.bbc.co.uk/news/articles/cm9qzgg5z89no?at_medium=RSS&at_campaign=rss",
+        "title": "Lights will stay on this winter, grid operator says after concerns",
+        "summary": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
+        "link": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
+        "title": "Ökonom Tom Krebs: „Der neoliberale Kapitalismus ist am Ende“",
+        "summary": "Der Ökonom Tom Krebs sieht Deutschland in der schwersten Wirtschaftskrise der Nachkriegszeit.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/der-neoliberale-kapitalismus-ist-am-ende-oekonom-tom-krebs-zur-wirtschaftskrise-accg-201607336.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "Atomkraft: Finnland: Regierung genehmigt Endlager für Atommüll",
+        "summary": "Die Endlagerung soll rund hundert Jahre dauern – danach wird das Lager verschlossen.",
+        "link": "https://www.handelsblatt.com/politik/international/atomkraft-finnland-genehmigt-erstes-unterirdisches-endlager-fuer-atommuell/100264466.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
+        "summary": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years.",
+        "link": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
+        "title": "Baseballschläger und Barrikaden: Frankreichs Ladenbesitzer rüsten sich gegen Randalierer",
+        "summary": "Fürs Wochenende sind in Frankreich wieder Proteste angesagt.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/gelbwesten-in-paris-haendler-fuerchten-erneute-pluenderungen-accg-201611630.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "Dax aktuell: Dax notiert im Minus – Ölpreise steigen wegen neuer Eskalation im Nahen Osten",
+        "summary": "Sorgen um Tech-Aktien, Frankreichs Finanzlage und steigende Ölpreise belasten die Märkte.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-im-minus-oelpreise-steigen-wegen-neuer-eskalation/100264417.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+        "summary": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+        "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -174,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": "Quellen nicht erreichbar: NASA Breaking News",
+    "error": null,
     "data": [
       {
-        "title": "Surprise! White dwarf stars come in a rainbow of colours",
-        "summary": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03319-1 Analysis of some nearby stars shows that, despite their name, these bodies can be pink, yellow and more.",
-        "link": "https://www.nature.com/articles/d41586-026-03319-1",
-        "source": "Nature News",
-        "publisher": "Nature",
-        "category": "Forschung"
+        "title": "Birds are more afraid of women than men. Scientists have no idea why",
+        "summary": "Scientists have uncovered a strange pattern in urban bird behavior: Across five European countries and 37 species, birds consistently fled sooner when approached by women than men.",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261021231250.htm",
+        "source": "ScienceDaily – Tiere",
+        "publisher": "ScienceDaily",
+        "category": "Biologie"
       },
       {
-        "title": "AI’s hidden storage bill: What inference leaves behind",
-        "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon.",
-        "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-        "source": "MIT Technology Review",
-        "publisher": "MIT",
-        "category": "Technologie"
+        "title": "These 15 Adorable Photos of Pandas Will Make You Want to Visit the Zoo Immediately",
+        "summary": "Members of the fluffy and adorable but vulnerable species are often cared for in zoos and breeding centers around the world, and these snapshots may make you jealous of the caretakers’ jobs",
+        "link": "https://www.smithsonianmag.com/science-nature/these-15-adorable-photos-of-pandas-will-make-you-want-to-visit-the-zoo-immediately-180989606/",
+        "source": "Smithsonian",
+        "publisher": "Smithsonian",
+        "category": "Wissenschaft"
       },
       {
-        "title": "The rejuvenating secrets of the immortal jellyfish",
-        "summary": "This tiny organism can undergo a remarkable rejuvenation",
-        "link": "https://www.bbc.com/future/article/20261016-the-rejuvenating-secrets-of-the-immortal-jellyfish?ocid=global_future_rss",
-        "source": "BBC Future",
-        "publisher": "BBC",
-        "category": "Zukunft"
+        "title": "First Death Marker on the Trail of Death in Rochester, Indiana",
+        "summary": "The first death during the forced removal and march was that of a child on September 5, 1838.",
+        "link": "https://www.atlasobscura.com/places/first-death-marker-on-the-trail-of-death",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
       }
     ]
   }

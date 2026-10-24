@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T09:47:28+00:00",
-  "date_label": "Friday, 23. October 2026",
+  "generated_at": "2026-10-24T09:20:33+00:00",
+  "date_label": "Saturday, 24. October 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,26 +8,26 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25179.2207,
-        "change_pct": -0.76
+        "price": 25181.6504,
+        "change_pct": -0.75
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7663.4302,
-        "change_pct": -1.21
+        "price": 7623.6802,
+        "change_pct": -0.52
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26008.8594,
-        "change_pct": -2.6
+        "price": 25955.3398,
+        "change_pct": -0.21
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6050.3999,
-        "change_pct": -0.6
+        "price": 6068.2202,
+        "change_pct": -0.31
       },
       {
         "name": "Nikkei 225",
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 72836,
-        "usd": 81567,
-        "change_24h_pct": 0.05
+        "eur": 71876,
+        "usd": 80530,
+        "change_24h_pct": -1.52
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2139.34,
-        "usd": 2395.78,
-        "change_24h_pct": 0.13
+        "eur": 2107.94,
+        "usd": 2361.74,
+        "change_24h_pct": -1.76
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1203,
-        "change_pct": -0.28
+        "price": 1.1204,
+        "change_pct": -0.27
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.837,
-        "change_pct": -0.2
+        "price": 0.8376,
+        "change_pct": 0.06
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9201,
-        "change_pct": -0.61
+        "price": 0.9237,
+        "change_pct": 0.41
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 156.561,
-        "change_pct": -0.99
+        "price": 156.814,
+        "change_pct": -0.83
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 175.348,
-        "change_pct": -1.3
+        "price": 175.5,
+        "change_pct": -0.06
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.953,
-        "change_pct": -3.75,
+        "price": 4.988,
+        "change_pct": 0.71,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Auswanderungsziel: Die Schweiz ist aus guten Gründen das Sehnsuchtsland der Deutschen",
-        "summary": "Das Nachbarland lockt mit attraktiven Jobs und hohen Löhnen viele Deutsche an.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/warum-die-schweiz-das-topauswanderungsziel-fuer-deutsche-ist-201290826.html",
+        "title": "Aus für Abscheidung: Herber Rückschlag für den Umbau der Industrie",
+        "summary": "Heidelberg Materials hat seine Pläne für das erste klimaneutrale Zementwerk Deutschlands auf Eis gelegt.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/klimaschutz-herber-rueckschlag-fuer-die-co2-abscheidung-201615574.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Banken: Verdi ruft zu bundesweiten Warnstreiks bei privaten Banken auf",
-        "summary": "Damit solle der Druck auf die Arbeitgeber vor der zweiten Verhandlungsrunde am 2.",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-verdi-ruft-zu-bundesweiten-warnstreiks-bei-privaten-banken-auf/100264474.html",
+        "title": "Wahlen in Serbien: Nach zweijährigen Protesten – Studentenliste könnte stärkste Kraft in Serbien werden",
+        "summary": "Es zeichnet sich ein knapper Wahlausgang ab.",
+        "link": "https://www.handelsblatt.com/politik/international/wahlen-in-serbien-studentenliste-koennte-staerkste-kraft-in-serbien-werden/100264437.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Lights will stay on this winter, grid operator says after concerns",
-        "summary": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
-        "link": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+        "title": "How does the UK state pension compare with other countries?",
+        "summary": "Do British pensioners have it better or worse than those in other countries?",
+        "link": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Ökonom Tom Krebs: „Der neoliberale Kapitalismus ist am Ende“",
-        "summary": "Der Ökonom Tom Krebs sieht Deutschland in der schwersten Wirtschaftskrise der Nachkriegszeit.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/der-neoliberale-kapitalismus-ist-am-ende-oekonom-tom-krebs-zur-wirtschaftskrise-accg-201607336.html",
+        "title": "Bildung und Kinderarmut: In den Schulen das Gold der Kinder schürfen",
+        "summary": "Damit der Wohlstand in Deutschland zunimmt, braucht es gute Bildungseinrichtungen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/bildung-heisst-auch-in-kluge-koepfe-zu-investieren-accg-201612105.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Atomkraft: Finnland: Regierung genehmigt Endlager für Atommüll",
-        "summary": "Die Endlagerung soll rund hundert Jahre dauern – danach wird das Lager verschlossen.",
-        "link": "https://www.handelsblatt.com/politik/international/atomkraft-finnland-genehmigt-erstes-unterirdisches-endlager-fuer-atommuell/100264466.html",
+        "title": "Luftfahrt: Boeing stoppt Produktion des Frachters 777",
+        "summary": "Der Grund für die Stilllegung sei Insidern zufolge ein Streit mit dem Zulieferer.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/luftfahrt-boeing-stoppt-produktion-des-frachters-777/100264660.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
-        "summary": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years.",
-        "link": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
+        "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+        "summary": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+        "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Baseballschläger und Barrikaden: Frankreichs Ladenbesitzer rüsten sich gegen Randalierer",
-        "summary": "Fürs Wochenende sind in Frankreich wieder Proteste angesagt.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/gelbwesten-in-paris-haendler-fuerchten-erneute-pluenderungen-accg-201611630.html",
+        "title": "Gefahr im Herbst: Wildunfälle verursachen Milliarden-Schaden an Autos",
+        "summary": "Fast alle zwei Minuten kommt es in Deutschland zu einem Wildunfall.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/wildunfaelle-verursachen-milliarden-schaden-an-autos-accg-201617284.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Dax aktuell: Dax notiert im Minus – Ölpreise steigen wegen neuer Eskalation im Nahen Osten",
-        "summary": "Sorgen um Tech-Aktien, Frankreichs Finanzlage und steigende Ölpreise belasten die Märkte.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-im-minus-oelpreise-steigen-wegen-neuer-eskalation/100264417.html",
+        "title": "Israel: Netanjahu könnte die Wahl verlieren – und dennoch regieren",
+        "summary": "Laut allen Umfragen der vergangenen Monate verliert Israels Premier seine Mehrheit.",
+        "link": "https://www.handelsblatt.com/politik/international/israel-netanjahu-koennte-die-wahl-verlieren-und-dennoch-regieren/100260417.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-        "summary": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
-        "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+        "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
+        "summary": "Kashim Chowdhury denied being dishonest when not telling employers he had other jobs.",
+        "link": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,28 +183,28 @@
     "error": null,
     "data": [
       {
-        "title": "Birds are more afraid of women than men. Scientists have no idea why",
-        "summary": "Scientists have uncovered a strange pattern in urban bird behavior: Across five European countries and 37 species, birds consistently fled sooner when approached by women than men.",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261021231250.htm",
-        "source": "ScienceDaily – Tiere",
-        "publisher": "ScienceDaily",
-        "category": "Biologie"
+        "title": "The Download: testing six tech promises and biotech’s blind spots",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+        "link": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+        "source": "MIT Technology Review",
+        "publisher": "MIT",
+        "category": "Technologie"
       },
       {
-        "title": "These 15 Adorable Photos of Pandas Will Make You Want to Visit the Zoo Immediately",
-        "summary": "Members of the fluffy and adorable but vulnerable species are often cared for in zoos and breeding centers around the world, and these snapshots may make you jealous of the caretakers’ jobs",
-        "link": "https://www.smithsonianmag.com/science-nature/these-15-adorable-photos-of-pandas-will-make-you-want-to-visit-the-zoo-immediately-180989606/",
-        "source": "Smithsonian",
-        "publisher": "Smithsonian",
-        "category": "Wissenschaft"
+        "title": "Elizabeth Holmes film enthralls — but her legacy haunts science",
+        "summary": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03383-7 You Can See Everything brings blood-testing start-ups back into the public eye.",
+        "link": "https://www.nature.com/articles/d41586-026-03383-7",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
       },
       {
-        "title": "First Death Marker on the Trail of Death in Rochester, Indiana",
-        "summary": "The first death during the forced removal and march was that of a child on September 5, 1838.",
-        "link": "https://www.atlasobscura.com/places/first-death-marker-on-the-trail-of-death",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
+        "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
+        "summary": "NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface.",
+        "link": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
+        "source": "NASA Breaking News",
+        "publisher": "NASA",
+        "category": "Raumfahrt"
       }
     ]
   }

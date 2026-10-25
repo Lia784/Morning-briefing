@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T09:20:33+00:00",
-  "date_label": "Saturday, 24. October 2026",
+  "generated_at": "2026-10-25T09:37:38+00:00",
+  "date_label": "Sunday, 25. October 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 71876,
-        "usd": 80530,
-        "change_24h_pct": -1.52
+        "eur": 71511,
+        "usd": 80121,
+        "change_24h_pct": -0.45
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2107.94,
-        "usd": 2361.74,
-        "change_24h_pct": -1.76
+        "eur": 2073.28,
+        "usd": 2322.9,
+        "change_24h_pct": -1.52
       }
     ]
   },
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Aus für Abscheidung: Herber Rückschlag für den Umbau der Industrie",
-        "summary": "Heidelberg Materials hat seine Pläne für das erste klimaneutrale Zementwerk Deutschlands auf Eis gelegt.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/klimaschutz-herber-rueckschlag-fuer-die-co2-abscheidung-201615574.html",
+        "title": "Krise der Schulen: Bildung? Uns doch egal!",
+        "summary": "Deutschlands Schüler lernen so wenig wie nie – doch niemanden regt es auf.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/deutschlands-bildungsmisere-warum-kaum-jemand-aufbegehrt-accg-201231694.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Wahlen in Serbien: Nach zweijährigen Protesten – Studentenliste könnte stärkste Kraft in Serbien werden",
-        "summary": "Es zeichnet sich ein knapper Wahlausgang ab.",
-        "link": "https://www.handelsblatt.com/politik/international/wahlen-in-serbien-studentenliste-koennte-staerkste-kraft-in-serbien-werden/100264437.html",
+        "title": "Interview: Michael Traub: „Stihl wird der ,last man standing‘ sein.“",
+        "summary": "Der Chef erklärt, warum Stihl die Elektrifizierung besser schafft als die Autoindustrie, Akkus in Rumänien baut und wie er die Transformation des 100 Jahre alten Unternehmens vorantreibt.",
+        "link": "https://www.handelsblatt.com/unternehmen/mittelstand/familienunternehmer/interview-michael-traub-stihl-wird-der-last-man-standing-sein/100262271.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "How does the UK state pension compare with other countries?",
-        "summary": "Do British pensioners have it better or worse than those in other countries?",
-        "link": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
+        "title": "Four ways Labour could raise money in the Budget without hiking income tax",
+        "summary": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table.",
+        "link": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Bildung und Kinderarmut: In den Schulen das Gold der Kinder schürfen",
-        "summary": "Damit der Wohlstand in Deutschland zunimmt, braucht es gute Bildungseinrichtungen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/bildung-heisst-auch-in-kluge-koepfe-zu-investieren-accg-201612105.html",
+        "title": "Proteinreiche Ernährung: Erlebt die Kuhmilch eine Renaissance?",
+        "summary": "Zuletzt wirkte das Glas Milch am Morgen wie ein veraltetes Ritual.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/trend-zur-proteinreichen-ernaehrung-das-comeback-der-kuhmilch-accg-201317468.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Luftfahrt: Boeing stoppt Produktion des Frachters 777",
-        "summary": "Der Grund für die Stilllegung sei Insidern zufolge ein Streit mit dem Zulieferer.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/luftfahrt-boeing-stoppt-produktion-des-frachters-777/100264660.html",
+        "title": "Brasilien: Manipuliert Meta den Wahlkampf zugunsten von Bolsonaro?",
+        "summary": "Kurz vor der Stichwahl um das Präsidentenamt in Brasilien gerät der Technologiekonzern unter Verdacht.",
+        "link": "https://www.handelsblatt.com/politik/international/brasilien-manipuliert-meta-den-wahlkampf-zugunsten-von-bolsonaro/100264546.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-        "summary": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
-        "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+        "title": "Budget to include £1bn for social and affordable housing",
+        "summary": "The move will take funding for the 10-year programme to more than £40bn.",
+        "link": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Gefahr im Herbst: Wildunfälle verursachen Milliarden-Schaden an Autos",
-        "summary": "Fast alle zwei Minuten kommt es in Deutschland zu einem Wildunfall.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/wildunfaelle-verursachen-milliarden-schaden-an-autos-accg-201617284.html",
+        "title": "Deutsche AutoIndustrie: Audi baut für vier Milliarden Dollar ein eigenes Werk in den USA",
+        "summary": "Audi verliert wegen Trumps Zöllen viel Geld in den USA.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/audi-kuendigt-auf-trump-wahlkampfveranstaltung-sein-erstes-us-werk-an-accg-201618697.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Israel: Netanjahu könnte die Wahl verlieren – und dennoch regieren",
-        "summary": "Laut allen Umfragen der vergangenen Monate verliert Israels Premier seine Mehrheit.",
-        "link": "https://www.handelsblatt.com/politik/international/israel-netanjahu-koennte-die-wahl-verlieren-und-dennoch-regieren/100260417.html",
+        "title": "Handel: Russische Metro-Tochter spendet Millionen für Krieg gegen Ukraine",
+        "summary": "Die Russland-Tochter der Metro steht seit einem Monat unter Putins Zwangsverwaltung.",
+        "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/handel-russische-metro-tochter-spendet-millionen-fuer-krieg-gegen-ukraine/100264760.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
-        "summary": "Kashim Chowdhury denied being dishonest when not telling employers he had other jobs.",
-        "link": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
+        "title": "Rosebank: Life on the oil field at the centre of a political storm",
+        "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+        "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,28 +183,28 @@
     "error": null,
     "data": [
       {
-        "title": "The Download: testing six tech promises and biotech’s blind spots",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
-        "link": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
-        "source": "MIT Technology Review",
-        "publisher": "MIT",
-        "category": "Technologie"
+        "title": "Your blood could reveal inflammatory bowel disease 10 years before diagnosis",
+        "summary": "A major study has uncovered hidden warning signs of inflammatory bowel disease in the blood up to 10 years before diagnosis.",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261023023713.htm",
+        "source": "ScienceDaily – Gesundheit",
+        "publisher": "ScienceDaily",
+        "category": "Medizin"
       },
       {
-        "title": "Elizabeth Holmes film enthralls — but her legacy haunts science",
-        "summary": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03383-7 You Can See Everything brings blood-testing start-ups back into the public eye.",
-        "link": "https://www.nature.com/articles/d41586-026-03383-7",
-        "source": "Nature News",
-        "publisher": "Nature",
-        "category": "Forschung"
+        "title": "Castillo de los Tres Santos Reyes del Morro (Morro Castle) in Havana, Cuba",
+        "summary": "Every night at 9:00 PM a reenactment of Colonial Spanish soldiers from the 18th century preform a ceremony to light a cannon.",
+        "link": "https://www.atlasobscura.com/places/castillo-de-los-tres-santos-reyes-del-morro-morro-castle",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
       },
       {
-        "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
-        "summary": "NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface.",
-        "link": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
-        "source": "NASA Breaking News",
-        "publisher": "NASA",
-        "category": "Raumfahrt"
+        "title": "Five Discoveries That Changed Our Understanding of T. Rex Forever, From Warm Blood to Lips",
+        "summary": "Paleontologists are still unraveling the secrets of the world’s most famous dinosaur, such as its outward appearance or the way that it hunted.",
+        "link": "https://www.smithsonianmag.com/science-nature/five-discoveries-that-changed-our-understanding-of-t-rex-forever-from-warm-blood-to-lips-180989634/",
+        "source": "Smithsonian",
+        "publisher": "Smithsonian",
+        "category": "Wissenschaft"
       }
     ]
   }

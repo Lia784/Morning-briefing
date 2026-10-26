@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T09:37:38+00:00",
-  "date_label": "Sunday, 25. October 2026",
+  "generated_at": "2026-10-26T10:49:54+00:00",
+  "date_label": "Monday, 26. October 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,8 +8,8 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25181.6504,
-        "change_pct": -0.75
+        "price": 25387.9492,
+        "change_pct": 0.82
       },
       {
         "name": "S&P 500",
@@ -26,14 +26,14 @@
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6068.2202,
-        "change_pct": -0.31
+        "price": 6092.2202,
+        "change_pct": 0.4
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 62693.1602,
-        "change_pct": -0.34
+        "price": 62189.6484,
+        "change_pct": -0.8
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 71511,
-        "usd": 80121,
-        "change_24h_pct": -0.45
+        "eur": 71714,
+        "usd": 80327,
+        "change_24h_pct": 0.23
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2073.28,
-        "usd": 2322.9,
-        "change_24h_pct": -1.52
+        "eur": 2078.34,
+        "usd": 2327.92,
+        "change_24h_pct": 0.31
       }
     ]
   },
@@ -64,32 +64,32 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1204,
-        "change_pct": -0.27
+        "price": 1.1202,
+        "change_pct": -0.17
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8376,
-        "change_pct": 0.06
+        "price": 0.839,
+        "change_pct": 0.23
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9237,
-        "change_pct": 0.41
+        "price": 0.9247,
+        "change_pct": 0.51
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 156.814,
-        "change_pct": -0.83
+        "price": 157.364,
+        "change_pct": 0.56
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 175.5,
-        "change_pct": -0.06
+        "price": 176.236,
+        "change_pct": 0.36
       },
       {
         "name": "US 10Y Rendite",
@@ -113,17 +113,17 @@
         "category": ""
       },
       {
-        "title": "Interview: Michael Traub: „Stihl wird der ,last man standing‘ sein.“",
-        "summary": "Der Chef erklärt, warum Stihl die Elektrifizierung besser schafft als die Autoindustrie, Akkus in Rumänien baut und wie er die Transformation des 100 Jahre alten Unternehmens vorantreibt.",
-        "link": "https://www.handelsblatt.com/unternehmen/mittelstand/familienunternehmer/interview-michael-traub-stihl-wird-der-last-man-standing-sein/100262271.html",
+        "title": "+++ Iran-Krieg +++: Vertreter aus Saudi-Arabien, Türkei und Pakistan im Iran angekommen",
+        "summary": "Katz: Israel plant vor Wahl keinen Angriff auf Iran +++ Huthi-Rebellen melden Angriffe auf saudische Ölanlagen +++ Rekordhoch bei Angriffen auf Schiffe in Straße von Hormus +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/international/iran-krieg-vertreter-aus-saudi-arabien-tuerkei-und-pakistan-im-iran-angekommen/100136895.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Four ways Labour could raise money in the Budget without hiking income tax",
-        "summary": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table.",
-        "link": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
+        "title": "Healey to shield low-income pensioners from income tax in the Budget",
+        "summary": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April.",
+        "link": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -137,41 +137,41 @@
         "category": ""
       },
       {
-        "title": "Brasilien: Manipuliert Meta den Wahlkampf zugunsten von Bolsonaro?",
-        "summary": "Kurz vor der Stichwahl um das Präsidentenamt in Brasilien gerät der Technologiekonzern unter Verdacht.",
-        "link": "https://www.handelsblatt.com/politik/international/brasilien-manipuliert-meta-den-wahlkampf-zugunsten-von-bolsonaro/100264546.html",
+        "title": "Leapmotor: „Wir setzen nicht einfach Teile zusammen, die aus China kommen“",
+        "summary": "Der chinesische Autobauer fertigt über ein Joint Venture Fahrzeuge beim Partner Stellantis.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/leapmotor-wir-setzen-nicht-einfach-teile-zusammen-die-aus-china-kommen-1/100263433.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Budget to include £1bn for social and affordable housing",
-        "summary": "The move will take funding for the 10-year programme to more than £40bn.",
-        "link": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
+        "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+        "summary": "The economic is positive now but come January things could become trickier for the Labour government",
+        "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Deutsche AutoIndustrie: Audi baut für vier Milliarden Dollar ein eigenes Werk in den USA",
-        "summary": "Audi verliert wegen Trumps Zöllen viel Geld in den USA.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/audi-kuendigt-auf-trump-wahlkampfveranstaltung-sein-erstes-us-werk-an-accg-201618697.html",
+        "title": "Sinkende Verkaufszahlen: So schlimm ist die Autokrise",
+        "summary": "Die drei deutschen Autohersteller BMW, Mercedes und Volkswagen erleiden im Branchenvergleich besonders starke Einbußen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/autokrise-vw-bmw-und-mercedes-verlieren-780-000-fahrzeuge-accg-201614859.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Handel: Russische Metro-Tochter spendet Millionen für Krieg gegen Ukraine",
-        "summary": "Die Russland-Tochter der Metro steht seit einem Monat unter Putins Zwangsverwaltung.",
-        "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/handel-russische-metro-tochter-spendet-millionen-fuer-krieg-gegen-ukraine/100264760.html",
+        "title": "Industrie: Camper und Bulli sind nicht genug – VW prüft Bau von Militär-Lkw in Hannover",
+        "summary": "Um das dortige Werk besser auszulasten, hat der VW-Konzern Gespräche mit dem tschechischen Rüstungskonzern CSG begonnen.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/industrie-vw-prueft-den-bau-von-militaer-lkw-in-hannover/100264463.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Rosebank: Life on the oil field at the centre of a political storm",
-        "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
-        "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+        "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
+        "summary": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact.",
+        "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,28 +183,28 @@
     "error": null,
     "data": [
       {
-        "title": "Your blood could reveal inflammatory bowel disease 10 years before diagnosis",
-        "summary": "A major study has uncovered hidden warning signs of inflammatory bowel disease in the blood up to 10 years before diagnosis.",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261023023713.htm",
-        "source": "ScienceDaily – Gesundheit",
-        "publisher": "ScienceDaily",
-        "category": "Medizin"
+        "title": "ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2",
+        "summary": "Nature, Published online: 25 October 2026; doi:10.1038/s41586-026-11328-3 ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2",
+        "link": "https://www.nature.com/articles/s41586-026-11328-3",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
       },
       {
-        "title": "Castillo de los Tres Santos Reyes del Morro (Morro Castle) in Havana, Cuba",
-        "summary": "Every night at 9:00 PM a reenactment of Colonial Spanish soldiers from the 18th century preform a ceremony to light a cannon.",
-        "link": "https://www.atlasobscura.com/places/castillo-de-los-tres-santos-reyes-del-morro-morro-castle",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
+        "title": "The Foundations of Scalable AI",
+        "summary": "A scalable AI system requires a strong foundation.",
+        "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+        "source": "MIT Technology Review",
+        "publisher": "MIT",
+        "category": "Technologie"
       },
       {
-        "title": "Five Discoveries That Changed Our Understanding of T. Rex Forever, From Warm Blood to Lips",
-        "summary": "Paleontologists are still unraveling the secrets of the world’s most famous dinosaur, such as its outward appearance or the way that it hunted.",
-        "link": "https://www.smithsonianmag.com/science-nature/five-discoveries-that-changed-our-understanding-of-t-rex-forever-from-warm-blood-to-lips-180989634/",
-        "source": "Smithsonian",
-        "publisher": "Smithsonian",
-        "category": "Wissenschaft"
+        "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
+        "summary": "NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface.",
+        "link": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
+        "source": "NASA Breaking News",
+        "publisher": "NASA",
+        "category": "Raumfahrt"
       }
     ]
   }

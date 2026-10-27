@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T10:49:54+00:00",
-  "date_label": "Monday, 26. October 2026",
+  "generated_at": "2026-10-27T10:15:41+00:00",
+  "date_label": "Tuesday, 27. October 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25387.9492,
-        "change_pct": 0.82
+        "price": 25426.9199,
+        "change_pct": 0.06
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7623.6802,
-        "change_pct": -0.52
+        "price": 7676.77,
+        "change_pct": 0.7
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25955.3398,
-        "change_pct": -0.21
+        "price": 26169.3809,
+        "change_pct": 0.82
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6092.2202,
-        "change_pct": 0.4
+        "price": 6118.6802,
+        "change_pct": 0.04
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 62189.6484,
-        "change_pct": -0.8
+        "price": 63268.3711,
+        "change_pct": 1.73
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 71714,
-        "usd": 80327,
-        "change_24h_pct": 0.23
+        "eur": 71322,
+        "usd": 79462,
+        "change_24h_pct": -0.58
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2078.34,
-        "usd": 2327.92,
-        "change_24h_pct": 0.31
+        "eur": 2062.81,
+        "usd": 2298.23,
+        "change_24h_pct": -0.8
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1202,
-        "change_pct": -0.17
+        "price": 1.1146,
+        "change_pct": -0.64
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.839,
-        "change_pct": 0.23
+        "price": 0.8365,
+        "change_pct": -0.24
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9247,
-        "change_pct": 0.51
+        "price": 0.9227,
+        "change_pct": -0.15
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 157.364,
-        "change_pct": 0.56
+        "price": 157.759,
+        "change_pct": 0.59
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 176.236,
-        "change_pct": 0.36
+        "price": 175.748,
+        "change_pct": -0.1
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.988,
-        "change_pct": 0.71,
+        "price": 4.986,
+        "change_pct": -0.04,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Krise der Schulen: Bildung? Uns doch egal!",
-        "summary": "Deutschlands Schüler lernen so wenig wie nie – doch niemanden regt es auf.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/deutschlands-bildungsmisere-warum-kaum-jemand-aufbegehrt-accg-201231694.html",
+        "title": "Altersmedizinerin Polidori: „Ein Drittel der Pflegefälle könnte man vermeiden – oder um Jahre hinauszögern“",
+        "summary": "Die Zahl der Senioren steigt rasant.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/die-altersforscherin-cristina-polidori-ueber-hohe-lebenserwartung-accg-201611619.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "+++ Iran-Krieg +++: Vertreter aus Saudi-Arabien, Türkei und Pakistan im Iran angekommen",
-        "summary": "Katz: Israel plant vor Wahl keinen Angriff auf Iran +++ Huthi-Rebellen melden Angriffe auf saudische Ölanlagen +++ Rekordhoch bei Angriffen auf Schiffe in Straße von Hormus +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/international/iran-krieg-vertreter-aus-saudi-arabien-tuerkei-und-pakistan-im-iran-angekommen/100136895.html",
+        "title": "Altersvorsorge: Wie sich der Riester-Nachfolger für Gutverdiener lohnen kann",
+        "summary": "In das Altersvorsorgedepot kann mehr eingezahlt werden, als für die Förderung notwendig ist.",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/steuersaetze-wie-gutverdiener-das-neue-altersvorsorgedepot-nutzen-koennen/100222434.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Healey to shield low-income pensioners from income tax in the Budget",
-        "summary": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April.",
-        "link": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
+        "title": "I'm a single mum on £41,000 and limit my weekly shop to £40 - it's hard",
+        "summary": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+        "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Proteinreiche Ernährung: Erlebt die Kuhmilch eine Renaissance?",
-        "summary": "Zuletzt wirkte das Glas Milch am Morgen wie ein veraltetes Ritual.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/trend-zur-proteinreichen-ernaehrung-das-comeback-der-kuhmilch-accg-201317468.html",
+        "title": "KI-Boom: Wer sind Chinas neue Superreiche?",
+        "summary": "Einmal im Jahr benennt der „Hurun“-Report Chinas Superreiche.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/neben-tiktok-gruender-wer-sind-chinas-neue-superreiche-accg-201624950.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Leapmotor: „Wir setzen nicht einfach Teile zusammen, die aus China kommen“",
-        "summary": "Der chinesische Autobauer fertigt über ein Joint Venture Fahrzeuge beim Partner Stellantis.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/leapmotor-wir-setzen-nicht-einfach-teile-zusammen-die-aus-china-kommen-1/100263433.html",
+        "title": "Immobilien: So können Gutverdiener beim Kauf von Neubauwohnungen viele Steuern sparen",
+        "summary": "Über steuerliche Abschreibungen können Immobilieninvestoren viel Geld zurückbekommen.",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wie-gutverdiener-mit-neubauwohnungen-steuern-sparen-koennen/100193212.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
-        "summary": "The economic is positive now but come January things could become trickier for the Labour government",
-        "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+        "title": "Budget measures to include fuel duty freeze and food tariff cuts",
+        "summary": "The BBC understands the government will also freeze fuel duty again in the Budget.",
+        "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Sinkende Verkaufszahlen: So schlimm ist die Autokrise",
-        "summary": "Die drei deutschen Autohersteller BMW, Mercedes und Volkswagen erleiden im Branchenvergleich besonders starke Einbußen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/autokrise-vw-bmw-und-mercedes-verlieren-780-000-fahrzeuge-accg-201614859.html",
+        "title": "Asien-Pazifik-KonferenZ: Deutschland trifft Boomland",
+        "summary": "Südkorea erlebt dank Künstlicher Intelligenz einen sagenhaften Aufschwung.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/deutschlands-wirtschaftselite-trifft-suedkoreas-boomland-in-seoul-accg-201620800.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Industrie: Camper und Bulli sind nicht genug – VW prüft Bau von Militär-Lkw in Hannover",
-        "summary": "Um das dortige Werk besser auszulasten, hat der VW-Konzern Gespräche mit dem tschechischen Rüstungskonzern CSG begonnen.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/industrie-vw-prueft-den-bau-von-militaer-lkw-in-hannover/100264463.html",
+        "title": "Autoindustrie: Porsche stabilisiert seine Rendite – das soll erst der Anfang sein",
+        "summary": "Vorstandschef Michael Leiters treibt die Neuausrichtung voran, doch zunächst erwartet Porsche ein hartes Jahr 2027.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/autobauer-porsche-stabilisiert-rendite-erwartet-2027-aber-den-tiefpunkt/100263515.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
-        "summary": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact.",
-        "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+        "title": "Donald Trump's biggest economic problem looks strangely familiar",
+        "summary": "Donald Trump heads into the US midterm elections with an issue similar to his political foe Joe Biden.",
+        "link": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,28 +183,28 @@
     "error": null,
     "data": [
       {
-        "title": "ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2",
-        "summary": "Nature, Published online: 25 October 2026; doi:10.1038/s41586-026-11328-3 ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2",
-        "link": "https://www.nature.com/articles/s41586-026-11328-3",
-        "source": "Nature News",
-        "publisher": "Nature",
-        "category": "Forschung"
-      },
-      {
-        "title": "The Foundations of Scalable AI",
-        "summary": "A scalable AI system requires a strong foundation.",
-        "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+        "title": "In the biotech world, you can’t see everything",
+        "summary": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really knowing what to expect.",
+        "link": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
         "source": "MIT Technology Review",
         "publisher": "MIT",
         "category": "Technologie"
       },
       {
-        "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
-        "summary": "NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface.",
-        "link": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
-        "source": "NASA Breaking News",
-        "publisher": "NASA",
-        "category": "Raumfahrt"
+        "title": "Nerve activity initiates autoimmune hair loss",
+        "summary": "Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03258-x Understanding the triggers of autoimmunity might lead to better therapies, with hair loss among the conditions for which underpinning factors hav…",
+        "link": "https://www.nature.com/articles/d41586-026-03258-x",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
+      },
+      {
+        "title": "How we can exercise more without even trying",
+        "summary": "Incidental activity can reduce our risk of cardiovascular disease and even death",
+        "link": "https://www.bbc.com/future/article/20261023-how-we-can-exercise-more-without-trying?ocid=global_future_rss",
+        "source": "BBC Future",
+        "publisher": "BBC",
+        "category": "Zukunft"
       }
     ]
   }

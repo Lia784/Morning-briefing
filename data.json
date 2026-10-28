@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T10:15:41+00:00",
-  "date_label": "Tuesday, 27. October 2026",
+  "generated_at": "2026-10-28T11:05:46+00:00",
+  "date_label": "Wednesday, 28. October 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25426.9199,
-        "change_pct": 0.06
+        "price": 25566.5605,
+        "change_pct": -0.09
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7676.77,
-        "change_pct": 0.7
+        "price": 7722.6001,
+        "change_pct": 0.6
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26169.3809,
-        "change_pct": 0.82
+        "price": 26477.8105,
+        "change_pct": 1.18
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6118.6802,
-        "change_pct": 0.04
+        "price": 6149.8301,
+        "change_pct": -0.24
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 63268.3711,
-        "change_pct": 1.73
+        "price": 63954.1914,
+        "change_pct": 1.08
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 71322,
-        "usd": 79462,
-        "change_24h_pct": -0.58
+        "eur": 73145,
+        "usd": 81363,
+        "change_24h_pct": 1.88
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2062.81,
-        "usd": 2298.23,
-        "change_24h_pct": -0.8
+        "eur": 2125.03,
+        "usd": 2363.77,
+        "change_24h_pct": 2.24
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1146,
-        "change_pct": -0.64
+        "price": 1.1125,
+        "change_pct": -0.44
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8365,
-        "change_pct": -0.24
+        "price": 0.8378,
+        "change_pct": 0.06
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9227,
-        "change_pct": -0.15
+        "price": 0.9236,
+        "change_pct": -0.13
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 157.759,
-        "change_pct": 0.59
+        "price": 157.92,
+        "change_pct": 0.25
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 175.748,
-        "change_pct": -0.1
+        "price": 175.648,
+        "change_pct": -0.21
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.986,
-        "change_pct": -0.04,
+        "price": 4.993,
+        "change_pct": 0.14,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Altersmedizinerin Polidori: „Ein Drittel der Pflegefälle könnte man vermeiden – oder um Jahre hinauszögern“",
-        "summary": "Die Zahl der Senioren steigt rasant.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/die-altersforscherin-cristina-polidori-ueber-hohe-lebenserwartung-accg-201611619.html",
+        "title": "Ökonom Tom Krebs: „Der neoliberale Kapitalismus ist am Ende“",
+        "summary": "Der Ökonom Tom Krebs sieht Deutschland in der schwersten Wirtschaftskrise der Nachkriegszeit.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/der-neoliberale-kapitalismus-ist-am-ende-oekonom-tom-krebs-zur-wirtschaftskrise-accg-201607336.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Altersvorsorge: Wie sich der Riester-Nachfolger für Gutverdiener lohnen kann",
-        "summary": "In das Altersvorsorgedepot kann mehr eingezahlt werden, als für die Förderung notwendig ist.",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/steuersaetze-wie-gutverdiener-das-neue-altersvorsorgedepot-nutzen-koennen/100222434.html",
+        "title": "Luftfahrt: Lufthansa und Fraport testen das Gate der Zukunft – so steigen Fluggäste demnächst in Frankfurt ein",
+        "summary": "Mit dem Gate A16 wollen Lufthansa und der Flughafenbetreiber Fraport das Boarding einfacher und digitaler gestalten.",
+        "link": "https://www.handelsblatt.com/unternehmen/dienstleister/luftfahrt-lufthansa-und-fraport-testen-das-gate-der-zukunft-in-frankfurt/100263317.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "I'm a single mum on £41,000 and limit my weekly shop to £40 - it's hard",
-        "summary": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+        "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
+        "summary": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they want to see in this year's Budget.",
         "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "KI-Boom: Wer sind Chinas neue Superreiche?",
-        "summary": "Einmal im Jahr benennt der „Hurun“-Report Chinas Superreiche.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/neben-tiktok-gruender-wer-sind-chinas-neue-superreiche-accg-201624950.html",
+        "title": "Abfindungsprogramme: Unter den Managern geht die Angst um",
+        "summary": "Ob BMW, Mercedes oder Siemens: In den besseren Jahren gab es eine regelrechte Chefinflation, jetzt wird im mittleren Management gespart.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/angst-im-management-bmw-mercedes-und-siemens-streichen-fuehrungsstellen-201528621.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Immobilien: So können Gutverdiener beim Kauf von Neubauwohnungen viele Steuern sparen",
-        "summary": "Über steuerliche Abschreibungen können Immobilieninvestoren viel Geld zurückbekommen.",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wie-gutverdiener-mit-neubauwohnungen-steuern-sparen-koennen/100193212.html",
+        "title": "Thyssenkrupp-Spinoff: 1,77 Milliarden Euro zum Börsenstart: TK Accelis bleibt bei Bewertung unter den Erwartungen",
+        "summary": "Mit dem Werkstoffhändler hat Thyssenkrupp einen weiteren Geschäftsbereich an die Börse gebracht.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/thyssenkrupp-tk-accelis-bleibt-bei-bewertung-unter-den-erwartungen/100265201.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Budget measures to include fuel duty freeze and food tariff cuts",
-        "summary": "The BBC understands the government will also freeze fuel duty again in the Budget.",
-        "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+        "title": "Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?",
+        "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+        "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Asien-Pazifik-KonferenZ: Deutschland trifft Boomland",
-        "summary": "Südkorea erlebt dank Künstlicher Intelligenz einen sagenhaften Aufschwung.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/deutschlands-wirtschaftselite-trifft-suedkoreas-boomland-in-seoul-accg-201620800.html",
+        "title": "Energiekrise: Warum ist der Strom doppelt so teuer wie zu Jahresbeginn?",
+        "summary": "Hohe Strompreise belasten Deutschland.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/strom-doppelt-so-teuer-wie-zu-jahresbeginn-accg-201621651.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Autoindustrie: Porsche stabilisiert seine Rendite – das soll erst der Anfang sein",
-        "summary": "Vorstandschef Michael Leiters treibt die Neuausrichtung voran, doch zunächst erwartet Porsche ein hartes Jahr 2027.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/autobauer-porsche-stabilisiert-rendite-erwartet-2027-aber-den-tiefpunkt/100263515.html",
+        "title": "Israel: Arabische Parteien wollen Netanjahus Ablösung ermöglichen",
+        "summary": "Arabische Parteien wurden in Israel von rechten jüdischen Parteien bislang weitgehend ausgegrenzt.",
+        "link": "https://www.handelsblatt.com/politik/international/israel-arabische-parteien-wollen-netanjahus-abloesung-ermoeglichen/100265552.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Donald Trump's biggest economic problem looks strangely familiar",
-        "summary": "Donald Trump heads into the US midterm elections with an issue similar to his political foe Joe Biden.",
-        "link": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
+        "title": "Workers should be able to know colleagues' salaries, rights body says",
+        "summary": "Employees should legally be able to find out what their co-workers are earning, the UK's equality watchdog says",
+        "link": "https://www.bbc.co.uk/news/articles/cmq8nwvj92jdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,28 +183,28 @@
     "error": null,
     "data": [
       {
-        "title": "In the biotech world, you can’t see everything",
-        "summary": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really knowing what to expect.",
-        "link": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+        "title": "Scientists discover a surprising clue to why some brains resist Alzheimer’s",
+        "summary": "Why do some people stay mentally sharp even when their brains show signs of Alzheimer’s disease?",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261025222538.htm",
+        "source": "ScienceDaily – Gesundheit",
+        "publisher": "ScienceDaily",
+        "category": "Medizin"
+      },
+      {
+        "title": "Five Discoveries That Changed Our Understanding of T. Rex Forever, From Warm Blood to Lips",
+        "summary": "Paleontologists are still unraveling the secrets of the world’s most famous dinosaur, such as its outward appearance or the way that it hunted.",
+        "link": "https://www.smithsonianmag.com/science-nature/five-discoveries-that-changed-our-understanding-of-t-rex-forever-from-warm-blood-to-lips-180989634/",
+        "source": "Smithsonian",
+        "publisher": "Smithsonian",
+        "category": "Wissenschaft"
+      },
+      {
+        "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+        "summary": "Every manufacturer has its own industrial intelligence.",
+        "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
         "source": "MIT Technology Review",
         "publisher": "MIT",
         "category": "Technologie"
-      },
-      {
-        "title": "Nerve activity initiates autoimmune hair loss",
-        "summary": "Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03258-x Understanding the triggers of autoimmunity might lead to better therapies, with hair loss among the conditions for which underpinning factors hav…",
-        "link": "https://www.nature.com/articles/d41586-026-03258-x",
-        "source": "Nature News",
-        "publisher": "Nature",
-        "category": "Forschung"
-      },
-      {
-        "title": "How we can exercise more without even trying",
-        "summary": "Incidental activity can reduce our risk of cardiovascular disease and even death",
-        "link": "https://www.bbc.com/future/article/20261023-how-we-can-exercise-more-without-trying?ocid=global_future_rss",
-        "source": "BBC Future",
-        "publisher": "BBC",
-        "category": "Zukunft"
       }
     ]
   }

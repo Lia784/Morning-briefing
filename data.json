@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T11:05:46+00:00",
-  "date_label": "Wednesday, 28. October 2026",
+  "generated_at": "2026-10-29T11:21:20+00:00",
+  "date_label": "Thursday, 29. October 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25566.5605,
-        "change_pct": -0.09
+        "price": 25954.1992,
+        "change_pct": 0.97
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7722.6001,
-        "change_pct": 0.6
+        "price": 7743.98,
+        "change_pct": 0.28
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26477.8105,
-        "change_pct": 1.18
+        "price": 26549.8496,
+        "change_pct": 0.27
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6149.8301,
-        "change_pct": -0.24
+        "price": 6186.0801,
+        "change_pct": 0.3
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 63954.1914,
-        "change_pct": 1.08
+        "price": 64659.4688,
+        "change_pct": 1.1
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 73145,
-        "usd": 81363,
-        "change_24h_pct": 1.88
+        "eur": 71844,
+        "usd": 80100,
+        "change_24h_pct": -1.66
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2125.03,
-        "usd": 2363.77,
-        "change_24h_pct": 2.24
+        "eur": 2082.71,
+        "usd": 2322.03,
+        "change_24h_pct": -1.81
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1125,
-        "change_pct": -0.44
+        "price": 1.1153,
+        "change_pct": 0.21
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8378,
-        "change_pct": 0.06
+        "price": 0.8365,
+        "change_pct": 0.05
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9236,
-        "change_pct": -0.13
+        "price": 0.9231,
+        "change_pct": 0.09
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 157.92,
-        "change_pct": 0.25
+        "price": 157.956,
+        "change_pct": -0.02
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 175.648,
-        "change_pct": -0.21
+        "price": 176.139,
+        "change_pct": 0.2
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.993,
-        "change_pct": 0.14,
+        "price": 5.045,
+        "change_pct": 1.04,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Ökonom Tom Krebs: „Der neoliberale Kapitalismus ist am Ende“",
-        "summary": "Der Ökonom Tom Krebs sieht Deutschland in der schwersten Wirtschaftskrise der Nachkriegszeit.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/der-neoliberale-kapitalismus-ist-am-ende-oekonom-tom-krebs-zur-wirtschaftskrise-accg-201607336.html",
+        "title": "Weltnaturkonferenz: Finales Ringen um den Naturschutz",
+        "summary": "Am Freitag endet die Weltnaturkonferenz.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/weltnaturkonferenz-roswall-fordert-mehr-geld-fuer-naturschutz-accg-201630513.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Luftfahrt: Lufthansa und Fraport testen das Gate der Zukunft – so steigen Fluggäste demnächst in Frankfurt ein",
-        "summary": "Mit dem Gate A16 wollen Lufthansa und der Flughafenbetreiber Fraport das Boarding einfacher und digitaler gestalten.",
-        "link": "https://www.handelsblatt.com/unternehmen/dienstleister/luftfahrt-lufthansa-und-fraport-testen-das-gate-der-zukunft-in-frankfurt/100263317.html",
+        "title": "Autobauer: „Wir müssen schnell und entschlossen handeln“ – VW meldet Milliardenverlust im dritten Quartal",
+        "summary": "Als Grund nennt der Konzern Sondereffekte.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/autobauer-volkswagen-rutscht-wegen-porsche-und-china-in-die-roten-zahlen/100265266.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
-        "summary": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+        "title": "Poundland's future hangs in the balance as chain edges towards collapse",
+        "summary": "Poundland's bosses is filing a notice of intention to appoint administrators to the business.",
+        "link": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
+        "title": "Am 7. Februar 2027: EZB-Präsidentin Lagarde tritt im Februar vorzeitig zurück",
+        "summary": "Am 7.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/ezb-praesidentin-christine-lagarde-wird-im-februar-vorzeitig-abtreten-accg-201632334.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "Interbrand-Ranking: Deutsche Autobauer verlieren ein Fünftel ihres Markenwerts – Das sind die wertvollsten Marken der Welt",
+        "summary": "Die 100 wertvollsten Labels steigern ihren Wert doppelt so stark wie im Vorjahr.",
+        "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/unternehmen-deutsche-autobauer-zaehlen-zu-den-verlierern-im-markenranking/100263522.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+        "summary": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
         "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Abfindungsprogramme: Unter den Managern geht die Angst um",
-        "summary": "Ob BMW, Mercedes oder Siemens: In den besseren Jahren gab es eine regelrechte Chefinflation, jetzt wird im mittleren Management gespart.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/angst-im-management-bmw-mercedes-und-siemens-streichen-fuehrungsstellen-201528621.html",
+        "title": "Rüstungsbank DSRB: Wirtschaft warnt vor Finanzierungsengpässen im Rüstungsmittelstand",
+        "summary": "Deutschland zahlt Hunderte Milliarden Euro für die Aufrüstung.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/dsrb-wirtschaftsverbaende-fordern-deutschlands-beitritt-zur-ruestungsbank-accg-201631969.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Thyssenkrupp-Spinoff: 1,77 Milliarden Euro zum Börsenstart: TK Accelis bleibt bei Bewertung unter den Erwartungen",
-        "summary": "Mit dem Werkstoffhändler hat Thyssenkrupp einen weiteren Geschäftsbereich an die Börse gebracht.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/thyssenkrupp-tk-accelis-bleibt-bei-bewertung-unter-den-erwartungen/100265201.html",
+        "title": "+++ USA +++: Hegseth entlässt weiteres Generalstabsmitglied",
+        "summary": "Schlappe für Trump im Streit um 20.000 Wähler in Kalifornien +++ Trump bringt Venezuela als 51.",
+        "link": "https://www.handelsblatt.com/politik/international/usa-hegseth-entlaesst-weiteres-generalstabsmitglied/29669594.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?",
-        "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-        "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
-      },
-      {
-        "title": "Energiekrise: Warum ist der Strom doppelt so teuer wie zu Jahresbeginn?",
-        "summary": "Hohe Strompreise belasten Deutschland.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/strom-doppelt-so-teuer-wie-zu-jahresbeginn-accg-201621651.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "Israel: Arabische Parteien wollen Netanjahus Ablösung ermöglichen",
-        "summary": "Arabische Parteien wurden in Israel von rechten jüdischen Parteien bislang weitgehend ausgegrenzt.",
-        "link": "https://www.handelsblatt.com/politik/international/israel-arabische-parteien-wollen-netanjahus-abloesung-ermoeglichen/100265552.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "Workers should be able to know colleagues' salaries, rights body says",
-        "summary": "Employees should legally be able to find out what their co-workers are earning, the UK's equality watchdog says",
-        "link": "https://www.bbc.co.uk/news/articles/cmq8nwvj92jdo?at_medium=RSS&at_campaign=rss",
+        "title": "What we now know about the UK economy in four charts",
+        "summary": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
+        "link": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,28 +183,28 @@
     "error": null,
     "data": [
       {
-        "title": "Scientists discover a surprising clue to why some brains resist Alzheimer’s",
-        "summary": "Why do some people stay mentally sharp even when their brains show signs of Alzheimer’s disease?",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261025222538.htm",
-        "source": "ScienceDaily – Gesundheit",
+        "title": "Scientists discover Arctic sea ice loss could be far worse than predicted",
+        "summary": "Arctic winter sea ice could disappear much faster than scientists previously expected, according to new research using climate clues from 6,000 years ago.",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261022081259.htm",
+        "source": "ScienceDaily – Geowissenschaften",
         "publisher": "ScienceDaily",
-        "category": "Medizin"
+        "category": "Erde"
       },
       {
-        "title": "Five Discoveries That Changed Our Understanding of T. Rex Forever, From Warm Blood to Lips",
-        "summary": "Paleontologists are still unraveling the secrets of the world’s most famous dinosaur, such as its outward appearance or the way that it hunted.",
-        "link": "https://www.smithsonianmag.com/science-nature/five-discoveries-that-changed-our-understanding-of-t-rex-forever-from-warm-blood-to-lips-180989634/",
-        "source": "Smithsonian",
-        "publisher": "Smithsonian",
-        "category": "Wissenschaft"
+        "title": "The brain liquidates billions of mutant neurons around the time we’re born",
+        "summary": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03444-x Faulty neurons can contribute to various neurological conditions, but researchers have uncovered a system that might clean them up.",
+        "link": "https://www.nature.com/articles/d41586-026-03444-x",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
       },
       {
-        "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
-        "summary": "Every manufacturer has its own industrial intelligence.",
-        "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
-        "source": "MIT Technology Review",
-        "publisher": "MIT",
-        "category": "Technologie"
+        "title": "NASA University Challenge Ignites Trajectory of Drone Entrepreneur",
+        "summary": "Five years ago, Gavin Gardner was a Michigan State University engineering student researching next-generation drone technology as part of a NASA grant.",
+        "link": "https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur/",
+        "source": "NASA Breaking News",
+        "publisher": "NASA",
+        "category": "Raumfahrt"
       }
     ]
   }

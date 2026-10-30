@@ -1,39 +1,33 @@
 {
-  "generated_at": "2026-10-29T11:21:20+00:00",
-  "date_label": "Thursday, 29. October 2026",
+  "generated_at": "2026-10-30T11:13:41+00:00",
+  "date_label": "Friday, 30. October 2026",
   "indices": {
     "status": "ok",
-    "error": null,
+    "error": "Teilweise nicht verfügbar: ^GSPC",
     "data": [
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25954.1992,
-        "change_pct": 0.97
-      },
-      {
-        "name": "S&P 500",
-        "symbol": "^GSPC",
-        "price": 7743.98,
-        "change_pct": 0.28
+        "price": 25908.6797,
+        "change_pct": -0.5
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26549.8496,
-        "change_pct": 0.27
+        "price": 26184.7207,
+        "change_pct": -1.38
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6186.0801,
-        "change_pct": 0.3
+        "price": 6161.5601,
+        "change_pct": -0.73
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 64659.4688,
-        "change_pct": 1.1
+        "price": 63290.1094,
+        "change_pct": -2.12
       }
     ]
   },
@@ -44,16 +38,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 71844,
-        "usd": 80100,
-        "change_24h_pct": -1.66
+        "eur": 69302,
+        "usd": 77627,
+        "change_24h_pct": -3.53
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2082.71,
-        "usd": 2322.03,
-        "change_24h_pct": -1.81
+        "eur": 2002.46,
+        "usd": 2243.0,
+        "change_24h_pct": -3.85
       }
     ]
   },
@@ -64,38 +58,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1153,
-        "change_pct": 0.21
+        "price": 1.1202,
+        "change_pct": 0.41
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8365,
-        "change_pct": 0.05
+        "price": 0.8337,
+        "change_pct": -0.38
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9231,
-        "change_pct": 0.09
+        "price": 0.9196,
+        "change_pct": -0.43
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 157.956,
-        "change_pct": -0.02
+        "price": 157.044,
+        "change_pct": -0.5
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 176.139,
-        "change_pct": 0.2
+        "price": 175.9,
+        "change_pct": -0.09
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 5.045,
-        "change_pct": 1.04,
+        "price": 4.989,
+        "change_pct": -1.11,
         "unit": "%"
       }
     ]
@@ -105,73 +99,73 @@
     "error": null,
     "data": [
       {
-        "title": "Weltnaturkonferenz: Finales Ringen um den Naturschutz",
-        "summary": "Am Freitag endet die Weltnaturkonferenz.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/weltnaturkonferenz-roswall-fordert-mehr-geld-fuer-naturschutz-accg-201630513.html",
+        "title": "VW-Finanzchef Antlitz: „Mit E-Modellen verdienen wir immer noch weniger als mit Verbrennern“",
+        "summary": "Der Autokonzern VW steckt in der Krise.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vw-vorstand-arno-antlitz-warum-der-konzern-in-amerika-wachsen-muss-201633200.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Autobauer: „Wir müssen schnell und entschlossen handeln“ – VW meldet Milliardenverlust im dritten Quartal",
-        "summary": "Als Grund nennt der Konzern Sondereffekte.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/autobauer-volkswagen-rutscht-wegen-porsche-und-china-in-die-roten-zahlen/100265266.html",
+        "title": "Immobilien: So können Gutverdiener beim Kauf von Neubauwohnungen viele Steuern sparen",
+        "summary": "Über steuerliche Abschreibungen können Immobilieninvestoren viel Geld zurückbekommen.",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wie-gutverdiener-mit-neubauwohnungen-steuern-sparen-koennen/100193212.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Poundland's future hangs in the balance as chain edges towards collapse",
-        "summary": "Poundland's bosses is filing a notice of intention to appoint administrators to the business.",
-        "link": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
+        "title": "From Levi's to Primark - the fashion chains selling mended clothes",
+        "summary": "A new generation is embracing eye-catching patching and visible mends.",
+        "link": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Am 7. Februar 2027: EZB-Präsidentin Lagarde tritt im Februar vorzeitig zurück",
-        "summary": "Am 7.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/ezb-praesidentin-christine-lagarde-wird-im-februar-vorzeitig-abtreten-accg-201632334.html",
+        "title": "Metaller im Arbeitskampf: „Bei vielen Arbeitgebern ist ein tiefer Frust zu spüren“",
+        "summary": "In der Lohnrunde für 3,7 Millionen Beschäftigte der Metall- und Elektroindustrie stehen die Zeichen auf Streik.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/ig-metall-chefin-brenner-droht-im-f-a-z-interview-mit-streik-accg-201633047.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Interbrand-Ranking: Deutsche Autobauer verlieren ein Fünftel ihres Markenwerts – Das sind die wertvollsten Marken der Welt",
-        "summary": "Die 100 wertvollsten Labels steigern ihren Wert doppelt so stark wie im Vorjahr.",
-        "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/unternehmen-deutsche-autobauer-zaehlen-zu-den-verlierern-im-markenranking/100263522.html",
+        "title": "Steuererklärung: Bonus bekommen? So sparen Prämierte auch noch Steuern",
+        "summary": "Einige Chefs zahlen ihren Angestellten bei guten Leistungen Prämien.",
+        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/finanzamt-wie-sie-bei-bonuszahlungen-steuern-sparen-koennen/100003952.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
-        "summary": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
-        "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+        "title": "Yorkshire Water boss resigns after firm downgraded",
+        "summary": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
+        "link": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Rüstungsbank DSRB: Wirtschaft warnt vor Finanzierungsengpässen im Rüstungsmittelstand",
-        "summary": "Deutschland zahlt Hunderte Milliarden Euro für die Aufrüstung.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/dsrb-wirtschaftsverbaende-fordern-deutschlands-beitritt-zur-ruestungsbank-accg-201631969.html",
+        "title": "Auswanderungsziel: Die Schweiz ist aus guten Gründen das Sehnsuchtsland der Deutschen",
+        "summary": "Das Nachbarland lockt mit attraktiven Jobs und hohen Löhnen viele Deutsche an.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/warum-die-schweiz-das-topauswanderungsziel-fuer-deutsche-ist-201290826.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "+++ USA +++: Hegseth entlässt weiteres Generalstabsmitglied",
-        "summary": "Schlappe für Trump im Streit um 20.000 Wähler in Kalifornien +++ Trump bringt Venezuela als 51.",
-        "link": "https://www.handelsblatt.com/politik/international/usa-hegseth-entlaesst-weiteres-generalstabsmitglied/29669594.html",
+        "title": "Interview: Top-Headhunter Heiner Thorborg: „80 Prozent der oberen Etagen bestehen aus Narzissten“",
+        "summary": "Er ist einer der bekanntesten deutschen Personalberater, besetzt Spitzenposten in Dax-Konzernen.",
+        "link": "https://www.handelsblatt.com/unternehmen/dienstleister/fuehrungskraefte-viele-chefs-suchen-keine-erstklassigen-leute/100235531.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "What we now know about the UK economy in four charts",
-        "summary": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
-        "link": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
+        "title": "Streeting denies 'kicking can down the road' in defence spending row",
+        "summary": "The government is under pressure to set out a path to greater defence spending, as ministers unveil plans to boost UK firms.",
+        "link": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,12 +177,12 @@
     "error": null,
     "data": [
       {
-        "title": "Scientists discover Arctic sea ice loss could be far worse than predicted",
-        "summary": "Arctic winter sea ice could disappear much faster than scientists previously expected, according to new research using climate clues from 6,000 years ago.",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261022081259.htm",
-        "source": "ScienceDaily – Geowissenschaften",
+        "title": "Do spiders dream? Scientists just found a surprising clue",
+        "summary": "Scientists have discovered that spiders may sleep in ways surprisingly similar to humans, complete with distinct sleep stages and a dream-like REM state.",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261026225555.htm",
+        "source": "ScienceDaily – Tiere",
         "publisher": "ScienceDaily",
-        "category": "Erde"
+        "category": "Biologie"
       },
       {
         "title": "The brain liquidates billions of mutant neurons around the time we’re born",
@@ -199,9 +193,9 @@
         "category": "Forschung"
       },
       {
-        "title": "NASA University Challenge Ignites Trajectory of Drone Entrepreneur",
-        "summary": "Five years ago, Gavin Gardner was a Michigan State University engineering student researching next-generation drone technology as part of a NASA grant.",
-        "link": "https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur/",
+        "title": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
+        "summary": "When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from.",
+        "link": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/",
         "source": "NASA Breaking News",
         "publisher": "NASA",
         "category": "Raumfahrt"

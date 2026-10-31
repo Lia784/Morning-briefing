@@ -1,27 +1,33 @@
 {
-  "generated_at": "2026-10-30T11:13:41+00:00",
-  "date_label": "Friday, 30. October 2026",
+  "generated_at": "2026-10-31T10:46:15+00:00",
+  "date_label": "Saturday, 31. October 2026",
   "indices": {
     "status": "ok",
-    "error": "Teilweise nicht verfügbar: ^GSPC",
+    "error": null,
     "data": [
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25908.6797,
-        "change_pct": -0.5
+        "price": 25818.2109,
+        "change_pct": -0.85
+      },
+      {
+        "name": "S&P 500",
+        "symbol": "^GSPC",
+        "price": 7580.0698,
+        "change_pct": -1.82
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26184.7207,
-        "change_pct": -1.38
+        "price": 25437.0,
+        "change_pct": -2.86
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6161.5601,
-        "change_pct": -0.73
+        "price": 6131.3101,
+        "change_pct": -1.22
       },
       {
         "name": "Nikkei 225",
@@ -38,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 69302,
-        "usd": 77627,
-        "change_24h_pct": -3.53
+        "eur": 69116,
+        "usd": 77406,
+        "change_24h_pct": -0.28
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2002.46,
-        "usd": 2243.0,
-        "change_24h_pct": -3.85
+        "eur": 2003.4,
+        "usd": 2243.7,
+        "change_24h_pct": -0.01
       }
     ]
   },
@@ -58,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1202,
-        "change_pct": 0.41
+        "price": 1.1183,
+        "change_pct": 0.24
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8337,
-        "change_pct": -0.38
+        "price": 0.8358,
+        "change_pct": -0.13
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9196,
-        "change_pct": -0.43
+        "price": 0.9209,
+        "change_pct": -0.29
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 157.044,
-        "change_pct": -0.5
+        "price": 157.804,
+        "change_pct": -0.02
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 175.9,
-        "change_pct": -0.09
+        "price": 176.472,
+        "change_pct": 0.23
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.989,
-        "change_pct": -1.11,
+        "price": 4.929,
+        "change_pct": -1.2,
         "unit": "%"
       }
     ]
@@ -99,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "VW-Finanzchef Antlitz: „Mit E-Modellen verdienen wir immer noch weniger als mit Verbrennern“",
-        "summary": "Der Autokonzern VW steckt in der Krise.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vw-vorstand-arno-antlitz-warum-der-konzern-in-amerika-wachsen-muss-201633200.html",
+        "title": "Krise der Schulen: Bildung? Uns doch egal!",
+        "summary": "Deutschlands Schüler lernen so wenig wie nie – doch niemanden regt es auf.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/deutschlands-bildungsmisere-warum-kaum-jemand-aufbegehrt-accg-201231694.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Immobilien: So können Gutverdiener beim Kauf von Neubauwohnungen viele Steuern sparen",
-        "summary": "Über steuerliche Abschreibungen können Immobilieninvestoren viel Geld zurückbekommen.",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wie-gutverdiener-mit-neubauwohnungen-steuern-sparen-koennen/100193212.html",
+        "title": "Heizungen: Wärmepumpe oder Infrarotheizung – wann lohnt sich was?",
+        "summary": "Heizen mit Strom liegt im Trend: Infrarotheizungen sind im Einbau deutlich günstiger als Wärmepumpen, arbeiten aber weniger effizient.",
+        "link": "https://www.handelsblatt.com/unternehmen/energie/heizungen-waermepumpe-oder-infrarotheizung-wann-lohnt-sich-was/100264971.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "From Levi's to Primark - the fashion chains selling mended clothes",
-        "summary": "A new generation is embracing eye-catching patching and visible mends.",
-        "link": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
+        "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+        "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+        "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Metaller im Arbeitskampf: „Bei vielen Arbeitgebern ist ein tiefer Frust zu spüren“",
-        "summary": "In der Lohnrunde für 3,7 Millionen Beschäftigte der Metall- und Elektroindustrie stehen die Zeichen auf Streik.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/ig-metall-chefin-brenner-droht-im-f-a-z-interview-mit-streik-accg-201633047.html",
+        "title": "konferenz in Eriwan: Mehr Geld für den Naturschutz dringend gesucht",
+        "summary": "Auf der Weltnaturkonferenz gibt es Streit um die Finanzen und die Rechte indigener Gesellschaften.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/weltnaturkonferenz-in-eriwan-30-minuten-vor-schluss-droht-das-scheitern-accg-201635355.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Steuererklärung: Bonus bekommen? So sparen Prämierte auch noch Steuern",
-        "summary": "Einige Chefs zahlen ihren Angestellten bei guten Leistungen Prämien.",
-        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/finanzamt-wie-sie-bei-bonuszahlungen-steuern-sparen-koennen/100003952.html",
+        "title": "UN: Türkei nominiert Chef der OSZE für Nachfolge von Guterres",
+        "summary": "Der Auswahlprozess für die Nachfolge von UN-Generalsekretär António Guterres ist ins Stocken gekommen.",
+        "link": "https://www.handelsblatt.com/politik/international/un-tuerkei-nominiert-chef-der-osze-fuer-nachfolge-von-guterres/100266310.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Yorkshire Water boss resigns after firm downgraded",
-        "summary": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
-        "link": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
+        "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+        "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+        "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Auswanderungsziel: Die Schweiz ist aus guten Gründen das Sehnsuchtsland der Deutschen",
-        "summary": "Das Nachbarland lockt mit attraktiven Jobs und hohen Löhnen viele Deutsche an.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/warum-die-schweiz-das-topauswanderungsziel-fuer-deutsche-ist-201290826.html",
+        "title": "Weniger Diesel: Der Bodensee soll seine erste Elektro-Fähre bekommen",
+        "summary": "Batterien statt Diesel: Die Stadtwerke Konstanz möchten eine ihrer Bodensee-Autofähren umrüsten und neue Ladepunkte schaffen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/neue-tabor-bodensee-soll-erste-elektro-faehre-kriegen-accg-201638853.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Interview: Top-Headhunter Heiner Thorborg: „80 Prozent der oberen Etagen bestehen aus Narzissten“",
-        "summary": "Er ist einer der bekanntesten deutschen Personalberater, besetzt Spitzenposten in Dax-Konzernen.",
-        "link": "https://www.handelsblatt.com/unternehmen/dienstleister/fuehrungskraefte-viele-chefs-suchen-keine-erstklassigen-leute/100235531.html",
+        "title": "Polen: Krise um Verfassungsgericht in Polen spitzt sich zu",
+        "summary": "Erneut spaltet ein geplanter Umbau des Verfassungsgerichts die polnische Gesellschaft.",
+        "link": "https://www.handelsblatt.com/politik/international/polen-krise-um-verfassungsgericht-in-polen-spitzt-sich-zu/100266281.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Streeting denies 'kicking can down the road' in defence spending row",
-        "summary": "The government is under pressure to set out a path to greater defence spending, as ministers unveil plans to boost UK firms.",
-        "link": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss",
+        "title": "What we know about Binance's $6.3bn hack",
+        "summary": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
+        "link": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -177,28 +183,28 @@
     "error": null,
     "data": [
       {
-        "title": "Do spiders dream? Scientists just found a surprising clue",
-        "summary": "Scientists have discovered that spiders may sleep in ways surprisingly similar to humans, complete with distinct sleep stages and a dream-like REM state.",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261026225555.htm",
-        "source": "ScienceDaily – Tiere",
-        "publisher": "ScienceDaily",
-        "category": "Biologie"
-      },
-      {
-        "title": "The brain liquidates billions of mutant neurons around the time we’re born",
-        "summary": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03444-x Faulty neurons can contribute to various neurological conditions, but researchers have uncovered a system that might clean them up.",
-        "link": "https://www.nature.com/articles/d41586-026-03444-x",
-        "source": "Nature News",
-        "publisher": "Nature",
-        "category": "Forschung"
-      },
-      {
-        "title": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
-        "summary": "When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from.",
-        "link": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/",
+        "title": "November’s Night Sky Notes: Light-Day Away",
+        "summary": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune.",
+        "link": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
         "source": "NASA Breaking News",
         "publisher": "NASA",
         "category": "Raumfahrt"
+      },
+      {
+        "title": "Creating AI value with enterprise context",
+        "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools.",
+        "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+        "source": "MIT Technology Review",
+        "publisher": "MIT",
+        "category": "Technologie"
+      },
+      {
+        "title": "How birdwatching slows down brain ageing",
+        "summary": "The pastime is increasingly being used as therapy for dementia patients",
+        "link": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline?ocid=global_future_rss",
+        "source": "BBC Future",
+        "publisher": "BBC",
+        "category": "Zukunft"
       }
     ]
   }

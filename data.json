@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31T10:46:15+00:00",
-  "date_label": "Saturday, 31. October 2026",
+  "generated_at": "2026-11-01T11:43:46+00:00",
+  "date_label": "Sunday, 01. November 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 69116,
-        "usd": 77406,
-        "change_24h_pct": -0.28
+        "eur": 69519,
+        "usd": 77858,
+        "change_24h_pct": 0.57
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2003.4,
-        "usd": 2243.7,
-        "change_24h_pct": -0.01
+        "eur": 2024.55,
+        "usd": 2267.39,
+        "change_24h_pct": 0.87
       }
     ]
   },
@@ -76,8 +76,8 @@
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9209,
-        "change_pct": -0.29
+        "price": 0.9206,
+        "change_pct": -0.04
       },
       {
         "name": "USD/JPY",
@@ -88,8 +88,8 @@
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 176.472,
-        "change_pct": 0.23
+        "price": 175.65,
+        "change_pct": -0.47
       },
       {
         "name": "US 10Y Rendite",
@@ -105,41 +105,65 @@
     "error": null,
     "data": [
       {
-        "title": "Krise der Schulen: Bildung? Uns doch egal!",
-        "summary": "Deutschlands Schüler lernen so wenig wie nie – doch niemanden regt es auf.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/deutschlands-bildungsmisere-warum-kaum-jemand-aufbegehrt-accg-201231694.html",
+        "title": "Gen-Z-Demos: Die Klagen der Jugend im Faktencheck",
+        "summary": "Unter dem Motto „Gen Z regelt“ protestieren junge Menschen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/genz-die-klagen-der-schueler-im-faktencheck-accg-201628286.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Heizungen: Wärmepumpe oder Infrarotheizung – wann lohnt sich was?",
-        "summary": "Heizen mit Strom liegt im Trend: Infrarotheizungen sind im Einbau deutlich günstiger als Wärmepumpen, arbeiten aber weniger effizient.",
-        "link": "https://www.handelsblatt.com/unternehmen/energie/heizungen-waermepumpe-oder-infrarotheizung-wann-lohnt-sich-was/100264971.html",
+        "title": "+++ Iran-Krieg +++: Israelischer Oppositionspolitiker warnt vor neuem Krieg mit Iran unter Netanjahu",
+        "summary": "Israels Präsident kündigt Gespräche zur Regierungsbildung an +++ Iran beharrt auf Bedingungen und droht mit neuen Waffen +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/international/iran-krieg-israelische-opposition-warnt-vor-neuem-krieg-mit-iran/100136895.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-        "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
-        "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+        "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
+        "summary": "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November.",
+        "link": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "konferenz in Eriwan: Mehr Geld für den Naturschutz dringend gesucht",
-        "summary": "Auf der Weltnaturkonferenz gibt es Streit um die Finanzen und die Rechte indigener Gesellschaften.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/weltnaturkonferenz-in-eriwan-30-minuten-vor-schluss-droht-das-scheitern-accg-201635355.html",
+        "title": "Öko-Vordenker Urs Niggli: „Bio bringt fürs Klima nichts“",
+        "summary": "Der Schweizer Urs Niggli gilt als Vordenker des Ökolandbaus und hat ihn jahrzehntelang geprägt.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/bio-vordenker-niggli-rechnet-mit-oekolandbau-ab-bio-bringt-fuers-klima-nichts-accg-201602935.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "UN: Türkei nominiert Chef der OSZE für Nachfolge von Guterres",
-        "summary": "Der Auswahlprozess für die Nachfolge von UN-Generalsekretär António Guterres ist ins Stocken gekommen.",
-        "link": "https://www.handelsblatt.com/politik/international/un-tuerkei-nominiert-chef-der-osze-fuer-nachfolge-von-guterres/100266310.html",
+        "title": "Energie: Bundesnetzagentur sieht geringes Risiko einer Gasknappheit",
+        "summary": "Netzagenturchef Klaus Müller gibt trotz niedrigerer Füllstände der Gasspeicher Entwarnung bei der Versorgung.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/energie-bundesnetzagentur-sieht-geringes-risiko-einer-gasknappheit/100266431.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+        "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+        "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
+        "title": "App „Bitchat“: Bluetooth-Messenger boomt durch Proteste in Frankreich",
+        "summary": "Ein Messenger erfreut sich in Frankreich im Zuge der Massenproteste großer Beliebtheit.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/app-bitchat-boom-fuer-bluetooth-messenger-durch-proteste-in-frankreich-accg-201640634.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "Tech-Aktien: „Die Ära der ‚Magnificent Seven‘ scheint vorbei“ – 700 Milliarden Dollar an Börsenwert vernichtet",
+        "summary": "Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia und Tesla haben die Börsen lange im Alleingang angetrieben.",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/tech-aktien-die-aera-der-magnificent-seven-scheint-vorbei/100266107.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -151,30 +175,6 @@
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
-      },
-      {
-        "title": "Weniger Diesel: Der Bodensee soll seine erste Elektro-Fähre bekommen",
-        "summary": "Batterien statt Diesel: Die Stadtwerke Konstanz möchten eine ihrer Bodensee-Autofähren umrüsten und neue Ladepunkte schaffen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/neue-tabor-bodensee-soll-erste-elektro-faehre-kriegen-accg-201638853.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "Polen: Krise um Verfassungsgericht in Polen spitzt sich zu",
-        "summary": "Erneut spaltet ein geplanter Umbau des Verfassungsgerichts die polnische Gesellschaft.",
-        "link": "https://www.handelsblatt.com/politik/international/polen-krise-um-verfassungsgericht-in-polen-spitzt-sich-zu/100266281.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "What we know about Binance's $6.3bn hack",
-        "summary": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
-        "link": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
       }
     ]
   },
@@ -183,28 +183,28 @@
     "error": null,
     "data": [
       {
-        "title": "November’s Night Sky Notes: Light-Day Away",
-        "summary": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune.",
-        "link": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
+        "title": "NASA Releases MAX POWER Key Events for Media, Participants",
+        "summary": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov.",
+        "link": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/",
         "source": "NASA Breaking News",
         "publisher": "NASA",
         "category": "Raumfahrt"
       },
       {
-        "title": "Creating AI value with enterprise context",
-        "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools.",
-        "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+        "title": "Even stupendous black holes can’t explain dark matter",
+        "summary": "Nature, Published online: 29 October 2026; doi:10.1038/d41586-026-03386-4 The theoretical objects would have left a larger imprint on cosmic radiation if they were a source of the invisible force pulling together the ga…",
+        "link": "https://www.nature.com/articles/d41586-026-03386-4",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
+      },
+      {
+        "title": "Our climate models have a big, dangerous blind spot",
+        "summary": "Climate change itself is increasingly fueling climate change.",
+        "link": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
         "source": "MIT Technology Review",
         "publisher": "MIT",
         "category": "Technologie"
-      },
-      {
-        "title": "How birdwatching slows down brain ageing",
-        "summary": "The pastime is increasingly being used as therapy for dementia patients",
-        "link": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline?ocid=global_future_rss",
-        "source": "BBC Future",
-        "publisher": "BBC",
-        "category": "Zukunft"
       }
     ]
   }

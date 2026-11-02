@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T11:43:46+00:00",
-  "date_label": "Sunday, 01. November 2026",
+  "generated_at": "2026-11-02T13:13:35+00:00",
+  "date_label": "Monday, 02. November 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,8 +8,8 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25818.2109,
-        "change_pct": -0.85
+        "price": 25794.7695,
+        "change_pct": -0.09
       },
       {
         "name": "S&P 500",
@@ -26,14 +26,14 @@
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6131.3101,
-        "change_pct": -1.22
+        "price": 6127.3799,
+        "change_pct": -0.06
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 63290.1094,
-        "change_pct": -2.12
+        "price": 63081.8594,
+        "change_pct": -0.33
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 69519,
-        "usd": 77858,
-        "change_24h_pct": 0.57
+        "eur": 69208,
+        "usd": 77631,
+        "change_24h_pct": -0.52
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2024.55,
-        "usd": 2267.39,
-        "change_24h_pct": 0.87
+        "eur": 2033.0,
+        "usd": 2280.41,
+        "change_24h_pct": 0.58
       }
     ]
   },
@@ -64,32 +64,32 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1183,
-        "change_pct": 0.24
+        "price": 1.122,
+        "change_pct": 0.33
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8358,
-        "change_pct": -0.13
+        "price": 0.8359,
+        "change_pct": 0.01
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9206,
-        "change_pct": -0.04
+        "price": 0.9193,
+        "change_pct": -0.18
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 157.804,
-        "change_pct": -0.02
+        "price": 157.881,
+        "change_pct": 0.05
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 175.65,
-        "change_pct": -0.47
+        "price": 177.088,
+        "change_pct": 0.35
       },
       {
         "name": "US 10Y Rendite",
@@ -105,25 +105,25 @@
     "error": null,
     "data": [
       {
-        "title": "Gen-Z-Demos: Die Klagen der Jugend im Faktencheck",
-        "summary": "Unter dem Motto „Gen Z regelt“ protestieren junge Menschen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/genz-die-klagen-der-schueler-im-faktencheck-accg-201628286.html",
+        "title": "Demonstrationen der „Gen Z“: Was wirklich hinter den Jugendprotesten steckt",
+        "summary": "In Kenia und Frankreich, in Indien und Deutschland gehen junge Menschen auf die Straße.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/genz-regelt-was-die-jugendproteste-weltweit-verbindet-accg-201623305.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "+++ Iran-Krieg +++: Israelischer Oppositionspolitiker warnt vor neuem Krieg mit Iran unter Netanjahu",
-        "summary": "Israels Präsident kündigt Gespräche zur Regierungsbildung an +++ Iran beharrt auf Bedingungen und droht mit neuen Waffen +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/international/iran-krieg-israelische-opposition-warnt-vor-neuem-krieg-mit-iran/100136895.html",
+        "title": "Brasilien: Lulas Triumph könnte Brasilien teuer zu stehen kommen – Stagnation bereits 2027 erwartet",
+        "summary": "Der Sozialdemokrat hat die Wahl mit einer Politik gewonnen, die Brasiliens Wirtschaft zunehmend belastet.",
+        "link": "https://www.handelsblatt.com/politik/international/brasilien-lulas-letzter-triumph-koennte-brasilien-teuer-zu-stehen-kommen/100266219.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
-        "summary": "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November.",
-        "link": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
+        "title": "Ryanair says it may freeze workers' pay and raise airfares",
+        "summary": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+        "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -137,41 +137,41 @@
         "category": ""
       },
       {
-        "title": "Energie: Bundesnetzagentur sieht geringes Risiko einer Gasknappheit",
-        "summary": "Netzagenturchef Klaus Müller gibt trotz niedrigerer Füllstände der Gasspeicher Entwarnung bei der Versorgung.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/energie-bundesnetzagentur-sieht-geringes-risiko-einer-gasknappheit/100266431.html",
+        "title": "Geld: Der Millionenerbe, der die Millionen nicht will",
+        "summary": "Kai Viehof hat den Großteil seines Erbes ausgeschlagen, auch vom Rest will der Enkel des Allkauf-Gründers das meiste weggeben.",
+        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/reichtum-fuer-welche-zwecke-verteilt-dieser-millionaer-sein-vermoegen/100204748.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-        "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
-        "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+        "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+        "summary": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
+        "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "App „Bitchat“: Bluetooth-Messenger boomt durch Proteste in Frankreich",
-        "summary": "Ein Messenger erfreut sich in Frankreich im Zuge der Massenproteste großer Beliebtheit.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/app-bitchat-boom-fuer-bluetooth-messenger-durch-proteste-in-frankreich-accg-201640634.html",
+        "title": "Gen-Z-Demos: Die Klagen der Jugend im Faktencheck",
+        "summary": "Unter dem Motto „Gen Z regelt“ protestieren junge Menschen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/genz-die-klagen-der-schueler-im-faktencheck-accg-201628286.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Tech-Aktien: „Die Ära der ‚Magnificent Seven‘ scheint vorbei“ – 700 Milliarden Dollar an Börsenwert vernichtet",
-        "summary": "Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia und Tesla haben die Börsen lange im Alleingang angetrieben.",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/tech-aktien-die-aera-der-magnificent-seven-scheint-vorbei/100266107.html",
+        "title": "Künstliche Intelligenz: So verschaffen sich Führungskräfte im mittleren Management einen Wettbewerbsvorteil",
+        "summary": "Je höher der Posten, desto größer die Erwartung an KI-Kompetenz.",
+        "link": "https://www.handelsblatt.com/unternehmen/management/karriere-was-fuehrungskraefte-neben-ki-kompetenz-mitbringen-sollten/100240522.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-        "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-        "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+        "title": "Don't get caught out by new Buy Now Pay Later rules",
+        "summary": "New affordability checks mean you could be blocked from using Buy Now Pay Later but here are ways to avoid it.",
+        "link": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,28 +183,28 @@
     "error": null,
     "data": [
       {
-        "title": "NASA Releases MAX POWER Key Events for Media, Participants",
-        "summary": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov.",
-        "link": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/",
-        "source": "NASA Breaking News",
-        "publisher": "NASA",
-        "category": "Raumfahrt"
+        "title": "Scientists discover a hidden oxygen reservoir deep inside Earth",
+        "summary": "Scientists have discovered that magma deep inside Earth can store surprising amounts of extra oxygen, potentially revealing a hidden contributor to our planet's oxygen-rich atmosphere.",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261027063702.htm",
+        "source": "ScienceDaily – Geowissenschaften",
+        "publisher": "ScienceDaily",
+        "category": "Erde"
       },
       {
-        "title": "Even stupendous black holes can’t explain dark matter",
-        "summary": "Nature, Published online: 29 October 2026; doi:10.1038/d41586-026-03386-4 The theoretical objects would have left a larger imprint on cosmic radiation if they were a source of the invisible force pulling together the ga…",
-        "link": "https://www.nature.com/articles/d41586-026-03386-4",
+        "title": "How researchers debunked ‘race science’: ‘a triumph of scientific self-correction’",
+        "summary": "Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03507-z An account of how nineteenth-century studies aiming to find a biological basis for human races were dismantled by good scientific practices — al…",
+        "link": "https://www.nature.com/articles/d41586-026-03507-z",
         "source": "Nature News",
         "publisher": "Nature",
         "category": "Forschung"
       },
       {
-        "title": "Our climate models have a big, dangerous blind spot",
-        "summary": "Climate change itself is increasingly fueling climate change.",
-        "link": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
-        "source": "MIT Technology Review",
-        "publisher": "MIT",
-        "category": "Technologie"
+        "title": "Phu Loc Champa Temple in An Nhon Bac, Vietnam",
+        "summary": "Rising silently above the flat agricultural expanses of An Nhon Bac, the solitary silhouette of Phu Loc Champa Temple commands its hilltop domain like an ancient sentinel.",
+        "link": "https://www.atlasobscura.com/places/phu-loc-champa-temple",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
       }
     ]
   }

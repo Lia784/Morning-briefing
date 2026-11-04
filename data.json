@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T12:40:13+00:00",
-  "date_label": "Tuesday, 03. November 2026",
+  "generated_at": "2026-11-04T12:50:07+00:00",
+  "date_label": "Wednesday, 04. November 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25840.0098,
-        "change_pct": -0.54
+        "price": 26240.7402,
+        "change_pct": 1.45
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7541.3999,
-        "change_pct": -0.51
+        "price": 7568.9199,
+        "change_pct": 0.36
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25164.3105,
-        "change_pct": -1.07
+        "price": 25372.0098,
+        "change_pct": 0.83
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6147.9902,
-        "change_pct": -0.45
+        "price": 6247.3501,
+        "change_pct": 1.67
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 63081.8594,
-        "change_pct": -0.33
+        "price": 62188.6289,
+        "change_pct": -1.42
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 69200,
-        "usd": 77361,
-        "change_24h_pct": -0.14
+        "eur": 69392,
+        "usd": 78137,
+        "change_24h_pct": 0.29
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2038.59,
-        "usd": 2279.01,
-        "change_24h_pct": 0.16
+        "eur": 2055.27,
+        "usd": 2314.27,
+        "change_24h_pct": 0.71
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1182,
-        "change_pct": 0.22
+        "price": 1.1265,
+        "change_pct": 0.65
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8337,
-        "change_pct": 0.03
+        "price": 0.8347,
+        "change_pct": 0.01
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9165,
-        "change_pct": -0.39
+        "price": 0.9184,
+        "change_pct": 0.25
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 158.23,
-        "change_pct": 0.35
+        "price": 158.354,
+        "change_pct": 0.28
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 176.863,
-        "change_pct": 0.54
+        "price": 178.346,
+        "change_pct": 0.93
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.894,
-        "change_pct": -0.71,
+        "price": 4.952,
+        "change_pct": 1.19,
         "unit": "%"
       }
     ]
@@ -105,41 +105,41 @@
     "error": null,
     "data": [
       {
-        "title": "Neue Audi-Fabrik: Warum die USA für die Produktion deutscher Luxus-SUV so attraktiv sind",
-        "summary": "Die Pläne für eine neue Audi-Fabrik in den USA sorgen für Wirbel.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/audi-q9-und-der-trend-warum-luxus-suv-in-den-usa-gebaut-werden-201642187.html",
+        "title": "Wahlen in den USA: „Der Anfang vom Ende von Trump und seiner Politik“",
+        "summary": "Nach dem Sieg der Demokraten in den USA dürfen die Europäer in der Handelspolitik keine Erleichterungen erwarten, erklären international erfahrene Ökonomen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/der-anfang-vom-ende-von-trump-und-seiner-politik-was-die-midterms-fuer-europa-bedeuten-accg-201650311.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Krieg gegen Ukraine: Vor Verhandlungen – Selenskyj besucht Merz in Berlin",
-        "summary": "Der ukrainische Präsident besucht den Bundeskanzler.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/ukrainekrieg-vor-verhandlungen-selenskyj-besucht-merz-in-berlin/100266875.html",
+        "title": "Dax aktuell: Dax steigt nach Midterms auf Zwei-Monatshoch – Heidelberg-Aktie springt nach oben",
+        "summary": "Der deutliche Wahlsieg der Demokraten in den USA übertrifft die Erwartungen der Anlegerinnen und Anleger.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-steigt-nach-midterms-auf-zwei-monatshoch/100267175.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Drivers may get compensation offers before car finance saga ends",
-        "summary": "The regulator says it supports lenders offering early compensation offers, as long as they are fair.",
-        "link": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss",
+        "title": "Poundland owner in crunch talks with business secretary as retailer's collapse looms",
+        "summary": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
+        "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Cyberangriff: Hacker greifen auch Kühltruhen in deutschen Supermärkten an",
-        "summary": "Erst in Frankreich, dann in einigen anderen europäischen Ländern: Hacker brachten Kühlsysteme in verschiedenen Supermärkten durcheinander.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/rewe-und-edeka-hacker-greifen-auch-kuehltruhen-in-deutschen-supermaerkten-an-accg-201647352.html",
+        "title": "Kongresswahlen: Das ganze Geld von Musk hat nichts gebracht",
+        "summary": "Elon Musk hat eine halbe Milliarde Dollar in den US-Wahlkampf gepumpt – und auf breiter Front verloren.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/bittere-pleite-fuer-elon-musk-bei-us-midterms-2026-halbe-milliarde-dollar-an-wahlkampfspenden-ohne-erfolg-accg-201649321.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Energie: Studie: Energiewende bringt bis zu 80 Prozent Ersparnis für Stromkunden",
-        "summary": "Photovoltaik-Anlage, Elektroauto und Wärmepumpe können die Energierechnung erheblich senken, zeigt eine Studie.",
-        "link": "https://www.handelsblatt.com/unternehmen/energie/energie-energiewende-bringt-bis-zu-80-prozent-ersparnis-fuer-stromkunden/100265062.html",
+        "title": "EZB: Lagarde warnt: „Kosten des Klimawandels steigen und Schocks lassen sich womöglich schwerer abfedern“",
+        "summary": "Die Folgen des Klimawandels und ihr Einfluss auf die Finanz- und Preisstabilität liegen Lagarde sehr am Herzen.",
+        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-lagarde-warnt-kosten-des-klimawandels-steigen/100267277.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -153,25 +153,25 @@
         "category": ""
       },
       {
-        "title": "EuGH-Gutachten: KI-Chatbots können Urheberrecht verletzen",
-        "summary": "Presseverlage und Urheber wehren sich gegen die Nutzung ihrer Inhalte durch generative KI-Modelle.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-chatbots-koennen-urheberrecht-verletzen-accg-201647285.html",
+        "title": "nachfolge im Unternehmen: „Ich habe wirklich keinen Plan B gehabt“",
+        "summary": "Gottfried Härle hatte alles, was eine Brauerei braucht: Technik, Marke, Finanzierung.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nachbarstochter-rettet-brauerei-haerle-ich-habe-wirklich-keinen-plan-b-gehabt-accg-201605816.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Geld: Der Millionenerbe, der die Millionen nicht will",
-        "summary": "Kai Viehof hat den Großteil seines Erbes ausgeschlagen, auch vom Rest will der Enkel des Allkauf-Gründers das meiste weggeben.",
-        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/reichtum-warum-dieser-millionenerbe-sein-vermoegen-nicht-will/100204748.html",
+        "title": "Eisenbahn: Gewerkschaft erwartet weitere Probleme bei DB-Cargo-Sanierung",
+        "summary": "Die Sanierung der DB Cargo stockt.",
+        "link": "https://www.handelsblatt.com/unternehmen/dienstleister/eisenbahn-gewerkschaft-erwartet-weitere-probleme-bei-db-cargo-sanierung/100267284.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "'Quiet quitting' could be hitting the economy - here's why",
-        "summary": "Britons have become less engaged with the jobs they do and are less willing to put in extra effort, a report has found.",
-        "link": "https://www.bbc.co.uk/news/articles/cw23d5z87drpo?at_medium=RSS&at_campaign=rss",
+        "title": "Uproar over missing 'pop' as Rice Krispies changes its recipe",
+        "summary": "The new recipes mean cereal packaging will now include a 'contains wheat gluten' warning.",
+        "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,28 +183,28 @@
     "error": null,
     "data": [
       {
-        "title": "Scientists smash oxygen nuclei to recreate matter from the Big Bang",
-        "summary": "Scientists have recreated a primordial state of matter from the dawn of the universe by colliding oxygen nuclei at nearly the speed of light.",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261030002935.htm",
-        "source": "ScienceDaily – Physik",
-        "publisher": "ScienceDaily",
-        "category": "Physik"
+        "title": "When humans disappear, biodiversity takes a surprising turn",
+        "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03505-1 For decades, conservation has worried about the risks of too many people.",
+        "link": "https://www.nature.com/articles/d41586-026-03505-1",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
       },
       {
-        "title": "Amelia Island Museum of History in Fernandina Beach, Florida",
-        "summary": "The Amelia Island Museum of History invites guests to step back in time and experience 4,000 years of rich regional history.",
-        "link": "https://www.atlasobscura.com/places/amelia-island-museum-of-history",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
+        "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
+        "summary": "Sixty-five years ago, a bold vision took root in Houston: a NASA center dedicated to human spaceflight.",
+        "link": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
+        "source": "NASA Breaking News",
+        "publisher": "NASA",
+        "category": "Raumfahrt"
       },
       {
-        "title": "The Download: the agentic web arrives and the drive for safer roads",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
-        "link": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
-        "source": "MIT Technology Review",
-        "publisher": "MIT",
-        "category": "Technologie"
+        "title": "How humans shared a world with child-eating birds",
+        "summary": "After the dinosaurs fell, giant birds took to the skies",
+        "link": "https://www.bbc.com/future/article/20261028-predatory-birds-the-size-of-a-small-aircraft-once-flocked-the-skies-some-of-them-ate-humans?ocid=global_future_rss",
+        "source": "BBC Future",
+        "publisher": "BBC",
+        "category": "Zukunft"
       }
     ]
   }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T12:50:07+00:00",
-  "date_label": "Wednesday, 04. November 2026",
+  "generated_at": "2026-11-05T12:58:19+00:00",
+  "date_label": "Thursday, 05. November 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 26240.7402,
-        "change_pct": 1.45
+        "price": 26545.6309,
+        "change_pct": 0.41
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7568.9199,
-        "change_pct": 0.36
+        "price": 7688.6201,
+        "change_pct": 1.58
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25372.0098,
-        "change_pct": 0.83
+        "price": 25736.5098,
+        "change_pct": 1.44
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6247.3501,
-        "change_pct": 1.67
+        "price": 6291.48,
+        "change_pct": 0.41
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 62188.6289,
-        "change_pct": -1.42
+        "price": 61077.8984,
+        "change_pct": -1.79
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 69392,
-        "usd": 78137,
-        "change_24h_pct": 0.29
+        "eur": 70921,
+        "usd": 79584,
+        "change_24h_pct": 2.24
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2055.27,
-        "usd": 2314.27,
-        "change_24h_pct": 0.71
+        "eur": 2130.88,
+        "usd": 2391.16,
+        "change_24h_pct": 3.83
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1265,
-        "change_pct": 0.65
+        "price": 1.1227,
+        "change_pct": 0.18
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8347,
-        "change_pct": 0.01
+        "price": 0.8333,
+        "change_pct": -0.11
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9184,
-        "change_pct": 0.25
+        "price": 0.9177,
+        "change_pct": -0.06
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 158.354,
-        "change_pct": 0.28
+        "price": 158.428,
+        "change_pct": -0.03
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 178.346,
-        "change_pct": 0.93
+        "price": 177.816,
+        "change_pct": 0.12
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.952,
-        "change_pct": 1.19,
+        "price": 4.894,
+        "change_pct": -1.17,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Wahlen in den USA: „Der Anfang vom Ende von Trump und seiner Politik“",
-        "summary": "Nach dem Sieg der Demokraten in den USA dürfen die Europäer in der Handelspolitik keine Erleichterungen erwarten, erklären international erfahrene Ökonomen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/der-anfang-vom-ende-von-trump-und-seiner-politik-was-die-midterms-fuer-europa-bedeuten-accg-201650311.html",
+        "title": "Mundraub: Dem Apfeldieb ist schwer beizukommen",
+        "summary": "Besitzer von Streuobstwiesen haben kaum Handhabe gegen Diebstahl.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/garten/streuobstwiesen-was-man-gegen-diebstahl-tun-kann-accg-201339005.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Dax aktuell: Dax steigt nach Midterms auf Zwei-Monatshoch – Heidelberg-Aktie springt nach oben",
-        "summary": "Der deutliche Wahlsieg der Demokraten in den USA übertrifft die Erwartungen der Anlegerinnen und Anleger.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-steigt-nach-midterms-auf-zwei-monatshoch/100267175.html",
+        "title": "USA: Trumps Diesel-Deal mit Russland verpufft – Tanker weichen aus",
+        "summary": "Der US-Präsident erlaubt den Import von russischem Diesel, um die Preise zu drücken.",
+        "link": "https://www.handelsblatt.com/politik/international/usa-trumps-diesel-deal-mit-russland-verpufft-tanker-weichen-aus/100267484.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Poundland owner in crunch talks with business secretary as retailer's collapse looms",
-        "summary": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
-        "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+        "title": "Faisal Islam: How high will interest rates go?",
+        "summary": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
+        "link": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Kongresswahlen: Das ganze Geld von Musk hat nichts gebracht",
-        "summary": "Elon Musk hat eine halbe Milliarde Dollar in den US-Wahlkampf gepumpt – und auf breiter Front verloren.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/bittere-pleite-fuer-elon-musk-bei-us-midterms-2026-halbe-milliarde-dollar-an-wahlkampfspenden-ohne-erfolg-accg-201649321.html",
+        "title": "Logistik: Paketkonzern DHL wächst global und schwächelt zu Hause",
+        "summary": "DHL legt im internationalen Geschäft kräftig zu.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/dhl-waechst-global-doch-das-deutschlandgeschaeft-schwaechelt-accg-201654030.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "EZB: Lagarde warnt: „Kosten des Klimawandels steigen und Schocks lassen sich womöglich schwerer abfedern“",
-        "summary": "Die Folgen des Klimawandels und ihr Einfluss auf die Finanz- und Preisstabilität liegen Lagarde sehr am Herzen.",
-        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-lagarde-warnt-kosten-des-klimawandels-steigen/100267277.html",
+        "title": "Arbeitsmarkt: Bund muss Arbeitsagentur mit neun Milliarden Euro aushelfen",
+        "summary": "Das Defizit der BA fällt noch einmal größer aus als erwartet.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/arbeitsmarkt-bund-muss-arbeitsagentur-mit-neun-milliarden-euro-aushelfen/100267605.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-        "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
-        "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+        "title": "Three ways the interest rate rise could affect you",
+        "summary": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
+        "link": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "nachfolge im Unternehmen: „Ich habe wirklich keinen Plan B gehabt“",
-        "summary": "Gottfried Härle hatte alles, was eine Brauerei braucht: Technik, Marke, Finanzierung.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nachbarstochter-rettet-brauerei-haerle-ich-habe-wirklich-keinen-plan-b-gehabt-accg-201605816.html",
+        "title": "Industriekonjunktur: Auftragseingang holt Verluste auf",
+        "summary": "Der Auftragseingang kam unter großen Schwankungen zuletzt kaum vom Fleck.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/auftragseingang-steigt-im-september-um-4-4-prozent-accg-201654896.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Eisenbahn: Gewerkschaft erwartet weitere Probleme bei DB-Cargo-Sanierung",
-        "summary": "Die Sanierung der DB Cargo stockt.",
-        "link": "https://www.handelsblatt.com/unternehmen/dienstleister/eisenbahn-gewerkschaft-erwartet-weitere-probleme-bei-db-cargo-sanierung/100267284.html",
+        "title": "G7: Treffen kurzfristig von Marseille nach Paris verlegt",
+        "summary": "Seit Monaten planen die Außenminister der demokratischen Wirtschaftsnationen ein Treffen in Marseille.",
+        "link": "https://www.handelsblatt.com/politik/international/g7-treffen-kurzfristig-von-marseille-nach-paris-verlegt/100267586.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Uproar over missing 'pop' as Rice Krispies changes its recipe",
-        "summary": "The new recipes mean cereal packaging will now include a 'contains wheat gluten' warning.",
-        "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
+        "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
+        "summary": "A consultation will consider fines and other ways to clamp down on dangerous e-bike riders.",
+        "link": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,28 +183,28 @@
     "error": null,
     "data": [
       {
-        "title": "When humans disappear, biodiversity takes a surprising turn",
-        "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03505-1 For decades, conservation has worried about the risks of too many people.",
-        "link": "https://www.nature.com/articles/d41586-026-03505-1",
-        "source": "Nature News",
-        "publisher": "Nature",
-        "category": "Forschung"
-      },
-      {
-        "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
-        "summary": "Sixty-five years ago, a bold vision took root in Houston: a NASA center dedicated to human spaceflight.",
-        "link": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
+        "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
+        "summary": "The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats.",
+        "link": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/",
         "source": "NASA Breaking News",
         "publisher": "NASA",
         "category": "Raumfahrt"
       },
       {
-        "title": "How humans shared a world with child-eating birds",
-        "summary": "After the dinosaurs fell, giant birds took to the skies",
-        "link": "https://www.bbc.com/future/article/20261028-predatory-birds-the-size-of-a-small-aircraft-once-flocked-the-skies-some-of-them-ate-humans?ocid=global_future_rss",
-        "source": "BBC Future",
-        "publisher": "BBC",
-        "category": "Zukunft"
+        "title": "The asteroid killed the dinosaurs. Why did crocodiles survive?",
+        "summary": "Scientists may have solved a 66-million-year-old mystery: how crocodiles survived the asteroid that wiped out the dinosaurs.",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261030002922.htm",
+        "source": "ScienceDaily – Archäologie",
+        "publisher": "ScienceDaily",
+        "category": "Archäologie"
+      },
+      {
+        "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+        "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts.",
+        "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+        "source": "MIT Technology Review",
+        "publisher": "MIT",
+        "category": "Technologie"
       }
     ]
   }

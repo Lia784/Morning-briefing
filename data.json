@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T12:45:38+00:00",
-  "date_label": "Friday, 06. November 2026",
+  "generated_at": "2026-11-07T11:34:22+00:00",
+  "date_label": "Saturday, 07. November 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,26 +8,26 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25758.1895,
-        "change_pct": -2.15
+        "price": 25820.3594,
+        "change_pct": -1.92
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7353.73,
-        "change_pct": -4.36
+        "price": 7376.8599,
+        "change_pct": 0.31
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 24315.0,
-        "change_pct": -5.52
+        "price": 24579.4297,
+        "change_pct": 1.09
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6148.5801,
-        "change_pct": -1.33
+        "price": 6170.4902,
+        "change_pct": -0.98
       },
       {
         "name": "Nikkei 225",
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 68133,
-        "usd": 76141,
-        "change_24h_pct": -4.09
+        "eur": 68103,
+        "usd": 75911,
+        "change_24h_pct": 0.11
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2006.76,
-        "usd": 2242.61,
-        "change_24h_pct": -5.93
+        "eur": 2012.15,
+        "usd": 2242.83,
+        "change_24h_pct": 0.47
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1174,
-        "change_pct": -0.54
+        "price": 1.1228,
+        "change_pct": -0.06
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.834,
-        "change_pct": 0.05
+        "price": 0.8344,
+        "change_pct": 0.09
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.914,
-        "change_pct": -0.36
+        "price": 0.9156,
+        "change_pct": -0.18
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 158.315,
-        "change_pct": -0.03
+        "price": 158.425,
+        "change_pct": 0.59
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 176.847,
-        "change_pct": -0.6
+        "price": 176.34,
+        "change_pct": -0.27
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.837,
-        "change_pct": -1.16,
+        "price": 4.859,
+        "change_pct": 0.45,
         "unit": "%"
       }
     ]
@@ -105,17 +105,65 @@
     "error": null,
     "data": [
       {
-        "title": "Vorwurf der EU: Tiktok entscheidet gegen den Willen seiner Nutzer",
-        "summary": "Immer wieder Videos zum gleichen Thema gezeigt zu bekommen, ist Teil des Geschäftsmodells von Tiktok.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/tiktok-entscheidet-gegen-den-willen-seiner-nutzer-accg-201658317.html",
+        "title": "Der französische Nachbar: „Das Essen in Deutschland war nicht gut“",
+        "summary": "Seit 1980 lebt Denis Labrude in Deutschland.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/denis-labrude-ein-franzose-ueber-sein-leben-in-deutschland-accg-201650223.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "China: Xi bietet Österreich Kooperation bei E-Autos und KI an",
-        "summary": "Bei der ersten Chinareise eines österreichischen Kanzlers in sieben Jahren hat Xi eine engere Zusammenarbeit vorgeschlagen.",
-        "link": "https://www.handelsblatt.com/politik/international/china-xi-bietet-oesterreich-kooperation-bei-e-autos-und-ki-an/100267905.html",
+        "title": "Immobilien: Wo um Hamburg herum für Pendler noch Schnäppchen locken",
+        "summary": "In mancher Gemeinde im Umland zahlt sich der Preisvorteil einer Immobilie für Käufer gegenüber der Hansestadt über 50 Jahre lang aus.",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wo-um-hamburg-herum-fuer-pendler-noch-schnaeppchen-locken/100262282.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "AI stocks climb after trillions wiped from market values",
+        "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+        "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
+        "title": "Instabiles Frankreich: Ein Gespenst geht um in Europa",
+        "summary": "Längst hat Frankreich Italien als Europas Sorgenkind abgelöst.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/frankreich-als-europas-sorgenkind-droht-eine-staatsschuldenkrise-accg-201650734.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "Berlin: Berliner Linke fordert Mandatsverzicht von Emde",
+        "summary": "Die Berliner Linke hat schon länger Ärger mit ihrer propalästinensischen Abgeordneten Vanessa Emde.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/berlin-berliner-linke-fordert-mandatsverzicht-von-emde/100267960.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "Why the US midterms sparked an AI stock selloff",
+        "summary": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
+        "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
+        "title": "Krise in Frankreich: Nachbarn und Fremde zugleich",
+        "summary": "Drohende Staatsschuldenkrise, Schülerproteste, die auch Deutschland erreicht haben, eine ungewisse Zukunft.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/frankreich-und-deutschland-warum-uns-die-krise-des-nachbarn-angeht-201646354.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "Wahlen: Regierung nach Wahl in Neuseeland knapp unter der absoluten Mehrheit",
+        "summary": "Regierungschef Luxon oder Ex-Premier Hipkins?",
+        "link": "https://www.handelsblatt.com/politik/international/wahlen-regierung-nach-wahl-in-neuseeland-knapp-unter-der-absoluten-mehrheit/100268071.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -127,54 +175,6 @@
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
-      },
-      {
-        "title": "Nobelpreisträger Acemoglu: „Wo es Groll gibt, hat die Identitätspolitik die Spaltung vertieft“",
-        "summary": "Die Krise der liberalen Demokratie ist nicht vorbei, warnt der Ökonom Daron Acemoglu, auch wenn in den US-Wahlen Donald Trumps Partei verloren hat.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/daron-acemoglu-wir-steuern-mit-volldampf-in-die-falsche-richtung-accg-201269417.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "USA: USA wollen über Europas Sicherheit verhandeln – Polen warnt, der Kreml stichelt",
-        "summary": "Statt nur die Ukraine zu befrieden, wollen die USA plötzlich Sicherheit für den ganzen Kontinent schaffen – während sie mit Russland verhandeln.",
-        "link": "https://www.handelsblatt.com/politik/international/usa-usa-wollen-ueber-europas-sicherheit-verhandeln-polen-warnt/100267828.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-        "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-        "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
-      },
-      {
-        "title": "Welche Steuerreform?: Friedrich Merz sollte eine alte Idee wiederbeleben",
-        "summary": "Vor mehr als 20 Jahren legte Merz einen Steuerplan vor, der auf einen Bierdeckel passte.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/friedrich-merz-und-die-flat-tax-waere-das-echte-steuerreform-accg-201634130.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "Fox News: „Trumps größte Momente könnten noch vor ihm liegen“",
-        "summary": "Am Tag nach den US-Zwischenwahlen finden die Moderatoren von Fox News diverse Strategien, um mit dem Debakel der Republikaner umzugehen.",
-        "link": "https://www.handelsblatt.com/politik/international/midterms-wagt-fox-news-nach-dem-wahl-debakel-kritik-an-donald-trump/100267320.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "PM tells firms to publish salaries in job adverts ahead of new law",
-        "summary": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
-        "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
       }
     ]
   },
@@ -183,25 +183,25 @@
     "error": null,
     "data": [
       {
-        "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
-        "summary": "For nearly 90 years, scientists believed magnetism fell into just two categories, but researchers have now confirmed a remarkable third type called altermagnetism.",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
-        "source": "ScienceDaily – Physik",
+        "title": "The asteroid killed the dinosaurs. Why did crocodiles survive?",
+        "summary": "Scientists may have solved a 66-million-year-old mystery: how crocodiles survived the asteroid that wiped out the dinosaurs.",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261030002922.htm",
+        "source": "ScienceDaily – Tiere",
         "publisher": "ScienceDaily",
-        "category": "Physik"
+        "category": "Biologie"
       },
       {
-        "title": "Kejimkujik Petroglyphs in Jakes Landing, Nova Scotia",
-        "summary": "Along the shores of Kejimkujik Lake in Nova Scotia, more than 500 petroglyphs are etched into the smooth slate bedrock of Kejimkujik National Park and National Historic Site.",
-        "link": "https://www.atlasobscura.com/places/kejimkujik-petroglyphs",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
+        "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+        "summary": "I’m not the sort of person who typically pays for a house cleaner.",
+        "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+        "source": "MIT Technology Review",
+        "publisher": "MIT",
+        "category": "Technologie"
       },
       {
-        "title": "Hydrogen Derivatives Enable Cost-Effective Carbon Neutrality in China",
-        "summary": "Nature, Published online: 05 November 2026; doi:10.1038/s41586-026-11351-4 Hydrogen Derivatives Enable Cost-Effective Carbon Neutrality in China",
-        "link": "https://www.nature.com/articles/s41586-026-11351-4",
+        "title": "Medicinal plants, lessons from mushrooms and the power of smell: Books in brief",
+        "summary": "Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03595-x Andrew Robinson reviews five of the best science picks.",
+        "link": "https://www.nature.com/articles/d41586-026-03595-x",
         "source": "Nature News",
         "publisher": "Nature",
         "category": "Forschung"

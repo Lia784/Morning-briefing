@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07T11:34:22+00:00",
-  "date_label": "Saturday, 07. November 2026",
+  "generated_at": "2026-11-08T11:46:16+00:00",
+  "date_label": "Sunday, 08. November 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 68103,
-        "usd": 75911,
-        "change_24h_pct": 0.11
+        "eur": 68078,
+        "usd": 75906,
+        "change_24h_pct": -0.09
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 2012.15,
-        "usd": 2242.83,
-        "change_24h_pct": 0.47
+        "eur": 2007.2,
+        "usd": 2238.03,
+        "change_24h_pct": -0.3
       }
     ]
   },
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Der französische Nachbar: „Das Essen in Deutschland war nicht gut“",
-        "summary": "Seit 1980 lebt Denis Labrude in Deutschland.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/denis-labrude-ein-franzose-ueber-sein-leben-in-deutschland-accg-201650223.html",
+        "title": "Fiskalpolitik: Die Dreiprozentregel gilt Frankreich nicht viel",
+        "summary": "Kein anderes Land im Euroraum hat so häufig den Referenzwert von drei Prozent für das Staatsdefizit missachtet wie Frankreich.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/frankreich-und-die-dreiprozentregel-21-verstoesse-in-28-jahren-accg-201656778.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Immobilien: Wo um Hamburg herum für Pendler noch Schnäppchen locken",
-        "summary": "In mancher Gemeinde im Umland zahlt sich der Preisvorteil einer Immobilie für Käufer gegenüber der Hansestadt über 50 Jahre lang aus.",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wo-um-hamburg-herum-fuer-pendler-noch-schnaeppchen-locken/100262282.html",
+        "title": "Sicherheit: Angriff auf Bahnprojekt: Cyberattacke auf Brennerbasistunnel-Firma",
+        "summary": "Unbekannte Täter greifen auf Daten der Baugesellschaft zu.",
+        "link": "https://www.handelsblatt.com/politik/international/sicherheit-cyberattacke-auf-brennerbasistunnel-firma/100268200.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "AI stocks climb after trillions wiped from market values",
-        "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-        "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+        "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+        "summary": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
+        "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Instabiles Frankreich: Ein Gespenst geht um in Europa",
-        "summary": "Längst hat Frankreich Italien als Europas Sorgenkind abgelöst.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/frankreich-als-europas-sorgenkind-droht-eine-staatsschuldenkrise-accg-201650734.html",
+        "title": "Deutscher Gründer in Paris: Vom Dealmaker zum Bierbrauer",
+        "summary": "Florian Weber führte bei einem Pariser Investmentfonds ein privilegiertes Leben.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/florian-weber-vom-pariser-investmentfonds-zum-bierbrauer-accg-201657780.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Berlin: Berliner Linke fordert Mandatsverzicht von Emde",
-        "summary": "Die Berliner Linke hat schon länger Ärger mit ihrer propalästinensischen Abgeordneten Vanessa Emde.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/berlin-berliner-linke-fordert-mandatsverzicht-von-emde/100267960.html",
+        "title": "Gewaltverbrechen: Sechs Tote und mehr als fünfzehn Verletzte nach Schüssen in Krakau",
+        "summary": "Auf dem Großen Ring im polnischen Krakau fallen Schüsse aus einem Auto.",
+        "link": "https://www.handelsblatt.com/politik/international/krakau-sechs-tote-und-mehr-als-fuenfzehn-verletzte-nach-schuessen/100268120.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Why the US midterms sparked an AI stock selloff",
-        "summary": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
-        "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+        "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
+        "summary": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
+        "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Krise in Frankreich: Nachbarn und Fremde zugleich",
-        "summary": "Drohende Staatsschuldenkrise, Schülerproteste, die auch Deutschland erreicht haben, eine ungewisse Zukunft.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/frankreich-und-deutschland-warum-uns-die-krise-des-nachbarn-angeht-201646354.html",
+        "title": "Neue Airbus-Schiffe: Wenn Flugzeugteile über den Atlantik schippern",
+        "summary": "Die Pionierrolle nimmt Airbus einmal nicht in Luft- oder Raumfahrt wahr – sondern auf dem Wasser.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/airbus-setzt-auf-rotorsegel-schiffe-fuer-atlantikueberquerung-accg-201654508.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Wahlen: Regierung nach Wahl in Neuseeland knapp unter der absoluten Mehrheit",
-        "summary": "Regierungschef Luxon oder Ex-Premier Hipkins?",
-        "link": "https://www.handelsblatt.com/politik/international/wahlen-regierung-nach-wahl-in-neuseeland-knapp-unter-der-absoluten-mehrheit/100268071.html",
+        "title": "Vermögen: Schenkung an Kinder – Warum das kompliziert werden kann",
+        "summary": "Aus Sorge vor einer Erhöhung der Erbschaftsteuer ziehen viele Vermögende aktuell Schenkungen an die nächste Generation vor.",
+        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/vermoegen-schenkung-an-kinder-warum-das-kompliziert-werden-kann/100265997.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "How does it affect me if share prices fall?",
-        "summary": "Changes in the FTSE 100 and other indexes are not just for financial experts, they can affect our lives.",
-        "link": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
+        "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+        "summary": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+        "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,28 +183,28 @@
     "error": null,
     "data": [
       {
-        "title": "The asteroid killed the dinosaurs. Why did crocodiles survive?",
-        "summary": "Scientists may have solved a 66-million-year-old mystery: how crocodiles survived the asteroid that wiped out the dinosaurs.",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261030002922.htm",
-        "source": "ScienceDaily – Tiere",
+        "title": "75,000-year-old Neanderthal may have been killed by a spear aimed at the heart",
+        "summary": "A Neanderthal who died 75,000 years ago may have been killed by a wooden spear deliberately aimed at the heart, revealing rare evidence of prehistoric violence.",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261029072126.htm",
+        "source": "ScienceDaily – Archäologie",
         "publisher": "ScienceDaily",
-        "category": "Biologie"
+        "category": "Archäologie"
       },
       {
-        "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-        "summary": "I’m not the sort of person who typically pays for a house cleaner.",
-        "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-        "source": "MIT Technology Review",
-        "publisher": "MIT",
-        "category": "Technologie"
+        "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
+        "summary": "APOD Science APOD APOD: 2026 November 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+        "link": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/",
+        "source": "NASA Breaking News",
+        "publisher": "NASA",
+        "category": "Raumfahrt"
       },
       {
-        "title": "Medicinal plants, lessons from mushrooms and the power of smell: Books in brief",
-        "summary": "Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03595-x Andrew Robinson reviews five of the best science picks.",
-        "link": "https://www.nature.com/articles/d41586-026-03595-x",
-        "source": "Nature News",
-        "publisher": "Nature",
-        "category": "Forschung"
+        "title": "Tà Má Stream in Vietnam",
+        "summary": "Hidden deep within the remote highlands of Vinh Thanh district, Ta Ma Stream offers an arresting departure from the sun-drenched beaches of the coast.",
+        "link": "https://www.atlasobscura.com/places/ta-ma-stream",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
       }
     ]
   }

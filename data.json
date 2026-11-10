@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T13:40:55+00:00",
-  "date_label": "Monday, 09. November 2026",
+  "generated_at": "2026-11-10T13:18:33+00:00",
+  "date_label": "Tuesday, 10. November 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 26103.1504,
-        "change_pct": 1.1
+        "price": 26574.2695,
+        "change_pct": 1.17
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7376.8599,
-        "change_pct": 0.31
+        "price": 7549.9399,
+        "change_pct": 2.35
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 24579.4297,
-        "change_pct": 1.09
+        "price": 25253.1406,
+        "change_pct": 2.74
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6251.9702,
-        "change_pct": 1.32
+        "price": 6357.9199,
+        "change_pct": 1.07
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 58775.5,
-        "change_pct": 2.33
+        "price": 60459.5781,
+        "change_pct": 2.87
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 66615,
-        "usd": 74577,
-        "change_24h_pct": -2.15
+        "eur": 66186,
+        "usd": 74214,
+        "change_24h_pct": -0.75
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1891.42,
-        "usd": 2117.48,
-        "change_24h_pct": -5.75
+        "eur": 1866.83,
+        "usd": 2093.25,
+        "change_24h_pct": -1.39
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1196,
-        "change_pct": -0.29
+        "price": 1.1215,
+        "change_pct": 0.6
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8345,
-        "change_pct": 0.01
+        "price": 0.8353,
+        "change_pct": 0.12
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9169,
-        "change_pct": 0.14
+        "price": 0.9201,
+        "change_pct": 0.71
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 157.888,
-        "change_pct": 0.25
+        "price": 158.219,
+        "change_pct": -0.05
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 176.743,
-        "change_pct": -0.04
+        "price": 177.368,
+        "change_pct": 0.52
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.847,
-        "change_pct": -0.25,
+        "price": 4.864,
+        "change_pct": 0.1,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Umweltminister Schneider: „Privat fahren wir einen 13 Jahre alten Diesel“",
-        "summary": "Umweltminister Carsten Schneider erklärt vor der Klimakonferenz in Antalya, warum das Verbrenner-Auto ein Auslaufmodell ist – und warum er selbst noch eins fährt.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/umweltminister-carsten-schneider-privat-fahren-wir-einen-13-jahre-alten-diesel-accg-201653839.html",
+        "title": "Gebäudetyp E: Immobilienwirtschaft fordert Nachbesserungen",
+        "summary": "Der Gebäudetyp E soll für einfaches Bauen stehen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/gebaeudetyp-e-zia-kritisiert-entwurf-der-bundesregierung-accg-201669109.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Nach Protesten: Frankreich erhöht Mindestlohn um 1,6 Prozent",
-        "summary": "Nach wochenlangen Massenprotesten wegen der fehlenden Kaufkraft zieht Frankreich die geplante Mindestlohnerhöhung vor.",
-        "link": "https://www.handelsblatt.com/politik/international/nach-protesten-frankreich-erhoeht-mindestlohn-um-16-prozent/100268473.html",
+        "title": "Verteidigung: Polens größte private Rüstungsfirma expandiert nach Deutschland",
+        "summary": "Mit einem Büro in Berlin will die WB Group künftig auch um Bundeswehraufträge mitbieten.",
+        "link": "https://www.handelsblatt.com/politik/international/verteidigung-polens-groesste-private-ruestungsfirma-expandiert-nach-deutschland/100268433.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-        "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
-        "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+        "title": "Anthropic to raise $64bn in major stock market listing",
+        "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
+        "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Energieversorgung: Deutschlands riskante Erdgas-Wette",
-        "summary": "Wirtschaftsministerin Katherina Reiche hat sich lange nicht um die leeren Gasspeicher gekümmert.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/katherina-reiche-und-die-leeren-gasspeicher-deutschlands-riskante-wette-201646419.html",
+        "title": "Vor Kapitalmarkttag: Uniper will Investoren locken",
+        "summary": "Vor seinem Kapitalmarkttag macht sich der verstaatlichte Uniper-Konzern für Anleger hübsch.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/uniper-wirbt-vor-kapitalmarkttag-um-investoren-accg-201668337.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Vermögen: Wann sich ein Ehevertrag lohnt – und was er kostet",
-        "summary": "Ein Ehevertrag gilt als unromantisch.",
-        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/vermoegen-diese-kosten-kommen-bei-einem-ehevertrag-auf-paare-zu/100224359.html",
+        "title": "Dax aktuell: „Aus Angst ist innerhalb weniger Tage Gier geworden“ – Dax steuert auf Rekord zu",
+        "summary": "Nach erheblichen Verlusten in der vergangenen Woche blicken Anleger wieder positiv auf das Marktumfeld.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-auf-rekordjagd-dax-notiert-deutlich-ueber-26.000-punkten/100268632.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
-        "summary": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?",
-        "link": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
+        "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
+        "summary": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
+        "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Oberster Chemielobbyist: Steilemann tritt noch mal an",
-        "summary": "Covestro-Chef Markus Steilemann will überraschend zum dritten Mal Präsident des Chemieverbands VCI werden.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/markus-steilemann-kandidiert-fuer-dritte-amtszeit-als-vci-praesident-accg-201665792.html",
+        "title": "Ukraine-Hilfe: Merz droht mit Blockade von EU-Haushalt",
+        "summary": "Ungarn und andere Staaten fordern hohe Summen aus dem EU-Budget, wollen sich aber nicht an der Ukraine-Finanzierung beteiligen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/friedrich-merz-verknuepft-eu-haushalt-mit-ukraine-finanzierung-accg-201668590.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Verteidigung: Start-up Tytan steigt in Massenfertigung von Abfangdrohnen ein",
-        "summary": "Das junge Münchener Unternehmen will künftig bis zu 3000 Drohnen im Monat produzieren.",
-        "link": "https://www.handelsblatt.com/unternehmen/start-ups/verteidigung-start-up-tytan-steigt-in-massenfertigung-von-abfangdrohnen-ein/100267694.html",
+        "title": "+++ Ukraine-Krieg +++: Lawrow fordert Folgeregelung vor einem Waffenstillstand in der Ukraine",
+        "summary": "Friedensgespräche werden morgen fortgesetzt +++ Insider: Drohnenangriffe legen ein Drittel der Raffineriekapazität Russlands lahm +++ Zwei Ukrainer in Polen festgenommen +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/international/ukraine-lawrow-fordert-folgeregelung-vor-einem-waffenstillstand/27982126.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Doing these things now will help you save money at Christmas",
-        "summary": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
-        "link": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+        "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+        "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,25 +183,25 @@
     "error": null,
     "data": [
       {
-        "title": "Giant MacAskill’s Grave in Englishtown, Nova Scotia",
-        "summary": "Tucked away in a small cemetery in the Cape Breton community of Englishtown lies the grave of Angus MacAskill, better known as the Giant MacAskill or the Cape Breton Giant, a man whose extraordinary height and strength…",
-        "link": "https://www.atlasobscura.com/places/giant-macaskill-s-grave",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
+        "title": "A pizza topping that divides the world",
+        "summary": "The science behind a sweet foil to salty ham",
+        "link": "https://www.bbc.com/future/article/20220818-why-is-ham-and-pineapple-pizza-so-controversial?ocid=global_future_rss",
+        "source": "BBC Future",
+        "publisher": "BBC",
+        "category": "Zukunft"
       },
       {
-        "title": "Cholera bacterium’s good deed: inspiring a glue with rare properties",
-        "summary": "Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03630-x An adhesive that binds strongly even under water was inspired by a protein made by a feared pathogen.",
-        "link": "https://www.nature.com/articles/d41586-026-03630-x",
-        "source": "Nature News",
-        "publisher": "Nature",
-        "category": "Forschung"
+        "title": "Evolving metal extraction processes",
+        "summary": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible.",
+        "link": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
+        "source": "MIT Technology Review",
+        "publisher": "MIT",
+        "category": "Technologie"
       },
       {
-        "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
-        "summary": "NASA announced a suite of awards and mission updates on Saturday to expand the agency&#8217;s Moon Base exploration, science, and infrastructure capabilities.",
-        "link": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+        "title": "Autumn Mornings Bring Valley Fog",
+        "summary": "Low clouds trace the branching valleys of the Appalachian Plateau and the Cumberland River, then burn off by afternoon.",
+        "link": "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/",
         "source": "NASA Breaking News",
         "publisher": "NASA",
         "category": "Raumfahrt"

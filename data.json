@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T13:18:33+00:00",
-  "date_label": "Tuesday, 10. November 2026",
+  "generated_at": "2026-11-11T12:29:45+00:00",
+  "date_label": "Wednesday, 11. November 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 26574.2695,
-        "change_pct": 1.17
+        "price": 26533.4102,
+        "change_pct": 0.71
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7549.9399,
-        "change_pct": 2.35
+        "price": 7520.9302,
+        "change_pct": -0.38
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25253.1406,
-        "change_pct": 2.74
+        "price": 25065.8691,
+        "change_pct": -0.74
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6357.9199,
-        "change_pct": 1.07
+        "price": 6366.9102,
+        "change_pct": 0.62
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 60459.5781,
-        "change_pct": 2.87
+        "price": 61248.5898,
+        "change_pct": 1.31
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 66186,
-        "usd": 74214,
-        "change_24h_pct": -0.75
+        "eur": 66321,
+        "usd": 73870,
+        "change_24h_pct": 0.25
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1866.83,
-        "usd": 2093.25,
-        "change_24h_pct": -1.39
+        "eur": 1841.96,
+        "usd": 2051.64,
+        "change_24h_pct": -1.11
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1215,
-        "change_pct": 0.6
+        "price": 1.114,
+        "change_pct": -0.74
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8353,
-        "change_pct": 0.12
+        "price": 0.8365,
+        "change_pct": 0.2
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9201,
-        "change_pct": 0.71
+        "price": 0.9237,
+        "change_pct": 0.45
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 158.219,
-        "change_pct": -0.05
+        "price": 159.155,
+        "change_pct": 0.74
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 177.368,
-        "change_pct": 0.52
+        "price": 177.237,
+        "change_pct": -0.03
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.864,
-        "change_pct": 0.1,
+        "price": 4.983,
+        "change_pct": 2.45,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Gebäudetyp E: Immobilienwirtschaft fordert Nachbesserungen",
-        "summary": "Der Gebäudetyp E soll für einfaches Bauen stehen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/gebaeudetyp-e-zia-kritisiert-entwurf-der-bundesregierung-accg-201669109.html",
+        "title": "Trigema-Chefin Bonita Grupp: „Der Kanzler darf jetzt nicht einknicken“",
+        "summary": "Seit Patriarch Wolfgang Grupp im Ruhestand ist, führt Tochter Bonita Grupp mit ihrem Bruder Trigema.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/trigema-co-chefin-bonita-grupp-spricht-mit-der-f-a-z-ueber-die-rolle-von-politik-und-unternehmern-accg-201664761.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Verteidigung: Polens größte private Rüstungsfirma expandiert nach Deutschland",
-        "summary": "Mit einem Büro in Berlin will die WB Group künftig auch um Bundeswehraufträge mitbieten.",
-        "link": "https://www.handelsblatt.com/politik/international/verteidigung-polens-groesste-private-ruestungsfirma-expandiert-nach-deutschland/100268433.html",
+        "title": "Volkswagen: VW stoppt Produktionsprojekt „Gamechanger“",
+        "summary": "Volkswagen verzichtet aus Kostengründen auf das geplante Großgusszentrum in Wolfsburg.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/volkswagen-vw-stoppt-produktionsprojekt-gamechanger/100269104.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Anthropic to raise $64bn in major stock market listing",
-        "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
-        "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+        "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
+        "summary": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+        "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Vor Kapitalmarkttag: Uniper will Investoren locken",
-        "summary": "Vor seinem Kapitalmarkttag macht sich der verstaatlichte Uniper-Konzern für Anleger hübsch.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/uniper-wirbt-vor-kapitalmarkttag-um-investoren-accg-201668337.html",
+        "title": "Frustrierte Maschinenbauer: „Deutschland macht uns fassungslos“",
+        "summary": "Der Maschinenbau soll die krisengeplagte deutsche Industrie stützen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vdma-praesident-bertram-kawlath-deutschland-macht-uns-fassungslos-accg-201661284.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Dax aktuell: „Aus Angst ist innerhalb weniger Tage Gier geworden“ – Dax steuert auf Rekord zu",
-        "summary": "Nach erheblichen Verlusten in der vergangenen Woche blicken Anleger wieder positiv auf das Marktumfeld.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-auf-rekordjagd-dax-notiert-deutlich-ueber-26.000-punkten/100268632.html",
+        "title": "Dax aktuell: Dax nur knapp unter Rekordniveau – KI-Profiteure gewinnen",
+        "summary": "Nur wenige Tage nach dem massiven Tech-Einbruch ist der Dax zurück in der Nähe neuer Höchststände.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-nur-knapp-unter-rekordniveau-ki-profiteure-gewinnen/100269009.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
-        "summary": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
-        "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+        "title": "Christmas toy rush being driven by squishies and building sets",
+        "summary": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
+        "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Ukraine-Hilfe: Merz droht mit Blockade von EU-Haushalt",
-        "summary": "Ungarn und andere Staaten fordern hohe Summen aus dem EU-Budget, wollen sich aber nicht an der Ukraine-Finanzierung beteiligen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/friedrich-merz-verknuepft-eu-haushalt-mit-ukraine-finanzierung-accg-201668590.html",
+        "title": "Volkswagen in Sachsen: „In Wahrheit gibt es einen knallharten Standortwettbewerb“",
+        "summary": "Der sächsische Ministerpräsident Michael Kretschmer (CDU) kämpft um den VW-Standort in Zwickau.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/ministerpraesident-kretschmer-kaempft-um-vw-standort-zwickau-201658885.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "+++ Ukraine-Krieg +++: Lawrow fordert Folgeregelung vor einem Waffenstillstand in der Ukraine",
-        "summary": "Friedensgespräche werden morgen fortgesetzt +++ Insider: Drohnenangriffe legen ein Drittel der Raffineriekapazität Russlands lahm +++ Zwei Ukrainer in Polen festgenommen +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/international/ukraine-lawrow-fordert-folgeregelung-vor-einem-waffenstillstand/27982126.html",
+        "title": "Bundesregierung: Schweitzer will Arbeitsrecht reformieren",
+        "summary": "Die Regierung will das Arbeitsrecht reformieren – unter anderem Flexibilisierungen sollen den Unternehmen helfen.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/bundesregierung-schweitzer-will-arbeitsrecht-reformieren/100269098.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-        "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-        "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+        "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+        "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+        "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,25 +183,25 @@
     "error": null,
     "data": [
       {
-        "title": "A pizza topping that divides the world",
-        "summary": "The science behind a sweet foil to salty ham",
-        "link": "https://www.bbc.com/future/article/20220818-why-is-ham-and-pineapple-pizza-so-controversial?ocid=global_future_rss",
-        "source": "BBC Future",
-        "publisher": "BBC",
-        "category": "Zukunft"
+        "title": "A practically perfect plesiosaur",
+        "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03278-7 A very well preserved ancient marine reptile and a Latin poem that describes an optical phenomenon, in this week’s pick from the Nature archive.",
+        "link": "https://www.nature.com/articles/d41586-026-03278-7",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
       },
       {
-        "title": "Evolving metal extraction processes",
-        "summary": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible.",
-        "link": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
+        "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+        "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
         "source": "MIT Technology Review",
         "publisher": "MIT",
         "category": "Technologie"
       },
       {
-        "title": "Autumn Mornings Bring Valley Fog",
-        "summary": "Low clouds trace the branching valleys of the Appalachian Plateau and the Cumberland River, then burn off by afternoon.",
-        "link": "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/",
+        "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
+        "summary": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov.",
+        "link": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
         "source": "NASA Breaking News",
         "publisher": "NASA",
         "category": "Raumfahrt"

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T12:29:45+00:00",
-  "date_label": "Wednesday, 11. November 2026",
+  "generated_at": "2026-11-12T13:35:20+00:00",
+  "date_label": "Thursday, 12. November 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 26533.4102,
-        "change_pct": 0.71
+        "price": 26720.7207,
+        "change_pct": 0.22
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7520.9302,
-        "change_pct": -0.38
+        "price": 7619.3799,
+        "change_pct": 1.31
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25065.8691,
-        "change_pct": -0.74
+        "price": 25466.1895,
+        "change_pct": 1.6
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6366.9102,
-        "change_pct": 0.62
+        "price": 6380.73,
+        "change_pct": -0.2
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 61248.5898,
-        "change_pct": 1.31
+        "price": 60819.3594,
+        "change_pct": -0.7
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 66321,
-        "usd": 73870,
-        "change_24h_pct": 0.25
+        "eur": 65478,
+        "usd": 72582,
+        "change_24h_pct": -1.31
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1841.96,
-        "usd": 2051.64,
-        "change_24h_pct": -1.11
+        "eur": 1814.36,
+        "usd": 2011.21,
+        "change_24h_pct": -1.74
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.114,
-        "change_pct": -0.74
+        "price": 1.1089,
+        "change_pct": -0.72
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8365,
-        "change_pct": 0.2
+        "price": 0.8359,
+        "change_pct": -0.08
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9237,
-        "change_pct": 0.45
+        "price": 0.9229,
+        "change_pct": 0.16
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 159.155,
-        "change_pct": 0.74
+        "price": 159.71,
+        "change_pct": 0.63
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 177.237,
-        "change_pct": -0.03
+        "price": 177.055,
+        "change_pct": -0.11
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.983,
-        "change_pct": 2.45,
+        "price": 5.056,
+        "change_pct": 1.16,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Trigema-Chefin Bonita Grupp: „Der Kanzler darf jetzt nicht einknicken“",
-        "summary": "Seit Patriarch Wolfgang Grupp im Ruhestand ist, führt Tochter Bonita Grupp mit ihrem Bruder Trigema.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/trigema-co-chefin-bonita-grupp-spricht-mit-der-f-a-z-ueber-die-rolle-von-politik-und-unternehmern-accg-201664761.html",
+        "title": "Ulrich Bettermann: Einer der letzten Unternehmer vom alten Schlag",
+        "summary": "Bekannter von Merz, Freund von Schröder, Pilot, Jäger und ein reicher Mann: Ulrich Bettermann sprüht auch mit achtzig Jahren nur vor Abenteuergeschichten.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/milliardaer-ulrich-bettermann-ein-patriarch-mit-maechtigen-freunden-201312041.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Volkswagen: VW stoppt Produktionsprojekt „Gamechanger“",
-        "summary": "Volkswagen verzichtet aus Kostengründen auf das geplante Großgusszentrum in Wolfsburg.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/volkswagen-vw-stoppt-produktionsprojekt-gamechanger/100269104.html",
+        "title": "Finanzstabilität: Bundesbank sieht vor allem drei Risiken für die deutschen Banken",
+        "summary": "Die Gefahren für das Finanzsystem nehmen zu.",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/finanzstabilitaet-bundesbank-sieht-im-kern-drei-risiken-fuer-deutsche-banken/100265362.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
-        "summary": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
-        "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+        "title": "UK economy grows at fastest rate for more than two years",
+        "summary": "﻿The UK economy grew by 0.7% in the three months to September, according to official figures.",
+        "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Frustrierte Maschinenbauer: „Deutschland macht uns fassungslos“",
-        "summary": "Der Maschinenbau soll die krisengeplagte deutsche Industrie stützen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vdma-praesident-bertram-kawlath-deutschland-macht-uns-fassungslos-accg-201661284.html",
+        "title": "Sachverständigenrat: Wirtschaftsweise zerpflücken schwarz-rote Schuldenpolitik",
+        "summary": "Weil der Bund seine wachsenden Verteidigungsausgaben mit Krediten finanziert, drohen Schuldenstand und Zinsausgaben immer weiter zu steigen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/wirtschaftsweise-zerpfluecken-schwarz-rote-schuldenpolitik-accg-201672634.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Dax aktuell: Dax nur knapp unter Rekordniveau – KI-Profiteure gewinnen",
-        "summary": "Nur wenige Tage nach dem massiven Tech-Einbruch ist der Dax zurück in der Nähe neuer Höchststände.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-nur-knapp-unter-rekordniveau-ki-profiteure-gewinnen/100269009.html",
+        "title": "Verteidigung: Frankreich will internationales Zentrum für Militär-KI gründen",
+        "summary": "Paris will bei Militär-KI unabhängiger von den USA werden.",
+        "link": "https://www.handelsblatt.com/politik/international/verteidigung-frankreich-will-internationales-zentrum-fuer-militaer-ki-gruenden/100269415.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Christmas toy rush being driven by squishies and building sets",
-        "summary": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
-        "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
+        "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
+        "summary": "The UK is seeing impressive growth, but will it last?",
+        "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Volkswagen in Sachsen: „In Wahrheit gibt es einen knallharten Standortwettbewerb“",
-        "summary": "Der sächsische Ministerpräsident Michael Kretschmer (CDU) kämpft um den VW-Standort in Zwickau.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/ministerpraesident-kretschmer-kaempft-um-vw-standort-zwickau-201658885.html",
+        "title": "Jensen Huang: Nvidia bereitet offenbar Trennung von Huang vor",
+        "summary": "Einem Bericht zufolge will der Nvidia-Verwaltungsrat über die Zukunft des Vorstandschefs beraten.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/zweite-affaere-nvidia-bereitet-offenbar-trennung-von-jensen-huang-vor-201674834.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Bundesregierung: Schweitzer will Arbeitsrecht reformieren",
-        "summary": "Die Regierung will das Arbeitsrecht reformieren – unter anderem Flexibilisierungen sollen den Unternehmen helfen.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/bundesregierung-schweitzer-will-arbeitsrecht-reformieren/100269098.html",
+        "title": "Immobilien: LEG muss wieder Gebäude abwerten, bestätigt aber die Jahresprognose",
+        "summary": "Der zweitgrößte börsennotierte Vermieter Deutschlands steigert sein Ergebnis weiter, und die Aktie gewinnt deutlich an Wert.",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-leg-muss-wieder-gebaeude-abwerten-bestaetigt-aber-prognose/100268813.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-        "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-        "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+        "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
+        "summary": "As uncertainty swirls over the boss of the AI chip giant, some names have emerged as potential successors.",
+        "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,28 +183,28 @@
     "error": null,
     "data": [
       {
-        "title": "A practically perfect plesiosaur",
-        "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03278-7 A very well preserved ancient marine reptile and a Latin poem that describes an optical phenomenon, in this week’s pick from the Nature archive.",
-        "link": "https://www.nature.com/articles/d41586-026-03278-7",
+        "title": "APOD: 2026 November 12 – Moon, Venus and Spica Meet",
+        "summary": "APOD Science APOD APOD: 2026 November 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+        "link": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/",
+        "source": "NASA Breaking News",
+        "publisher": "NASA",
+        "category": "Raumfahrt"
+      },
+      {
+        "title": "Author Correction: SLAMF6 as a drug-targetable suppressor of T cell immunity against cancer",
+        "summary": "Nature, Published online: 12 November 2026; doi:10.1038/s41586-026-11409-3 Author Correction: SLAMF6 as a drug-targetable suppressor of T cell immunity against cancer",
+        "link": "https://www.nature.com/articles/s41586-026-11409-3",
         "source": "Nature News",
         "publisher": "Nature",
         "category": "Forschung"
       },
       {
-        "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
-        "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-        "source": "MIT Technology Review",
-        "publisher": "MIT",
-        "category": "Technologie"
-      },
-      {
-        "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
-        "summary": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov.",
-        "link": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
-        "source": "NASA Breaking News",
-        "publisher": "NASA",
-        "category": "Raumfahrt"
+        "title": "Bundesbüdchen in Bonn, Germany",
+        "summary": "In 1949, West Germany was debating the location for its provisional government.",
+        "link": "https://www.atlasobscura.com/places/bundesbudchen",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
       }
     ]
   }

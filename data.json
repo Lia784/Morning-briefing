@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T13:35:20+00:00",
-  "date_label": "Thursday, 12. November 2026",
+  "generated_at": "2026-11-13T12:54:22+00:00",
+  "date_label": "Friday, 13. November 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 26720.7207,
-        "change_pct": 0.22
+        "price": 26716.0605,
+        "change_pct": -0.21
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7619.3799,
-        "change_pct": 1.31
+        "price": 7592.3999,
+        "change_pct": -0.35
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25466.1895,
-        "change_pct": 1.6
+        "price": 25366.0898,
+        "change_pct": -0.39
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6380.73,
-        "change_pct": -0.2
+        "price": 6382.3198,
+        "change_pct": -0.26
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 60819.3594,
-        "change_pct": -0.7
+        "price": 61142.3516,
+        "change_pct": 0.53
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 65478,
-        "usd": 72582,
-        "change_24h_pct": -1.31
+        "eur": 62609,
+        "usd": 69164,
+        "change_24h_pct": -4.81
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1814.36,
-        "usd": 2011.21,
-        "change_24h_pct": -1.74
+        "eur": 1772.73,
+        "usd": 1958.31,
+        "change_24h_pct": -2.83
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1089,
-        "change_pct": -0.72
+        "price": 1.1051,
+        "change_pct": -0.4
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8359,
-        "change_pct": -0.08
+        "price": 0.8356,
+        "change_pct": -0.01
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9229,
-        "change_pct": 0.16
+        "price": 0.9266,
+        "change_pct": 0.36
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 159.71,
-        "change_pct": 0.63
+        "price": 160.03,
+        "change_pct": 0.19
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 177.055,
-        "change_pct": -0.11
+        "price": 176.809,
+        "change_pct": -0.23
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 5.056,
-        "change_pct": 1.16,
+        "price": 5.103,
+        "change_pct": 2.1,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Ulrich Bettermann: Einer der letzten Unternehmer vom alten Schlag",
-        "summary": "Bekannter von Merz, Freund von Schröder, Pilot, Jäger und ein reicher Mann: Ulrich Bettermann sprüht auch mit achtzig Jahren nur vor Abenteuergeschichten.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/milliardaer-ulrich-bettermann-ein-patriarch-mit-maechtigen-freunden-201312041.html",
+        "title": "Elite-Panel von Allensbach: So enttäuscht ist die Wirtschaft von der Merz-Regierung",
+        "summary": "Die große Mehrheit der Entscheider hält die schwarz-rote Koalition für schwach.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/so-enttaeuscht-ist-die-wirtschaft-von-der-merz-regierung-elite-panel-von-allensbach-accg-201668594.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Finanzstabilität: Bundesbank sieht vor allem drei Risiken für die deutschen Banken",
-        "summary": "Die Gefahren für das Finanzsystem nehmen zu.",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/finanzstabilitaet-bundesbank-sieht-im-kern-drei-risiken-fuer-deutsche-banken/100265362.html",
+        "title": "Sicherheitspolitik: Bundestag beschließt weitreichende Geheimdienstreform",
+        "summary": "Verfassungsschutz und BND erhalten neue Befugnisse im In- und Ausland für verdeckte Gegenmaßnahmen.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/sicherheitspolitik-bundestag-beschliesst-weitreichende-geheimdienstreform/100269721.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "UK economy grows at fastest rate for more than two years",
-        "summary": "﻿The UK economy grew by 0.7% in the three months to September, according to official figures.",
-        "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+        "title": "What we know about the global Microsoft outage",
+        "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+        "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Sachverständigenrat: Wirtschaftsweise zerpflücken schwarz-rote Schuldenpolitik",
-        "summary": "Weil der Bund seine wachsenden Verteidigungsausgaben mit Krediten finanziert, drohen Schuldenstand und Zinsausgaben immer weiter zu steigen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/wirtschaftsweise-zerpfluecken-schwarz-rote-schuldenpolitik-accg-201672634.html",
+        "title": "Nvidia-chefposten: Trump ist für Cook, aber es gibt einen anderen Favoriten für die Nachfolge von Huang",
+        "summary": "Nvidia-Finanzchefin Colette führt vorübergehend die Geschäfte des wichtigsten KI-Konzerns der Welt.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-skandal-wird-colette-kress-dauerhafte-nachfolgerin-von-jensen-huang-accg-201678861.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Verteidigung: Frankreich will internationales Zentrum für Militär-KI gründen",
-        "summary": "Paris will bei Militär-KI unabhängiger von den USA werden.",
-        "link": "https://www.handelsblatt.com/politik/international/verteidigung-frankreich-will-internationales-zentrum-fuer-militaer-ki-gruenden/100269415.html",
+        "title": "Gesundheitswesen: „Ein Fünftel würde auf uns entfallen“: Pharmakonzern zieht gegen Sparpaket vors Bundesverfassungsgericht",
+        "summary": "Die Pläne der Bundesregierung könnten die Merck-Tochter MSD eine knappe Milliarde Euro kosten.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/pharma-klage-gegen-gkvsparpaket-merck-tochter-zieht-vor-verfassungsgericht/100268510.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
-        "summary": "The UK is seeing impressive growth, but will it last?",
-        "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
+        "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+        "summary": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
+        "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Jensen Huang: Nvidia bereitet offenbar Trennung von Huang vor",
-        "summary": "Einem Bericht zufolge will der Nvidia-Verwaltungsrat über die Zukunft des Vorstandschefs beraten.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/zweite-affaere-nvidia-bereitet-offenbar-trennung-von-jensen-huang-vor-201674834.html",
+        "title": "Beratungen zum Haushalt: Für die CDU ist dieses Ergebnis ein Desaster",
+        "summary": "In den Haushaltsverhandlungen setzt sich die SPD wieder einmal durch.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/streit-um-den-haushalt-fuer-die-cdu-ist-dieses-ergebnis-ein-desaster-201676036.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Immobilien: LEG muss wieder Gebäude abwerten, bestätigt aber die Jahresprognose",
-        "summary": "Der zweitgrößte börsennotierte Vermieter Deutschlands steigert sein Ergebnis weiter, und die Aktie gewinnt deutlich an Wert.",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-leg-muss-wieder-gebaeude-abwerten-bestaetigt-aber-prognose/100268813.html",
+        "title": "Steffen Krach: Staatsanwaltschaft will Immunität des Berliner SPD-Chefs aufheben",
+        "summary": "Seit Krachs Einzug ins Abgeordnetenhaus ruhen die Ermittlungen zum Verkauf eines Klinikgeländes in Lehrte.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/berliner-spd-chef-staatsanwaltschaft-hannover-will-krachs-immunitaet-aufheben/100269712.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
-        "summary": "As uncertainty swirls over the boss of the AI chip giant, some names have emerged as potential successors.",
-        "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+        "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+        "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+        "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,25 +183,25 @@
     "error": null,
     "data": [
       {
-        "title": "APOD: 2026 November 12 – Moon, Venus and Spica Meet",
-        "summary": "APOD Science APOD APOD: 2026 November 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-        "link": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/",
-        "source": "NASA Breaking News",
-        "publisher": "NASA",
-        "category": "Raumfahrt"
+        "title": "Crows can make decisions twice as fast as humans, scientists discover",
+        "summary": "Crows may be even smarter than we thought, and their brains are astonishingly fast.",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261111005850.htm",
+        "source": "ScienceDaily – Tiere",
+        "publisher": "ScienceDaily",
+        "category": "Biologie"
       },
       {
-        "title": "Author Correction: SLAMF6 as a drug-targetable suppressor of T cell immunity against cancer",
-        "summary": "Nature, Published online: 12 November 2026; doi:10.1038/s41586-026-11409-3 Author Correction: SLAMF6 as a drug-targetable suppressor of T cell immunity against cancer",
-        "link": "https://www.nature.com/articles/s41586-026-11409-3",
+        "title": "Massive atlas of brain region linked to a host of diseases is the most detailed yet",
+        "summary": "Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03565-3 A global team profiled nearly 26 million brain cells from the basal ganglia to build a cross-species reference database that will help to unders…",
+        "link": "https://www.nature.com/articles/d41586-026-03565-3",
         "source": "Nature News",
         "publisher": "Nature",
         "category": "Forschung"
       },
       {
-        "title": "Bundesbüdchen in Bonn, Germany",
-        "summary": "In 1949, West Germany was debating the location for its provisional government.",
-        "link": "https://www.atlasobscura.com/places/bundesbudchen",
+        "title": "‘The Mother of the Sea’ (Sassuma Arnaa) in Nuuk, Greenland",
+        "summary": "The Mother of the Sea - Sassuma Arnaa is a traditional Kalaallit tale.",
+        "link": "https://www.atlasobscura.com/places/the-mother-of-the-sea-sassuma-arnaa",
         "source": "Atlas Obscura",
         "publisher": "Atlas Obscura",
         "category": "Entdeckung"

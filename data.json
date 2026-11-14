@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T12:54:22+00:00",
-  "date_label": "Friday, 13. November 2026",
+  "generated_at": "2026-11-14T11:58:13+00:00",
+  "date_label": "Saturday, 14. November 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,26 +8,26 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 26716.0605,
-        "change_pct": -0.21
+        "price": 26749.9492,
+        "change_pct": -0.08
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7592.3999,
-        "change_pct": -0.35
+        "price": 7561.6699,
+        "change_pct": -0.4
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25366.0898,
-        "change_pct": -0.39
+        "price": 25136.2695,
+        "change_pct": -0.91
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6382.3198,
-        "change_pct": -0.26
+        "price": 6386.8599,
+        "change_pct": -0.19
       },
       {
         "name": "Nikkei 225",
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 62609,
-        "usd": 69164,
-        "change_24h_pct": -4.81
+        "eur": 60977,
+        "usd": 67218,
+        "change_24h_pct": -2.68
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1772.73,
-        "usd": 1958.31,
-        "change_24h_pct": -2.83
+        "eur": 1731.3,
+        "usd": 1908.51,
+        "change_24h_pct": -2.19
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1051,
-        "change_pct": -0.4
+        "price": 1.105,
+        "change_pct": -0.41
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8356,
-        "change_pct": -0.01
+        "price": 0.835,
+        "change_pct": -0.07
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9266,
-        "change_pct": 0.36
+        "price": 0.9237,
+        "change_pct": 0.03
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 160.03,
-        "change_pct": 0.19
+        "price": 159.875,
+        "change_pct": 0.09
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 176.809,
-        "change_pct": -0.23
+        "price": 176.659,
+        "change_pct": -0.32
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 5.103,
-        "change_pct": 2.1,
+        "price": 5.154,
+        "change_pct": 1.0,
         "unit": "%"
       }
     ]
@@ -105,41 +105,65 @@
     "error": null,
     "data": [
       {
-        "title": "Elite-Panel von Allensbach: So enttäuscht ist die Wirtschaft von der Merz-Regierung",
-        "summary": "Die große Mehrheit der Entscheider hält die schwarz-rote Koalition für schwach.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/so-enttaeuscht-ist-die-wirtschaft-von-der-merz-regierung-elite-panel-von-allensbach-accg-201668594.html",
+        "title": "Panne bei Microsoft: Warum Friedrich Merz trotz des Microsoft-Ausfalls noch E-Mails schreiben konnte",
+        "summary": "Wegen Serverproblemen bei Microsoft brach weltweit der E-Mail-Verkehr zusammen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/microsoft-ausfall-warum-bundesbehoerden-ungestoert-weiterarbeiteten-201680148.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Sicherheitspolitik: Bundestag beschließt weitreichende Geheimdienstreform",
-        "summary": "Verfassungsschutz und BND erhalten neue Befugnisse im In- und Ausland für verdeckte Gegenmaßnahmen.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/sicherheitspolitik-bundestag-beschliesst-weitreichende-geheimdienstreform/100269721.html",
+        "title": "+++ Ukraine-Krieg +++: USA schlagen laut Selnskyj Donbass-Rückzug gegen Nato-Beitritt vor",
+        "summary": "Russland: Haben ukrainischen Orts Tersjanka eingenommen +++ Starlink-Störungen: Senatoren fordern Unterlagen von Musk +++ Dreiertreffen Trumps mit Xi und Putin angekündigt +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/international/ukraine-usa-schlagen-laut-selnskyj-donbass-rueckzug-gegen-nato-beitritt-vor/27982126.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "What we know about the global Microsoft outage",
-        "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+        "title": "Microsoft says services fully restored after day-long global outage",
+        "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+        "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
+        "title": "Bundespräsidentin in spe: Die Mutter des bayerischen Start-up-Wunders",
+        "summary": "Im Januar könnte Ilse Aigner Bundespräsidentin werden.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/ilse-aigner-die-mutter-des-bayerischen-start-up-wunders-accg-201669728.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "Immobilien: Bis zu 135 Jahre Preisvorteil – wo sich ein Immobilienkauf rund um Düsseldorf für Pendler lohnt",
+        "summary": "Die NRW-Landeshauptstadt gilt als eine der teuersten Metropolen Deutschlands.",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wo-sich-ein-immobilienkauf-rund-um-duesseldorf-fuer-pendler-lohnt/100266843.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+        "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
         "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Nvidia-chefposten: Trump ist für Cook, aber es gibt einen anderen Favoriten für die Nachfolge von Huang",
-        "summary": "Nvidia-Finanzchefin Colette führt vorübergehend die Geschäfte des wichtigsten KI-Konzerns der Welt.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-skandal-wird-colette-kress-dauerhafte-nachfolgerin-von-jensen-huang-accg-201678861.html",
+        "title": "Reformen: Die Macht aus Bayern",
+        "summary": "Über die Wirtschafts- und Sozialpolitik der Regierung bestimmt in weiten Teilen die CSU.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/csu-bestimmt-berliner-sozialpolitik-wie-markus-soeder-die-koalition-lenkt-accg-201678995.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Gesundheitswesen: „Ein Fünftel würde auf uns entfallen“: Pharmakonzern zieht gegen Sparpaket vors Bundesverfassungsgericht",
-        "summary": "Die Pläne der Bundesregierung könnten die Merck-Tochter MSD eine knappe Milliarde Euro kosten.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/pharma-klage-gegen-gkvsparpaket-merck-tochter-zieht-vor-verfassungsgericht/100268510.html",
+        "title": "Touristik: Stärkung der eigenen Marken – Mit dieser Strategie kämpft Tui um seine Kunden",
+        "summary": "Konkurrenz durch Online-Plattformen und Künstliche Intelligenz – der margenstarke Eigenvertrieb von Europas größtem Reisekonzern steht unter Druck.",
+        "link": "https://www.handelsblatt.com/unternehmen/dienstleister/touristik-mit-dieser-strategie-kaempft-tui-um-seine-kunden/100266709.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -151,30 +175,6 @@
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
-      },
-      {
-        "title": "Beratungen zum Haushalt: Für die CDU ist dieses Ergebnis ein Desaster",
-        "summary": "In den Haushaltsverhandlungen setzt sich die SPD wieder einmal durch.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/streit-um-den-haushalt-fuer-die-cdu-ist-dieses-ergebnis-ein-desaster-201676036.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "Steffen Krach: Staatsanwaltschaft will Immunität des Berliner SPD-Chefs aufheben",
-        "summary": "Seit Krachs Einzug ins Abgeordnetenhaus ruhen die Ermittlungen zum Verkauf eines Klinikgeländes in Lehrte.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/berliner-spd-chef-staatsanwaltschaft-hannover-will-krachs-immunitaet-aufheben/100269712.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
-        "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
-        "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
       }
     ]
   },
@@ -183,20 +183,12 @@
     "error": null,
     "data": [
       {
-        "title": "Crows can make decisions twice as fast as humans, scientists discover",
-        "summary": "Crows may be even smarter than we thought, and their brains are astonishingly fast.",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261111005850.htm",
-        "source": "ScienceDaily – Tiere",
+        "title": "A breakthrough in magnetism could make AI chips use dramatically less energy",
+        "summary": "Researchers at Brown University have overcome a major obstacle to creating ultra-low-power computer chips that could help slash the energy demands of AI.",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261111005853.htm",
+        "source": "ScienceDaily – Physik",
         "publisher": "ScienceDaily",
-        "category": "Biologie"
-      },
-      {
-        "title": "Massive atlas of brain region linked to a host of diseases is the most detailed yet",
-        "summary": "Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03565-3 A global team profiled nearly 26 million brain cells from the basal ganglia to build a cross-species reference database that will help to unders…",
-        "link": "https://www.nature.com/articles/d41586-026-03565-3",
-        "source": "Nature News",
-        "publisher": "Nature",
-        "category": "Forschung"
+        "category": "Physik"
       },
       {
         "title": "‘The Mother of the Sea’ (Sassuma Arnaa) in Nuuk, Greenland",
@@ -205,6 +197,14 @@
         "source": "Atlas Obscura",
         "publisher": "Atlas Obscura",
         "category": "Entdeckung"
+      },
+      {
+        "title": "Number of international students arriving in US plunges — worrying scientists",
+        "summary": "Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03668-x Declines in students from China and India are driving the trend, which researchers say could slow the progress of US science.",
+        "link": "https://www.nature.com/articles/d41586-026-03668-x",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
       }
     ]
   }

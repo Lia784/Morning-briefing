@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T11:58:13+00:00",
-  "date_label": "Saturday, 14. November 2026",
+  "generated_at": "2026-11-15T12:33:12+00:00",
+  "date_label": "Sunday, 15. November 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 60977,
-        "usd": 67218,
-        "change_24h_pct": -2.68
+        "eur": 59358,
+        "usd": 65431,
+        "change_24h_pct": -2.61
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1731.3,
-        "usd": 1908.51,
-        "change_24h_pct": -2.19
+        "eur": 1660.0,
+        "usd": 1829.82,
+        "change_24h_pct": -4.09
       }
     ]
   },
@@ -105,17 +105,65 @@
     "error": null,
     "data": [
       {
-        "title": "Panne bei Microsoft: Warum Friedrich Merz trotz des Microsoft-Ausfalls noch E-Mails schreiben konnte",
-        "summary": "Wegen Serverproblemen bei Microsoft brach weltweit der E-Mail-Verkehr zusammen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/microsoft-ausfall-warum-bundesbehoerden-ungestoert-weiterarbeiteten-201680148.html",
+        "title": "Vorstoß von Ärzte-Verband: Schneller zum Facharzt gegen Bezahlung?",
+        "summary": "Der Chef der Kassenärztlichen Bundesvereinigung bringt die Option ins Spiel und verweist auf Kürzungen für die Arztpraxen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/kbv-vorschlag-schneller-zum-facharzt-gegen-bezahlung-accg-201684747.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "+++ Ukraine-Krieg +++: USA schlagen laut Selnskyj Donbass-Rückzug gegen Nato-Beitritt vor",
-        "summary": "Russland: Haben ukrainischen Orts Tersjanka eingenommen +++ Starlink-Störungen: Senatoren fordern Unterlagen von Musk +++ Dreiertreffen Trumps mit Xi und Putin angekündigt +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/international/ukraine-usa-schlagen-laut-selnskyj-donbass-rueckzug-gegen-nato-beitritt-vor/27982126.html",
+        "title": "Immobilien: Wie Sie ein Mehrfamilienhaus bis zu 50 Prozent teurer verkaufen",
+        "summary": "Wer statt des ganzen Hauses alle Wohnungen einzeln verkauft, kann deutlich mehr erlösen.",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wie-sie-ein-mehrfamilienhaus-bis-zu-50-prozent-teurer-verkaufen/100260999.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "Beauty advent calendars can cost hundreds but are they value for money?",
+        "summary": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
+        "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
+        "title": "Chefin von ThyssenKrupp Steel: „Wir brauchen weniger CO₂ - nicht weniger Industrie“",
+        "summary": "Marie Jaroni ist Chefin des größten deutschen Stahlherstellers Thyssenkrupp Steel.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/marie-jaroni-thyssenkrupp-steel-auf-dem-weg-zum-gruenen-stahlwerk-accg-201668866.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "Migration: Fast 2200 Migranten erreichen Kanaren binnen zwei Tagen",
+        "summary": "Die Kanaren sind ein wichtiger Ankunftspunkt für Menschen, die aus Westafrika nach Europa fliehen.",
+        "link": "https://www.handelsblatt.com/politik/international/migration-fast-2200-migranten-erreichen-kanaren-binnen-zwei-tagen/100270002.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+        "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+        "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
+        "title": "Generationenkonflikt: Generationen, hört auf zu streiten!",
+        "summary": "Die Jugend protestiert, die Älteren halten dagegen: Früher hatten es junge Leute auch nicht leicht.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/generationenstreit-warum-der-vergleich-jung-gegen-alt-in-die-irre-fuehrt-accg-201678755.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "Kryptowährungen: Neue Schwächephase: Bitcoin fällt zeitweise unter 65.000 Dollar",
+        "summary": "Bitcoin, die größte Kryptowährung, büßt auf Wochensicht rund 15 Prozent ein.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/kryptowaehrungen-neue-schwaechephase-bitcoin-faellt-unter-65.000-dollar/100269990.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -127,54 +175,6 @@
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
-      },
-      {
-        "title": "Bundespräsidentin in spe: Die Mutter des bayerischen Start-up-Wunders",
-        "summary": "Im Januar könnte Ilse Aigner Bundespräsidentin werden.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/ilse-aigner-die-mutter-des-bayerischen-start-up-wunders-accg-201669728.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "Immobilien: Bis zu 135 Jahre Preisvorteil – wo sich ein Immobilienkauf rund um Düsseldorf für Pendler lohnt",
-        "summary": "Die NRW-Landeshauptstadt gilt als eine der teuersten Metropolen Deutschlands.",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wo-sich-ein-immobilienkauf-rund-um-duesseldorf-fuer-pendler-lohnt/100266843.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-        "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-        "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
-      },
-      {
-        "title": "Reformen: Die Macht aus Bayern",
-        "summary": "Über die Wirtschafts- und Sozialpolitik der Regierung bestimmt in weiten Teilen die CSU.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/csu-bestimmt-berliner-sozialpolitik-wie-markus-soeder-die-koalition-lenkt-accg-201678995.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "Touristik: Stärkung der eigenen Marken – Mit dieser Strategie kämpft Tui um seine Kunden",
-        "summary": "Konkurrenz durch Online-Plattformen und Künstliche Intelligenz – der margenstarke Eigenvertrieb von Europas größtem Reisekonzern steht unter Druck.",
-        "link": "https://www.handelsblatt.com/unternehmen/dienstleister/touristik-mit-dieser-strategie-kaempft-tui-um-seine-kunden/100266709.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "How a sex scandal at Nvidia is putting pressure on the White House",
-        "summary": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
-        "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
       }
     ]
   },
@@ -183,28 +183,28 @@
     "error": null,
     "data": [
       {
-        "title": "A breakthrough in magnetism could make AI chips use dramatically less energy",
-        "summary": "Researchers at Brown University have overcome a major obstacle to creating ultra-low-power computer chips that could help slash the energy demands of AI.",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261111005853.htm",
-        "source": "ScienceDaily – Physik",
+        "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+        "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review…",
+        "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+        "source": "MIT Technology Review",
+        "publisher": "MIT",
+        "category": "Technologie"
+      },
+      {
+        "title": "GLP-1s Are Showing Promise Beyond Weight Loss. Could They Be 'Wonder Drugs' for Ailments Like Addiction, Dementia and Cancer?",
+        "summary": "The medications seem to act on the brain’s reward circuitry and help regulate inflammation, which is why they might have so many positive effects.",
+        "link": "https://www.smithsonianmag.com/science-nature/glp-1s-are-showing-promise-beyond-weight-loss-could-they-be-wonder-drugs-for-ailments-like-addiction-dementia-and-cancer-180989867/",
+        "source": "Smithsonian",
+        "publisher": "Smithsonian",
+        "category": "Wissenschaft"
+      },
+      {
+        "title": "Comets may have destroyed life's ingredients instead of delivering them to Earth",
+        "summary": "A century-old theory about the origins of life on Earth may be wrong.",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261105224553.htm",
+        "source": "ScienceDaily – Geowissenschaften",
         "publisher": "ScienceDaily",
-        "category": "Physik"
-      },
-      {
-        "title": "‘The Mother of the Sea’ (Sassuma Arnaa) in Nuuk, Greenland",
-        "summary": "The Mother of the Sea - Sassuma Arnaa is a traditional Kalaallit tale.",
-        "link": "https://www.atlasobscura.com/places/the-mother-of-the-sea-sassuma-arnaa",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
-      },
-      {
-        "title": "Number of international students arriving in US plunges — worrying scientists",
-        "summary": "Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03668-x Declines in students from China and India are driving the trend, which researchers say could slow the progress of US science.",
-        "link": "https://www.nature.com/articles/d41586-026-03668-x",
-        "source": "Nature News",
-        "publisher": "Nature",
-        "category": "Forschung"
+        "category": "Erde"
       }
     ]
   }

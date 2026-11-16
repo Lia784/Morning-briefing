@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T12:33:12+00:00",
-  "date_label": "Sunday, 15. November 2026",
+  "generated_at": "2026-11-16T13:25:06+00:00",
+  "date_label": "Monday, 16. November 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,8 +8,8 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 26749.9492,
-        "change_pct": -0.08
+        "price": 26719.5391,
+        "change_pct": -0.11
       },
       {
         "name": "S&P 500",
@@ -26,14 +26,14 @@
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6386.8599,
-        "change_pct": -0.19
+        "price": 6375.3101,
+        "change_pct": -0.18
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 61142.3516,
-        "change_pct": 0.53
+        "price": 59662.0195,
+        "change_pct": -2.42
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 59358,
-        "usd": 65431,
-        "change_24h_pct": -2.61
+        "eur": 58194,
+        "usd": 64097,
+        "change_24h_pct": -2.28
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1660.0,
-        "usd": 1829.82,
-        "change_24h_pct": -4.09
+        "eur": 1632.99,
+        "usd": 1798.62,
+        "change_24h_pct": -1.95
       }
     ]
   },
@@ -64,32 +64,32 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.105,
-        "change_pct": -0.41
+        "price": 1.1014,
+        "change_pct": -0.32
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.835,
-        "change_pct": -0.07
+        "price": 0.8342,
+        "change_pct": -0.1
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9237,
-        "change_pct": 0.03
+        "price": 0.9242,
+        "change_pct": 0.06
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 159.875,
-        "change_pct": 0.09
+        "price": 159.588,
+        "change_pct": -0.18
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 176.659,
-        "change_pct": -0.32
+        "price": 175.731,
+        "change_pct": -0.53
       },
       {
         "name": "US 10Y Rendite",
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Vorstoß von Ärzte-Verband: Schneller zum Facharzt gegen Bezahlung?",
-        "summary": "Der Chef der Kassenärztlichen Bundesvereinigung bringt die Option ins Spiel und verweist auf Kürzungen für die Arztpraxen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/kbv-vorschlag-schneller-zum-facharzt-gegen-bezahlung-accg-201684747.html",
+        "title": "Start-up Skynopy: Französische Verstärkung für bayerische Weltraumindustrie",
+        "summary": "Das französische Raumfahrt-Start-up Skynopy expandiert nach München.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/franzoesisches-raumfahrt-start-up-skynopy-gruendet-niederlassung-in-muenchen-accg-201686617.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Immobilien: Wie Sie ein Mehrfamilienhaus bis zu 50 Prozent teurer verkaufen",
-        "summary": "Wer statt des ganzen Hauses alle Wohnungen einzeln verkauft, kann deutlich mehr erlösen.",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wie-sie-ein-mehrfamilienhaus-bis-zu-50-prozent-teurer-verkaufen/100260999.html",
+        "title": "Interview: Wieso streicht Deutz trotz starken Wachstums Stellen, Herr Schulte?",
+        "summary": "Deutz wächst mit Rüstung und Energie, das Motorengeschäft verliert seine zentrale Bedeutung.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/interview-deutz-chef-schulte-kuendigt-millioneninvestition-in-koeln-an/100268746.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Beauty advent calendars can cost hundreds but are they value for money?",
-        "summary": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
-        "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
+        "title": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
+        "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+        "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Chefin von ThyssenKrupp Steel: „Wir brauchen weniger CO₂ - nicht weniger Industrie“",
-        "summary": "Marie Jaroni ist Chefin des größten deutschen Stahlherstellers Thyssenkrupp Steel.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/marie-jaroni-thyssenkrupp-steel-auf-dem-weg-zum-gruenen-stahlwerk-accg-201668866.html",
+        "title": "Telekommunikationsrecht: Netzbetreiber scheitern in Karlsruhe",
+        "summary": "Der Gesetzgeber hat die Lasten eines Sonderkündigungsrechts für Kabelverträge einseitig auf die Netzbetreiber abgewälzt.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/sonderkuendigungsrecht-fuer-kabelvertraege-netzbetreiber-scheitern-in-karlsruhe-accg-201687232.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Migration: Fast 2200 Migranten erreichen Kanaren binnen zwei Tagen",
-        "summary": "Die Kanaren sind ein wichtiger Ankunftspunkt für Menschen, die aus Westafrika nach Europa fliehen.",
-        "link": "https://www.handelsblatt.com/politik/international/migration-fast-2200-migranten-erreichen-kanaren-binnen-zwei-tagen/100270002.html",
+        "title": "Vermögen: Risiko Pflegeheim – wann Sie für Ihre Eltern zahlen müssen",
+        "summary": "Zahlt das Sozialamt das Pflegeheim, werden Kinder in Regress genommen.",
+        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/vermoegen-wann-sollten-sie-die-pflegeheimkosten-fuer-ihre-eltern-uebernehmen/100246311.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-        "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
-        "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+        "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
+        "summary": "Some parents are so desperate for their children to find a job that they've offered to pay their wages, one hairdresser has told the BBC.",
+        "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Generationenkonflikt: Generationen, hört auf zu streiten!",
-        "summary": "Die Jugend protestiert, die Älteren halten dagegen: Früher hatten es junge Leute auch nicht leicht.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/generationenstreit-warum-der-vergleich-jung-gegen-alt-in-die-irre-fuehrt-accg-201678755.html",
+        "title": "Anlage der Kapitalrente: Macht uns die Rente bald innovativer?",
+        "summary": "Die Bundesregierung krempelt die deutsche Altersvorsorge um.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/innovation-durch-rente-so-wird-die-altersvorsorge-umgekrempelt-201673615.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Kryptowährungen: Neue Schwächephase: Bitcoin fällt zeitweise unter 65.000 Dollar",
-        "summary": "Bitcoin, die größte Kryptowährung, büßt auf Wochensicht rund 15 Prozent ein.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/kryptowaehrungen-neue-schwaechephase-bitcoin-faellt-unter-65.000-dollar/100269990.html",
+        "title": "Immobilien: So können Gutverdiener beim Kauf von Neubauwohnungen viele Steuern sparen",
+        "summary": "Über steuerliche Abschreibungen können Immobilieninvestoren viel Geld zurückbekommen.",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-so-sparen-sie-beim-kauf-von-neubauwohnungen-viele-steuern/100193212.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Microsoft says services fully restored after day-long global outage",
-        "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
-        "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+        "title": "Intel sued by investors after PC sales slump hits share price",
+        "summary": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
+        "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,28 +183,28 @@
     "error": null,
     "data": [
       {
-        "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-        "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review…",
-        "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-        "source": "MIT Technology Review",
-        "publisher": "MIT",
-        "category": "Technologie"
-      },
-      {
-        "title": "GLP-1s Are Showing Promise Beyond Weight Loss. Could They Be 'Wonder Drugs' for Ailments Like Addiction, Dementia and Cancer?",
-        "summary": "The medications seem to act on the brain’s reward circuitry and help regulate inflammation, which is why they might have so many positive effects.",
-        "link": "https://www.smithsonianmag.com/science-nature/glp-1s-are-showing-promise-beyond-weight-loss-could-they-be-wonder-drugs-for-ailments-like-addiction-dementia-and-cancer-180989867/",
-        "source": "Smithsonian",
-        "publisher": "Smithsonian",
-        "category": "Wissenschaft"
-      },
-      {
-        "title": "Comets may have destroyed life's ingredients instead of delivering them to Earth",
-        "summary": "A century-old theory about the origins of life on Earth may be wrong.",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261105224553.htm",
-        "source": "ScienceDaily – Geowissenschaften",
+        "title": "Scientists capture electrons making seemingly impossible quantum jumps",
+        "summary": "Scientists have captured electrons making seemingly impossible jumps across forbidden energy gaps in graphene, with some transitions occurring at a remarkable 100% probability.",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261112025523.htm",
+        "source": "ScienceDaily – Physik",
         "publisher": "ScienceDaily",
-        "category": "Erde"
+        "category": "Physik"
+      },
+      {
+        "title": "Is the sixth great extinction imminent? Scientists must draw on natural history for clues",
+        "summary": "Nature, Published online: 16 November 2026; doi:10.1038/d41586-026-03712-w A lack of crosstalk between research disciplines is hampering scholars’ ability to fully examine how people have altered Earth’s biodiversity.",
+        "link": "https://www.nature.com/articles/d41586-026-03712-w",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
+      },
+      {
+        "title": "‘The Mother of the Sea’ (Sassuma Arnaa) in Nuuk, Greenland",
+        "summary": "The Mother of the Sea - Sassuma Arnaa is a traditional Kalaallit tale.",
+        "link": "https://www.atlasobscura.com/places/the-mother-of-the-sea-sassuma-arnaa",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
       }
     ]
   }

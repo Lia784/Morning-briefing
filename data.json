@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T13:25:06+00:00",
-  "date_label": "Monday, 16. November 2026",
+  "generated_at": "2026-11-17T14:10:26+00:00",
+  "date_label": "Tuesday, 17. November 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 26719.5391,
-        "change_pct": -0.11
+        "price": 26286.2793,
+        "change_pct": -1.17
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7561.6699,
-        "change_pct": -0.4
+        "price": 7416.5898,
+        "change_pct": -1.92
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25136.2695,
-        "change_pct": -0.91
+        "price": 24509.7598,
+        "change_pct": -2.49
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6375.3101,
-        "change_pct": -0.18
+        "price": 6271.6802,
+        "change_pct": -1.21
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 59662.0195,
-        "change_pct": -2.42
+        "price": 58860.4297,
+        "change_pct": -1.34
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 58194,
-        "usd": 64097,
-        "change_24h_pct": -2.28
+        "eur": 59090,
+        "usd": 64914,
+        "change_24h_pct": 1.73
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1632.99,
-        "usd": 1798.62,
-        "change_24h_pct": -1.95
+        "eur": 1659.84,
+        "usd": 1823.44,
+        "change_24h_pct": 1.59
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1014,
-        "change_pct": -0.32
+        "price": 1.0994,
+        "change_pct": -0.28
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8342,
-        "change_pct": -0.1
+        "price": 0.8329,
+        "change_pct": -0.15
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9242,
-        "change_pct": 0.06
+        "price": 0.9238,
+        "change_pct": -0.14
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 159.588,
-        "change_pct": -0.18
+        "price": 159.311,
+        "change_pct": -0.29
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 175.731,
-        "change_pct": -0.53
+        "price": 175.113,
+        "change_pct": -0.59
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 5.154,
-        "change_pct": 1.0,
+        "price": 5.145,
+        "change_pct": 0.47,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Start-up Skynopy: Französische Verstärkung für bayerische Weltraumindustrie",
-        "summary": "Das französische Raumfahrt-Start-up Skynopy expandiert nach München.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/franzoesisches-raumfahrt-start-up-skynopy-gruendet-niederlassung-in-muenchen-accg-201686617.html",
+        "title": "Immobilien vor Gericht: Rattenbefall rechtfertigt schnellen Zutritt zur Eigentumswohnung",
+        "summary": "Ratten, Fliegen, Spinnen: Parasiten breiten sich in einer Münchner Wohnanlage aus.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/mieten-vermieten/rattenbefall-in-eigentumswohnung-zwangszutritt-erlaubt-accg-201629928.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Interview: Wieso streicht Deutz trotz starken Wachstums Stellen, Herr Schulte?",
-        "summary": "Deutz wächst mit Rüstung und Energie, das Motorengeschäft verliert seine zentrale Bedeutung.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/interview-deutz-chef-schulte-kuendigt-millioneninvestition-in-koeln-an/100268746.html",
+        "title": "Besuch in Berlin: Stubb und Steinmeier fordern bei Friedensverhandlungen zur Ukraine eine Einbindung Europas",
+        "summary": "Die Präsidenten Deutschlands und Finnlands fordern eine Einbindung in Friedensgespräche zur Ukraine.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/besuch-in-berlin-stubb-und-steinmeier-fordern-ukraine-verhandlungen-mit-europa/100270636.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
-        "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-        "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+        "title": "Speed camera fault may have allowed drivers to escape fines",
+        "summary": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
+        "link": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Telekommunikationsrecht: Netzbetreiber scheitern in Karlsruhe",
-        "summary": "Der Gesetzgeber hat die Lasten eines Sonderkündigungsrechts für Kabelverträge einseitig auf die Netzbetreiber abgewälzt.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/sonderkuendigungsrecht-fuer-kabelvertraege-netzbetreiber-scheitern-in-karlsruhe-accg-201687232.html",
+        "title": "Immobilien vor Gericht: Auszug entbindet Mitmieter nicht von Rückgabe der Wohnung",
+        "summary": "Der Vermieter klagte auf Räumung.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/mieten-vermieten/auszug-entbindet-mitmieter-nicht-von-wohnungsrueckgabe-accg-201298412.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Vermögen: Risiko Pflegeheim – wann Sie für Ihre Eltern zahlen müssen",
-        "summary": "Zahlt das Sozialamt das Pflegeheim, werden Kinder in Regress genommen.",
-        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/vermoegen-wann-sollten-sie-die-pflegeheimkosten-fuer-ihre-eltern-uebernehmen/100246311.html",
+        "title": "+++ Ukraine-Krieg +++: Russland bestätigt Beschädigungen an Krim-Brücke – Selenskyj postet Video von Angriff",
+        "summary": "Ukraine greift Industrieanlage im Südural und Moskau an +++ Trump will Xi und Putin bei Gipfel zu Ende des Ukraine-Krieges drängen +++ Russland bestätigt Beschädigungen +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/international/ukraine-krim-bruecke-nach-zweitem-angriff-teilweise-eingestuerzt/27982126.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
-        "summary": "Some parents are so desperate for their children to find a job that they've offered to pay their wages, one hairdresser has told the BBC.",
-        "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+        "title": "Where are the most jobs for 18-24 year-olds?",
+        "summary": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
+        "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Anlage der Kapitalrente: Macht uns die Rente bald innovativer?",
-        "summary": "Die Bundesregierung krempelt die deutsche Altersvorsorge um.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/innovation-durch-rente-so-wird-die-altersvorsorge-umgekrempelt-201673615.html",
+        "title": "Herbstprognose: Brüssel senkt Wachstumsprognose für Frankreich",
+        "summary": "Deutschland wächst stärker als erwartet, aber Frankreich schwächelt weiter.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/eu-kommission-senkt-wachstumsprognose-fuer-frankreich-deutlich-accg-201690022.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Immobilien: So können Gutverdiener beim Kauf von Neubauwohnungen viele Steuern sparen",
-        "summary": "Über steuerliche Abschreibungen können Immobilieninvestoren viel Geld zurückbekommen.",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-so-sparen-sie-beim-kauf-von-neubauwohnungen-viele-steuern/100193212.html",
+        "title": "Immobilien: Teurer verkauft als geschätzt? Wann die Steuer niedrig bleibt",
+        "summary": "Der Bundesfinanzhof stärkt Erben: Das Finanzamt darf einen niedrigeren Immobilienwert aus einem Gutachten nicht einfach mit Verweis auf einen späteren Verkaufspreis verwerfen.",
+        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/immobilien-teurer-verkauft-als-geschaetzt-wann-die-steuer-niedrig-bleibt/100265058.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Intel sued by investors after PC sales slump hits share price",
-        "summary": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
-        "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
+        "title": "Government must act now or lose Royal Mail, former minister warns",
+        "summary": "The former business secretary says \"undercutting\" by rivals will make Royal Mail \"unviable\".",
+        "link": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,28 +183,28 @@
     "error": null,
     "data": [
       {
-        "title": "Scientists capture electrons making seemingly impossible quantum jumps",
-        "summary": "Scientists have captured electrons making seemingly impossible jumps across forbidden energy gaps in graphene, with some transitions occurring at a remarkable 100% probability.",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261112025523.htm",
-        "source": "ScienceDaily – Physik",
-        "publisher": "ScienceDaily",
-        "category": "Physik"
-      },
-      {
-        "title": "Is the sixth great extinction imminent? Scientists must draw on natural history for clues",
-        "summary": "Nature, Published online: 16 November 2026; doi:10.1038/d41586-026-03712-w A lack of crosstalk between research disciplines is hampering scholars’ ability to fully examine how people have altered Earth’s biodiversity.",
-        "link": "https://www.nature.com/articles/d41586-026-03712-w",
+        "title": "AI wearables could exploit people’s most vulnerable moments",
+        "summary": "Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03742-4 AI wearables could exploit people’s most vulnerable moments",
+        "link": "https://www.nature.com/articles/d41586-026-03742-4",
         "source": "Nature News",
         "publisher": "Nature",
         "category": "Forschung"
       },
       {
-        "title": "‘The Mother of the Sea’ (Sassuma Arnaa) in Nuuk, Greenland",
-        "summary": "The Mother of the Sea - Sassuma Arnaa is a traditional Kalaallit tale.",
-        "link": "https://www.atlasobscura.com/places/the-mother-of-the-sea-sassuma-arnaa",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
+        "title": "Contractor to Civil Servant: NASA Welcomes Jim Mirandy",
+        "summary": "The rumble of a rocket engine might be considered a soundtrack for Jim Mirandy’s life.",
+        "link": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/",
+        "source": "NASA Breaking News",
+        "publisher": "NASA",
+        "category": "Raumfahrt"
+      },
+      {
+        "title": "The unusual places we're searching for alien life",
+        "summary": "Life may find a way in the strangest places",
+        "link": "https://www.bbc.com/future/article/20261111-ice-covered-oceans-and-bleak-craters-where-alien-life-might-be-heading?ocid=global_future_rss",
+        "source": "BBC Future",
+        "publisher": "BBC",
+        "category": "Zukunft"
       }
     ]
   }

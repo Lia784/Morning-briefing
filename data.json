@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T14:10:26+00:00",
-  "date_label": "Tuesday, 17. November 2026",
+  "generated_at": "2026-11-18T13:42:41+00:00",
+  "date_label": "Wednesday, 18. November 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 26286.2793,
-        "change_pct": -1.17
+        "price": 25958.4805,
+        "change_pct": -0.33
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7416.5898,
-        "change_pct": -1.92
+        "price": 7340.5298,
+        "change_pct": -1.03
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 24509.7598,
-        "change_pct": -2.49
+        "price": 24328.3809,
+        "change_pct": -0.74
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6271.6802,
-        "change_pct": -1.21
+        "price": 6203.5098,
+        "change_pct": -0.14
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 58860.4297,
-        "change_pct": -1.34
+        "price": 59024.2812,
+        "change_pct": 0.28
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 59090,
-        "usd": 64914,
-        "change_24h_pct": 1.73
+        "eur": 58354,
+        "usd": 64040,
+        "change_24h_pct": -1.31
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1659.84,
-        "usd": 1823.44,
-        "change_24h_pct": 1.59
+        "eur": 1635.1,
+        "usd": 1794.44,
+        "change_24h_pct": -1.44
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.0994,
-        "change_pct": -0.28
+        "price": 1.0977,
+        "change_pct": -0.19
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8329,
-        "change_pct": -0.15
+        "price": 0.8331,
+        "change_pct": -0.12
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9238,
-        "change_pct": -0.14
+        "price": 0.9246,
+        "change_pct": 0.08
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 159.311,
-        "change_pct": -0.29
+        "price": 159.381,
+        "change_pct": -0.09
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 175.113,
-        "change_pct": -0.59
+        "price": 174.875,
+        "change_pct": -0.32
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 5.145,
-        "change_pct": 0.47,
+        "price": 5.117,
+        "change_pct": 0.27,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Immobilien vor Gericht: Rattenbefall rechtfertigt schnellen Zutritt zur Eigentumswohnung",
-        "summary": "Ratten, Fliegen, Spinnen: Parasiten breiten sich in einer Münchner Wohnanlage aus.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/mieten-vermieten/rattenbefall-in-eigentumswohnung-zwangszutritt-erlaubt-accg-201629928.html",
+        "title": "Hausverkauf: „Privatleute sind bei Immobiliengeschäften oft erstaunlich naiv“",
+        "summary": "Der erste Auftritt muss sitzen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/hausverkauf-privatleute-sind-bei-immobiliengeschaeften-oft-erstaunlich-naiv-accg-201023847.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Besuch in Berlin: Stubb und Steinmeier fordern bei Friedensverhandlungen zur Ukraine eine Einbindung Europas",
-        "summary": "Die Präsidenten Deutschlands und Finnlands fordern eine Einbindung in Friedensgespräche zur Ukraine.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/besuch-in-berlin-stubb-und-steinmeier-fordern-ukraine-verhandlungen-mit-europa/100270636.html",
+        "title": "Justizministerkonferenz: „Effektive Korruptionsbekämpfung“: Hamburgs Justizsenatorin macht Vorstoß zu Unternehmenssanktionen",
+        "summary": "Die Grünen-Politikerin will erreichen, dass Bundesjustizministerin Hubig bei der Umsetzung einer EU-Richtlinie zusätzliche Anpassungen vornimmt.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/korruption-justizsenatorin-macht-neuen-vorstoss-zu-unternehmenssanktionen/100270693.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Speed camera fault may have allowed drivers to escape fines",
-        "summary": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
-        "link": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
+        "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
+        "summary": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
+        "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Immobilien vor Gericht: Auszug entbindet Mitmieter nicht von Rückgabe der Wohnung",
-        "summary": "Der Vermieter klagte auf Räumung.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/mieten-vermieten/auszug-entbindet-mitmieter-nicht-von-wohnungsrueckgabe-accg-201298412.html",
+        "title": "Chipkonzern: Nvidia: Jensen Huang kommt nicht zurück",
+        "summary": "Der ehemalige Vorstandschef bringt sich für ein Comeback ins Gespräch, aber Nvidia lehnt das unmissverständlich ab.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nach-ruecktritt-nvidia-gruender-huang-erwaegt-rueckkehr-auf-ceo-posten-201692517.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "+++ Ukraine-Krieg +++: Russland bestätigt Beschädigungen an Krim-Brücke – Selenskyj postet Video von Angriff",
-        "summary": "Ukraine greift Industrieanlage im Südural und Moskau an +++ Trump will Xi und Putin bei Gipfel zu Ende des Ukraine-Krieges drängen +++ Russland bestätigt Beschädigungen +++ Der Newsblog.",
-        "link": "https://www.handelsblatt.com/politik/international/ukraine-krim-bruecke-nach-zweitem-angriff-teilweise-eingestuerzt/27982126.html",
+        "title": "FFG-Übernahme: Deutz prüft Vorwürfe nach Shortseller-Attacke – Aktie bricht ein",
+        "summary": "Ein kritischer Bericht zur Übernahme von FFG lässt die Deutz-Aktie zweistellig nachgeben.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/shortseller-attacke-deutz-prueft-vorwuerfe-zu-ffg-uebernahme/100270958.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Where are the most jobs for 18-24 year-olds?",
-        "summary": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
-        "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+        "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
+        "summary": "Prices are rising at their fastest pace for a year in the UK, and higher energy costs are on the way.",
+        "link": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Herbstprognose: Brüssel senkt Wachstumsprognose für Frankreich",
-        "summary": "Deutschland wächst stärker als erwartet, aber Frankreich schwächelt weiter.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/eu-kommission-senkt-wachstumsprognose-fuer-frankreich-deutlich-accg-201690022.html",
+        "title": "Streit um Datenschutz: Warum die Europäer Apples „Home View“ nicht kaufen dürfen",
+        "summary": "Apple beginnt in den Vereinigten Staaten mit der Auslieferung eines neuen digitalen Assistenten namens „Home View“.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/home-view-von-apple-sorgt-fuer-streit-um-datenschutz-mit-der-eu-kommission-accg-201678715.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Immobilien: Teurer verkauft als geschätzt? Wann die Steuer niedrig bleibt",
-        "summary": "Der Bundesfinanzhof stärkt Erben: Das Finanzamt darf einen niedrigeren Immobilienwert aus einem Gutachten nicht einfach mit Verweis auf einen späteren Verkaufspreis verwerfen.",
-        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/immobilien-teurer-verkauft-als-geschaetzt-wann-die-steuer-niedrig-bleibt/100265058.html",
+        "title": "Datenleck: „Betroffene Daten sind hochsensibel“: Aufsichtsbehörde leitet Untersuchung gegen Deutsche Bank ein",
+        "summary": "Der hessische Datenschutzbeauftragte prüft nach dem Abfluss von mehr als 15 Millionen internen Dokumenten mögliche Datenschutzverstöße.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/datenleck-aufsichtsbehoerde-leitet-untersuchung-gegen-deutsche-bank-ein/100270711.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Government must act now or lose Royal Mail, former minister warns",
-        "summary": "The former business secretary says \"undercutting\" by rivals will make Royal Mail \"unviable\".",
-        "link": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo?at_medium=RSS&at_campaign=rss",
+        "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+        "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+        "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,28 +183,28 @@
     "error": null,
     "data": [
       {
-        "title": "AI wearables could exploit people’s most vulnerable moments",
-        "summary": "Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03742-4 AI wearables could exploit people’s most vulnerable moments",
-        "link": "https://www.nature.com/articles/d41586-026-03742-4",
+        "title": "Building trustworthy AI by fencing it in, not predicting it",
+        "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them.",
+        "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+        "source": "MIT Technology Review",
+        "publisher": "MIT",
+        "category": "Technologie"
+      },
+      {
+        "title": "Why obesity affects men and women differently may be hiding in their fat",
+        "summary": "Scientists at the University of California, Riverside have uncovered a surprising reason why males and females may respond differently to obesity.",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261117033907.htm",
+        "source": "ScienceDaily – Gesundheit",
+        "publisher": "ScienceDaily",
+        "category": "Medizin"
+      },
+      {
+        "title": "Dinosaur’s rest break leaves a lasting impression",
+        "summary": "Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03749-x A fossilized print records marks left by the feet and bum of a juvenile reptile that measured one metre at the hip.",
+        "link": "https://www.nature.com/articles/d41586-026-03749-x",
         "source": "Nature News",
         "publisher": "Nature",
         "category": "Forschung"
-      },
-      {
-        "title": "Contractor to Civil Servant: NASA Welcomes Jim Mirandy",
-        "summary": "The rumble of a rocket engine might be considered a soundtrack for Jim Mirandy’s life.",
-        "link": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/",
-        "source": "NASA Breaking News",
-        "publisher": "NASA",
-        "category": "Raumfahrt"
-      },
-      {
-        "title": "The unusual places we're searching for alien life",
-        "summary": "Life may find a way in the strangest places",
-        "link": "https://www.bbc.com/future/article/20261111-ice-covered-oceans-and-bleak-craters-where-alien-life-might-be-heading?ocid=global_future_rss",
-        "source": "BBC Future",
-        "publisher": "BBC",
-        "category": "Zukunft"
       }
     ]
   }

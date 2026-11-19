@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T13:42:41+00:00",
-  "date_label": "Wednesday, 18. November 2026",
+  "generated_at": "2026-11-19T14:11:03+00:00",
+  "date_label": "Thursday, 19. November 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,54 +8,39 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25958.4805,
-        "change_pct": -0.33
+        "price": 25725.4102,
+        "change_pct": -0.04
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7340.5298,
-        "change_pct": -1.03
+        "price": 7323.6299,
+        "change_pct": -0.23
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 24328.3809,
-        "change_pct": -0.74
+        "price": 24429.8809,
+        "change_pct": 0.42
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6203.5098,
-        "change_pct": -0.14
+        "price": 6171.21,
+        "change_pct": 0.27
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 59024.2812,
-        "change_pct": 0.28
+        "price": 59444.2109,
+        "change_pct": 0.71
       }
     ]
   },
   "crypto": {
-    "status": "ok",
-    "error": null,
-    "data": [
-      {
-        "name": "Bitcoin",
-        "symbol": "BTC",
-        "eur": 58354,
-        "usd": 64040,
-        "change_24h_pct": -1.31
-      },
-      {
-        "name": "Ethereum",
-        "symbol": "ETH",
-        "eur": 1635.1,
-        "usd": 1794.44,
-        "change_24h_pct": -1.44
-      }
-    ]
+    "status": "error",
+    "error": "CoinGecko nicht erreichbar",
+    "data": null
   },
   "markets": {
     "status": "ok",
@@ -64,38 +49,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.0977,
-        "change_pct": -0.19
+        "price": 1.1002,
+        "change_pct": 0.09
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8331,
-        "change_pct": -0.12
+        "price": 0.8358,
+        "change_pct": 0.41
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9246,
-        "change_pct": 0.08
+        "price": 0.9263,
+        "change_pct": 0.17
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 159.381,
-        "change_pct": -0.09
+        "price": 159.914,
+        "change_pct": 0.26
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 174.875,
-        "change_pct": -0.32
+        "price": 175.923,
+        "change_pct": 0.34
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 5.117,
-        "change_pct": 0.27,
+        "price": 5.076,
+        "change_pct": 0.2,
         "unit": "%"
       }
     ]
@@ -105,73 +90,73 @@
     "error": null,
     "data": [
       {
-        "title": "Hausverkauf: „Privatleute sind bei Immobiliengeschäften oft erstaunlich naiv“",
-        "summary": "Der erste Auftritt muss sitzen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/hausverkauf-privatleute-sind-bei-immobiliengeschaeften-oft-erstaunlich-naiv-accg-201023847.html",
+        "title": "Künstliche Intelligenz: Anthropic schafft Rekord-Börsengang",
+        "summary": "Das KI-Unternehmen hat so viel Geld eingesammelt wie kein Börsenneuling zuvor.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/geld-fuer-die-ki-anthropic-legt-rekord-boersengang-hin-201696457.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Justizministerkonferenz: „Effektive Korruptionsbekämpfung“: Hamburgs Justizsenatorin macht Vorstoß zu Unternehmenssanktionen",
-        "summary": "Die Grünen-Politikerin will erreichen, dass Bundesjustizministerin Hubig bei der Umsetzung einer EU-Richtlinie zusätzliche Anpassungen vornimmt.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/korruption-justizsenatorin-macht-neuen-vorstoss-zu-unternehmenssanktionen/100270693.html",
+        "title": "Immobilien: So können Gutverdiener beim Kauf von Neubauwohnungen viele Steuern sparen",
+        "summary": "Über steuerliche Abschreibungen können Immobilieninvestoren viel Geld zurückbekommen.",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wie-sie-beim-kauf-von-neubauwohnungen-viele-steuern-sparen/100193212.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
-        "summary": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
-        "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+        "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+        "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
+        "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Chipkonzern: Nvidia: Jensen Huang kommt nicht zurück",
-        "summary": "Der ehemalige Vorstandschef bringt sich für ein Comeback ins Gespräch, aber Nvidia lehnt das unmissverständlich ab.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nach-ruecktritt-nvidia-gruender-huang-erwaegt-rueckkehr-auf-ceo-posten-201692517.html",
+        "title": "Fehlende Geschäftszahlen: Das Geheimnis von Check24",
+        "summary": "Check24 hat mit verschenkten Fußballtrikots für viel Aufsehen gesorgt und ist im Urlaubsgeschäft groß geworden.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/check24-warum-haelt-das-vergleichsportal-seine-geschaeftszahlen-geheim-accg-201692968.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "FFG-Übernahme: Deutz prüft Vorwürfe nach Shortseller-Attacke – Aktie bricht ein",
-        "summary": "Ein kritischer Bericht zur Übernahme von FFG lässt die Deutz-Aktie zweistellig nachgeben.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/shortseller-attacke-deutz-prueft-vorwuerfe-zu-ffg-uebernahme/100270958.html",
+        "title": "Großmächte: Xi will den Dreiergipfel als Machtformat etablieren",
+        "summary": "Die Staatsoberhäupter Chinas, der USA und Russlands sprechen in Shenzhen rund 90 Minuten.",
+        "link": "https://www.handelsblatt.com/politik/international/shenzhen-xi-will-den-dreiergipfel-als-machtformat-etablieren/100268369.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
-        "summary": "Prices are rising at their fastest pace for a year in the UK, and higher energy costs are on the way.",
-        "link": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
+        "title": "The seven Anthropic founders who are about to become multi-billionaires",
+        "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+        "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Streit um Datenschutz: Warum die Europäer Apples „Home View“ nicht kaufen dürfen",
-        "summary": "Apple beginnt in den Vereinigten Staaten mit der Auslieferung eines neuen digitalen Assistenten namens „Home View“.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/home-view-von-apple-sorgt-fuer-streit-um-datenschutz-mit-der-eu-kommission-accg-201678715.html",
+        "title": "APEC-Gipfel in Shenzhen: Langer Applaus für Putin",
+        "summary": "In Shenzhen feiert Russlands Präsident sein Comeback auf der internationalen Wirtschaftsbühne.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/apec-gipfel-in-shenzhen-wladimir-putin-feiert-sein-comeback-accg-201693370.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Datenleck: „Betroffene Daten sind hochsensibel“: Aufsichtsbehörde leitet Untersuchung gegen Deutsche Bank ein",
-        "summary": "Der hessische Datenschutzbeauftragte prüft nach dem Abfluss von mehr als 15 Millionen internen Dokumenten mögliche Datenschutzverstöße.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/datenleck-aufsichtsbehoerde-leitet-untersuchung-gegen-deutsche-bank-ein/100270711.html",
+        "title": "Dax aktuell: Dax gibt Gewinne ab – Anthropic-Börsengang treibt Chip-Aktien an",
+        "summary": "Nach verlustreichen Tagen notiert der Dax unter der Marke von 26.000 Punkten.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-gibt-gewinne-ab-anthropic-boersengang-treibt-chip-aktien-an/100271164.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-        "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
-        "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+        "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+        "summary": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
+        "link": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,28 +168,28 @@
     "error": null,
     "data": [
       {
-        "title": "Building trustworthy AI by fencing it in, not predicting it",
-        "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them.",
-        "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+        "title": "An ancient virus may help explain what makes the human brain different",
+        "summary": "A virus that infected chimpanzees millions of years ago may have helped shape one of the most important differences between humans and our closest relatives: how our brains develop.",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261114202230.htm",
+        "source": "ScienceDaily – Tiere",
+        "publisher": "ScienceDaily",
+        "category": "Biologie"
+      },
+      {
+        "title": "National Underground Railroad Freedom Center in Cincinnati, Ohio",
+        "summary": "The National Underground Railroad Freedom Center, located in Cincinnati along the banks of the Ohio River makes a solemn statement about the lives that were lived enslaved in the early history of the United States, and…",
+        "link": "https://www.atlasobscura.com/places/national-underground-railroad-freedom-center",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
+      },
+      {
+        "title": "A human liver has been kept alive outside the body for a record seven weeks",
+        "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering.",
+        "link": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
         "source": "MIT Technology Review",
         "publisher": "MIT",
         "category": "Technologie"
-      },
-      {
-        "title": "Why obesity affects men and women differently may be hiding in their fat",
-        "summary": "Scientists at the University of California, Riverside have uncovered a surprising reason why males and females may respond differently to obesity.",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261117033907.htm",
-        "source": "ScienceDaily – Gesundheit",
-        "publisher": "ScienceDaily",
-        "category": "Medizin"
-      },
-      {
-        "title": "Dinosaur’s rest break leaves a lasting impression",
-        "summary": "Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03749-x A fossilized print records marks left by the feet and bum of a juvenile reptile that measured one metre at the hip.",
-        "link": "https://www.nature.com/articles/d41586-026-03749-x",
-        "source": "Nature News",
-        "publisher": "Nature",
-        "category": "Forschung"
       }
     ]
   }

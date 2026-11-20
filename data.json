@@ -1,46 +1,55 @@
 {
-  "generated_at": "2026-11-19T14:11:03+00:00",
-  "date_label": "Thursday, 19. November 2026",
+  "generated_at": "2026-11-20T13:52:49+00:00",
+  "date_label": "Friday, 20. November 2026",
   "indices": {
     "status": "ok",
-    "error": null,
+    "error": "Teilweise nicht verfügbar: ^GSPC",
     "data": [
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25725.4102,
-        "change_pct": -0.04
-      },
-      {
-        "name": "S&P 500",
-        "symbol": "^GSPC",
-        "price": 7323.6299,
-        "change_pct": -0.23
+        "price": 24829.1992,
+        "change_pct": -2.49
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 24429.8809,
-        "change_pct": 0.42
+        "price": 23879.1992,
+        "change_pct": -2.25
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6171.21,
-        "change_pct": 0.27
+        "price": 5959.5098,
+        "change_pct": -2.52
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 59444.2109,
-        "change_pct": 0.71
+        "price": 56436.6484,
+        "change_pct": -5.06
       }
     ]
   },
   "crypto": {
-    "status": "error",
-    "error": "CoinGecko nicht erreichbar",
-    "data": null
+    "status": "ok",
+    "error": null,
+    "data": [
+      {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "eur": 56158,
+        "usd": 61717,
+        "change_24h_pct": -3.23
+      },
+      {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "eur": 1592.83,
+        "usd": 1750.51,
+        "change_24h_pct": -3.09
+      }
+    ]
   },
   "markets": {
     "status": "ok",
@@ -49,38 +58,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.1002,
-        "change_pct": 0.09
+        "price": 1.0995,
+        "change_pct": 0.21
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8358,
+        "price": 0.838,
         "change_pct": 0.41
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9263,
-        "change_pct": 0.17
+        "price": 0.9223,
+        "change_pct": -0.34
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 159.914,
-        "change_pct": 0.26
+        "price": 158.712,
+        "change_pct": -0.42
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 175.923,
-        "change_pct": 0.34
+        "price": 174.47,
+        "change_pct": -0.23
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 5.076,
-        "change_pct": 0.2,
+        "price": 4.972,
+        "change_pct": -1.58,
         "unit": "%"
       }
     ]
@@ -90,73 +99,73 @@
     "error": null,
     "data": [
       {
-        "title": "Künstliche Intelligenz: Anthropic schafft Rekord-Börsengang",
-        "summary": "Das KI-Unternehmen hat so viel Geld eingesammelt wie kein Börsenneuling zuvor.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/geld-fuer-die-ki-anthropic-legt-rekord-boersengang-hin-201696457.html",
+        "title": "Neue Gen-Z-Proteste: „Die Schulen sind nicht kaputtgespart, im Gegenteil“",
+        "summary": "Jugendliche und Schüler planen neue Proteste.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/oekonom-zum-bildungsprotest-die-schulen-sind-nicht-kaputtgespart-im-gegenteil-accg-201694211.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Immobilien: So können Gutverdiener beim Kauf von Neubauwohnungen viele Steuern sparen",
-        "summary": "Über steuerliche Abschreibungen können Immobilieninvestoren viel Geld zurückbekommen.",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wie-sie-beim-kauf-von-neubauwohnungen-viele-steuern-sparen/100193212.html",
+        "title": "100.000 im Ausstand: „Brauchen jetzt Wut“: Metall-Tarifverhandlungen eskalieren und sorgen für Millionenschäden in Autoindustrie",
+        "summary": "Autobauer und Gewerkschafter sind entzweit: Erstmals seit acht Jahren stehen große Werke für 24 Stunden still.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/autoindustrie-brauchen-jetzt-wut-die-tarifverhandlungen-eskalieren/100271257.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
-        "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
-        "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+        "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
+        "summary": "People stocking up on long-life food drove retail sales higher October, according to official data.",
+        "link": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Fehlende Geschäftszahlen: Das Geheimnis von Check24",
-        "summary": "Check24 hat mit verschenkten Fußballtrikots für viel Aufsehen gesorgt und ist im Urlaubsgeschäft groß geworden.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/check24-warum-haelt-das-vergleichsportal-seine-geschaeftszahlen-geheim-accg-201692968.html",
+        "title": "Fulminanter Börsengang: Anthropic ist zum Wachstum verdammt – kann das klappen?",
+        "summary": "Der Börsenneuling gibt sich als besonderes Unternehmen, das finanzielle Interessen mit Idealismus verbinden kann.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/boersenstart-von-anthropic-zum-wachstum-verdammt-201700250.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Großmächte: Xi will den Dreiergipfel als Machtformat etablieren",
-        "summary": "Die Staatsoberhäupter Chinas, der USA und Russlands sprechen in Shenzhen rund 90 Minuten.",
-        "link": "https://www.handelsblatt.com/politik/international/shenzhen-xi-will-den-dreiergipfel-als-machtformat-etablieren/100268369.html",
+        "title": "Tesla: Eine Drei-Milliarden-Fabrik für ein Auto ohne Zulassung",
+        "summary": "Elon Musk will in Grünheide bis zu eine Million Autos ohne Lenkrad und Pedale im Jahr bauen.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/tesla-eine-drei-milliarden-fabrik-fuer-ein-auto-ohne-zulassung-01/100270671.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "The seven Anthropic founders who are about to become multi-billionaires",
-        "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-        "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+        "title": "Airbnb's divisive new house rules come into force",
+        "summary": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
+        "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "APEC-Gipfel in Shenzhen: Langer Applaus für Putin",
-        "summary": "In Shenzhen feiert Russlands Präsident sein Comeback auf der internationalen Wirtschaftsbühne.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/apec-gipfel-in-shenzhen-wladimir-putin-feiert-sein-comeback-accg-201693370.html",
+        "title": "Milliardenprojekt: Eine neue Gigafactory für Solarzellen – in Frankreich",
+        "summary": "In der Photovoltaik ist Europa abhängig von China.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/solar-gigafactory-in-frankreich-wie-europa-unabhaengiger-von-china-werden-will-accg-201668873.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Dax aktuell: Dax gibt Gewinne ab – Anthropic-Börsengang treibt Chip-Aktien an",
-        "summary": "Nach verlustreichen Tagen notiert der Dax unter der Marke von 26.000 Punkten.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-gibt-gewinne-ab-anthropic-boersengang-treibt-chip-aktien-an/100271164.html",
+        "title": "US-Börsen: Anthropic stürzt vorbörslich ab – Kurs nur knapp über Ausgabepreis",
+        "summary": "Die Euphorie rund um den größten Börsengang aller Zeiten währt nur kurz.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nasdaq-anthropic-kurs-rutscht-vorboerslich-13-prozent-ab/100271593.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
-        "summary": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
-        "link": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+        "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+        "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+        "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -168,28 +177,28 @@
     "error": null,
     "data": [
       {
-        "title": "An ancient virus may help explain what makes the human brain different",
-        "summary": "A virus that infected chimpanzees millions of years ago may have helped shape one of the most important differences between humans and our closest relatives: how our brains develop.",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261114202230.htm",
-        "source": "ScienceDaily – Tiere",
-        "publisher": "ScienceDaily",
-        "category": "Biologie"
+        "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
+        "summary": "Open data from NASA’s Fermi mission helped an international team of scientists develop a method for finding pulsars about a million times faster than before.",
+        "link": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/",
+        "source": "NASA Breaking News",
+        "publisher": "NASA",
+        "category": "Raumfahrt"
       },
       {
-        "title": "National Underground Railroad Freedom Center in Cincinnati, Ohio",
-        "summary": "The National Underground Railroad Freedom Center, located in Cincinnati along the banks of the Ohio River makes a solemn statement about the lives that were lived enslaved in the early history of the United States, and…",
-        "link": "https://www.atlasobscura.com/places/national-underground-railroad-freedom-center",
+        "title": "Binh Lam Champa Tower in Tuy Phước Đông, Vietnam",
+        "summary": "Unlike most surviving Cham towers that crown dramatic hilltops, Binh Lam Tower rises almost unexpectedly from the flat, verdant plains of a quiet lowland village.",
+        "link": "https://www.atlasobscura.com/places/binh-lam-champa-tower",
         "source": "Atlas Obscura",
         "publisher": "Atlas Obscura",
         "category": "Entdeckung"
       },
       {
-        "title": "A human liver has been kept alive outside the body for a record seven weeks",
-        "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering.",
-        "link": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
-        "source": "MIT Technology Review",
-        "publisher": "MIT",
-        "category": "Technologie"
+        "title": "More than a billion years of Earth's history vanished. Scientists may finally know why",
+        "summary": "Scientists may have finally explained why up to more than a billion years of Earth's geological history are missing from rocks around the world.",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261116023403.htm",
+        "source": "ScienceDaily – Geowissenschaften",
+        "publisher": "ScienceDaily",
+        "category": "Erde"
       }
     ]
   }

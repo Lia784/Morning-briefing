@@ -1,27 +1,33 @@
 {
-  "generated_at": "2026-11-20T13:52:49+00:00",
-  "date_label": "Friday, 20. November 2026",
+  "generated_at": "2026-11-21T13:16:51+00:00",
+  "date_label": "Saturday, 21. November 2026",
   "indices": {
     "status": "ok",
-    "error": "Teilweise nicht verfügbar: ^GSPC",
+    "error": null,
     "data": [
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 24829.1992,
-        "change_pct": -2.49
+        "price": 24802.7793,
+        "change_pct": -2.6
+      },
+      {
+        "name": "S&P 500",
+        "symbol": "^GSPC",
+        "price": 6910.3901,
+        "change_pct": -3.7
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 23879.1992,
-        "change_pct": -2.25
+        "price": 22617.7305,
+        "change_pct": -5.28
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 5959.5098,
-        "change_pct": -2.52
+        "price": 5941.9502,
+        "change_pct": -2.81
       },
       {
         "name": "Nikkei 225",
@@ -38,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 56158,
-        "usd": 61717,
-        "change_24h_pct": -3.23
+        "eur": 54004,
+        "usd": 59232,
+        "change_24h_pct": -3.5
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1592.83,
-        "usd": 1750.51,
-        "change_24h_pct": -3.09
+        "eur": 1523.41,
+        "usd": 1670.88,
+        "change_24h_pct": -3.45
       }
     ]
   },
@@ -58,8 +64,8 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.0995,
-        "change_pct": 0.21
+        "price": 1.097,
+        "change_pct": -0.02
       },
       {
         "name": "EUR/GBP",
@@ -70,26 +76,26 @@
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9223,
-        "change_pct": -0.34
+        "price": 0.9259,
+        "change_pct": 0.06
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 158.712,
-        "change_pct": -0.42
+        "price": 159.707,
+        "change_pct": 0.2
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 174.47,
-        "change_pct": -0.23
+        "price": 175.168,
+        "change_pct": 0.17
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.972,
-        "change_pct": -1.58,
+        "price": 4.912,
+        "change_pct": -2.77,
         "unit": "%"
       }
     ]
@@ -99,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Neue Gen-Z-Proteste: „Die Schulen sind nicht kaputtgespart, im Gegenteil“",
-        "summary": "Jugendliche und Schüler planen neue Proteste.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/oekonom-zum-bildungsprotest-die-schulen-sind-nicht-kaputtgespart-im-gegenteil-accg-201694211.html",
+        "title": "Schneller Schlau: Bier auf dem Rückzug",
+        "summary": "1980 trank jeder Deutsche im Schnitt eine Badewanne voller Bier, mittlerweile ist es beinahe nur noch halb so viel.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/schneller-schlau/das-bier-ist-auf-dem-rueckzug-201698741.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "100.000 im Ausstand: „Brauchen jetzt Wut“: Metall-Tarifverhandlungen eskalieren und sorgen für Millionenschäden in Autoindustrie",
-        "summary": "Autobauer und Gewerkschafter sind entzweit: Erstmals seit acht Jahren stehen große Werke für 24 Stunden still.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/autoindustrie-brauchen-jetzt-wut-die-tarifverhandlungen-eskalieren/100271257.html",
+        "title": "Wohnen im Alter: Das Geschäft mit den Senioren-Wohnungen boomt",
+        "summary": "Bis 2055 könnten 7,6 Millionen Deutsche pflegebedürftig sein.",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/galeria-kaufhaeuser-als-seniorenwohnung-geht-so-wohnen-im-alter/100270250.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
-        "summary": "People stocking up on long-life food drove retail sales higher October, according to official data.",
-        "link": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
+        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+        "summary": "Pressures weighed on US markets, with the S&amp;P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+        "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Fulminanter Börsengang: Anthropic ist zum Wachstum verdammt – kann das klappen?",
-        "summary": "Der Börsenneuling gibt sich als besonderes Unternehmen, das finanzielle Interessen mit Idealismus verbinden kann.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/boersenstart-von-anthropic-zum-wachstum-verdammt-201700250.html",
+        "title": "Psychische Belastungen: Die Leiden einer Krisengeneration",
+        "summary": "Um die mentale Gesundheit junger Menschen steht es seit Jahren schlecht.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/mentale-gesundheit-junger-menschen-was-der-oecd-bericht-zeigt-accg-201695949.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Tesla: Eine Drei-Milliarden-Fabrik für ein Auto ohne Zulassung",
-        "summary": "Elon Musk will in Grünheide bis zu eine Million Autos ohne Lenkrad und Pedale im Jahr bauen.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/tesla-eine-drei-milliarden-fabrik-fuer-ein-auto-ohne-zulassung-01/100270671.html",
+        "title": "Comac CE-25A: Show oder Schock – wie bahnbrechend ist das E-Flugzeug aus China?",
+        "summary": "Das Video vom Erstflug eines Testjets von Comac sorgt in Fachkreisen für Unruhe.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/comac-ce-25a-show-oder-schock-wie-bahnbrechend-ist-das-e-flugzeug-aus-china/100270763.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Airbnb's divisive new house rules come into force",
-        "summary": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
-        "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+        "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+        "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+        "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Milliardenprojekt: Eine neue Gigafactory für Solarzellen – in Frankreich",
-        "summary": "In der Photovoltaik ist Europa abhängig von China.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/solar-gigafactory-in-frankreich-wie-europa-unabhaengiger-von-china-werden-will-accg-201668873.html",
+        "title": "Yale-Ökonomin Currie: „Es gibt keine neue Krise der mentalen Gesundheit“",
+        "summary": "Die sozialen Medien machen unsere Kinder krank, glauben viele.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/schaden-die-sozialen-medien-der-psychischen-gesundheit-von-jugendlichen-accg-201624549.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "US-Börsen: Anthropic stürzt vorbörslich ab – Kurs nur knapp über Ausgabepreis",
-        "summary": "Die Euphorie rund um den größten Börsengang aller Zeiten währt nur kurz.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nasdaq-anthropic-kurs-rutscht-vorboerslich-13-prozent-ab/100271593.html",
+        "title": "COP31: Die Weltklimakonferenz ringt weiter um ein Abschlussdokument",
+        "summary": "Das Verbrennen von Öl, Gas und Kohle lässt die Klimakrise eskalieren.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/cop31-die-weltklimakonferenz-ringt-weiter-um-ein-abschlussdokument/100270720.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-        "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-        "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+        "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+        "summary": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
+        "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -177,28 +183,28 @@
     "error": null,
     "data": [
       {
-        "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
-        "summary": "Open data from NASA’s Fermi mission helped an international team of scientists develop a method for finding pulsars about a million times faster than before.",
-        "link": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/",
-        "source": "NASA Breaking News",
-        "publisher": "NASA",
-        "category": "Raumfahrt"
+        "title": "The Search for a Top Dark Matter Candidate Was Losing Hope. Then Came a Potential Signal. Will It Be Enough to Energize the Struggling Field?",
+        "summary": "Physicists were growing weary with WIMPs, one proposed contender for the particles that make up dark matter.",
+        "link": "https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/",
+        "source": "Smithsonian",
+        "publisher": "Smithsonian",
+        "category": "Wissenschaft"
       },
       {
-        "title": "Binh Lam Champa Tower in Tuy Phước Đông, Vietnam",
-        "summary": "Unlike most surviving Cham towers that crown dramatic hilltops, Binh Lam Tower rises almost unexpectedly from the flat, verdant plains of a quiet lowland village.",
-        "link": "https://www.atlasobscura.com/places/binh-lam-champa-tower",
+        "title": "Visulahti Wax Museum in Mikkeli, Finland",
+        "summary": "Rather than being an impressive, polished wax museum, the Visulahti Wax Museum has become famous for its awkward, outdated, and sometimes unintentionally hilarious figures.",
+        "link": "https://www.atlasobscura.com/places/visulahti-wax-museum",
         "source": "Atlas Obscura",
         "publisher": "Atlas Obscura",
         "category": "Entdeckung"
       },
       {
-        "title": "More than a billion years of Earth's history vanished. Scientists may finally know why",
-        "summary": "Scientists may have finally explained why up to more than a billion years of Earth's geological history are missing from rocks around the world.",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261116023403.htm",
-        "source": "ScienceDaily – Geowissenschaften",
-        "publisher": "ScienceDaily",
-        "category": "Erde"
+        "title": "What a billion-dollar deal says about the US battery market",
+        "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US.",
+        "link": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+        "source": "MIT Technology Review",
+        "publisher": "MIT",
+        "category": "Technologie"
       }
     ]
   }

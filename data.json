@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T13:16:51+00:00",
-  "date_label": "Saturday, 21. November 2026",
+  "generated_at": "2026-11-22T13:07:43+00:00",
+  "date_label": "Sunday, 22. November 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 54004,
-        "usd": 59232,
-        "change_24h_pct": -3.5
+        "eur": 55305,
+        "usd": 60659,
+        "change_24h_pct": 2.94
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1523.41,
-        "usd": 1670.88,
-        "change_24h_pct": -3.45
+        "eur": 1551.49,
+        "usd": 1701.67,
+        "change_24h_pct": 2.2
       }
     ]
   },
@@ -105,17 +105,65 @@
     "error": null,
     "data": [
       {
-        "title": "Schneller Schlau: Bier auf dem Rückzug",
-        "summary": "1980 trank jeder Deutsche im Schnitt eine Badewanne voller Bier, mittlerweile ist es beinahe nur noch halb so viel.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/schneller-schlau/das-bier-ist-auf-dem-rueckzug-201698741.html",
+        "title": "Keine Abschlusserklärung: Einigung bei Weltklimakonferenz gescheitert",
+        "summary": "Die beteiligten Länder finden bei der COP31 keinen gemeinsamen Nenner.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/einigung-bei-weltklimakonferenz-gescheitert-accg-201706517.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Wohnen im Alter: Das Geschäft mit den Senioren-Wohnungen boomt",
-        "summary": "Bis 2055 könnten 7,6 Millionen Deutsche pflegebedürftig sein.",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/galeria-kaufhaeuser-als-seniorenwohnung-geht-so-wohnen-im-alter/100270250.html",
+        "title": "COP31: Abschlusserklärung „nicht zustimmungsfähig“: Einigung bei Weltklimakonferenz gescheitert",
+        "summary": "Der Streit um den Ausstieg aus fossilen Energien bringt das Gipfeltreffen in Antalya zum Scheitern.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/cop31-einigung-bei-weltklimakonferenz-gescheitert/100270720.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "Employers are being asked to give interview feedback - here's what applicants want",
+        "summary": "People say they often hear nothing back after applying for jobs.",
+        "link": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
+        "title": "Klimakonferenz: Schneider bezeichnet Textentwurf als „nicht zustimmungsfähig“",
+        "summary": "Der Umweltminister bezeichnet den Entwurf für die Abschlusserklärung des Klimagipfels als einen „Rückschritt“ und bleibt skeptisch, dass noch eine Einigung gelingt.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/weltklimakonferenz-carsten-schneider-haelt-einigung-fuer-unwahrscheinlich-accg-201706259.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "Private Equity: Wachstumsfinanzierer zieht es nach Griechenland",
+        "summary": "Der Standort gewinnt für Beteiligungskapital an Bedeutung.",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/private-equity-wachstumsfinanzierer-zieht-es-nach-griechenland/100271032.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "Can AI really help spot Black Friday deals? We put it to the test",
+        "summary": "We put four AI models to the test to see if they could save us money on a new TV.",
+        "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
+        "title": "Tesla: Die waghalsige Wette von Musk auf Grünheide",
+        "summary": "Tesla investiert drei Milliarden Euro in Grünheide und will hier autonome Fahrzeuge herstellen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/teslas-wette-auf-europa-ist-gewagt-201700919.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "Immobilien: Neue Pflichtversicherung, die für Vermieter teuer werden kann",
+        "summary": "Die Bundesregierung will Immobilienbesitzer besser gegen Naturkatastrophen absichern.",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-neue-pflichtversicherung-die-fuer-vermieter-teuer-werden-kann/100266164.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -127,54 +175,6 @@
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
-      },
-      {
-        "title": "Psychische Belastungen: Die Leiden einer Krisengeneration",
-        "summary": "Um die mentale Gesundheit junger Menschen steht es seit Jahren schlecht.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/mentale-gesundheit-junger-menschen-was-der-oecd-bericht-zeigt-accg-201695949.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "Comac CE-25A: Show oder Schock – wie bahnbrechend ist das E-Flugzeug aus China?",
-        "summary": "Das Video vom Erstflug eines Testjets von Comac sorgt in Fachkreisen für Unruhe.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/comac-ce-25a-show-oder-schock-wie-bahnbrechend-ist-das-e-flugzeug-aus-china/100270763.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-        "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
-        "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
-      },
-      {
-        "title": "Yale-Ökonomin Currie: „Es gibt keine neue Krise der mentalen Gesundheit“",
-        "summary": "Die sozialen Medien machen unsere Kinder krank, glauben viele.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/schaden-die-sozialen-medien-der-psychischen-gesundheit-von-jugendlichen-accg-201624549.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "COP31: Die Weltklimakonferenz ringt weiter um ein Abschlussdokument",
-        "summary": "Das Verbrennen von Öl, Gas und Kohle lässt die Klimakrise eskalieren.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/cop31-die-weltklimakonferenz-ringt-weiter-um-ein-abschlussdokument/100270720.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
-        "summary": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
-        "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
       }
     ]
   },
@@ -183,28 +183,28 @@
     "error": null,
     "data": [
       {
-        "title": "The Search for a Top Dark Matter Candidate Was Losing Hope. Then Came a Potential Signal. Will It Be Enough to Energize the Struggling Field?",
-        "summary": "Physicists were growing weary with WIMPs, one proposed contender for the particles that make up dark matter.",
-        "link": "https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/",
-        "source": "Smithsonian",
-        "publisher": "Smithsonian",
-        "category": "Wissenschaft"
+        "title": "A human liver has been kept alive outside the body for a record seven weeks",
+        "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering.",
+        "link": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+        "source": "MIT Technology Review",
+        "publisher": "MIT",
+        "category": "Technologie"
       },
       {
-        "title": "Visulahti Wax Museum in Mikkeli, Finland",
-        "summary": "Rather than being an impressive, polished wax museum, the Visulahti Wax Museum has become famous for its awkward, outdated, and sometimes unintentionally hilarious figures.",
-        "link": "https://www.atlasobscura.com/places/visulahti-wax-museum",
+        "title": "Abdulla Avloni Memorial Museum in Tashkent, Uzbekistan",
+        "summary": "Most memorial museums stay put in the house of the person they remember.",
+        "link": "https://www.atlasobscura.com/places/abdulla-avloni-memorial-museum",
         "source": "Atlas Obscura",
         "publisher": "Atlas Obscura",
         "category": "Entdeckung"
       },
       {
-        "title": "What a billion-dollar deal says about the US battery market",
-        "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US.",
-        "link": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
-        "source": "MIT Technology Review",
-        "publisher": "MIT",
-        "category": "Technologie"
+        "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
+        "summary": "Employees contributing to NASA’s mission at the agency’s Stennis Space Center near Bay St.",
+        "link": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
+        "source": "NASA Breaking News",
+        "publisher": "NASA",
+        "category": "Raumfahrt"
       }
     ]
   }

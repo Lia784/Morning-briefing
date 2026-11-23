@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-22T13:07:43+00:00",
-  "date_label": "Sunday, 22. November 2026",
+  "generated_at": "2026-11-23T15:45:03+00:00",
+  "date_label": "Monday, 23. November 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,26 +8,26 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 24802.7793,
-        "change_pct": -2.6
+        "price": 25334.9004,
+        "change_pct": 2.15
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 6910.3901,
-        "change_pct": -3.7
+        "price": 7266.4199,
+        "change_pct": 5.15
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 22617.7305,
-        "change_pct": -5.28
+        "price": 24242.793,
+        "change_pct": 7.18
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 5941.9502,
-        "change_pct": -2.81
+        "price": 6078.25,
+        "change_pct": 2.29
       },
       {
         "name": "Nikkei 225",
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 55305,
-        "usd": 60659,
-        "change_24h_pct": 2.94
+        "eur": 57695,
+        "usd": 62983,
+        "change_24h_pct": 4.24
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1551.49,
-        "usd": 1701.67,
-        "change_24h_pct": 2.2
+        "eur": 1628.35,
+        "usd": 1777.6,
+        "change_24h_pct": 4.18
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.097,
-        "change_pct": -0.02
+        "price": 1.0918,
+        "change_pct": -0.47
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.838,
-        "change_pct": 0.41
+        "price": 0.8366,
+        "change_pct": -0.17
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9259,
-        "change_pct": 0.06
+        "price": 0.9189,
+        "change_pct": -0.76
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 159.707,
-        "change_pct": 0.2
+        "price": 159.301,
+        "change_pct": -0.25
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 175.168,
-        "change_pct": 0.17
+        "price": 173.862,
+        "change_pct": -0.75
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.912,
-        "change_pct": -2.77,
+        "price": 4.954,
+        "change_pct": 0.86,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Keine Abschlusserklärung: Einigung bei Weltklimakonferenz gescheitert",
-        "summary": "Die beteiligten Länder finden bei der COP31 keinen gemeinsamen Nenner.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/einigung-bei-weltklimakonferenz-gescheitert-accg-201706517.html",
+        "title": "Tech-Konzern: Nvidia holt Jensen Huang als Chef zurück",
+        "summary": "Der über Affären gestolperte Gründer des Halbleiterherstellers darf seinen Vorstandsposten wieder beziehen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-beruft-ex-chef-huang-zurueck-an-die-firmenspitze-accg-201709972.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "COP31: Abschlusserklärung „nicht zustimmungsfähig“: Einigung bei Weltklimakonferenz gescheitert",
-        "summary": "Der Streit um den Ausstieg aus fossilen Energien bringt das Gipfeltreffen in Antalya zum Scheitern.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/cop31-einigung-bei-weltklimakonferenz-gescheitert/100270720.html",
+        "title": "Gen Z: Bezahlbarkeit kann man nicht fordern, die muss man erarbeiten",
+        "summary": "Von Madrid bis Berlin ruft eine Generation nach bezahlbarem Leben.",
+        "link": "https://www.handelsblatt.com/politik/konjunktur/europa-warum-die-forderung-der-gen-z-nach-bezahlbarem-leben-ein-irrtum-ist-01/100270908.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Employers are being asked to give interview feedback - here's what applicants want",
-        "summary": "People say they often hear nothing back after applying for jobs.",
-        "link": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
+        "title": "Nvidia shares up 30% and tech stocks rally after Jensen Huang returns",
+        "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5% in early trading.",
+        "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Klimakonferenz: Schneider bezeichnet Textentwurf als „nicht zustimmungsfähig“",
-        "summary": "Der Umweltminister bezeichnet den Entwurf für die Abschlusserklärung des Klimagipfels als einen „Rückschritt“ und bleibt skeptisch, dass noch eine Einigung gelingt.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/weltklimakonferenz-carsten-schneider-haelt-einigung-fuer-unwahrscheinlich-accg-201706259.html",
+        "title": "Luxuskaufhäuser: Überall Krise – nur nicht im KaDeWe",
+        "summary": "Warenhäuser schließen, Einzelhändler kämpfen ums Überleben, und Innenstädte fürchten die Verödung.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kadewe-trotzt-der-krise-warum-deutschlands-groesstes-kaufhaus-boomt-accg-201679037.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Private Equity: Wachstumsfinanzierer zieht es nach Griechenland",
-        "summary": "Der Standort gewinnt für Beteiligungskapital an Bedeutung.",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/private-equity-wachstumsfinanzierer-zieht-es-nach-griechenland/100271032.html",
+        "title": "Autonomes Fahren: Eine Flasche aufdrehen bei 130 km/h: Mercedes kündigt neuen Autobahn-Assistenten ab Jahresende an",
+        "summary": "Mit der neuen S-Klasse hatte Mercedes autonome Fahrfunktionen eingestellt.",
+        "link": "https://www.handelsblatt.com/unternehmen/industrie/autobauer-wie-mercedes-dem-selbstfahrenden-auto-naeher-rueckt-01/100264904.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Can AI really help spot Black Friday deals? We put it to the test",
-        "summary": "We put four AI models to the test to see if they could save us money on a new TV.",
-        "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+        "title": "How important are Nvidia and Jensen Huang to the US economy?",
+        "summary": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+        "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Tesla: Die waghalsige Wette von Musk auf Grünheide",
-        "summary": "Tesla investiert drei Milliarden Euro in Grünheide und will hier autonome Fahrzeuge herstellen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/teslas-wette-auf-europa-ist-gewagt-201700919.html",
+        "title": "Zusammenschluss: Toom heißt demnächst Obi",
+        "summary": "Zwei der bekanntesten Baumarktketten in Deutschland wollen bald unter einem Namen arbeiten.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/toom-heisst-demnaechst-obi-accg-201709558.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Immobilien: Neue Pflichtversicherung, die für Vermieter teuer werden kann",
-        "summary": "Die Bundesregierung will Immobilienbesitzer besser gegen Naturkatastrophen absichern.",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-neue-pflichtversicherung-die-fuer-vermieter-teuer-werden-kann/100266164.html",
+        "title": "Altersvorsorge: So viel müssen Sie sparen, um 85 Prozent ihres letzten Nettogehalts als Rente zu bekommen",
+        "summary": "Eine Studie des Wirtschaftsweisen Martin Werding zeigt, wie unterschiedliche Beschäftigte bis zum Geschäftsführer ihre Rentenlücke schließen können.",
+        "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/altersvorsorge-wie-viel-sie-jeden-monat-fuer-ihre-rentenluecke-sparen-muessen-01/100268809.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-        "summary": "Pressures weighed on US markets, with the S&amp;P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-        "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+        "title": "Capita shares plunge 70% as boss quits after civil service pensions failure",
+        "summary": "Public sector workers have been hit by delays to pension payments, in a scheme overseen by Capita since last year.",
+        "link": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +180,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": null,
+    "error": "Quellen nicht erreichbar: NASA Breaking News",
     "data": [
       {
-        "title": "A human liver has been kept alive outside the body for a record seven weeks",
-        "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering.",
-        "link": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
-        "source": "MIT Technology Review",
-        "publisher": "MIT",
-        "category": "Technologie"
+        "title": "This 6-million-year-old whale may have had the most crooked face in mammal history",
+        "summary": "A bizarre whale that lived roughly 6 million years ago had a face so dramatically crooked that scientists believe it may have been the most asymmetrical of any mammal.",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261118065528.htm",
+        "source": "ScienceDaily – Archäologie",
+        "publisher": "ScienceDaily",
+        "category": "Archäologie"
       },
       {
-        "title": "Abdulla Avloni Memorial Museum in Tashkent, Uzbekistan",
-        "summary": "Most memorial museums stay put in the house of the person they remember.",
-        "link": "https://www.atlasobscura.com/places/abdulla-avloni-memorial-museum",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
+        "title": "BepiColombo finally reaches Mercury after eight-year odyssey",
+        "summary": "Nature, Published online: 21 November 2026; doi:10.1038/d41586-026-03803-8 European and Japanese probes will trace different paths around the planet to study its surface and its surroundings.",
+        "link": "https://www.nature.com/articles/d41586-026-03803-8",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
       },
       {
-        "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
-        "summary": "Employees contributing to NASA’s mission at the agency’s Stennis Space Center near Bay St.",
-        "link": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
-        "source": "NASA Breaking News",
-        "publisher": "NASA",
-        "category": "Raumfahrt"
+        "title": "The Search for a Top Dark Matter Candidate Was Losing Hope. Then Came a Potential Signal. Will It Be Enough to Energize the Struggling Field?",
+        "summary": "Physicists were growing weary with WIMPs, one proposed contender for the particles that make up dark matter.",
+        "link": "https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/",
+        "source": "Smithsonian",
+        "publisher": "Smithsonian",
+        "category": "Wissenschaft"
       }
     ]
   }

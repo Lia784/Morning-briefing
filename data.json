@@ -1,33 +1,27 @@
 {
-  "generated_at": "2026-11-23T15:45:03+00:00",
-  "date_label": "Monday, 23. November 2026",
+  "generated_at": "2026-11-24T15:36:17+00:00",
+  "date_label": "Tuesday, 24. November 2026",
   "indices": {
     "status": "ok",
-    "error": null,
+    "error": "Teilweise nicht verfügbar: ^GSPC",
     "data": [
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25334.9004,
-        "change_pct": 2.15
-      },
-      {
-        "name": "S&P 500",
-        "symbol": "^GSPC",
-        "price": 7266.4199,
-        "change_pct": 5.15
+        "price": 25108.8594,
+        "change_pct": -0.9
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 24242.793,
-        "change_pct": 7.18
+        "price": 23662.998,
+        "change_pct": -1.77
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6078.25,
-        "change_pct": 2.29
+        "price": 6024.5,
+        "change_pct": -0.82
       },
       {
         "name": "Nikkei 225",
@@ -44,16 +38,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 57695,
-        "usd": 62983,
-        "change_24h_pct": 4.24
+        "eur": 54760,
+        "usd": 60060,
+        "change_24h_pct": -5.25
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1628.35,
-        "usd": 1777.6,
-        "change_24h_pct": 4.18
+        "eur": 1536.52,
+        "usd": 1685.64,
+        "change_24h_pct": -5.71
       }
     ]
   },
@@ -64,38 +58,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.0918,
-        "change_pct": -0.47
+        "price": 1.0972,
+        "change_pct": 0.01
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8366,
-        "change_pct": -0.17
+        "price": 0.8365,
+        "change_pct": -0.16
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9189,
-        "change_pct": -0.76
+        "price": 0.9166,
+        "change_pct": -0.65
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 159.301,
-        "change_pct": -0.25
+        "price": 159.229,
+        "change_pct": 0.19
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 173.862,
-        "change_pct": -0.75
+        "price": 174.616,
+        "change_pct": 0.14
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.954,
-        "change_pct": 0.86,
+        "price": 4.906,
+        "change_pct": -0.24,
         "unit": "%"
       }
     ]
@@ -105,73 +99,73 @@
     "error": null,
     "data": [
       {
-        "title": "Tech-Konzern: Nvidia holt Jensen Huang als Chef zurück",
-        "summary": "Der über Affären gestolperte Gründer des Halbleiterherstellers darf seinen Vorstandsposten wieder beziehen.",
+        "title": "Bill Gates Warnt: Das turbulente Zeitalter der Künstlichen Intelligenz hat begonnen",
+        "summary": "Wir erleben einen epochalen Umbruch.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/bill-gates-warnt-wir-sind-auf-die-kuenstliche-intelligenz-nicht-vorbereitet-accg-201170877.html",
+        "source": "FAZ Wirtschaft",
+        "publisher": "FAZ",
+        "category": ""
+      },
+      {
+        "title": "Grunderwerbsteuer: Klingbeil will Steuerschlupfloch bei Immobilienkäufen schließen",
+        "summary": "Jahrelang sorgten sogenannte Share Deals zur Umgehung der Grunderwerbsteuer für Ärger.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/grunderwerbsteuer-klingbeil-will-schlupfloch-bei-immobilienkaeufen-schliessen/100272412.html",
+        "source": "Handelsblatt",
+        "publisher": "Handelsblatt",
+        "category": ""
+      },
+      {
+        "title": "The shake-up facing renters as a new kind of landlord emerges",
+        "summary": "Companies building flats that they then rent out could usher in big changes for renters.",
+        "link": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "publisher": "BBC",
+        "category": ""
+      },
+      {
+        "title": "Rückkehr zu Nvidia: Huang will „beim zweiten Mal ein besserer Chef sein“",
+        "summary": "Der über Affären gestolperte Nvidia-Gründer darf seinen Vorstandsposten wieder beziehen.",
         "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-beruft-ex-chef-huang-zurueck-an-die-firmenspitze-accg-201709972.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Gen Z: Bezahlbarkeit kann man nicht fordern, die muss man erarbeiten",
-        "summary": "Von Madrid bis Berlin ruft eine Generation nach bezahlbarem Leben.",
-        "link": "https://www.handelsblatt.com/politik/konjunktur/europa-warum-die-forderung-der-gen-z-nach-bezahlbarem-leben-ein-irrtum-ist-01/100270908.html",
+        "title": "China: Korruptionsverdacht – Peking ermittelt gegen führenden Parteichef in Schanghai",
+        "summary": "Eigentlich gilt der Posten in Schanghai als Sprungbrett für größere Aufgaben.",
+        "link": "https://www.handelsblatt.com/politik/international/korruptionsverdacht-peking-ermittelt-gegen-fuehrenden-parteichef-in-schanghai/100272476.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Nvidia shares up 30% and tech stocks rally after Jensen Huang returns",
-        "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5% in early trading.",
-        "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+        "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
+        "summary": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
+        "link": "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Luxuskaufhäuser: Überall Krise – nur nicht im KaDeWe",
-        "summary": "Warenhäuser schließen, Einzelhändler kämpfen ums Überleben, und Innenstädte fürchten die Verödung.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kadewe-trotzt-der-krise-warum-deutschlands-groesstes-kaufhaus-boomt-accg-201679037.html",
+        "title": "Sorge um Wohlstand: Die allermeisten Deutschen sind reicher geworden",
+        "summary": "Die Angst vor dem Verlust von Wohlstand ist auch in Deutschland groß.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/einkommen-gestiegen-ungleichheit-auch-was-zeigen-diw-daten-201698063.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Autonomes Fahren: Eine Flasche aufdrehen bei 130 km/h: Mercedes kündigt neuen Autobahn-Assistenten ab Jahresende an",
-        "summary": "Mit der neuen S-Klasse hatte Mercedes autonome Fahrfunktionen eingestellt.",
-        "link": "https://www.handelsblatt.com/unternehmen/industrie/autobauer-wie-mercedes-dem-selbstfahrenden-auto-naeher-rueckt-01/100264904.html",
+        "title": "Bundesregierung: Keine Milliarden für Intel, dafür für Rohstoff und Strom: Wie die CDU weiter Industriepolitik betreibt",
+        "summary": "Friedrich Merz hatte das Ende der Industriepolitik angekündigt.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/bundesregierung-wie-die-cdu-weiter-aktive-industriepolitik-betreibt/100271878.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "How important are Nvidia and Jensen Huang to the US economy?",
-        "summary": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
-        "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "publisher": "BBC",
-        "category": ""
-      },
-      {
-        "title": "Zusammenschluss: Toom heißt demnächst Obi",
-        "summary": "Zwei der bekanntesten Baumarktketten in Deutschland wollen bald unter einem Namen arbeiten.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/toom-heisst-demnaechst-obi-accg-201709558.html",
-        "source": "FAZ Wirtschaft",
-        "publisher": "FAZ",
-        "category": ""
-      },
-      {
-        "title": "Altersvorsorge: So viel müssen Sie sparen, um 85 Prozent ihres letzten Nettogehalts als Rente zu bekommen",
-        "summary": "Eine Studie des Wirtschaftsweisen Martin Werding zeigt, wie unterschiedliche Beschäftigte bis zum Geschäftsführer ihre Rentenlücke schließen können.",
-        "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/altersvorsorge-wie-viel-sie-jeden-monat-fuer-ihre-rentenluecke-sparen-muessen-01/100268809.html",
-        "source": "Handelsblatt",
-        "publisher": "Handelsblatt",
-        "category": ""
-      },
-      {
-        "title": "Capita shares plunge 70% as boss quits after civil service pensions failure",
-        "summary": "Public sector workers have been hit by delays to pension payments, in a scheme overseen by Capita since last year.",
-        "link": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
+        "title": "World Cup drove profits surge, says Marston's",
+        "summary": "The company says an \"excellent World Cup\" helped drive strong trading as annual profits rose by 18%.",
+        "link": "https://www.bbc.co.uk/news/articles/cm7523pyk75lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -180,31 +174,31 @@
   },
   "niche_news": {
     "status": "ok",
-    "error": "Quellen nicht erreichbar: NASA Breaking News",
+    "error": null,
     "data": [
       {
-        "title": "This 6-million-year-old whale may have had the most crooked face in mammal history",
-        "summary": "A bizarre whale that lived roughly 6 million years ago had a face so dramatically crooked that scientists believe it may have been the most asymmetrical of any mammal.",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261118065528.htm",
-        "source": "ScienceDaily – Archäologie",
+        "title": "A decades-old mystery about light could hold the key to faster internet",
+        "summary": "A promising material for ultra-fast optical communications has held a secret for decades, but scientists may have finally cracked it.",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261119194544.htm",
+        "source": "ScienceDaily – Physik",
         "publisher": "ScienceDaily",
-        "category": "Archäologie"
+        "category": "Physik"
       },
       {
-        "title": "BepiColombo finally reaches Mercury after eight-year odyssey",
-        "summary": "Nature, Published online: 21 November 2026; doi:10.1038/d41586-026-03803-8 European and Japanese probes will trace different paths around the planet to study its surface and its surroundings.",
-        "link": "https://www.nature.com/articles/d41586-026-03803-8",
-        "source": "Nature News",
-        "publisher": "Nature",
-        "category": "Forschung"
+        "title": "Indianola in Port Lavaca, Texas",
+        "summary": "Indianola, Texas a coastal town that was once the second largest port in Texas next to at the time Galveston.In 1956 the port received a shipment of camels as part of the United States Camel Corps experiment to replace…",
+        "link": "https://www.atlasobscura.com/places/indianola",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
       },
       {
-        "title": "The Search for a Top Dark Matter Candidate Was Losing Hope. Then Came a Potential Signal. Will It Be Enough to Energize the Struggling Field?",
-        "summary": "Physicists were growing weary with WIMPs, one proposed contender for the particles that make up dark matter.",
-        "link": "https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/",
-        "source": "Smithsonian",
-        "publisher": "Smithsonian",
-        "category": "Wissenschaft"
+        "title": "NASA Hubble’s New View of NGC 4394 Raises the Bar",
+        "summary": "The brilliant galaxy NGC 4394 with its distinct galactic bar takes center stage in this Hubble Space Telescope image",
+        "link": "https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar/",
+        "source": "NASA Breaking News",
+        "publisher": "NASA",
+        "category": "Raumfahrt"
       }
     ]
   }

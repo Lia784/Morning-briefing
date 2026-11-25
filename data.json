@@ -1,33 +1,39 @@
 {
-  "generated_at": "2026-11-24T15:36:17+00:00",
-  "date_label": "Tuesday, 24. November 2026",
+  "generated_at": "2026-11-25T15:20:59+00:00",
+  "date_label": "Wednesday, 25. November 2026",
   "indices": {
     "status": "ok",
-    "error": "Teilweise nicht verfügbar: ^GSPC",
+    "error": null,
     "data": [
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25108.8594,
-        "change_pct": -0.9
+        "price": 24915.7598,
+        "change_pct": -0.41
+      },
+      {
+        "name": "S&P 500",
+        "symbol": "^GSPC",
+        "price": 7002.6802,
+        "change_pct": -2.76
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 23662.998,
-        "change_pct": -1.77
+        "price": 22787.6406,
+        "change_pct": -3.99
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6024.5,
-        "change_pct": -0.82
+        "price": 5958.2798,
+        "change_pct": -0.76
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 56436.6484,
-        "change_pct": -5.06
+        "price": 58644.6289,
+        "change_pct": 3.91
       }
     ]
   },
@@ -38,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 54760,
-        "usd": 60060,
-        "change_24h_pct": -5.25
+        "eur": 52811,
+        "usd": 57773,
+        "change_24h_pct": -2.9
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1536.52,
-        "usd": 1685.64,
-        "change_24h_pct": -5.71
+        "eur": 1489.25,
+        "usd": 1629.17,
+        "change_24h_pct": -2.28
       }
     ]
   },
@@ -58,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.0972,
-        "change_pct": 0.01
+        "price": 1.0937,
+        "change_pct": 0.27
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8365,
-        "change_pct": -0.16
+        "price": 0.8374,
+        "change_pct": 0.07
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9166,
-        "change_pct": -0.65
+        "price": 0.9095,
+        "change_pct": -0.91
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 159.229,
-        "change_pct": 0.19
+        "price": 159.175,
+        "change_pct": 0.1
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 174.616,
-        "change_pct": 0.14
+        "price": 174.069,
+        "change_pct": 0.36
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.906,
-        "change_pct": -0.24,
+        "price": 4.838,
+        "change_pct": -1.35,
         "unit": "%"
       }
     ]
@@ -99,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Bill Gates Warnt: Das turbulente Zeitalter der Künstlichen Intelligenz hat begonnen",
-        "summary": "Wir erleben einen epochalen Umbruch.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/bill-gates-warnt-wir-sind-auf-die-kuenstliche-intelligenz-nicht-vorbereitet-accg-201170877.html",
+        "title": "Ökonom Südekum: „Die vielen Milliarden Euro Schulden machen die junge Generation zu Recht nervös“",
+        "summary": "Jens Südekum ist der wirtschaftspolitische Berater von Finanzminister Lars Klingbeil.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/jens-suedekum-ueber-klingbeil-und-die-schulden-die-jungen-sind-zu-recht-nervoes-accg-201703655.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Grunderwerbsteuer: Klingbeil will Steuerschlupfloch bei Immobilienkäufen schließen",
-        "summary": "Jahrelang sorgten sogenannte Share Deals zur Umgehung der Grunderwerbsteuer für Ärger.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/grunderwerbsteuer-klingbeil-will-schlupfloch-bei-immobilienkaeufen-schliessen/100272412.html",
+        "title": "Vermögen: Wann sich ein Ehevertrag lohnt – und was er kostet",
+        "summary": "Ein Ehevertrag gilt als unromantisch.",
+        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/vermoegen-wann-sollte-fuer-paare-ein-ehevertrag-infrage-kommen/100224359.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "The shake-up facing renters as a new kind of landlord emerges",
-        "summary": "Companies building flats that they then rent out could usher in big changes for renters.",
-        "link": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
+        "title": "US stocks fall further as fears over AI intensify",
+        "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+        "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Rückkehr zu Nvidia: Huang will „beim zweiten Mal ein besserer Chef sein“",
-        "summary": "Der über Affären gestolperte Nvidia-Gründer darf seinen Vorstandsposten wieder beziehen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-beruft-ex-chef-huang-zurueck-an-die-firmenspitze-accg-201709972.html",
+        "title": "Mietrecht: Tag der Abrechnung",
+        "summary": "Kaum ein Thema bringt Mieter und Vermieter so gegeneinander auf wie Betriebskosten.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/mieten-vermieten/zankapfel-betriebskosten-was-vermieter-und-mieter-wissen-muessen-accg-201690786.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "China: Korruptionsverdacht – Peking ermittelt gegen führenden Parteichef in Schanghai",
-        "summary": "Eigentlich gilt der Posten in Schanghai als Sprungbrett für größere Aufgaben.",
-        "link": "https://www.handelsblatt.com/politik/international/korruptionsverdacht-peking-ermittelt-gegen-fuehrenden-parteichef-in-schanghai/100272476.html",
+        "title": "Interview: Top-Headhunter Heiner Thorborg: „80 Prozent der oberen Etagen bestehen aus Narzissten“",
+        "summary": "Er ist einer der bekanntesten deutschen Personalberater, besetzt Spitzenposten in Dax-Konzernen.",
+        "link": "https://www.handelsblatt.com/unternehmen/dienstleister/fuehrungskraefte-gemischte-teams-sind-einfach-erfolgreicher/100235531.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
-        "summary": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
-        "link": "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&at_campaign=rss",
+        "title": "Energy bills to rise by 26% from January after gas prices surge",
+        "summary": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
+        "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Sorge um Wohlstand: Die allermeisten Deutschen sind reicher geworden",
-        "summary": "Die Angst vor dem Verlust von Wohlstand ist auch in Deutschland groß.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/einkommen-gestiegen-ungleichheit-auch-was-zeigen-diw-daten-201698063.html",
+        "title": "Jensen Huang: „Ich mache täglich eineinhalb Stunden Therapie“",
+        "summary": "Der alte und neue Nvidia-Vorstandschef hält die erste Mitarbeiterversammlung seit seiner Rückkehr.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kleinlaut-und-kaempferisch-nvidia-chef-jensen-huang-entschuldigt-sich-bei-mitarbeitern-201714458.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Bundesregierung: Keine Milliarden für Intel, dafür für Rohstoff und Strom: Wie die CDU weiter Industriepolitik betreibt",
-        "summary": "Friedrich Merz hatte das Ende der Industriepolitik angekündigt.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/bundesregierung-wie-die-cdu-weiter-aktive-industriepolitik-betreibt/100271878.html",
+        "title": "Immobilien: So können Gutverdiener beim Kauf von Neubauwohnungen viele Steuern sparen",
+        "summary": "Über steuerliche Abschreibungen können Immobilieninvestoren viel Geld zurückbekommen.",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wie-investoren-die-sonderabschreibung-nutzen/100193212.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "World Cup drove profits surge, says Marston's",
-        "summary": "The company says an \"excellent World Cup\" helped drive strong trading as annual profits rose by 18%.",
-        "link": "https://www.bbc.co.uk/news/articles/cm7523pyk75lo?at_medium=RSS&at_campaign=rss",
+        "title": "Energy bills will soar - here's how you can ease the pain",
+        "summary": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+        "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -177,25 +183,25 @@
     "error": null,
     "data": [
       {
-        "title": "A decades-old mystery about light could hold the key to faster internet",
-        "summary": "A promising material for ultra-fast optical communications has held a secret for decades, but scientists may have finally cracked it.",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261119194544.htm",
-        "source": "ScienceDaily – Physik",
-        "publisher": "ScienceDaily",
-        "category": "Physik"
+        "title": "Nine quick tech fixes to try this Thanksgiving",
+        "summary": "These tips might also make your own life easier too",
+        "link": "https://www.bbc.com/future/article/20261125-nine-tech-problems-to-solve-for-your-parents-this-thanksgiving?ocid=global_future_rss",
+        "source": "BBC Future",
+        "publisher": "BBC",
+        "category": "Zukunft"
       },
       {
-        "title": "Indianola in Port Lavaca, Texas",
-        "summary": "Indianola, Texas a coastal town that was once the second largest port in Texas next to at the time Galveston.In 1956 the port received a shipment of camels as part of the United States Camel Corps experiment to replace…",
-        "link": "https://www.atlasobscura.com/places/indianola",
-        "source": "Atlas Obscura",
-        "publisher": "Atlas Obscura",
-        "category": "Entdeckung"
+        "title": "AI is straining America’s open records systems",
+        "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all.",
+        "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+        "source": "MIT Technology Review",
+        "publisher": "MIT",
+        "category": "Technologie"
       },
       {
-        "title": "NASA Hubble’s New View of NGC 4394 Raises the Bar",
-        "summary": "The brilliant galaxy NGC 4394 with its distinct galactic bar takes center stage in this Hubble Space Telescope image",
-        "link": "https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar/",
+        "title": "Amateur Astronomer? Be a Kilonova Catcher!",
+        "summary": "Neutron stars are the ultra-dense, city-sized leftovers of dead stars.",
+        "link": "https://science.nasa.gov/get-involved/citizen-science/amateur-astronomer-be-a-kilonova-catcher/",
         "source": "NASA Breaking News",
         "publisher": "NASA",
         "category": "Raumfahrt"

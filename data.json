@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T15:20:59+00:00",
-  "date_label": "Wednesday, 25. November 2026",
+  "generated_at": "2026-11-26T14:47:56+00:00",
+  "date_label": "Thursday, 26. November 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 24915.7598,
-        "change_pct": -0.41
+        "price": 25228.0098,
+        "change_pct": 2.13
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7002.6802,
-        "change_pct": -2.76
+        "price": 7182.7798,
+        "change_pct": -0.25
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 22787.6406,
-        "change_pct": -3.99
+        "price": 23585.8008,
+        "change_pct": -0.62
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 5958.2798,
-        "change_pct": -0.76
+        "price": 6013.3301,
+        "change_pct": 2.02
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 58644.6289,
-        "change_pct": 3.91
+        "price": 57499.1602,
+        "change_pct": 0.86
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 52811,
-        "usd": 57773,
-        "change_24h_pct": -2.9
+        "eur": 55291,
+        "usd": 60717,
+        "change_24h_pct": 5.29
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1489.25,
-        "usd": 1629.17,
-        "change_24h_pct": -2.28
+        "eur": 1546.53,
+        "usd": 1698.3,
+        "change_24h_pct": 4.71
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.0937,
-        "change_pct": 0.27
+        "price": 1.0982,
+        "change_pct": 0.18
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8374,
-        "change_pct": 0.07
+        "price": 0.8377,
+        "change_pct": 0.2
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9095,
-        "change_pct": -0.91
+        "price": 0.9149,
+        "change_pct": -0.14
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 159.175,
-        "change_pct": 0.1
+        "price": 159.208,
+        "change_pct": -0.03
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 174.069,
-        "change_pct": 0.36
+        "price": 174.789,
+        "change_pct": 0.12
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.838,
-        "change_pct": -1.35,
+        "price": 4.848,
+        "change_pct": -1.14,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Ökonom Südekum: „Die vielen Milliarden Euro Schulden machen die junge Generation zu Recht nervös“",
-        "summary": "Jens Südekum ist der wirtschaftspolitische Berater von Finanzminister Lars Klingbeil.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/jens-suedekum-ueber-klingbeil-und-die-schulden-die-jungen-sind-zu-recht-nervoes-accg-201703655.html",
+        "title": "Flussspat-Förderung: Das Energiewende-Kristall liegt im Berg südlich von Pforzheim",
+        "summary": "Das Bergwerk Käfersteige war jahrzehntelang ein Relikt – jetzt wird es zum Hoffnungsträger.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/pforzheimer-bergwerk-kaefersteige-flussspat-fuer-europas-energiewende-201715929.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Vermögen: Wann sich ein Ehevertrag lohnt – und was er kostet",
-        "summary": "Ein Ehevertrag gilt als unromantisch.",
-        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/vermoegen-wann-sollte-fuer-paare-ein-ehevertrag-infrage-kommen/100224359.html",
+        "title": "Terrorverdacht: Anschlagspläne auf Synagogen? Zwei mutmaßliche proiranische Terroristen festgenommen",
+        "summary": "Eine mutmaßliche proiranische Terrorzelle soll Anschläge auf Synagogen geplant haben.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/terrorverdacht-mutmassliche-proiranische-terroristen-festgenommen/100272956.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "US stocks fall further as fears over AI intensify",
-        "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
-        "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+        "title": "Millions of people to see average monthly mortgage payments rise by £100",
+        "summary": "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated.",
+        "link": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Mietrecht: Tag der Abrechnung",
-        "summary": "Kaum ein Thema bringt Mieter und Vermieter so gegeneinander auf wie Betriebskosten.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/mieten-vermieten/zankapfel-betriebskosten-was-vermieter-und-mieter-wissen-muessen-accg-201690786.html",
+        "title": "Streitfall Wohnung: Deutschlands Vermieterschreck",
+        "summary": "Daniel Halmer hat die Mietpreisbremse zum Geschäft gemacht und hilft Mietern, ihr Recht umzusetzen.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/daniel-halmer-leitet-ein-portal-das-an-der-mietpreisbremse-verdient-201690228.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Interview: Top-Headhunter Heiner Thorborg: „80 Prozent der oberen Etagen bestehen aus Narzissten“",
-        "summary": "Er ist einer der bekanntesten deutschen Personalberater, besetzt Spitzenposten in Dax-Konzernen.",
-        "link": "https://www.handelsblatt.com/unternehmen/dienstleister/fuehrungskraefte-gemischte-teams-sind-einfach-erfolgreicher/100235531.html",
+        "title": "Notenbank: So tickt der designierte EZB-Präsident Pablo Hernández de Cos",
+        "summary": "Auf die Juristin Christine Lagarde folgt an der Spitze der EZB ein Ökonom und erfahrener Notenbanker.",
+        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/notenbank-so-tickt-der-designierte-ezb-praesident-pablo-hernandez-de-cos/100270613.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Energy bills to rise by 26% from January after gas prices surge",
-        "summary": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
-        "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+        "title": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
+        "summary": "Poundland's management and MPs blame the retailer's owners, Gordon Brothers, but the US firm says without them the chain would have collapsed last year.",
+        "link": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Jensen Huang: „Ich mache täglich eineinhalb Stunden Therapie“",
-        "summary": "Der alte und neue Nvidia-Vorstandschef hält die erste Mitarbeiterversammlung seit seiner Rückkehr.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kleinlaut-und-kaempferisch-nvidia-chef-jensen-huang-entschuldigt-sich-bei-mitarbeitern-201714458.html",
+        "title": "Tipps für Rabattschlacht: Diese Psychotricks sollte jeder am Black Friday kennen",
+        "summary": "Werbung und Shops greifen oft tief in die psychologische Trickkiste.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/black-friday-diese-psychotricks-nutzen-shops-wie-temu-201695937.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Immobilien: So können Gutverdiener beim Kauf von Neubauwohnungen viele Steuern sparen",
-        "summary": "Über steuerliche Abschreibungen können Immobilieninvestoren viel Geld zurückbekommen.",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wie-investoren-die-sonderabschreibung-nutzen/100193212.html",
+        "title": "Imperial Brands: Marlboro-Hersteller könnte britischen Konkurrenten aufspalten",
+        "summary": "Imperial Brands könnte zum Ziel einer der größten Übernahmen in Großbritannien seit Jahren werden.",
+        "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/imperial-brands-marlboro-hersteller-koennte-britischen-konkurrenten-aufspalten/100273060.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Energy bills will soar - here's how you can ease the pain",
-        "summary": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
-        "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+        "title": "When will Poundland close? Five questions about its future",
+        "summary": "Why is Poundland closing down, and what will hapen to staff and suppliers?",
+        "link": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,25 +183,25 @@
     "error": null,
     "data": [
       {
-        "title": "Nine quick tech fixes to try this Thanksgiving",
-        "summary": "These tips might also make your own life easier too",
-        "link": "https://www.bbc.com/future/article/20261125-nine-tech-problems-to-solve-for-your-parents-this-thanksgiving?ocid=global_future_rss",
-        "source": "BBC Future",
-        "publisher": "BBC",
-        "category": "Zukunft"
+        "title": "GLP-1s Are Showing Promise Beyond Weight Loss. Could They Be 'Wonder Drugs' for Ailments Like Addiction, Dementia and Cancer?",
+        "summary": "The medications seem to act on the brain’s reward circuitry and help regulate inflammation, which is why they might have so many positive effects.",
+        "link": "https://www.smithsonianmag.com/science-nature/glp-1s-are-showing-promise-beyond-weight-loss-could-they-be-wonder-drugs-for-ailments-like-addiction-dementia-and-cancer-180989867/",
+        "source": "Smithsonian",
+        "publisher": "Smithsonian",
+        "category": "Wissenschaft"
       },
       {
-        "title": "AI is straining America’s open records systems",
-        "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all.",
-        "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
-        "source": "MIT Technology Review",
-        "publisher": "MIT",
-        "category": "Technologie"
+        "title": "Deep beneath Australia, hidden caves could unlock the secrets of alien worlds",
+        "summary": "Scientists have solved the mystery of strange trenches scattered across Australia’s vast Nullarbor Plain, revealing an extensive hidden world beneath the surface.",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261124055901.htm",
+        "source": "ScienceDaily – Geowissenschaften",
+        "publisher": "ScienceDaily",
+        "category": "Erde"
       },
       {
-        "title": "Amateur Astronomer? Be a Kilonova Catcher!",
-        "summary": "Neutron stars are the ultra-dense, city-sized leftovers of dead stars.",
-        "link": "https://science.nasa.gov/get-involved/citizen-science/amateur-astronomer-be-a-kilonova-catcher/",
+        "title": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust",
+        "summary": "APOD Science APOD APOD: 2026 November 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+        "link": "https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/",
         "source": "NASA Breaking News",
         "publisher": "NASA",
         "category": "Raumfahrt"

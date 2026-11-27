@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26T14:47:56+00:00",
-  "date_label": "Thursday, 26. November 2026",
+  "generated_at": "2026-11-27T14:47:41+00:00",
+  "date_label": "Friday, 27. November 2026",
   "indices": {
     "status": "ok",
     "error": null,
@@ -8,32 +8,32 @@
       {
         "name": "DAX",
         "symbol": "^GDAXI",
-        "price": 25228.0098,
-        "change_pct": 2.13
+        "price": 25358.0703,
+        "change_pct": 0.57
       },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7182.7798,
-        "change_pct": -0.25
+        "price": 7224.6699,
+        "change_pct": 0.58
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 23585.8008,
-        "change_pct": -0.62
+        "price": 23737.7715,
+        "change_pct": 0.64
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6013.3301,
-        "change_pct": 2.02
+        "price": 6074.3301,
+        "change_pct": 0.99
       },
       {
         "name": "Nikkei 225",
         "symbol": "^N225",
-        "price": 57499.1602,
-        "change_pct": 0.86
+        "price": 58711.1094,
+        "change_pct": 2.11
       }
     ]
   },
@@ -44,16 +44,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 55291,
-        "usd": 60717,
-        "change_24h_pct": 5.29
+        "eur": 54900,
+        "usd": 60133,
+        "change_24h_pct": -0.67
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1546.53,
-        "usd": 1698.3,
-        "change_24h_pct": 4.71
+        "eur": 1541.01,
+        "usd": 1687.9,
+        "change_24h_pct": -0.29
       }
     ]
   },
@@ -64,38 +64,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.0982,
-        "change_pct": 0.18
+        "price": 1.0955,
+        "change_pct": -0.13
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8377,
-        "change_pct": 0.2
+        "price": 0.8351,
+        "change_pct": -0.19
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9149,
-        "change_pct": -0.14
+        "price": 0.9145,
+        "change_pct": 0.3
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 159.208,
-        "change_pct": -0.03
+        "price": 159.462,
+        "change_pct": 0.16
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 174.789,
-        "change_pct": 0.12
+        "price": 174.657,
+        "change_pct": 0.0
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.848,
-        "change_pct": -1.14,
+        "price": 4.892,
+        "change_pct": 0.91,
         "unit": "%"
       }
     ]
@@ -105,73 +105,73 @@
     "error": null,
     "data": [
       {
-        "title": "Flussspat-Förderung: Das Energiewende-Kristall liegt im Berg südlich von Pforzheim",
-        "summary": "Das Bergwerk Käfersteige war jahrzehntelang ein Relikt – jetzt wird es zum Hoffnungsträger.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/pforzheimer-bergwerk-kaefersteige-flussspat-fuer-europas-energiewende-201715929.html",
+        "title": "Hans-Werner Sinn: „Die fetten Jahre sind vorbei“",
+        "summary": "Der Ökonom Hans-Werner Sinn über Deutschlands Aufrüstung, Rente ohne Kinder, hohe Stromkosten, Eurobonds gegen französische Atomwaffen, den richtigen Umgang mit China und die Zukunft der Arbeit im Zeitalter der Künstlic…",
+        "link": "https://www.faz.net/aktuell/wirtschaft/die-fetten-jahre-sind-vorbei-hans-werner-sinn-ueber-die-zukunft-deutschlands-accg-201716573.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Terrorverdacht: Anschlagspläne auf Synagogen? Zwei mutmaßliche proiranische Terroristen festgenommen",
-        "summary": "Eine mutmaßliche proiranische Terrorzelle soll Anschläge auf Synagogen geplant haben.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/terrorverdacht-mutmassliche-proiranische-terroristen-festgenommen/100272956.html",
+        "title": "Rentenreform: Schweitzer legt neuen Gesetzentwurf vor – abschlagsfreie Rente nach 45 Beitragsjahren soll bleiben",
+        "summary": "Der Gesetzentwurf für die Rentenreform liegt vor.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/rentenreform-arbeitsminister-schweitzer-legt-neuen-gesetzentwurf-vor/100273340.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Millions of people to see average monthly mortgage payments rise by £100",
-        "summary": "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated.",
-        "link": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
+        "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+        "summary": "Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure.",
+        "link": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Streitfall Wohnung: Deutschlands Vermieterschreck",
-        "summary": "Daniel Halmer hat die Mietpreisbremse zum Geschäft gemacht und hilft Mietern, ihr Recht umzusetzen.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/daniel-halmer-leitet-ein-portal-das-an-der-mietpreisbremse-verdient-201690228.html",
+        "title": "Aussetzer von Musk: Ein Blackout eines unersetzlichen Milliardärs ohne Folgen",
+        "summary": "Elon Musk stammelt während einer Liveschaltung herum.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/elon-musk-stammelt-bei-tesla-premiere-ein-grund-zur-sorge-201719884.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Notenbank: So tickt der designierte EZB-Präsident Pablo Hernández de Cos",
-        "summary": "Auf die Juristin Christine Lagarde folgt an der Spitze der EZB ein Ökonom und erfahrener Notenbanker.",
-        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/notenbank-so-tickt-der-designierte-ezb-praesident-pablo-hernandez-de-cos/100270613.html",
+        "title": "Steuerreform: SPD probt Aufstand gegen Unions-Blockade",
+        "summary": "Streit über die Steuer: Die SPD drängt die Union, die Einkommensteuerreform nicht bis ins nächste Jahr hinauszuzögern.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/steuerreform-spd-probt-aufstand-gegen-unions-blockade/100273234.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
-        "summary": "Poundland's management and MPs blame the retailer's owners, Gordon Brothers, but the US firm says without them the chain would have collapsed last year.",
-        "link": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss",
+        "title": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
+        "summary": "Networks of plumbers and electricians are scamming people on a large scale, the BBC reveals.",
+        "link": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
       },
       {
-        "title": "Tipps für Rabattschlacht: Diese Psychotricks sollte jeder am Black Friday kennen",
-        "summary": "Werbung und Shops greifen oft tief in die psychologische Trickkiste.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/black-friday-diese-psychotricks-nutzen-shops-wie-temu-201695937.html",
+        "title": "EU-Budget: Dann war es den sparsamen Staaten um Deutschland zu viel",
+        "summary": "Mit einer Einigung auf den EU-Haushalt auf dem Sondergipfel hatte kaum jemand gerechnet.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/eu-haushalt-das-scheitern-des-sondergipfels-wirft-zweifel-auf-accg-201721661.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Imperial Brands: Marlboro-Hersteller könnte britischen Konkurrenten aufspalten",
-        "summary": "Imperial Brands könnte zum Ziel einer der größten Übernahmen in Großbritannien seit Jahren werden.",
-        "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/imperial-brands-marlboro-hersteller-koennte-britischen-konkurrenten-aufspalten/100273060.html",
+        "title": "Außenhandel: US-Handelsdefizit mit Waren wächst auch unter Trump kräftig",
+        "summary": "Die USA importieren trotz hoher Zölle weiterhin deutlich mehr Waren als sie exportieren.",
+        "link": "https://www.handelsblatt.com/politik/international/aussenhandel-us-handelsdefizit-mit-waren-waechst-auch-unter-trump-kraeftig/100273331.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
       },
       {
-        "title": "When will Poundland close? Five questions about its future",
-        "summary": "Why is Poundland closing down, and what will hapen to staff and suppliers?",
-        "link": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
+        "title": "UK to pay 'participation' fee to deliver EU deals",
+        "summary": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
+        "link": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "publisher": "BBC",
         "category": ""
@@ -183,28 +183,28 @@
     "error": null,
     "data": [
       {
-        "title": "GLP-1s Are Showing Promise Beyond Weight Loss. Could They Be 'Wonder Drugs' for Ailments Like Addiction, Dementia and Cancer?",
-        "summary": "The medications seem to act on the brain’s reward circuitry and help regulate inflammation, which is why they might have so many positive effects.",
-        "link": "https://www.smithsonianmag.com/science-nature/glp-1s-are-showing-promise-beyond-weight-loss-could-they-be-wonder-drugs-for-ailments-like-addiction-dementia-and-cancer-180989867/",
-        "source": "Smithsonian",
-        "publisher": "Smithsonian",
-        "category": "Wissenschaft"
-      },
-      {
-        "title": "Deep beneath Australia, hidden caves could unlock the secrets of alien worlds",
-        "summary": "Scientists have solved the mystery of strange trenches scattered across Australia’s vast Nullarbor Plain, revealing an extensive hidden world beneath the surface.",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261124055901.htm",
-        "source": "ScienceDaily – Geowissenschaften",
+        "title": "A fat-burning molecule has an unexpected benefit for your muscles",
+        "summary": "Researchers have discovered that a naturally occurring molecule released during exercise helps muscles become stronger, resist fatigue, and withstand damage.",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261126063315.htm",
+        "source": "ScienceDaily – Gesundheit",
         "publisher": "ScienceDaily",
-        "category": "Erde"
+        "category": "Medizin"
       },
       {
-        "title": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust",
-        "summary": "APOD Science APOD APOD: 2026 November 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-        "link": "https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/",
+        "title": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
+        "summary": "NASA experiments, including a first-of-its-kind space crop production system, will travel to the International Space Station aboard Northrop Grumman’s 25th Commercial Resupply Services mission for the agency.",
+        "link": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/",
         "source": "NASA Breaking News",
         "publisher": "NASA",
         "category": "Raumfahrt"
+      },
+      {
+        "title": "Brazil’s Beautiful Blue Bird Was the Star of the Animated Hit 'Rio.’ In Real Life, Bringing the Species Back From the Brink Put It in the Middle of a Huge Drama",
+        "summary": "The Spix’s macaw disappeared from South American skies more than 30 years ago.",
+        "link": "https://www.smithsonianmag.com/science-nature/brazil-beautiful-blue-bird-star-animated-hit-rio-real-life-bringing-species-back-from-brink-180989841/",
+        "source": "Smithsonian",
+        "publisher": "Smithsonian",
+        "category": "Wissenschaft"
       }
     ]
   }

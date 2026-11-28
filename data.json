@@ -1,33 +1,27 @@
 {
-  "generated_at": "2026-11-27T14:47:41+00:00",
-  "date_label": "Friday, 27. November 2026",
+  "generated_at": "2026-11-28T13:57:37+00:00",
+  "date_label": "Saturday, 28. November 2026",
   "indices": {
     "status": "ok",
-    "error": null,
+    "error": "Teilweise nicht verfügbar: ^GDAXI",
     "data": [
-      {
-        "name": "DAX",
-        "symbol": "^GDAXI",
-        "price": 25358.0703,
-        "change_pct": 0.57
-      },
       {
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7224.6699,
-        "change_pct": 0.58
+        "price": 7297.4902,
+        "change_pct": 1.6
       },
       {
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 23737.7715,
-        "change_pct": 0.64
+        "price": 24129.5,
+        "change_pct": 2.31
       },
       {
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6074.3301,
-        "change_pct": 0.99
+        "price": 6089.2002,
+        "change_pct": 1.24
       },
       {
         "name": "Nikkei 225",
@@ -44,16 +38,16 @@
       {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "eur": 54900,
-        "usd": 60133,
-        "change_24h_pct": -0.67
+        "eur": 53964,
+        "usd": 59071,
+        "change_24h_pct": -3.86
       },
       {
         "name": "Ethereum",
         "symbol": "ETH",
-        "eur": 1541.01,
-        "usd": 1687.9,
-        "change_24h_pct": -0.29
+        "eur": 1498.81,
+        "usd": 1640.65,
+        "change_24h_pct": -4.91
       }
     ]
   },
@@ -64,38 +58,38 @@
       {
         "name": "EUR/USD",
         "symbol": "EURUSD=X",
-        "price": 1.0955,
-        "change_pct": -0.13
+        "price": 1.0972,
+        "change_pct": 0.02
       },
       {
         "name": "EUR/GBP",
         "symbol": "EURGBP=X",
-        "price": 0.8351,
-        "change_pct": -0.19
+        "price": 0.8369,
+        "change_pct": 0.03
       },
       {
         "name": "EUR/CHF",
         "symbol": "EURCHF=X",
-        "price": 0.9145,
-        "change_pct": 0.3
+        "price": 0.9155,
+        "change_pct": 0.4
       },
       {
         "name": "USD/JPY",
         "symbol": "JPY=X",
-        "price": 159.462,
-        "change_pct": 0.16
+        "price": 159.515,
+        "change_pct": 0.15
       },
       {
         "name": "EUR/JPY",
         "symbol": "EURJPY=X",
-        "price": 174.657,
-        "change_pct": 0.0
+        "price": 174.4,
+        "change_pct": -0.19
       },
       {
         "name": "US 10Y Rendite",
         "symbol": "^TNX",
-        "price": 4.892,
-        "change_pct": 0.91,
+        "price": 4.936,
+        "change_pct": 1.82,
         "unit": "%"
       }
     ]
@@ -113,9 +107,9 @@
         "category": ""
       },
       {
-        "title": "Rentenreform: Schweitzer legt neuen Gesetzentwurf vor – abschlagsfreie Rente nach 45 Beitragsjahren soll bleiben",
-        "summary": "Der Gesetzentwurf für die Rentenreform liegt vor.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/rentenreform-arbeitsminister-schweitzer-legt-neuen-gesetzentwurf-vor/100273340.html",
+        "title": "Juso-Bundeskongress: Heil verspricht Jusos Einsatz für SPD",
+        "summary": "Er ist der bisher einzige Kandidat für den SPD‑Parteivorsitz.",
+        "link": "https://www.handelsblatt.com/politik/deutschland/juso-bundeskongress-heil-verspricht-jusos-werde-mich-um-spd-kuemmern/100273446.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -137,9 +131,9 @@
         "category": ""
       },
       {
-        "title": "Steuerreform: SPD probt Aufstand gegen Unions-Blockade",
-        "summary": "Streit über die Steuer: Die SPD drängt die Union, die Einkommensteuerreform nicht bis ins nächste Jahr hinauszuzögern.",
-        "link": "https://www.handelsblatt.com/politik/deutschland/steuerreform-spd-probt-aufstand-gegen-unions-blockade/100273234.html",
+        "title": "Schweiz: Volksabstimmung könnte Rüstungsexporte erleichtern",
+        "summary": "Die Schweiz will von der Aufrüstung in Europa profitieren und dazu ihre Exportregeln lockern.",
+        "link": "https://www.handelsblatt.com/politik/international/schweiz-volksabstimmung-koennte-ruestungsexporte-erleichtern/100272916.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -153,17 +147,17 @@
         "category": ""
       },
       {
-        "title": "EU-Budget: Dann war es den sparsamen Staaten um Deutschland zu viel",
-        "summary": "Mit einer Einigung auf den EU-Haushalt auf dem Sondergipfel hatte kaum jemand gerechnet.",
-        "link": "https://www.faz.net/aktuell/wirtschaft/eu-haushalt-das-scheitern-des-sondergipfels-wirft-zweifel-auf-accg-201721661.html",
+        "title": "Flussspat-Förderung: Das Energiewende-Kristall liegt im Berg südlich von Pforzheim",
+        "summary": "Das Bergwerk Käfersteige war jahrzehntelang ein Relikt – jetzt wird es zum Hoffnungsträger.",
+        "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/pforzheimer-bergwerk-kaefersteige-flussspat-fuer-europas-energiewende-201715929.html",
         "source": "FAZ Wirtschaft",
         "publisher": "FAZ",
         "category": ""
       },
       {
-        "title": "Außenhandel: US-Handelsdefizit mit Waren wächst auch unter Trump kräftig",
-        "summary": "Die USA importieren trotz hoher Zölle weiterhin deutlich mehr Waren als sie exportieren.",
-        "link": "https://www.handelsblatt.com/politik/international/aussenhandel-us-handelsdefizit-mit-waren-waechst-auch-unter-trump-kraeftig/100273331.html",
+        "title": "+++ Iran-Krieg +++: Verstoß gegen Blockade – US-Militär meldet Angriff auf Handelsschiff im Golf von Oman",
+        "summary": "Siedlerangriffe im Westjordanland +++ Huthi melden Angriffe im Jemen +++ Kuwait bestellt iranischen Botschafter ein +++ Iran meldet Explosion an Öltanker +++ Der Newsblog.",
+        "link": "https://www.handelsblatt.com/politik/international/iran-krieg-us-militaer-beschiesst-frachter-im-golf-von-oman/100136895.html",
         "source": "Handelsblatt",
         "publisher": "Handelsblatt",
         "category": ""
@@ -183,28 +177,28 @@
     "error": null,
     "data": [
       {
-        "title": "A fat-burning molecule has an unexpected benefit for your muscles",
-        "summary": "Researchers have discovered that a naturally occurring molecule released during exercise helps muscles become stronger, resist fatigue, and withstand damage.",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261126063315.htm",
-        "source": "ScienceDaily – Gesundheit",
+        "title": "Stanford scientists discover 3 hidden brain types behind ADHD and anxiety",
+        "summary": "An AI-powered analysis of thousands of children's brain scans has revealed three distinct brain types underlying ADHD and anxiety that do not neatly fit traditional diagnoses.",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261124055713.htm",
+        "source": "ScienceDaily – Neurowissenschaft",
         "publisher": "ScienceDaily",
-        "category": "Medizin"
+        "category": "Neurowissenschaft"
       },
       {
-        "title": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
-        "summary": "NASA experiments, including a first-of-its-kind space crop production system, will travel to the International Space Station aboard Northrop Grumman’s 25th Commercial Resupply Services mission for the agency.",
-        "link": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/",
-        "source": "NASA Breaking News",
-        "publisher": "NASA",
-        "category": "Raumfahrt"
+        "title": "Author Correction: Artificial intelligence-enabled clinical phenotyping of human brown fat",
+        "summary": "Nature, Published online: 27 November 2026; doi:10.1038/s41586-026-11411-9 Author Correction: Artificial intelligence-enabled clinical phenotyping of human brown fat",
+        "link": "https://www.nature.com/articles/s41586-026-11411-9",
+        "source": "Nature News",
+        "publisher": "Nature",
+        "category": "Forschung"
       },
       {
-        "title": "Brazil’s Beautiful Blue Bird Was the Star of the Animated Hit 'Rio.’ In Real Life, Bringing the Species Back From the Brink Put It in the Middle of a Huge Drama",
-        "summary": "The Spix’s macaw disappeared from South American skies more than 30 years ago.",
-        "link": "https://www.smithsonianmag.com/science-nature/brazil-beautiful-blue-bird-star-animated-hit-rio-real-life-bringing-species-back-from-brink-180989841/",
-        "source": "Smithsonian",
-        "publisher": "Smithsonian",
-        "category": "Wissenschaft"
+        "title": "Dinosaur Pulpit at Wat That Phra Aram in Tambon Nai Mueang, Thailand",
+        "summary": "In a Buddhist temple in the northeast of Thailand, not far from the border with Laos, one can find the World's Only Dinosaur Pulpit.",
+        "link": "https://www.atlasobscura.com/places/dinosaur-pulpit-at-wat-that-phra-aram",
+        "source": "Atlas Obscura",
+        "publisher": "Atlas Obscura",
+        "category": "Entdeckung"
       }
     ]
   }
